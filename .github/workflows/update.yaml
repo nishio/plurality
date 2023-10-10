@@ -1,0 +1,23 @@
+name: Daily Repository Update
+
+on:
+  schedule:
+    - cron: '0 22 * * *'  # JST 7:00
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        ref: 'main'
+        fetch-depth: 0 # this is important to fetch all history
+
+    - name: Pull latest from original
+      run: |
+        git remote add upstream https://github.com/pluralitybook/plurality.git
+        git fetch upstream
+        git rebase upstream/main
+        git push
