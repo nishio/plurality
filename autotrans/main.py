@@ -11,7 +11,7 @@ import openai
 import json
 import argparse
 
-# assure run in root/autotrans
+# assure the script runs in root/autotrans
 if not os.getcwd().endswith("autotrans"):
     os.chdir("autotrans")
 
@@ -36,13 +36,14 @@ if os.path.exists("cache.json"):
 else:
     prev_trans = {}
 
-new_trans = {}
+# new_trans = {}  # clear not-used cache
+new_trans = prev_trans.copy()  # keep not-used cache
 
 
 def generate_system_prompt(line):
     return """\
 # Task
-Translate given input text to Japanese. The input is written in Traditional Mandarin or English. The input is a line from a markdown file.
+Translate given input text to Japanese. The input is a line from a markdown file.
 
 # Input
 {line}
