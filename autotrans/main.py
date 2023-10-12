@@ -1,5 +1,9 @@
 """
+Auto-translation from English/Traditional Mandarin to Japanese
 
+Previous translation is cached in cache.json.
+
+MIT License / 2023 NISHIO Hirokazu
 """
 import os
 import dotenv
@@ -114,9 +118,9 @@ targets = [f"../contents/english/{f}" for f in os.listdir("../contents/english")
     f"../contents/traditional-mandarin/{f}"
     for f in os.listdir("../contents/traditional-mandarin")
 ]
+targets.sort()
 for page in targets:
     translate_one_page(page)
-
-# save translation cache
-with open("cache.json", "w", encoding="utf-8") as f:
-    json.dump(new_trans, f, ensure_ascii=False, indent=2)
+    # save translation cache
+    with open("cache.json", "w", encoding="utf-8") as f:
+        json.dump(new_trans, f, ensure_ascii=False, indent=2)
