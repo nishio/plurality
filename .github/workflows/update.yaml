@@ -21,3 +21,11 @@ jobs:
         git fetch upstream main:main
         git rebase upstream/main
         git push
+
+    - name: Run translation
+      run: |
+        python autotrans/main.py
+
+    - name: Commit translation
+      run: |
+        autotrans/commit.sh
