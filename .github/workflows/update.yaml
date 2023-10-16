@@ -18,9 +18,8 @@ jobs:
     - name: Pull latest from original
       run: |
         git remote add upstream https://github.com/pluralitybook/plurality.git
-        git fetch upstream main:main
-        git rebase upstream/main
-        git push
+        git pull --rebase upstream main
+        git push origin main
 
     - name: Run translation
       run: |
