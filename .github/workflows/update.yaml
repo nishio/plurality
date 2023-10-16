@@ -25,7 +25,7 @@ jobs:
         git config user.name github-actions[bot]
         git config user.email 41898282+github-actions[bot]@users.noreply.github.com
         git remote add upstream https://github.com/pluralitybook/plurality.git
-        git pull --rebase upstream main
+        git pull upstream main
         git push origin main
 
     - name: Run translation
