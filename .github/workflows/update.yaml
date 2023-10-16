@@ -20,6 +20,12 @@ jobs:
         ref: 'main'
         fetch-depth: 0 # this is important to fetch all history
 
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.11.3'
+        cache: 'pip' # caching pip dependencies
+    - run: pip install -r requirements.txt
+
     - name: Pull latest from original
       run: |
         git config user.name github-actions[bot]
