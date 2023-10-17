@@ -4123,5 +4123,425 @@
   },
   "多元身分系統所涉及的複雜性和社會距離，我們該如何管理？我們將在往後的章節中，討論GFM可發揮的作用。現在，我們將焦點放在以網路為基礎的方法，這兩種自然性的發展策略，與《我們遺忘的道》中提及的網際網路先驅保羅·巴蘭（Paul Baran）其想像的兩種網絡類型相互對應：「去中心化」（也稱為「多中心主義」，我們將使用這種說法），即來自顯著規模的單位的驗證者，但數量不會多到造成壓倒性的複雜度；或「分佈式」，即：很少具有大型規模的驗證者，改以信任遞移來跨越社會距離。在完整考慮這種種可能性時，一個基本的啟發方式是「鄧巴數（dunbar number，或150定律）」。 它是人類學家羅賓·鄧巴（Robin Dunbar）認為，在沒有大量運用資訊技術的情況下，人們可以保持穩定關係的人數（通常約莫 150 人）。不論其精確數字為何，很明顯的，如果沒有大量技術的輔助，人們通常都無法處理超過幾百人的關係、聲望評價等。": {
     "ja": "多元身分系統が関与する複雑さと社会的距離をどのように管理すればよいでしょうか？私たちは後の章で、GFMの役割について議論します。今、私たちはネットワークベースの方法に焦点を当てます。これらは自然な進化戦略の2つであり、『忘れられた道』で言及されているインターネットの先駆者ポール・バランの想像に基づいています。これらの2つのネットワークタイプは相互に対応しています。「分散型」（または「多中心主義」とも呼ばれます）は、大規模な単位からの検証者を持ちますが、その数は圧倒的な複雑さを引き起こすほど多くはありません。また、「分散型」は、大規模な検証者を持たず、社会的距離を超えるために信頼の移転を使用します。これらの可能性を完全に考慮する際の基本的なインスピレーションの一つは、「ダンバー数（ダンバー・ナンバー、または150の法則）」です。これは、人類学者ロビン・ダンバーが、情報技術を大量に使用しない状況で、人々が維持できる安定した関係の数（通常約150人）だと考えているものです。正確な数字はともかく、明らかなことは、大量の技術的な支援がない場合、人々は通常、数百人以上の関係や評価を処理することができないということです。"
+  },
+  "<center> <h1> Markets </h1> </center>": {
+    "ja": "<center> <h1> マーケット </h1> </center>"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; As we have noted above, open source software (OSS) is one of the most dynamic plural ecosystems in the world.  Yet, because software is made freely available, it has long struggled for reliable sources of funding.  At the same time, many public and charitable funders see value in the ecosystem, but find it hard to navigate what projects to support given the heterogeneity of the ecosystem compared, say, to traditional academic research.": {
+    "ja": "上記で述べたように、オープンソースソフトウェア（OSS）は世界で最もダイナミックな複数のエコシステムの1つです。しかし、ソフトウェアが無料で提供されるため、信頼性のある資金源に長い間苦しんできました。同時に、多くの公的および慈善的な資金提供者はエコシステムの価値を認識していますが、従来の学術研究と比較してエコシステムの多様性があるため、どのプロジェクトを支援するかを把握するのが難しいと感じています。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Recent attempts to overcome this challenge have focused on matching funds and community donations, where a sponsor supports a class of projects but this pool of funds are directed by the small donations of participants in the projects.  Traditionally such systems (such as GitHub Sponsors) could be manipulated by wealthy participants (such as corporations), whose donations could command most matching funds.  ": {
+    "ja": "最近のこの課題への取り組みは、マッチングファンドとコミュニティの寄付に焦点を当てています。スポンサーがプロジェクトのクラスをサポートし、プロジェクト参加者の小さな寄付によって資金が集められます。従来のシステム（例：GitHubスポンサー）では、富裕層の参加者（例：企業）が寄付金の大部分を支配することができました。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; To overcome this, a number of new matching platforms, such as GitCoin Grants, connect sponsors, small donors and grants using a \"plural funding\" formula that accounts not just for the total funding received, but also the diversity of its source  across individual contributors and connected social groups.  These platforms have become important sources of funding for OSS (channeling hundreds of millions of dollars in funding), especially related to Web3 and in Taiwan, including supporting this book, and are increasingly being applied to domains (e.g. environment, local business development) outside OSS.": {
+    "ja": "これを克服するために、GitCoin Grantsなどの新しいマッチングプラットフォームが登場しました。これらのプラットフォームは、スポンサー、小口寄付者、助成金を「複数の資金調達」という公式を使って結びつけ、単に受け取った総資金だけでなく、個々の貢献者と関連する社会的グループの多様性も考慮しています。これらのプラットフォームは、特にWeb3や台湾に関連するOSSに対して（数億ドルの資金を供給する）、この本のサポートを含む、OSS以外の領域（環境、地域ビジネスの開発など）にもますます適用されています。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; No institutions connect more people across broader social diversity in collaborative exchange than those of global capitalism.  The limited remit and strength of international governance create severe limits on the ability to provide transnational public goods through voting and deliberation.  But the almighty dollar is respected in most corners of the planet, capital flows and the technology invest in shape lives around the world, international trade and other commercial  agreements are among the strongest and nearly-universally respected agreements and private ownership has become a far more consistent pattern across the planet than any other feature of the \"rule of law\".  Since the fall of the Soviet Union, while national borders have hardly budged and few new nations have been born, companies like Google and Meta have arguably grown to a position of prominence in around the planet exceeding all but a handful of nation states.": {
+    "ja": "グローバル資本主義の機関は、協力的な交流において、より広範な社会的多様性を持つ人々を結びつけることはありません。国際的なガバナンスの範囲と強さは、投票や審議を通じて超国家的な公共財を提供する能力に厳しい制約を課しています。しかし、全世界のほとんどの場所でドルは尊重されており、資本の流れと技術の投資は世界中の生活を形作っています。国際貿易やその他の商業協定は、最も強力でほぼ普遍的に尊重される協定であり、私有財産は「法の支配」の他の特徴よりも、地球上でより一貫したパターンとなっています。ソビエト連邦の崩壊以来、国境はほとんど変わらず、新しい国家もほとんど生まれていませんが、GoogleやMetaなどの企業は、おそらく国家のほとんどを超える地位に成長しています。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; At the same time, for all the elaborate financial and corporate structures built on top of them, markets are perhaps the most simplistic structure conceivable as a pattern for human cooperation.  While they can be applied more broadly, as we will see, they argument for their desirability rests on a vision of bilateral transactions between a buyer-seller pair, each representative of a sea of similarly situated and thus equally powerless buyers and sellers, engaging in a transaction all of whose effects are bounded by a predetermined set of private property rights that avoid any \"externalities\" on non-transacting parties.  Any notion of emergent, surprising, group level effects, of supermodularity and shared goods, of heterogeneity,  of diversity of information are bracketed as \"imperfections\" or \"frictions\" that impede the natural, ideal functioning of markets.  ": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;同時に、それらの上に構築された緻密な金融および企業の構造にもかかわらず、市場はおそらく人間の協力のパターンとして考えられる最も単純な構造です。私たちが後で見るように、それらはより広範に適用することができますが、それらの望ましさに関する議論は、買い手と売り手のペアの間の二国間取引のビジョンに基づいています。それぞれが同様の状況に置かれ、同様に無力な買い手と売り手の海を代表し、非取引当事者に対して「外部性」を回避するためにあらかじめ設定された私有財産権の一連の効果によって制約される取引に従事しています。出現的な、驚くべき、グループレベルの効果、超モジュラリティと共有財産、異質性、情報の多様性といった概念は、「不完全性」や「摩擦」として括弧内に置かれ、市場の自然で理想的な機能を妨げるものとされています。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; This debate has been at the core of the conflict over capitalism, long before its ascendancy, as documented by social scientist Albert Hirschman.[^Hirsch]  On the one hand, markets have been seen to have an almost uniquely universally \"civilizing\", alleviating the potential for conflict across social groups, and \"dynamic\", allowing entrepreneurship to create new forms of large scale social organization that foster and support (social) innovation.[^Marketarg]  On the other hand, markets are poor at supporting the flourishing of other forms of scaled social interaction and thus both tend to corrode many of the other technologies of collaboration we describe and, while allowing the creation of some new forms, tend to turn these into exploitative, socially irresponsible and often reckless monopolies.  In this chapter we will explore this paradox and how radical new forms of markets, like those we described above, can maintain and extend this inclusive and dynamic character while fostering a far more diverse range of rich human collaboration.": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;この議論は、社会科学者アルバート・ヒルシュマンによって文書化されたように、資本主義に関する紛争の中心にあります。[^Hirsch] 一方で、市場は社会集団間の紛争の可能性を軽減し、起業家精神によって社会的イノベーションを育み支援する、ほぼ唯一の「文明化」効果を持つとされてきました。[^Marketarg] しかし、市場は他の形態の社会的相互作用の発展を支援する能力に乏しく、我々が説明する協働技術の多くを蝕む傾向があります。また、一部の新しい形態の創造を可能にする一方で、これらを搾取的で社会的責任を果たさない、しばしば無謀な独占企業に変えてしまう傾向もあります。この章では、この逆説と、上記で説明したような新しい形態の市場が、包括的でダイナミックな性格を維持し拡大する一方で、より多様な豊かな人間の協働を育む方法について探求します。"
+  },
+  "### Capitalism today": {
+    "ja": "### 今日の資本主義"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Capitalism is typically understood as system based on private property in the means of production and voluntary, market-based exchange and free and vigorous operation of the profit motive from this starting point. Global capitalism today (sometimes called \"neoliberalism\") features several interlocking sectors and features, including:": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;資本主義は、通常、生産手段の私有財産と自発的な市場ベースの交換、およびこの出発点からの利益動機の自由で活発な運営に基づくシステムとして理解されています。現在のグローバル資本主義（時には「新自由主義」とも呼ばれる）には、いくつかの相互に結びついたセクターと特徴があります。"
+  },
+  "1. Free trade: Extensive free trade agreements, overseen by organizations such as the World Trade Organization, assure that a wide range of goods can flow mostly unimpeded across jurisdictions covering most of the planet.": {
+    "ja": "1. 自由貿易：世界貿易機関などの組織によって監督される広範な自由貿易協定により、ほとんどの地域をカバーする管轄区域を横断して、幅広い商品がほぼ妨げられることなく流通することが保証されています。"
+  },
+  "2. Private property: Most real and intellectual assets are held as private property, conferring joined rights of use, disposal and profit.  These rights are protected by international territorial and intellectual property treaties.": {
+    "ja": "2. 私有財産：ほとんどの実物資産と知的財産は私有財産として保持され、使用、処分、利益の共同権利が与えられます。これらの権利は国際的な領土と知的財産の条約によって保護されています。"
+  },
+  "3. Corporations: Most large-scale collaborations using extra-market governance are undertaken either by nation states or by transnational corporations that are operated for profit, owned by shareholders and governed by the principle of one-share-one-vote.": {
+    "ja": "3. 企業：市場外のガバナンスを利用した大規模な協力のほとんどは、国家または利益を追求するために運営され、株主によって所有され、一株一票の原則に基づいて統治されるトランスナショナル企業によって行われています。"
+  },
+  "4. Labor markets: Labor is based on the idea of \"self-ownership\" and the wage system, with some important qualifications.  People are generally not free to move across jurisdictional boundaries to work.": {
+    "ja": "4. 労働市場：労働は「自己所有」と賃金制度に基づいていますが、いくつかの重要な制約があります。人々は一般的には仕事のために管轄区域を自由に移動することはできません。"
+  },
+  "5. Financial markets: Shares in corporations, loans and other financial instruments are traded on sophisticated financial markets that allocate capital to projects and physical investments based on projections of the future.": {
+    "ja": "5. 金融市場：株式、ローン、その他の金融商品は、将来の予測に基づいて資本をプロジェクトや物理的な投資に配分するために、洗練された金融市場で取引されています。"
+  },
+  "6. Ventures and start-ups: New corporation and thus most new forms of large-scale international cooperation come into existence through a system of \"venture capital\", where \"start-ups\" sell shares in their potential future earnings or resale value to public markets in exchange for the funding they need to begin a new business.": {
+    "ja": "6. ベンチャー企業とスタートアップ：新しい法人およびしたがって大規模な国際協力の新しい形態のほとんどは、「ベンチャーキャピタル」と呼ばれるシステムを通じて存在する。ここでは、「スタートアップ」が将来の収益や再販価値に対する株式を公開市場に売却し、新しいビジネスを開始するために必要な資金を得るために交換する。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Many textbooks, including by some of our close friends, have been written on this structure.  It is hard to doubt that it is one of the powerful modes of cooperation humans have ever devised and has been central to the unprecedented progress in material conditions around the world in the last two centuries.  Furthermore, th most famous theoretical results in economics are the \"fundamental welfare theorems\", which assert that under certain conditions markets lead selfish individuals \"by an invisible hand\" to serve the common good.  Yet the conditions and scope of this result are quite circumscribe, which is why capitalism has so many familiar problems.": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;この構造については、私たちの親しい友人の中にも、多くの教科書が書かれています。疑う余地なく、これは人間が考案した最も強力な協力の形態の一つであり、過去2世紀における世界中の物質的な状況の前例のない進歩の中心となってきました。さらに、経済学における最も有名な理論的結果の一つは、「基本的な福祉定理」と呼ばれるものであり、特定の条件の下で市場が利己的な個人を「見えない手」で共通の利益に奉仕させることを主張しています。しかし、この結果の条件と範囲はかなり限定されており、それが資本主義には多くの馴染みのある問題がある理由です。"
+  },
+  "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/Returnsfig.png\" width=\"100%\" alt=\"Illustration of the incompatibility of increasing returns with a profitable efficient market.  Payment of marginal returns requires paying workers and other factor providers an amount derived from tracing the tanget to graph of output as a function of inputs back to 0 input.  The gap to the origin indicates profits, which are positive under decreasing returns, but negative (thus loses) under increasing returns.\">": {
+    "ja": "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/Returnsfig.png\" width=\"100%\" alt=\"増加リターンと利益を上げる効率的な市場の非互換性のイラスト。限界リターンの支払いには、労働者や他の要素提供者に対して、入力の0に戻るまでの出力のグラフの接線を追跡して得られる金額を支払う必要があります。原点へのギャップは利益を示しており、減少リターンでは正の値ですが、増加リターンでは負の値（つまり損失）です。\">"
+  },
+  "1. Increasing returns and public goods:   Perhaps the most restrictive condition, highlighted by the founding fathers of the \"marginal revolution\" that ushered in modern economics, is \"decreasing returns\", the opposite of the supermodularity we used to define collaboration\".  This requires that production have \"decreasing marginal returns\" or more generally and less formally, that \"the whole is less than the sum of its parts\".  Only then can profitable production be consistent with the principle of, for example, paying workers their marginal contributions to production; when there are increasing returns,  paying everyone their marginal product yields a loss, as shown in the figure.  Public goods that benefit benefit a large number of people at little additional cost and are hard to stop people from using are an extreme case and economists have long argued that markets dramatically under-supply these.  But even less extreme cases of increasing returns/supermodularity are severely under-provided by capitalism, even though several Nobel Prizes have been awarded for showing how fundamental these goods are to growth and development. In short, perhaps the greatest paradox of global capitalism is that it is at once the largest scale example of collaboration and yet has trouble supporting precisely the forms of technological collaboration that it heralds.": {
+    "ja": "1. 増加するリターンと公共財：おそらく最も制約のある条件は、「減少するリターン」であり、これは現代経済学を導入した「限界革命」の創始者によって強調されました。これは、協力を定義するために使用した超均一性の反対です。これには、「減少する限界収益」または一般的かつ非形式的には、「全体が部分の合計よりも小さい」という条件が必要です。この条件を満たす場合にのみ、収益性のある生産が実現し、例えば、労働者に生産への限界的な貢献を支払うことができます。増加するリターンがある場合、すべての人に彼らの限界生産物を支払うと損失が生じることが図で示されています。多くの人々に利益をもたらし、追加コストがほとんどかからず、人々が使用を止めるのが難しい公共財は、極端なケースであり、経済学者は長い間、市場がこれらを極度に供給不足していると主張してきました。しかし、増加するリターン/超均一性のより少ない極端なケースでも、資本主義によって十分に提供されていません。これらの財は成長と発展にとっていかに基本的であるかを示すために、いくつかのノーベル賞が授与されています。要するに、グローバル資本主義の最大のパラドックスは、協力の最大規模の例でありながら、それが資本主義が称賛する技術的協力の形態を支持するのに苦労していることです。"
+  },
+  "2. Market power: In some cases where exclusion from shared goods can be imposed by barriers or violence, funding of such collaboration can be partially alleviated by charing for access.  But this tends to create monopolistic control that concentrates power and reduces the value created by scaling collaboration, undermining the very collaboration it aims to support.": {
+    "ja": "2. マーケットパワー：共有財からの排除が障壁や暴力によって課せられる場合、そのような協力の資金調達はアクセス料を徴収することで部分的に緩和される場合があります。しかし、これによって独占的なコントロールが生まれ、パワーが集中し、スケーリング協力によって生み出される価値が減少し、その目的である協力自体が損なわれる傾向があります。"
+  },
+  "3. Externalities: As Dewey noted, the genius of innovation is that it creates new forms of interdependence, both for good and ill.  The motors of the nineteenth century transformed human life, yet also turned out to transform the environment in unanticipated ways.  Radio, flight, chemicals...all transformed how we can cooperate, but also created risks and harms that previous systems of \"property rights\" and rules generally did not account for.  The victims (or in some cases beneficiaries) of these \"externalities\" are, by construction, not directly party to market transactions.  Thus precisely to the extent that new means of collaboration developed in markets are revolutionary, markets and the corporations they spawn will not directly involve those affected by their innovations, preventing either their benefits from being fully tapped or their risks from being mitigated.": {
+    "ja": "3. 外部性：デューイは指摘したように、革新の天才は、良い面と悪い面の両方で新しい相互依存関係を生み出します。19世紀のモーターは人間の生活を変えましたが、予期しない方法で環境も変えることがわかりました。ラジオ、飛行、化学物質...すべてが協力の方法を変えましたが、以前の「財産権」や一般的なルールでは考慮されていなかったリスクや害をも生み出しました。これらの「外部性」の被害者（またはいくつかの場合には恩恵を受ける者）は、市場取引の当事者ではありません。したがって、市場で開発された新しい協力手段が革命的であるほど、市場とそれに生まれる企業は、革新の影響を受ける人々を直接関与させず、彼らの利益を十分に活用することも、リスクを軽減することもできません。"
+  },
+  "4. Distribution: Theoretically, markets are simply indifferent to distribution and \"endowments\" can be rearranged to achieve desired distributive goals.  But achieving this ideal redistribution faces enormous practical hurdles and thus markets tend to yield often shockingly inegalitarian outcomes, sometimes for reasons fairly divorced from their alleged \"efficiency\" benefits.  In addition to the direct concerns these create, they also often help undermine the greater equality often assumed or harnessed in other collaborative forms described in previous chapters.": {
+    "ja": "4. 分配：理論的には、市場は単に分配に無関心であり、「資源配分」は望ましい分配目標を達成するために再配置されることができます。しかし、この理想的な再分配を実現するには、非常に困難な実践的な障壁が存在し、市場はしばしばその主張された「効率」の利益とは無関係な驚くべき不平等な結果をもたらす傾向があります。これらが直接的に引き起こす懸念に加えて、これらはしばしば以前の章で説明された他の協力形態で想定されたまたは利用されたより大きな平等性を損なうのにも役立ちます。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Recognition and response to these challenges are arguably the leading currents of the politics of the last hundred and fifty years in much of the world, so we must review them only very superficially.": {
+    "ja": "認識し、これらの課題に対する対応は、おそらく世界の多くの地域で過去150年間の政治の主要な流れであると言えるため、私たちはそれらを非常に表面的にしか見ていません。"
+  },
+  "1. Antitrust and utility regulation: A primary focus of the populist movement of the late nineteeth century and early twentieth in the United States was the restraint of the power of corporate monopolies using a mixture of structural (e.g. corporate break-ups or prevention of mergers) or behavioral (e.g. price or non-discrimination regulation) interventions.  While these help address some of the abuses of monopoly, they often do so at the cost of reducing the advantages of collaboration (scale) and/or by reintroducing the rigidities of nation-state based governance that it is the great advantage of entrepreneurship to help transcend.": {
+    "ja": "反トラスト法と公益事業規制：19世紀末から20世紀初頭のアメリカのポピュリスト運動の主な焦点は、企業の独占力を制約するために、構造的な手法（企業の分割や合併の防止など）や行動的な手法（価格や非差別待遇の規制など）の組み合わせを使用することでした。これらは独占の濫用の一部を解決するのに役立ちますが、協力（規模）の利点を減少させるか、国家に基づく統治の硬直性を再導入することで、起業の大きな利点を超越するのに役立つことがあります。"
+  },
+  "2. Labor unions and cooperatives: An alternative approach to addressing market power has been the creation of alternative governance modes that try to give voice to those over whom a company holds power, by creating powerful unions to \"countervail\" the labor market power of firms and creating customer or worker representation in company governance through cooperative or \"codetermination\" structures.  While these have been some of the most vibrant and effective correctives to corporate power, they have been limited primarily to a traditional model of full-time employment that has struggled to keep pace with the dynamism and internationalism of labor markets and the diversity of collaboration in the digital age.": {
+    "ja": "2. 労働組合と協同組合：市場力に対処するための代替手段として、企業が力を持つ人々に声を与えようとする代替統治モードの創造があります。これは、企業の労働市場力に対抗するための強力な労働組合の創設や、協同組合や「共同決定」構造を通じた企業統治における顧客や労働者の代表を創設することを試みます。これらは企業の力に対する最も活気あるかつ効果的な是正策の一部でありますが、労働市場の活気と国際化、デジタル時代の協力の多様性に遅れを取っている従来の正規雇用モデルに主に制約があります。"
+  },
+  "3. Eminent domain/compulsory purchase and land/wealth taxes: To address smaller-scale market power (e.g. over land and specific pieces of wealth), many jurisdictions have rights of \"eminent domain\" or \"compulsory purchase\" allowing the forced repurchase of private property with the support of public authorities, usually with compensation and subject to judicial review.  Some jurisdictions also charge taxes on land, wealth or inheritance to both reduce inequality and help increase the circulation of assets away from those who might monopolize them. While crucial to social equity and development, these approaches rely heavily on often fragile administrative processes to reach equitable valuations.": {
+    "ja": "3. 優れたドメイン/強制購入と土地/富の課税：小規模な市場力（例：土地や特定の富に対する市場力）に対処するために、多くの管轄区域では「優れたドメイン」または「強制購入」の権利があり、公的機関の支援を受けて私有財産を強制的に買い戻すことができます。通常、補償金を支払い、司法審査の対象となります。一部の管轄区域では、土地、富、相続にも課税され、不平等を減らし、資産の循環を促進するために、それらを独占する可能性のある人々から資産を離れさせるのに役立ちます。社会的公正と発展に不可欠ですが、これらのアプローチはしばしば脆弱な行政プロセスに頼って公正な評価を行います。"
+  },
+  "4. Industrial, infrastructure and research policy: To overcome the tendency of markets to underfund public goods and more generally supermodular collaboration, many governments provide funding for infrastructure (e.g. transportation,  communications, electrification), research and development of new technologies and the development to scale of new (for the country) industries.  While critical to technical, industrial and social progress, these investments struggle to span national borders in the way capitalism does and are often administered by bureaucracies with far less information that the participants in the fields they support have.": {
+    "ja": "4. 産業、インフラストラクチャー、研究政策：市場が公共財を過小評価し、より一般的には超モジュラーな協力を達成する傾向を克服するために、多くの政府はインフラストラクチャー（例：交通、通信、電化）、新技術の研究開発、新しい（国内での）産業の拡大のための資金を提供しています。 技術的、産業的、社会的な進歩に不可欠ですが、これらの投資は資本主義のように国境を越えるのに苦労し、しばしば支援する分野の参加者よりも情報が少ない官僚機構によって管理されています。"
+  },
+  "5. Open source, charity and the third sector: A more flexible approach to similar goals is the \"third\" or \"social\" sector efforts including charity and volunteer effort (like the OSS community) that build scalable collaboration on a voluntary, non-profit basis.  While they are among the most dynamic forms of scaled collaboration today, these efforts often struggle to scale and sustain themselves given the lack of financial support from the most powerful market and government institutions. ": {
+    "ja": "5. オープンソース、チャリティ、第三セクター：似たような目標に対してより柔軟なアプローチは、「第三セクター」または「社会的」セクターの取り組みです。これには、チャリティやボランティアの取り組み（OSSコミュニティのようなもの）が含まれており、自発的で非営利の基盤上でスケーラブルな協力を構築しています。これらの取り組みは、今日最もダイナミックな形態のスケーラブルな協力の一部ですが、最も力のある市場や政府機関からの財政支援の不足により、スケールや持続性に苦しんでいることがよくあります。"
+  },
+  "6. Zoning and regulation: The risk of markets failing to account for external harms and benefits are generally addressed by government-imposed restrictions market activity, usually called \"regulation\" at broader levels and \"zoning restrictions\" on more local levels.  Occasionally, especially in environmental matters, economists' preferred solutions of \"Pigouvian\" taxes or tradeable permits are used.  While these restrictions are the central and thus indispensable way to address externalities, they are beset by all the limits of rigid, nation-state- (or corresponding local justification) based decision-making we discussed above, and given their economic stakes are often captured/controlled by interest groups imperfectly aligned to the interests of even the supposedly relevant public.": {
+    "ja": "6. ゾーニングと規制：市場が外部の害と利益を考慮しないリスクは、一般的に政府によって課される市場活動の制限によって対処されます。これは、より広範なレベルでは「規制」と呼ばれ、より地域レベルでは「ゾーニング制限」と呼ばれます。時折、特に環境問題では、経済学者の好む「ピグー税」や取引可能な許可証のような解決策が使用されます。これらの制限は外部性に対処するための中心的で不可欠な方法ですが、上記で議論したように、剛性のある国家（または対応する地域の正当化）に基づく意思決定の制約に直面しており、経済的な利害関係者によってしばしば捕捉/制御されています。それらは、おそらく関連する公共の利益にも十分に合致していない利益団体によって不完全に捕捉/制御されています。"
+  },
+  "7. Redistribution: Most developed capitalist nations have extensive systems of taxation of income and commerce that fund, among other things, social insurance and public welfare schemes that ensure the availability of a range of services and fiscal support as a check against extreme inequality. In contrast to the promise of land and wealth taxes, however, these primary income sources generally partly impede the functioning of markets, struggled to extract many of the most runaway fortunes and only imperfectly correct the structural ways inequality impedes other forms of collaboration.": {
+    "ja": "7. 再分配：ほとんどの先進資本主義国は、所得や商業の課税制度を持ち、社会保険や公共福祉制度などを資金化しています。これにより、極端な不平等に対抗するために、さまざまなサービスや財政支援の提供が確保されています。しかし、土地や富の課税の約束とは対照的に、これらの主要な収入源は一般的に市場の機能を一部妨げ、最も逃げ出した財産を抽出するのに苦労し、不平等が他の形態の協力を妨げる構造的な方法を不完全に修正するだけです。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; The limitations of these solutions is so widely understood that they led to a significant backlash in many countries beginning in the 1970s, the so-called \"neoliberal reaction\".  Yet the limits of markets persist and there has been a resurgence in the last decade both of these solution, but also of creative attempts to transcend them and avoid many of the trade-offs they create.": {
+    "ja": "これらの解決策の制約は、1970年代以降、多くの国で「新自由主義的な反応」と呼ばれる大きな反発を引き起こすほど広く理解されています。しかし、市場の限界は依然として存在し、これらの解決策の復活が過去10年間で見られています。また、それらを超越し、それらが作り出す多くのトレードオフを回避するための創造的な試みもあります。"
+  },
+  "### Markets tomorrow": {
+    "ja": "### 明日の市場"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; As we highlighted in \"The Lost Dao\" chapter above, the desire to combine and even enhance the dynamism of markets while at the same time addressing their limits was a primary motivation for Plurality, especially the thought of Henry George and his followers, including economics Nobel Laureate William Vickrey.  Vickrey pioneered the economics subfield of \"mechanism design\", which explores these possibilities and has led to many of the creative possibilities that have been deployed in the past decades.": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;前述の「失われた道」の章で強調したように、市場の活力を結合し、さらに向上させると同時に、その限界に対処するという欲求は、特にヘンリー・ジョージと彼のフォロワー、経済学のノーベル賞受賞者であるウィリアム・ヴィックリーの考えにとって主な動機でした。ヴィックリーは「メカニズムデザイン」という経済学のサブフィールドを先駆けており、これらの可能性を探求し、過去数十年にわたって展開されてきた創造的な可能性の多くにつながっています。"
+  },
+  "- Partial common ownership: To overcome the challenges of administering land taxes, a variety of historical thinkers, including Founder of the Chinese Republic Sun Yat-Sen and economist Arnold Harberger, have proposed having owners self-assess the value of their property under penalty of having to sell at this self-assessed value.  This has the simultaneous effect of forcing truthful valuations for taxation and of forcing turnover of underutilized or monpolized assets to broader publics.  It is particularly easy to enforce in digital asset registries, such as blockchains, and thus has gained popularity in recent years, especially for non-fungible token (NFT) art works, as well having been used for many years for land in Taiwan.": {
+    "ja": "- 部分的な共同所有：土地税の管理の課題を克服するために、中国共和国の創設者である孫文や経済学者のアーノルド・ハーバーガーなど、さまざまな歴史的思想家が、所有者が自己評価した価値に基づいて自己申告することを提案してきました。この方法は、課税のための真実の評価を強制すると同時に、活用されていないまたは独占されている資産を広範な公衆に転売することを強制する効果があります。特に、ブロックチェーンなどのデジタル資産登記では容易に強制執行できるため、最近では特に非代替性トークン（NFT）のアート作品において人気が高まっており、台湾の土地にも長年使用されています。"
+  },
+  "- Quadratic and plural funding: As described at the start of this chapter, a natural way to fund public/supermoudlar goods without relying excessively on the limited knowledge of administrators is for such an administrator, philanthropist or public authority to match contributions by distributed individuals.  Mechanism design theory, similar to the logic supporting quadratic voting in the previous chapter, can be used to show that under similar assumptions of atomized behavior, matching funds should be proportioned to the square of the sum of square roots of individual contributions, giving greater weight to a large number of small contributors than to a few large ones.  Recently designs have stretched beyond traditional individualistic designs to account for plural group interests and affiliations.": {
+    "ja": "二次および複数の資金調達：この章の冒頭で説明されているように、公共/スーパーモジュラーグッズを資金調達する自然な方法は、限られた知識に過度に依存せずに、分散した個人の寄付によって資金を提供することです。前の章で二次投票をサポートするロジックと同様に、メカニズムデザイン理論を使用して、個別の貢献の平方根の合計の平方に比例したマッチング資金を提供することができることが示されています。これにより、少数の大きな貢献者よりも多くの小さな貢献者に重みが置かれます。最近のデザインでは、従来の個人主義的なデザインを超えて、複数のグループの利益や所属を考慮に入れるようになっています。"
+  },
+  "- Stakeholder corporation: While partial common ownership and quadratic funding may help ensure the turnover of organization and asset control, they do not directly ensure that organizations serve rather than exercising illegitimate power over their \"stakeholders\", such as customers and workers.  Drawing on the traditions we described above, there a variety of renewed movements in recent years to create a \"stakeholder\" corporation, including  Environmental, Social and Governance principles, the platform cooperativism, the distributed autonomous organizations (DAOs), \"stakeholder remedies\" in antitrust (viz. using antitrust violations to mandate abused stakeholders have a voice), data unions and the organization of many of the most important large foundation model companies (e.g. OpenAI and Anthropic) as partial non-profits or long-term benefit corporations.": {
+    "ja": "- 利害関係者企業：部分的な共同所有と二次資金提供は、組織の回転と資産管理を確保するのに役立つかもしれませんが、顧客や労働者などの「利害関係者」に対して違法な権力を行使するのではなく、組織が奉仕することを直接保証するものではありません。上記で説明した伝統に基づいて、最近では「利害関係者」企業を作るためのさまざまな新たな運動があります。これには、環境、社会、ガバナンスの原則、プラットフォーム協同組合主義、分散型自治組織（DAO）、反トラストにおける「利害関係者救済」（つまり、反トラスト違反を利用して虐待された利害関係者に発言権を与えること）、データユニオン、そして多くの重要な大規模基盤モデル企業（例：OpenAIとAnthropic）の組織化が含まれます（部分的な非営利団体または長期的な利益法人として）。"
+  },
+  "- Participatory design and prediction markets: Digital platforms and mechanisms are also increasingly used to allow more dynamic resource allocation both within corporations and in connections between corporations and their customers.[^interact]  Examples include ways for customers to contribute and be rewarded for new product designs, such as in entertainment platforms like Roblox or Lego, and prediction markets where stakeholders can be rewarded to predict company-relevant outcomes like sales of a new product.": {
+    "ja": "参加型デザインと予測市場：デジタルプラットフォームとメカニズムは、企業内および企業と顧客の間のよりダイナミックなリソース配分を可能にするために、ますます使用されています。[^interact]  顧客が新しい製品デザインに貢献し、報酬を受け取る方法（例：RobloxやLegoなどのエンターテイメントプラットフォーム）や、ステークホルダーが新製品の販売などの企業に関連する結果を予測して報酬を受け取ることができる予測市場などの例があります。"
+  },
+  "- Market design: The field of market design, for which several Nobel Prizes have recently been awarded, applies mechanism design to create market institutions that mitigate problems of market power or externalities created by ignoring the social implications of transactions.  Examples include markets for tradeable carbon permits, the auction design examples we discussed in the \"Property and Contract\" chapter above and a number of markets using community currencies or other devices to facilitate market-like institutions in communities (e.g. education, public housing or organ donation) where using external currency can severely undermine core values. ": {
+    "ja": "- マーケットデザイン：マーケットデザインの分野は、最近いくつかのノーベル賞が授与されており、市場力や社会的な取引の影響を無視した外部性の問題を緩和するためにメカニズムデザインを適用して市場機関を作成します。具体的な例としては、取引可能な炭素証書の市場、前述の「財産と契約」の章で議論したオークションデザインの例、およびコミュニティ通貨や他のデバイスを使用してコミュニティ内で市場のような機関を促進するいくつかの市場（教育、公共住宅、臓器提供など）があります。外部通貨を使用することが核心価値を著しく損なう可能性がある場合です。"
+  },
+  "- Economies esteem: Related to these local currency markets are online systems where various quantitative markers of social esteem/capital (e.g. badges, followers, leaderboards, links) partly or full replace transferable money as the \"currency\" of accomplishment.  These can often, in turn, partly interoperate with broader markets through various monetization channels such as advertising, sponsorship and crowd-funding.": {
+    "ja": "経済の尊敬：これらの地元通貨市場に関連するのは、さまざまな社会的尊敬/資本の数量的指標（バッジ、フォロワー、リーダーボード、リンクなど）が、達成の「通貨」として転送可能なお金の一部または全部を部分的に置き換えるオンラインシステムです。これらはしばしば広告、スポンサーシップ、クラウドファンディングなどのさまざまな収益化チャネルを通じて、さらに広範な市場と部分的に相互運用することがあります。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; While this blossoming of alternatives to simplistic markets is a powerful proof of concept for moving beyond the traditional limits of market.  But they represent the beginning, not the end, of the possibilities for the technologically-enabled social markets of the future.": {
+    "ja": "単純な市場の代替手段が増えることは、伝統的な市場の限界を超えるための強力な概念の証拠です。しかし、これらは将来の技術によって可能になる社会的な市場の可能性の始まりであり、終わりではありません。"
+  },
+  "### Frontiers of social markets": {
+    "ja": "### 社会市場の最前線"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Building off these experiments, it is just beginning to become possible to glimpse what a comprehensively transformed market system might look like.  Some of the most promising elements include:": {
+    "ja": "これらの実験を基にすると、包括的に変革された市場システムがどのように見えるかを垣間見ることができるようになりつつあります。最も有望な要素のいくつかには、次のようなものがあります："
+  },
+  "1. Circular investment: One of the most remarkable results of economic theory is named after Henry George, whom we discussed above.  Proved originally by Vickrey but first published by Richard Arnott and Nobel Laureate Joseph Stiglitz, the Henry George Theorem states, roughly, that the taxes that can be raised from correctly designed common ownership taxes can fund all the subsidies required to fund supermodular investments.[^Arnott]  While the result is much more general, a simple illustration is the way that building better local public schools tend to raise land values: if this value can be raised by a land tax, in principle any education investment worth funding can be supported. More generally, the result suggests a near limitless potential, like that realized in a superconducting circuit, for innovation in taxation/common property and allocation of funds to super-modular activity, to generate progress": {
+    "ja": "1. 円形投資：経済理論の最も注目すべき結果の一つは、上記で議論したヘンリー・ジョージにちなんで名付けられています。ヴィックリーによって最初に証明されましたが、最初にリチャード・アーノットとノーベル賞受賞者のジョセフ・スティグリッツによって発表されたヘンリー・ジョージの定理は、おおよそ、正しく設計された共有所有税から得られる税金は、スーパーモジュラーな投資を資金提供するために必要なすべての補助金を賄うことができると述べています。[^Arnott] この結果はもっと一般的ですが、簡単な例として、より良い地方公立学校の建設が土地の価値を上げる方法があります。この価値を土地税で上げることができれば、原則として資金提供する価値のある教育投資を支援することができます。より一般的には、この結果は、税金/共有財産の革新と資金配分におけるスーパーモジュラーな活動への限りない潜在能力を示唆しており、進歩を生み出すことができます。"
+  },
+  "2. Plural property: How can these funds be raised?  While partial common property schemes are an interesting start, they need to be paired with tools that can recognize and protect common interests in the way and stability with which land and other assets are used.  The voting systems we described in the previous chapter are a natural answer here and there may be great potential in plural property systems that can bring these together, returning much of the value of a range of wealth to intersecting publics (\"fructus\") while also giving important access (\"usus\") and disposal (\"abusus\") rights to these communities.": {
+    "ja": "2. 複数の所有権: これらの資金をどのように調達できますか？ 部分的な共有財産制度は興味深いスタートですが、土地や他の資産の使用方法や安定性において共通の利益を認識し保護するためのツールと組み合わせる必要があります。 前章で説明した投票システムはここで自然な解答ですし、これらを結びつけることができる複数の所有権システムには大きな可能性があるかもしれません。これにより、さまざまな富の価値の多くを交差する公共（「fructus」）に還元すると同時に、これらのコミュニティに重要なアクセス（「usus」）と処分（「abusus」）の権利を与えることができます。"
+  },
+  "3. Plural funding across boundaries: Plural funding can also extend dramatically beyond its current bounds, to allocate the resources thus raised.  Two of the most interesting directions are cross-jurisdictional and inter-temporal.  Current international trade treaties focus primarily on breaking down trade barriers, including the subsidies that help support supermodular production as we discussed above.  A future form of international economic cooperation could assemble matching funds for cross-jurisdictional economic ventures, harnessing a mechanism like plural funding.  Even more ambitiously, most one key advantage of capitalism is that is one of the few scaled systems with a significant inter-temporal planning component, where companies raise funds in financial for profits that appear distant.  One can imagine, however, even more ambitious inter-temporal economic systems with matching funds, for example, for institutions that promote cooperation across generation or with those who are not even born yet.  This might overcome concerns about the lack of long-term planning, as well as conservation of valued past institutions, in many quarters, creating an organic version of a \"ministry for the future\".[^Robinson]": {
+    "ja": "3. 複数の資金調達の国境を越えて：複数の資金調達は、現在の範囲を大幅に超えて、調達された資源を割り当てることもできます。最も興味深い方向の2つは、地域間および時間間です。現在の国際貿易協定は、主に貿易障壁を撤廃することに焦点を当てており、上記で議論したように、スーパーモジュラープロダクションを支援する補助金も含まれています。将来の国際経済協力の形態として、複数の資金調達のようなメカニズムを活用して、地域間の経済的な事業のためのマッチング資金を集めることができるでしょう。さらに野心的には、資本主義の最も重要な利点の1つは、重要な時間間計画要素を持つ数少ないスケーリングシステムの1つであることです。企業が遠い将来に現れる利益のために資金を調達することができます。しかし、さらに野心的な時間間経済システムでは、例えば、世代間の協力を促進する機関や、まだ生まれていない人々とのマッチング資金などが考えられます。これにより、長期的な計画の欠如や、多くの場所での価値ある過去の機関の保存に関する懸念を克服することができ、有機的なバージョンの「未来省」が生まれるかもしれません。[^Robinson]"
+  },
+  "4. Emergent publics: Possibilities are equally promising for how the organizations thus supported can be made truly accountable to their stakeholders.  Stakeholding of various kinds (as workers, customers, suppliers, targets of negative externalities like pollution dumping or misinformation, etc.) could be tracked harnessing the type of plural identity systems we discussed above.  These could then be linked to participation using voting and deliberation systems like those we highlighted earlier in ways that are much less demanding on individuals' time and attention and able to more quickly reach broadly legitimate decisions than existing collective governance.  These in turn can make truly democratic and plural governance of emergent publics a realistic alternative to traditional corporate governance. One could then imagine a future where new democratic entities governing emerging technologies in ways that are close to as legitimate as governments emerge as frequently as start-ups, creating a web of dynamic and legitimate governance. ": {
+    "ja": "4. 新興の公共: これらの組織がステークホルダーに対して真に責任を持つようにするための可能性は、同様に有望です。さまざまな形態のステークホルダー（労働者、顧客、サプライヤー、公害排出や誤情報の対象など）は、上記で議論した複数のアイデンティティシステムを利用して追跡することができます。これらは、投票や審議システムと結び付けることができ、個人の時間と注意をあまり必要とせず、既存の集団的なガバナンスよりも迅速に広く合法的な決定に到達することができます。これにより、新興公共の真に民主的で多元的なガバナンスが伝統的な企業のガバナンスに代わる現実的な選択肢となる可能性があります。その結果、政府と同様に合法的な方法で新興技術を統治する民主的な組織が、スタートアップと同じ頻度で頻繁に現れ、ダイナミックで合法的なガバナンスのウェブが形成される未来を想像することができます。"
+  },
+  "5. Plural management: Internally, it is also increasingly possible to see past the hierarchical structure that typically dominates corporate control.  The Plural Management Protocol we used to create this book tracks the types and extent of contributions from diverse participants and harnesses mechanisms like we have described above to allow them to prioritize work (which then determines the recognition of those who address those issues) and determine which work should be incorporated into a project though a basis of exerting authority and predicting what others will decide.  This allows for some of the important components of hierarchy (evaluation by trusted authorities, migration of this authority based on performance according to those authorities) without any direct hierarchical reporting structure, allowing networks to potentially supplant strict hierarchies.": {
+    "ja": "5. 複数形の管理：内部的には、通常企業の統制を支配する階層構造を超えて見ることがますます可能になっています。この本を作成するために使用した複数形管理プロトコルは、多様な参加者からの貢献の種類と範囲を追跡し、上記で説明したようなメカニズムを利用して彼らに仕事の優先順位を付けること（それによってそれらの問題に対処する人々の認識を決定する）と、どの仕事をプロジェクトに取り込むべきかを決定することを可能にします。これにより、信頼できる権威による評価、この権威に基づくパフォーマンスに基づく権威の移行など、階層の重要な要素のいくつかが直接的な階層的な報告構造なしで可能になり、ネットワークが厳格な階層を代替する可能性があります。"
+  },
+  "6. Polypolitan migration policy: It is also increasingly possible to imagine  breaking down the stringency of international labor markets through related mechanisms.  As philosopher Danielle Allen as proposed, migration could be conditioned upon endorsement or support from one or more civil society group in the receiving country, extending combining existing practices in countries like Canada and Taiwan that respectively allow private community-based sponsorship and allow a diversity of qualifying pathways for long-term work permits.  These could diffuse the stringent control of labor mobility by nation states while maintaining accountability to avoid harms or challenges with social integration.": {
+    "ja": "6. ポリポリタン移民政策：関連するメカニズムを通じて国際労働市場の厳格さを緩和することを想像することがますます可能になっています。哲学者ダニエル・アレンが提案したように、移民は受け入れ国の1つ以上の市民社会団体の支持や支援に基づいて条件付けされることができ、カナダや台湾などの国で既に行われている私的な地域ベースのスポンサーシップや長期的な労働許可証の資格付与の多様性を組み合わせることができます。これにより、国家による労働力の流動性の厳格な制御が拡散される一方で、社会統合における害や課題を回避するための責任を維持することができます。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; While these only begin to scratch the surface of possibilities, they hopefully illustrate how completely markets could be re-conceived harnessing plural principles.  While the debates over markets and the state often falls into predictable patterns, the possibilities for moving radically beyond this simplistic binary are just as broad as for any other area of Plurality.": {
+    "ja": "これらは可能性の表面に触れるに過ぎませんが、これらは複数の原則を利用して市場を完全に再構築する方法を示していることを願っています。市場と国家に関する議論はしばしば予測可能なパターンに陥りますが、この単純な二分法を遥かに超える可能性は、多元性の他の領域と同様に広範です。"
+  },
+  "### Limits of markets": {
+    "ja": "### 市場の制限"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Yet the potential of markets should not be mistaken for their being a miracle cure or the primary pattern for the future of Plurality.  Even in these greatly enriched forms, markets remain a thin shell that at best is able to comfortable fit and provide material support and interface for a diversity of richer human relationships, and at worst can undermine them.  The best we can therefore hope for is to create market forms flexible enough that they fade into the background of the flowering of emergent social forms they support.": {
+    "ja": "しかし、市場の潜在能力は、奇跡の治療法や将来の多様性の主要なパターンと混同されるべきではありません。これらの大幅に豊かになった形態でも、市場は最高でも豊かな人間関係の多様性に快適に適合し、物質的なサポートとインターフェースを提供する薄い殻であり、最悪の場合はそれらを損なう可能性があります。したがって、私たちが望む最善のことは、市場形態を柔軟に作り上げ、それらが支える新興社会形態の花開きの背景に溶け込むことです。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; What we must guard against most rigorously is the tendency of markets to concentrate power in private organizations or limited cultural groups in ways that homogenize and erode diversity.  Achieving this requires institutions that deliberately encourage new diversity, while eroding existing concentrations of power, like those we have highlighted.  It also requires, as we have suggested, constantly bringing other forms of collaboration across diversity to intersect with markets, whether voting, deliberation or creative collaboration, while creating market systems (like plural money) that can deliberately insulate these from broader market forces.": {
+    "ja": "私たちが最も厳格に警戒しなければならないのは、市場が力を私的組織や限られた文化集団に集中させ、多様性を均質化し、侵食する傾向です。これを達成するには、新たな多様性を意図的に奨励し、既存の権力集中を侵食するような制度が必要です。また、私たちが強調したような市場と交差する他の形態の協力を常にもたらすことも必要です。投票、審議、創造的な協力などです。また、これらを広範な市場の力から意図的に隔離できる市場システム（複数の通貨など）を作り出すことも必要です。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Yet despite all their manifest dangers and limitations, pluralists should not wish markets away.  Something must coordinate at least coexistence if not collaboration across the broadest social distances and many other ways to achieve this, even ones as thin as voting, carry much greater risks of homogenization precisely because they involve deeper ties.  Socially aware global markets offer much greater prospect for Plurality than a global government.  Markets must evolve and thrive, along with so many other modes of collaboration, to secure a plural future.": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;それにもかかわらず、彼らの明白な危険と制約にもかかわらず、プラーラリストは市場をなくしたくないと思うべきです。少なくとも共存、もしくは協力を広範な社会的距離を超えて調整するものが必要です。投票などの方法でも、より深い結びつきを含むため、均質化のリスクがはるかに大きいです。社会的に意識したグローバル市場は、グローバル政府よりも多様性の可能性がはるかに高いです。市場は進化し繁栄しなければならず、他の多くの協力の形態と共に、多様な未来を確保するために存在しなければなりません。"
+  },
+  "[^Hirsch]: Cite Hirschman's *The Passions and the Interests*.": {
+    "ja": "[^Hirsch]: ヒルシュマンの「情熱と利己心」を引用。"
+  },
+  "[^Marketarg]: Cite Slobodian and Schumpeter": {
+    "ja": "[^Marketarg]: スロボディアンとシュンペーターを引用"
+  },
+  "[^interact]: Cite Interaction Field and Humanocracy.": {
+    "ja": "[^interact]: Interaction FieldとHumanocracyを引用します。"
+  },
+  "[^Arnott]: Cite HGT papers.": {
+    "ja": "[^Arnott]: HGTの論文を引用してください。"
+  },
+  "[^Robinson]: Cite Kim Stanley Robinson book.": {
+    "ja": "[^Robinson]: 金星のキム・スタンリー・ロビンソンの本を引用しています。"
+  },
+  "# A View from Yu Shan": {
+    "ja": "玉山からの眺め"
+  },
+  "Standing at the summit of Yushan, the highest peak in East Asia, one can not only overlook the terrain of Taiwan but also perceive how this small, mountainous island is intricately connected to the world. Located at the intersection of the Eurasian and American tectonic plates, Taiwan's geological fault lines have not only elevated Yushan but have also fostered a diverse and resilient society amid the clash of cultures and values.": {
+    "ja": "東アジア最高峰の玉山に立っていると、台湾の地形を見渡すだけでなく、この小さな山岳地帯の島が世界と複雑につながっていることがわかります。ユーラシアとアメリカのテクトニックプレートの交差点に位置する台湾の地質的な断層線は、玉山を高めるだけでなく、文化や価値観の衝突の中で多様で強靭な社会を育んできました。"
+  },
+  "Taiwan has combined advanced technology and the plural spirit of the digital realm with the philosophy of \"broadband human rights and social resilience,\" transforming them into tools that promote inter-group connectivity and warmth. This is confirmed by Taiwan's role in the global digital network topology: Taiwan is not just a democratic island nation but also a global carrier of diverse values and the spirit of collaboration.": {
+    "ja": "台湾は、先進技術とデジタル領域の多元的な精神を「広帯域人権と社会的な回復力」という哲学と結びつけ、相互のつながりと温かさを促進するツールに変えました。これは、台湾がグローバルなデジタルネットワークのトポロジーにおける役割によって確認されています。台湾は単なる民主的な島国にとどまらず、多様な価値観と協力の精神を持つグローバルなキャリアでもあります。"
+  },
+  "In recent years, the global landscape has entered an era of multi-polar ideological divisions, especially in a post-pandemic world rife with uncertainty. This shift not only highlights the importance of digital technology but also reminds us that, when facing phenomena like polarized divisions and fragmented information, global society needs more proactive, open, and inclusive forms of actionable democratic dialogue, allowing the international community to reassess and adjust global governance structures.": {
+    "ja": "近年、グローバルな情勢は多極的なイデオロギーの分裂の時代に入りました。特に、不確実性に満ちたポストパンデミックの世界では、この変化が強調されています。この変化は、デジタル技術の重要性を示すだけでなく、極端な分裂や断片化した情報などの現象に直面する際に、グローバル社会がより積極的でオープンで包括的な行動可能な民主的対話の形態を必要としていることを思い起こさせます。これにより、国際社会はグローバルガバナンスの構造を再評価し、調整することができます。"
+  },
+  "In response to the multipolar authoritarianism and social fractures, our answer is a form of understated yet resolute pacifism—an action guide based on steadfast faith and the pursuit of coexistence. The true diversity and inclusion we seek allows for every voice to be heard and seen and penetrates the surface illusion of complex issues to create a collaborative consensus.": {
+    "ja": "多極的な権威主義と社会の亀裂に対応して、私たちの答えは控えめでありながらも断固とした平和主義です。これは、堅固な信仰と共存の追求に基づく行動ガイドです。私たちが求める真の多様性と包括性は、すべての声が聞かれ、見られ、複雑な問題の表面的な幻想を貫通し、協力的な合意を生み出すことを可能にします。"
+  },
+  "Important milestones in Taiwan's digital democracy include the 318 Sunflower Movement, the establishment of PDIS, and the Digital Ministry. Open dialogues between the government and civil society, along with active participation from multiple stakeholders, have proven that \"digital democracy\" is not only feasible but can also be innovative in turning conflicts into co-creations.": {
+    "ja": "台湾のデジタル民主主義の重要な節目には、318のひまわり運動、PDISの設立、そしてデジタル省があります。政府と市民社会の間のオープンな対話と、複数の利害関係者の積極的な参加により、「デジタル民主主義」は実現可能であり、紛争を共創に変えることも可能であることが証明されています。"
+  },
+  "The world faces numerous challenges, including pandemics, climate crises, and inequality. Yet, like Yushan, Taiwan is becoming a supporting force in tackling these issues through its spirit of diversity and openness. As the preface of this book says, \"The advent of the internet unfurled the world, illuminating paths forward,\" it also reflects the contours of Taiwan. This island nation's significant contributions to global society make it an indomitable force that cannot be ignored.": {
+    "ja": "世界は、パンデミック、気候危機、不平等など、数多くの課題に直面しています。しかし、台湾の玉山のように、多様性と開放性の精神を通じてこれらの問題に取り組むための支援力となっています。この本の序文にあるように、「インターネットの登場により、世界が広がり、前進する道が照らされました」という言葉は、台湾の輪郭を反映しています。この島国の重要な貢献は、無視できない不屈の力となっています。"
+  },
+  "[COMMUNITY CONTRIBUTIONS BEGIN HERE]": {
+    "ja": "[コミュニティの貢献はここから始まります]"
+  },
+  "# 玉山視野 ": {
+    "ja": "玉山視野"
+  },
+  "站在東亞最高峰—玉山的頂點，不僅能俯瞰臺灣的樣貌，還能感受到這座小小多山的島國如何與全球緊密連接。位於歐亞和美洲板塊交界處的臺灣，地質斷層線不僅推升了玉山，更在文化和價值觀的衝撞中，發展出多元而韌性十足的社會。": {
+    "ja": "東アジア最高峰である玉山の頂上からは、台湾の姿を見渡すだけでなく、この小さな多山の島国がどのように世界と緊密につながっているかを感じることができます。ユーラシアとアメリカのプレートの境界に位置する台湾は、地質的な断層線によって玉山を押し上げるだけでなく、文化や価値観の衝突の中で多様で強靭な社会を発展させてきました。"
+  },
+  "臺灣透過「寬頻人權、社會韌性」的理念，將尖端科技與數位多元精神相互結合，且轉化為促進族群連接與溫度的輔具。這一點，由臺灣在全球數位社群網絡拓撲（network topology）中的角色得以確認：臺灣不僅是一座民主島國，也是多元價值和合作精神的全球載體。": {
+    "ja": "台湾は、「広帯域人権、社会的な強靭さ」という理念を通じて、先端技術とデジタル多様性の精神を組み合わせ、民族のつながりと温かさを促進するための支援手段に変えています。この点は、台湾がグローバルなデジタルコミュニティネットワークのトポロジー（ネットワークの形状）で果たす役割からも確認できます。台湾は民主的な島国であるだけでなく、多様な価値観と協力の精神を持つグローバルなキャリアでもあります。"
+  },
+  "近年來，全球格局已邁入多極分裂的意識型態，在充滿不確定性的世界裡，數位化成了極具潛力的平等工具，尤其是在疫情之後。這一轉變不僅凸顯了數位科技的重要性，也讓我們意識到，面對如分裂極化和資訊碎片化的現象，全球社會需要更積極、開放和包容的可實踐民主對話形式，讓國際社會能夠重新評估和調整全球的治理結構。": {
+    "ja": "近年、世界の構図は多極分裂の意識形態に入っており、不確実性に満ちた世界で、デジタル化は非常にポテンシャルのある平等なツールとなっています。特に、パンデミックの後ではそうです。この変化は、デジタル技術の重要性を浮き彫りにするだけでなく、分断と極端化、情報の断片化といった現象に直面している世界社会が、より積極的でオープンで包容的な民主的対話形式を実践する必要性を私たちに気づかせてくれました。これにより、国際社会は世界のガバナンス構造を再評価し調整することができるようになります。"
+  },
+  "我們對於多邊集權和社會裂痕的答案，是一種低調但堅定的和平主義，一種基於持守信仰和追求共存的行動指南。我們追求的真正的多元共融，不僅讓每個聲音被聽見、看見，且可穿透問題複雜性表層的幻象，創造出共識的協作。": {
+    "ja": "私たちは、多元主義と社会の亀裂に対する答えとして、控えめでありながら確固たる平和主義を持っています。信念を守り、共存を追求する行動指針に基づいています。私たちが追求する真の多様性と融和は、すべての声が聞かれ、見られるだけでなく、問題の複雑さの表面的な幻想を貫通し、合意形成の協力を生み出します。"
+  },
+  "318運動、PDIS和數位部的成立，都是臺灣數位民主的重要里程碑。政府和民間的開放對話，以及多方利益者的積極參與，讓臺灣證明了「數位民主」不僅可行，更能創新前瞻、化衝突為共創。": {
+    "ja": "318運動、PDISとデジタル部門の設立は、台湾のデジタル民主主義の重要な節目です。政府と民間のオープンな対話、そして多くの利害関係者の積極的な参加により、台湾は「デジタル民主主義」が実現可能であり、また衝突を共創に変えることができることを証明しました。"
+  },
+  "全球面臨許多挑戰，包括疫情、氣侯危機、和不平等。但就如同玉山一樣，臺灣正透過其多元和開放的精神，成為解決這些問題的支持力量。如同本書序章所說「網際網路揭開世界面紗，是光引向前行道路」，同時也照映出臺灣的輪廓。這座島國對於全球社會的積極貢獻，讓它成為無法忽視的力量。": {
+    "ja": "世界は多くの課題に直面しており、パンデミック、気候危機、不平等などが含まれます。しかし、玉山のように、台湾は多様性とオープンな精神を通じて、これらの問題の解決に向けた支援力となっています。本書の序章で述べられているように、「インターネットは世界のベールを剥ぎ、光を前進の道に導く」と同時に、台湾の輪郭も浮かび上がっています。この島国は、グローバル社会への積極的な貢献により、無視できない力となっています。"
+  },
+  "[此處開始開放社群投稿]": {
+    "ja": "[ここからコミュニティ投稿を受け付けます]"
+  },
+  "再者，這兩種威脅相互交錯；專制政體越來越善於利用社交媒體和虛擬通貨的「混亂」在民主國家撒下種子製造分裂和衝突。集中化社交平台利用 AI，極大化用戶對服務的熱度，往往造就了爭議資訊和意見分群，導致離心傾向。然而，即使在這兩種威脅並未積極互補、且意識形態在多方面互相衝突的情況下，也都對民主社會施加了壓力，並破壞了對民主的信心。這種不信任的發展，讓現在許多先進民主世界中的信任調查，已經降至有記錄以來的最低點。": {
+    "ja": "また、これら2つの脅威は相互に交錯しています。独裁政権は、ソーシャルメディアや仮想通貨の「混乱」を利用して、民主国家で分裂と衝突を引き起こすための種をまくことに長けています。集中化されたソーシャルプラットフォームはAIを利用して、ユーザーのサービスへの関心を最大化し、しばしば論争情報や意見の分断を生み出し、分裂傾向を引き起こします。しかし、これら2つの脅威が積極的に補完されず、イデオロギーが多面的に衝突している場合でも、民主社会に圧力をかけ、民主主義への信頼を損ないます。このような不信の発展により、現在、多くの先進的な民主主義国家での信頼調査は、過去最低の水準にまで低下しています。"
+  },
+  "比如，人工智慧系統可能會迅速升高自身能力，而虛擬通貨可能造成系統性金融風險和高傳染性生物武器的研發。這些人的擔心主要在於民主國家的政府可能根本無法想像，更別說如何制定應對這些風險的計畫與配套措施。不過，除了這些糟糕透頂的可能性外，各式各樣的新興技術，也都需要監管機制變革才能可持續的發展。勞動法無法符合資訊技術賦予下地理和時間靈活的新型態工作模式、著作權法對於大型 AI 模型中數據輸入的價值歸屬判斷顯得有些不合時宜、區塊鏈正為新形態的公司治理賦能，而證券法通常很難理解這些形態，並且經常將其置於法律危險之中。": {
+    "ja": "例えば、人工知能システムは自己能力を急速に向上させる可能性があり、仮想通貨はシステム的な金融リスクや高度な伝染性生物兵器の開発を引き起こす可能性があります。これらの懸念は、民主主義国家の政府がこれらのリスクに対処する計画や対策を想像することさえできない可能性があるということです。ただし、これらの最悪の可能性に加えて、さまざまな新興技術は持続的な発展には規制改革が必要です。労働法は、情報技術によってもたらされる地理的および時間的に柔軟な新しい労働形態に対応できません。著作権法は、大規模なAIモデルにおけるデータ入力の価値の帰属を判断するのに適していないとされています。ブロックチェーンは新しい形態の企業統治に力を与えていますが、証券法はこれらの形態を理解するのが難しく、しばしば法的な危険にさらされます。"
+  },
+  "從近年越來越受到關切的創投行業趨勢中來看，過去十年裡，在高科技產域的創投資金已經明顯且大量的集中在 AI 人工智慧和虛擬通貨相關的 \"web3\" 技術上。圖 V 顯示了由 NetBase Quid 收集的 AI 私人投資數據，有關人工智慧私人投資的數據，並由史丹佛大學人本人工智慧中心的 2022 年 AI 指數報告繪製，顯示了在 2010 年代的爆炸式增長，這種增長已經主導了私人技術投資類型。": {
+    "ja": "近年注目されているベンチャーキャピタル業界のトレンドを見ると、過去10年間で、ハイテク分野のベンチャー投資は明らかにAI人工知能と仮想通貨に関連する「web3」技術に集中しています。図VはNetBase Quidが収集したAIの個人投資データを示しており、2022年のAI指数レポートに基づいてスタンフォード大学人間工学研究所が作成しました。2010年代に爆発的な成長を遂げ、この成長が個人技術投資の主要なタイプを占めています。"
+  },
+  "### 虛擬通貨與超資本主義": {
+    "ja": "### 仮想通貨と超資本主義"
+  },
+  "第二個，其實在主流媒體中並不那麼常見，但在比特幣和其他虛擬通貨社群，或相關性網路社群中一直是一個重要且主導性的題目。其可見於《文明帝國 VI》的「法人自由意志主義」類別，ES 的支持者往往更偏好使用 **「創業主權」(Entrepreneurial Sovereignty, ES)** 這個標籤，因此我們採用這個名稱。": {
+    "ja": "第二のものは、実際には一般的なメディアではあまり見かけませんが、ビットコインや他の仮想通貨のコミュニティや関連するインターネットコミュニティでは重要で主導的なトピックです。これは「シビライゼーション VI」の「企業主権主義」カテゴリで見ることができますが、ESの支持者はしばしば「起業家主権（Entrepreneurial Sovereignty, ES）」というタグを好む傾向がありますので、私たちはこの名前を採用しています。"
+  },
+  "# 結社與多元公眾": {
+    "ja": "結社と多元公衆"
+  },
+  "原文：Association and Plural Publics": {
+    "ja": "翻訳：協会と複数の公衆"
+  },
+  "法國貴族、外交家亞歷克西·德·托克維爾（Alexis De Toqueville）筆下的《美國的民主》經典的總結強調了公民聯繫在美國自治中的核心地位。「沒有什麼...... 比美國智慧與道德的結社，更值得我們關注。」更近一步，他認為「結社」對於政治行動和社會改善是必要的，因為個人之間的平等讓僅只靠個人來取得大規模的行動是不可行的：\"如果人類要持續文明...... 結社的技藝，與公平條件的增加需為正比，共同發展和進步\"。": {
+    "ja": "フランスの貴族、外交家アレクシス・ド・トクヴィル（Alexis De Toqueville）の著書「アメリカの民主主義」の中で、市民の結びつきがアメリカの自治の中心的な位置を強調しています。「アメリカの知恵と道徳による結社は、私たちの関心に値するものです」と彼は述べています。さらに彼は、「結社」が政治的行動や社会の改善に必要であると考えており、個人だけでは大規模な行動を達成することは不可能であると述べています。「人類が文明を維持するためには、結社の技術と公平な条件の増加が必要であり、共同の発展と進歩と比例している」と彼は述べています。"
+  },
+  "沒有個人能夠獨自實現政治、社會或經濟的改革。透過政黨、公民組織、工會和企業進行集體努力是必要的。以多元宇宙而言，這些和其他不那麼正式的社交團體、個人一樣，都是社會的交織結構。從這個觀點上看，社團協會是最基本的權利，與人格權互為表裡，有如陰陽般密不可分。也因為這樣的觀點，社團正是最能制衡暴君的力量。再次引用德·托克維爾的話： \"人心的所有缺陷裡，沒有比利己主義更適合專制的了；只要臣民互不相愛，暴君就能輕鬆原諒臣民不喜愛他的事實\" 。只有促進和保護人們結成有意義的新社團的能力，我們才有希望獲得自由、自治和多樣性。": {
+    "ja": "個人が政治、社会、または経済の改革を単独で実現することはできません。政党、市民団体、労働組合、企業などの集団的な取り組みが必要です。多元宇宙の観点からすると、これらの組織や他の非公式な社交団体、個人はすべて社会の組織的な構造です。この観点から見ると、社団協会は最も基本的な権利であり、人格権と相互に補完し合い、陰陽のように密接に関連しています。また、このような観点から、社団は暴君を抑制する力を最も持っているのです。再びトクヴィルの言葉を引用します。「人間のすべての欠陥の中で、利己主義ほど専制政治に適しているものはありません。臣民同士が互いに愛し合わない限り、暴君は臣民が彼を好きではないという事実を容易に許すことができます」。意味のある新しい社団を促進し、保護する能力がある限り、私たちは自由、自治、多様性を得る希望を持つことができます。"
+  },
+  "利克和泰勒提出的「作為通訊設備的電腦」願景的核心，就是電腦和網路在促進這種聯繫方面的潛力：「它們將成為不在同一個地方、而是具有相同利益的社群。」事實上，韋氏辭典正是如此定義「結社」：\"擁有共同利益的人的組織\" 。鑒於他們有共同的目標、信念和傾向，這些社群所能取得的成就，將遠遠超過在數位時代到來前的社團。從本書作者的角度看來，主要的挑戰是確保 \"'上網'......是普世人權\"，而非 \"特權\"。當然，這個願景已經被證實是非常具有遠見的，今日許多最著名的政治運動和民間組織，都是在線上形成、或取得最大的成功。": {
+    "ja": "利克和泰勒提出の「作為通信設備のコンピュータ」のビジョンの核心は、コンピュータとネットワークがこのようなつながりを促進する潜在能力である：「彼らは同じ利益を持つコミュニティであるが、同じ場所にいるわけではない。」実際、ウェブスター辞書は「結社」という言葉を次のように定義している：\"共通の利益を持つ人々の組織\"。彼らは共通の目標、信念、傾向を持っているため、これらのコミュニティが達成できる成果は、デジタル時代以前の団体をはるかに超えるものとなるでしょう。本書の著者の視点から見ると、主な課題は「'インターネットにアクセスすること'が普遍的な人権であることを確保すること」であり、「特権」ではないことです。もちろん、このビジョンは非常に先見的であることが証明されており、今日、多くの有名な政治運動や市民団体はオンラインで形成され、または最大の成功を収めています。"
+  },
+  "不過，或許矛盾的是，在某種重要意義上，網際網路的興起，實際上正威脅了自由結社的一些核心特徵。正如利克和泰勒所強調的那樣，要形成社團或社群，就必須建立一系列共同信念、價值觀和利益背景，這些種種構成了社團與其內部交流的脈絡。此外，正如齊美爾和尼森鮑姆所強調的，這還需要保護這種輪廓免受外部監視：如果個人認為他們與社團的交流，受到外人的監視，他們往往就不願意利用共同社群的脈絡，因為他們擔心自己的話語會被誤解。": {
+    "ja": "ただし、矛盾しているかもしれませんが、ある重要な意味で、インターネットの台頭は、自由な結社のいくつかの核心的な特徴を実際に脅かしています。リックとテイラーが強調しているように、コミュニティやグループを形成するには、共通の信念、価値観、利益背景の一連の構築が必要です。これらは、コミュニティ内でのコミュニケーションの文脈を形成しています。さらに、ジーマーとニーセンバウムが強調しているように、これには外部の監視からこの輪郭を保護する必要もあります。個人が自分のコミュニティとのコミュニケーションが外部の監視によって妨げられると感じる場合、彼らはしばしば共同コミュニティの文脈を利用することをためらいます。自分の発言が誤解されることを心配しています。"
+  },
+  "網際網路使潛在結社的範圍更廣，也讓促進和保護共同脈絡，變得更具挑戰。隨著資訊傳播的速度越來越快，要想知道你在和誰對話、以及你和他們分享了哪些資訊，在在都充滿挑戰。此外，現在比過往的任何時刻，都更容易對群體發動監視，並且成員更容易在預期之外不恰當地分享資訊。因此，要實現利克和泰勒的夢想，進而使數位世界成為多元結社可蓬勃發展的世界，就必須瞭解資訊的脈絡，並且建立數位系統來支持和保護它。": {
+    "ja": "インターネットは潜在的な結社の範囲を広げ、共通の文脈を促進し保護することがより困難になりました。情報の伝達速度がますます速くなる中で、誰と会話しているのか、どのような情報を共有しているのかを把握することは非常に困難です。さらに、グループを監視することが過去よりも容易になり、メンバーは予期しない形で情報を共有することがより簡単になりました。したがって、リックとテイラーの夢を実現し、デジタル世界を多様な結社が繁栄する世界にするためには、情報の文脈を理解し、それをサポートし保護するデジタルシステムを構築する必要があります。"
+  },
+  "因此，在本章中，我們將概述結社的資訊需求理論。其後，我們將討論已經開始扶持、或有助於建立與保護這些需求的現行技術。然後，我們將強調可如何將這些技術結合起來，以實現 「多元公眾」的願景，而非單純的「私密」或「公開」，來實現許多具有共同理解的社團蓬勃發展，且保護它們不受外部監視，以及為什麼這項權利，對支持其他數位權利至關重要。": {
+    "ja": "したがって、この章では、組織の情報要求理論について概説します。その後、これらの要求をサポートし、構築および保護するために既に開始されているまたは役立つ現行の技術について議論します。そして、これらの技術を組み合わせることで、「多様なパブリック」のビジョンを実現する方法について強調します。単に「プライベート」または「パブリック」ではなく、共通の理解を持つ多くのコミュニティが活気づけられ、外部の監視から保護されることができるようにします。また、なぜこの権利が他のデジタル権利をサポートする上で重要なのかについても説明します。"
+  },
+  "### 結社": {
+    "ja": "結社"
+  },
+  "人們需要何種結構才能組成「具有共同利益的社群」？顯然，僅僅是單純的共享興趣愛好是不夠的。人們雖然可以分享各自的興趣愛好，但也可能不知道對方是誰，或雖然認識對方、但卻不知彼此擁有共同的興趣。正如社會科學家和賽局理論者近年來強調的， \"組織\" 所隱含的集體行動，需要更強而有力的概念：共同的 \"利益\"、\"信念\" 或 \"目標\"。用這些領域的術語來說，需要的就是所謂的「共同知識」。": {
+    "ja": "人々は、「共通の利益を持つコミュニティ」を構成するためにどのような構造が必要ですか？明らかに、単に共有の趣味や興味だけでは十分ではありません。人々は自分の趣味や興味を共有することができますが、お互いが誰であるかを知らないかもしれませんし、お互いを知っていても共通の興味を持っていることを知らないかもしれません。社会科学者やゲーム理論家が最近強調しているように、「組織」という言葉には、より強力な概念が必要です：共通の「利益」、「信念」、または「目標」。これらの領域の用語で言えば、必要なのは「共有知識」と呼ばれるものです。"
+  },
+  "在說明正式定義之前，我們不妨先考慮，為何單純地分享信念，並不足以讓大家採取共同行動。考慮一群人，他們碰巧都會說某種共同的第二語言，但沒有人知道其他人也會。然而，他們說的第一語言各不相同，他們在一開始時無法交流。因此，只知道這門第二語言，對他們沒有什麼幫助。相反，他們必須知道其他人也懂這門語言。也就是說，他們不僅要有基礎知識，還要有高一階的知識：知道其他人也知道某些內容。": {
+    "ja": "正式な定義を説明する前に、単に信念を共有するだけでは、人々が共同行動を取ることはできない理由を考えてみましょう。あるグループの人々を考えてみましょう。彼らは偶然にも共通の第二言語を話すことができますが、お互いがそのことを知りません。しかし、彼らはそれぞれ異なる第一言語を話すため、最初はコミュニケーションが取れません。したがって、彼らにとっては第二言語を知っているだけでは役に立ちません。むしろ、他の人もその言語を理解していることを知る必要があります。つまり、彼らは基礎知識だけでなく、さらに高度な知識も必要です：他の人が特定の内容を知っていることを知っている必要があります。"
+  },
+  "這種高階知識，對集體行動的重要性是不言而喻的，以至於它已經成為民間傳說。在安徒生的經典童話《國王的新衣》中，騙子騙國王說他縫製了一套價值連城的新衣服，而實際上，他把國王剝得一絲不掛。雖然子民都看到了國王的裸體，但大家都不敢說出來，直到一個孩子的笑聲才讓大家明白，不僅國王是裸體的，而且其他人也看到同樣的事實，因此每個人都可以放心地承認這一點。相似的場景在各種社會、經濟和政治環境中都很熟悉：": {
+    "ja": "このような高度な知識は、集団行動の重要性が明らかであり、それが民間伝説となっています。アンデルセンの古典的な童話「裸の王様」では、詐欺師が王様に高価な新しい服を縫ったと言いましたが、実際には王様を裸にしました。人々は王様の裸を見ていましたが、誰もそれを言い出すことができませんでした。しかし、ある子供の笑い声によって、王様だけでなく他の人々も同じ事実を見ていることが明らかになりました。したがって、誰もが安心してそれを認めることができました。このようなシーンは、さまざまな社会、経済、政治の環境でよく知られています。"
+  },
+  "- 若要阻止銀行擠兌，往往需要高度醒目的保證聲明，因為如果每個人都覺得別人會擠兌，那他自己也會。": {
+    "ja": "- 銀行の振り込みを防ぐためには、目立つ保証声明が必要です。なぜなら、他の人が振り込むと思うなら、自分も振り込む可能性があるからです。"
+  },
+  "- 對「公開秘密」的不當行為（例如性行為不檢點）的譴責，往往導致大量的議論指控，因為指控者會意識到是其他人是「挺他們」的，例如「#MeToo」運動。": {
+    "ja": "- \"公開秘密\" に対する不適切な行動（例えば性的な行動の不適切さ）への非難は、しばしば大量の議論や告発を引き起こします。告発者は、他の人々が彼らを支持していることに気付くため、「#MeToo」運動のようなものになることがあります。"
+  },
+  "- 公眾抗議可以帶來讓民眾長期反對的政府垮臺的力量，因為公眾不滿的普遍覺醒，是可以翻轉政治的力量。": {
+    "ja": "- 公衆の抗議は、政府の崩壊につながる長期的な反対の力をもたらすことができます。なぜなら、一般の不満が目覚め、政治を変える力があるからです。"
+  },
+  "「共同知識」的正式定義，是這種情況：一群人知道某件事情，同時也知道他們所有人都知道這件事，並且知道他們所有人都知道他們所有人都知道這件事，以此類推。「共同信念」通常用 \"信念程度\" 來量化），則是指一群人相信他們都相信他們都相信...... 大量賽局理論分析表明，在類似上述的「集體行動風險」情況下，這種共同信念是協調行動的重要前提條件。": {
+    "ja": "「共同知識」の正式な定義は、次のような状況です：あるグループの人々があることを知っており、同時に彼ら全員がそのことを知っていることを知っており、さらに彼ら全員が彼ら全員がそのことを知っていることを知っていることを知っている、というように続きます。「共同信念」は通常、「信念の程度」で量化されます。これは、一群の人々が彼ら全員が彼ら全員が信じていると信じている、ということを指します。多くのゲーム理論の分析は、上記のような「集団行動リスク」の状況では、この共同信念が行動の調整の重要な前提条件であることを示しています。"
+  },
+  "群體的共同信念，顯然與他們的成員平均共有的信念有關，但這兩者是不同的概念。我們都知道有這樣的例子：某些觀點被視為「普遍常識」，但幾乎每個人都對此表示懷疑；或者在某個群體中，幾乎每個人都不同意某個特定規範，但這種規範依然存在。此外，除了關乎事實的信念，我們也可以用「社群」概念來指稱對道德或意向的信念。我們可以想像某種社群的「共同信念」（在道德意義上），是指每個人都認為其他人也持有的道德原則，並且認為其他人也認為每個人都持有的道德原則等等。同樣的，「共同目的」也可以指稱每個人都相信其他人的意圖，並且相信每個人都相信每個人的意圖等等。這種「共同信念」和「共同意圖」，對於所謂的「正當性」，即人們普遍理解的「什麼是正當的」來說，至關重要。": {
+    "ja": "群体の共同信念は、明らかに彼らのメンバーの平均的な信念と関連していますが、これらは異なる概念です。私たちは、次のような例があることを知っています：ある見解が「常識」と見なされていますが、ほとんどの人がそれに疑問を抱いている；またはあるグループでは、ほとんどの人が特定の規範に同意していないが、その規範は存在しています。さらに、事実に関連する信念に加えて、道徳や意図に関する信念を「共同信念」という概念で指すこともできます。私たちは、ある種の社会の「共同信念」（道徳的な意味で）が、他の人も持っていると考えられる道徳的原則を誰もが持っていると考え、他の人も誰もが持っていると考えるということを想像することができます。同様に、「共同目的」も、他の人の意図を信じ、他の人も誰もが他の人の意図を信じるということを指すことができます。このような「共同信念」と「共同意図」は、一般的に理解される「正当性」、つまり「何が正当であるか」ということにとって非常に重要です。"
+  },
+  "在賽局理論，以及其他形式化的社會科學學科中，通常將「個人」建模為意圖/偏好和信念的集合。而「社群」的概念，為我們提供了一種思考群體的方式，它與組成群體的個人既相似卻不同，因為群體的共同信念和意圖，未必與其中個人成員的信念和意圖相同：群體的信念和目標，就是該群體的「共同信念」和「共同目標」。從這個意義上說，結社自由可以理解為建立共同信念和共同目標的自由。然而，結社本身是不夠的。正如我們在前一章中論證的，保護秘密對於維護個人身分至關重要，因此「結社權」也必須能保障社群不受監視，因為如果社群的共同信念變成了所有人的信念，那麼他們就不再是獨立的社群了。因此，保護隱私不受外部監視，或內部過度分享，與結社自由一樣重要。": {
+    "ja": "ゲーム理論や他の形式化された社会科学の学問では、通常、「個人」は意図/好みと信念の集合としてモデル化されます。一方、「コミュニティ」の概念は、私たちに集団を考える方法を提供します。個人が集団を構成するのと同様に、共通の信念や意図を持つとは限らないため、異なる点もあります。集団の信念や目標は、その集団の「共通の信念」と「共通の目標」です。この意味で、結社の自由は共通の信念や共通の目標を確立する自由と理解することができます。しかし、結社だけでは十分ではありません。前の章で議論したように、秘密の保護は個人のアイデンティティを維持するために非常に重要です。したがって、「結社の権利」はコミュニティが監視されないように保護する必要があります。なぜなら、コミュニティの共通の信念がすべての人の信念になった場合、彼らはもはや独立したコミュニティではなくなるからです。したがって、プライバシーの保護は外部の監視からも内部の過度な共有からも結社の自由と同じくらい重要です。"
+  },
+  "毫不意外的，當我們想到結社自由時，最容易想到的許多技術和空間，其演變歷史恰恰是為了實現共同的信念，並保護共同的信念不受外來信念的影響。搜尋「結社自由」的圖像，通常會出現在公共場所抗議、在公園和廣場等公共場所集會，以及在私人俱樂部進行小組討論的圖像。如上所述，小組會議和成員面前公開發表的聲明，對於在組織中達成共同信念和理解至關重要。個人發行的小冊子，或許可以說服其他個人，但由於缺乏共同注目，賽局理論者認為，這些很難像孩子的公開笑聲等共同宣言，那樣創造出公共信念。": {
+    "ja": "当我们想到结社自由时，最容易想到的许多技术和空间，其演变历史恰恰是为了实现共同的信念，并保护共同的信念不受外来信念的影响。搜索“结社自由”的图像，通常会出现在公共场所抗议、在公园和广场等公共场所集会，以及在私人俱乐部进行小组讨论的图像。如上所述，小组会议和成员面前公开发表的声明，对于在组织中达成共同信念和理解至关重要。个人发行的小册子，或许可以说服其他个人，但由于缺乏共同注目，赛局理论者认为，这些很难像孩子的公开笑声等共同宣言，那样创造出公共信念。"
+  },
+  "但純粹的公共空間，也有重大的侷限性：它們不允許團體在更廣泛的公眾視野外，形成自己的看法和協調彼此的行動。這樣可能會削弱他們的凝聚力、對外展示一致面貌的能力，以及利用內部環境進行有效溝通的能力。這也是為什麼經常會出現「只對成員開放的封閉式聚會場所」的結社空間：這樣才能實現齊美爾所強調的，對團體效能和凝聚力至關重要的保密性。[^49]因此，我們面臨的關鍵問題是，網路通訊系統，如何為 \"利益共同體\" 這種美麗新世界，提供這些相同甚至更有用的能力，來創建受保護的共同信念。": {
+    "ja": "ただし、純粋な公共空間には重大な制約があります。それらは、グループがより広範な公共の視野の外で自分たちの意見を形成し、お互いの行動を調整することを許容しません。これにより、彼らの結束力、一貫した姿勢を外部に示す能力、内部環境を活用した効果的なコミュニケーション能力が弱まる可能性があります。これが、しばしば「メンバーのみが参加できる閉鎖的な集会場所」の社交空間が現れる理由でもあります。これにより、グループの効果と結束力にとって重要な機密性を実現することができます。[^49]したがって、私たちが直面している重要な問題は、インターネット通信システムが「共同体の利益」という美しい新世界にこれらの同じまたはより有用な能力を提供し、保護された共通の信念を作り出す方法です。"
+  },
+  "### 建立脈絡": {
+    "ja": "### コンテキストの構築"
+  },
+  "若公園和廣場是抗議和集體行動的所在地，那麼我們正在尋找的就是數位化的公共廣場。許多數位系統都聲稱擁有這樣的功能。最初全球資訊網上的網站，為各種人提供了前所未有的機會，讓他們可以發佈自己的資訊。但正如諾貝爾經濟學獎得主赫伯特·賽門（Herbert Simon）所指出的那樣，大量的資訊造成注意力的匱乏。很快，人們就很難知道自己的網站是否接觸到受眾、是誰與如何接觸到他們的。Google等搜尋系統、Facebook、Twitter等專業的社交網絡，成為數位交流的首選平台。數位公共廣場變為私人領地，這些公司的首席執行官自豪的宣稱，他們正是數位時代的公共事業、公共廣場，同時卻透過具精準廣告，對用戶互動進行監控式的商業行為。": {
+    "ja": "公園や広場は抗議や集団行動の場所であるならば、私たちが求めているのはデジタル化された公共広場です。多くのデジタルシステムはこのような機能を持っていると主張しています。最初のインターネット上のウェブサイトは、さまざまな人々に自分の情報を発信する前例のない機会を提供しました。しかし、ノーベル経済学賞受賞者であるハーバート・サイモンは指摘していますが、情報の過剰は注意力の不足を引き起こします。すぐに人々は自分のウェブサイトがどのような人々にアクセスされているのか、誰がどのように彼らにアクセスしているのかを知るのが難しくなりました。Googleなどの検索エンジン、Facebook、Twitterなどの専門のソーシャルネットワークは、デジタルコミュニケーションの主要なプラットフォームとなりました。デジタルの公共広場は私有地となり、これらの企業のCEOは自分たちがデジタル時代の公共事業、公共広場であると自負していますが、同時にユーザーのインタラクションを監視する商業行為を精密広告を通じて行っています。"
+  },
+  "最近，一些努力已開始解決這個問題。全球資訊網協會（W3C）發佈了Christine Lemmer-Webber提出的 ActivityPub 標準，將其作為實現社交網絡開放協定的建議，讓使得像 Mastodon 這樣的開放系統，以聯邦式、分散式的方式，向全球數百萬人提供類似於 Twitter 一樣的服務。Twitter 自身也察覺了這樣的問題，且在 2019 年發起了相似目標的 BlueSky 計劃；雖然該計劃尚未達到 Mastodon 的規模，不過發展迅速也形成廣泛關注。慈善家法蘭克.麥考特（Frank McCourt）對自由專案（Project Liberty）及其分散式社交網絡協定（Decentralized Social Networking Protocol）挹注了大量投資，將其作為另一個基於區塊鏈的分散式網路基礎。雖然很難準確預測在其中哪些會蓬勃發展、如何整合等，但自 Twitter的努力，以及這個領域中活動的活躍與多樣性皆表明，某種可用的數位出版開放協定，有可能促成共識的收斂並開展合作。": {
+    "ja": "最近、この問題に対する解決策がいくつか始まっています。World Wide Web Consortium（W3C）は、Christine Lemmer-Webberが提案したActivityPubの標準を発表し、ソーシャルネットワークのオープンプロトコルの実装として推奨しています。これにより、Mastodonのようなオープンシステムが、連邦的かつ分散型の方法でTwitterと同様のサービスを数百万人に提供することができます。Twitter自体もこの問題に気づき、2019年に類似の目標を持つBlueSkyプロジェクトを立ち上げました。このプロジェクトはまだMastodonの規模には達していませんが、急速に発展し、広く注目されています。慈善家のFrank McCourtは、Project Libertyとその分散型ソーシャルネットワーキングプロトコルに多額の投資を行い、ブロックチェーンを基盤とした別の分散型ネットワークを作り上げました。どれが成功し、どのように統合されるかを正確に予測するのは難しいですが、Twitterの取り組みやこの分野の活発さと多様性から、利用可能なデジタルパブリッシングのオープンプロトコルが共通の合意を形成し、協力を進める可能性があることが示されています。"
+  },
+  "然而，宣導並不等同於社群與結社。在網上貼文更像是散發摺冊，而不是公開抗議。看到貼文的人，很難知道還有哪些人、多少人在瀏覽同樣的資訊，當然也很難判斷他們對這些資訊的看法。貼文可能會影響他們的信念，但很難在可識別的同儕群體中形成共同信念。強調關於貼文的病毒性和關注度的功能，可能會對某些人有所幫助，但對訊息受眾的追蹤，仍然比在實體公共空間中要粗略許多。": {
+    "ja": "しかし、宣伝はコミュニティや組織と同じではありません。オンラインの投稿は、公開的な抗議ではなく、パンフレットの配布に似ています。投稿を見る人は、同じ情報を閲覧している他の人やその数を知るのは難しいですし、彼らがその情報に対してどのような意見を持っているかも判断するのは難しいです。投稿は彼らの信念に影響を与えるかもしれませんが、識別可能な仲間の集団で共通の信念を形成するのは難しいです。投稿のウイルス性や関心度について強調することは、一部の人には役立つかもしれませんが、情報の受け手の追跡は、物理的な公共空間よりもはるかに粗いです。"
+  },
+  "近年來，應對這一挑戰而出現的最有趣的潛在解法之一，是包括區塊鏈在內的「分散式帳本技術（DLT）」。這些技術維護資訊的共享記錄，只有在達成 「共識」（對納入紀錄的項目，有足夠的共同認可）時，才會將內容添加到記錄中。這讓密碼學家和賽局理論者得出結論，認為 DLT 在儲存這些資訊的機器之間，創造共同信念方面，大有可為。[^50]可以說這就是此類系統，支持協調新貨幣和其他社會實驗的原因。": {
+    "ja": "近年、この課題に対処するために最も興味深い潜在的な解決策の一つは、ブロックチェーンを含む「分散型台帳技術（DLT）」です。これらの技術は情報の共有記録を維持し、記録に内容を追加するためには「コンセンサス」（記録に含まれる項目に対して十分な共通認識があること）が達成される必要があります。これにより、暗号学者やゲーム理論家は、DLTがこれらの情報を保持するマシン間で共通の信念を創造する上で非常に有望であると結論付けています。[^50]言えるのは、このようなシステムが新しい通貨や他の社会実験の調整をサポートしているということです。"
+  },
+  "然而，機器之間即使出現社群，也無法代表操作機器的人構成了社群。維護區塊鏈的經濟誘因，更加劇了這個問題（從創建社群的角度來看），這導致了大多數參與者，在經濟利益的驅動下運行「驗證節點」軟體，而不是直接地監視活動。這也意味著，參與區塊鏈的人很可能是那些能夠獲利的人，而不是那些對非商業性共同行動感興趣的人。儘管如此，正如我們在下文中要提及的那樣，我們可以想像，數位簽章技術，將成為未來結社的基礎建設中，極為重要的組成部分。": {
+    "ja": "しかし、機器同士の間にコミュニティが存在していても、それは機器を操作する人々のコミュニティを代表するものではありません。ブロックチェーンの経済的なインセンティブを維持することは、この問題をさらに深刻化させます（コミュニティの創設者の視点から見ると）。これにより、多くの参加者が経済的な利益に基づいて「検証ノード」ソフトウェアを実行することになり、直接的な監視活動ではありません。これはまた、ブロックチェーンに参加する人々が、利益を得ることができる人々である可能性が高いことを意味しますが、非営利的な共同行動に興味を持つ人々ではないことを意味します。それにもかかわらず、私たちが後で言及するように、デジタル署名技術は将来の社会の基盤として非常に重要な要素になると想像できます。"
+  },
+  "### 保護脈絡": {
+    "ja": "### 保護脈絡"
+  },
+  "如果說脈絡的建立，主要是為了打造強而有力的社會宣導概念，那麼對脈絡的保護，則是為了建立強而有力的社會隱私概念。而且，和宣導技術一樣，隱私技術的發展，往往也是以一元論原子主義方向居多，而不是支持多元社會。": {
+    "ja": "もし文脈の構築が主に強力な社会啓蒙の概念を作り出すためであるならば、文脈の保護は強力な社会プライバシーの概念を構築するためです。また、啓蒙技術と同様に、プライバシー技術の発展はしばしば単一論的な原子主義の方向に向かっており、多元社会を支持するものではありません。"
+  },
+  "長期以來，密碼學領域一直在研究如何安全、隱密地傳輸資訊。在典型的「公開金鑰加密」機制裡，個人和組織公開發佈「公鑰」，同時私下持有相對的「密鑰」。如此任何人都可以向彼此發送，只有對方的密鑰才能解密的訊息。它也允許密鑰控制者在訊息上簽名，以便其他人可以驗證資訊是否來自簽署者。這種系統，是網際網路和整個數位世界廣泛安全的基礎，可保護電子郵件免遭間諜活動，也促成了端到端加密訊息系統（如 Signal 和數位商務）。": {
+    "ja": "長期以来、暗号学の分野では、情報を安全かつ秘密裏に伝送する方法について研究が行われてきました。典型的な「公開鍵暗号」の仕組みでは、個人や組織が「公開鍵」を公開し、同時に対応する「秘密鍵」を秘密裏に保持します。これにより、誰でもお互いにメッセージを送信できますが、相手の秘密鍵でのみ解読できます。また、秘密鍵の所有者はメッセージに署名することもでき、他の人が情報が署名者から来たものかどうかを検証できます。このようなシステムは、インターネットやデジタル世界全体の広範なセキュリティの基盤となっており、電子メールのスパイ活動から保護するだけでなく、エンドツーエンドの暗号化メッセージシステム（Signalやデジタルビジネスなど）を実現しています。"
+  },
+  "在這樣的基礎上，近年來又擴展出了一些功能強大的隱私強化技術（privacy-enhancing technologies）。這些技術包括：": {
+    "ja": "これに基づいて、近年、プライバシー強化技術（privacy-enhancing technologies）のいくつかの強力な機能が開発されています。これらの技術には、以下のものが含まれます："
+  },
+  "* 零知識證明（zero-knowledge proof）：它允許在不洩露完整資料下，向沒有訪問許可權的人安全證明源自於某些資料的事實。舉例如，人們可以證明自己超過了某個特定年齡，而無需出示作為證明依據的完整駕照資訊。": {
+    "ja": "* 零知識証明（zero-knowledge proof）：それは、完全なデータを漏らさずに、アクセス権を持たない人に対して、特定のデータからの事実を安全に証明することを可能にします。例えば、人々は自分が特定の年齢を超えていることを証明することができますが、その際には免許証の完全な情報を提示する必要はありません。"
+  },
+  "* 安全多方計算（secure multi-party computation）和同態加密：它們允許一組人執行涉及資料的演算，其中每個人都擁有部分資料，也不會向其他人揭示這些部分，且允許自己和其他人對計算過程進行驗證。例如，在保持秘密投票的同時，允許對選舉結果進行安全驗證。": {
+    "ja": "* 安全多方計算（secure multi-party computation）とホモモーフィック暗号：これらは、データを含む演算を実行するためのグループの人々に許可します。各人は一部のデータを持っており、他の人にこれらの部分を明らかにすることはありません。また、自分自身と他の人による計算プロセスの検証も許可します。たとえば、秘密投票を保持しながら、選挙結果の安全な検証を許可します。"
+  },
+  "* 不可偽造和無法否定的簽名：這些簽名允許密鑰控制者在聲明上簽名，如果無法獲得密鑰，就無法偽造、無法否認，除非聲稱密鑰被洩露。例如，簽訂（智慧）合約的各方，可能會要求使用這種數位簽章，就像難以偽造和難以否認的物理簽章，對紙本合約的重要性一樣。": {
+    "ja": "* 不可偽造かつ否定不能な署名：これらの署名は、鍵の所有者が声明に署名することを許可します。鍵を入手できない場合、偽造や否定はできませんが、鍵が漏洩したと主張する場合は除きます。例えば、（知的）契約の当事者は、紙の契約の重要性と同様に、このようなデジタル署名を使用することを要求するかもしれません。"
+  },
+  "* 機密運算：這種解決上述類似問題的方法，不那麼依賴密碼學，而是通過 「實體隔離」數位系統來實現相似目標，這種系統具有各種物理障礙，可防止資料洩露。": {
+    "ja": "* 機密運算：このような類似の問題を解決する方法は、暗号学に依存せずに、「物理的な隔離」デジタルシステムを通じて同様の目標を達成することです。このシステムにはさまざまな物理的な障壁があり、データの漏洩を防ぐことができます。"
+  },
+  "* 差分隱私：它衡量的是對演算輸出的披露，在多大的程度上可能會無意中洩露輸入的敏感資訊。技術專家已經開發出一些技術來保證此類洩漏不會發生，通常是通過在揭示資訊時添加雜訊。例如，法律要求美國人口普查，既要揭露簡要統計資料用以指導公共政策，又要對原始資料保密，美國最近已通過使用確保不同隱私的機制共同實現了這一目標。": {
+    "ja": "* 差分プライバシー：それは、アルゴリズムの出力の開示に関して、入力の機密情報が意図せずに漏洩する可能性の程度を測定します。技術者は、このような漏洩が発生しないようにするためのいくつかの技術を開発しています。通常、情報の開示時にノイズを追加することによって実現されます。たとえば、アメリカの国勢調査では、公共政策の指針として要約統計データを開示する必要がありますが、元のデータは機密保持されます。アメリカは最近、異なるプライバシーレベルを確保するメカニズムを使用して、この目標を共有しました。"
+  },
+  "* 聯邦學習：與其說是一種基本的隱私技術，不如說是其他技術的複雜應用和組合。聯邦學習是一種於物理位置分散四處的資料上，訓練和評估大型機器學習模型的方法。": {
+    "ja": "* フェデレーテッドラーニング：基本的なプライバシーテクノロジーというよりも、他の技術の複雑な応用と組み合わせと言えるでしょう。フェデレーテッドラーニングは、物理的に分散したデータ上で大規模な機械学習モデルのトレーニングと評価を行う方法です。"
+  },
+  "重要的是要認識到這些最依賴加密技術（尤其是前三種技術）的兩種基本局限性；即它們依賴於兩個關鍵假設。首先，密鑰必須由所需人員掌握，這個問題與我們在上一章討論的身分和復原問題密切相關。其次，當今使用的大多數加密技術，都會因為量子電腦的出現而崩潰，在許多情況下，這樣的保證也會因量子電腦的出現而失效，不過，開發可抵禦量子計算的方案，是活躍的研究領域。": {
+    "ja": "重要なのは、これらの暗号技術（特に最初の3つの技術）が2つの基本的な制約に依存していることを認識することです。まず、鍵は必要な人物によって保持されなければなりません。これは、前の章で議論した身元確認と回復の問題と密接に関連しています。次に、現在使用されているほとんどの暗号技術は、量子コンピュータの登場によって崩壊する可能性があります。多くの場合、このような保証も量子コンピュータの登場によって無効になるかもしれませんが、量子計算に耐える解決策の開発は活発な研究分野です。"
+  },
+  "此外，這些技術解決方案，越來越多地與一系列支持隱私權的技術標準和公共政策相互交集和融合。這些標準和政策包括：[Something on CRYPTO STANDARDS ONLINE]、[關於歐洲 e2e 加密規則的內容]、[GDPR的部分]": {
+    "ja": "このほか、これらの技術ソリューションは、プライバシーをサポートするさまざまな技術基準と公共政策との間で相互に交差し、融合しています。これらの基準と政策には、[CRYPTO STANDARDS ONLINEに関するもの]、[欧州のe2e暗号化規則に関するもの]、[GDPRの一部]が含まれます。"
+  },
+  "。": {
+    "ja": "。"
+  },
+  "然而，幾乎所有這些工作都有個基本局限，那就是只關注保護通訊免受外部監視，而不是防止內部成員過度向外分享。雖然，防止外部窺探顯然是第一道防線，但任何軍事情報故事的粉絲都知道，內部的間諜和洩密是資訊安全最重要的威脅之一。雖然軍事情報是最典型的例子，然而如此觀點影響的範圍相當廣，尤其是在網際網路時代。從丹娜·博伊德（danah boyd）的經典研究《鍵盤參與時代來了！》（It's Complicated）到Dave Eggers的著作和電影《直播風暴》（The Circle），都強調了由於數位資訊共用的便捷，使過度共享的風險，至始至終都在威脅著人們的隱私。": {
+    "ja": "しかし、これらの仕事のほとんどは共通の制約を持っています。それは、外部の監視から通信を保護することに焦点を当てており、内部のメンバーが過度に情報を外部に共有することを防ぐことではありません。外部の盗聴を防ぐことは明らかに第一の防衛ラインですが、軍事情報のストーリーのファンなら誰でも知っているように、内部のスパイや情報漏洩は情報セキュリティの最も重要な脅威の一つです。軍事情報は最も典型的な例ですが、この視点はインターネット時代において特に広範囲に影響を与えています。ダナ・ボイドの古典的な研究「複雑な関係」やデイブ・エガーズの著作や映画「ザ・サークル」などは、デジタル情報共有の便利さによって過度な共有のリスクが人々のプライバシーを脅かし続けていることを強調しています。"
+  },
+  "基本問題在於，雖然大多的密碼學和法規，都將隱私視為個人權利，但我們通常所說的隱私其大部分是與群體有關的。畢竟，幾乎沒有任何自然產生的資料，僅僅與單一個體相關。讓我們重溫一下，上一章關於社交生活中資料的某些例子：": {
+    "ja": "基本的な問題は、ほとんどの暗号化や法律がプライバシーを個人の権利と見なしているにもかかわらず、私たちが通常言及するプライバシーの大部分は集団に関連していることです。結局のところ、自然に生成されるデータのほとんどは、単一の個体に関連しているものはほとんどありません。では、社交生活におけるデータのいくつかの例を前の章で振り返ってみましょう："
+  },
+  "* 基因資料：當然，基因在家庭中具有很大的共用性，這意味著公開某個人的基因資料，暴露其家庭的情況，在較小程度上，也會暴露其遠親的情況。相關的論點，也適用於許多醫療資料，如和遺傳病、傳染病有關的資料。": {
+    "ja": "* ジェノムデータ：もちろん、家族の間で遺伝子は共有されているため、ある人のジェノムデータを公開することは、その家族の状況を明らかにすることを意味します。さらに、遠い親戚の状況もある程度明らかになる可能性があります。この議論は、遺伝性疾患や感染症に関連する医療データなど、多くの医療データにも適用されます。"
+  },
+  "* 通訊財務資料：通訊和交易在本質上是多方的，因此有多個自然參照者。": {
+    "ja": "* 通信財務情報：通信と取引は本質的に多者間の関係であるため、複数の自然な関係者が存在します。"
+  },
+  "* 位置資料：在大部分時間裡，人們都至少與另一個人在物理上接近，此時這些人都知道彼此在某一刻的共同位置。": {
+    "ja": "* 位置データ：ほとんどの時間、人々は少なくとも1人の他の人と物理的に接近しており、その時点でお互いの共通の位置を知っています。"
+  },
+  "* 物理資料：有許多不屬於任何人的資料（如土壤、環境、地質數據）。唯一真正個人化的資訊，是作為身分計劃的一部分，由官僚機構創建的識別號碼。但即使是這些號碼，實際上也不只屬於個人，也描述了與其發放機構的關係。": {
+    "ja": "* 物理データ：多くの個人に属さないデータ（土壌、環境、地質データなど）があります。唯一本当に個人化された情報は、身分計画の一部として官僚機関によって作成された識別番号です。しかし、これらの番号でさえ、実際には個人にだけ属しているわけではなく、発行機関との関係も記述されています。"
+  },
+  " 這意味著，幾乎在所有的相關情況下，個人單方面地揭露資料時，都會威脅到其他個人的合法隱私利益。因此，若要保護隱私，就必須防止單方面的過度分享。一般認為，這基本上不可能從外部強制執行：任何人只要知道某些事情，就可以與他人分享資訊。因此，相關策略主要集中在反對過度分享、散佈謠言等行為的規範、幫助個人記住哪些資訊不應分享的工具、增加私下過度分享的難度，以及事後懲罰那些參與過度分享者的政策。這些全部都是重要的策略：文學、媒體和日常經驗中，充斥著對過度分享的羞辱和對洩密者的懲罰。然而，它們與加密技術所提供的保障相去甚遠。加密技術不僅譴責窺探者，更能將他們鎖定在系統之外。": {
+    "ja": "これは、ほとんどの関連する場合において、個人が一方的に情報を開示することは他の個人の合法的なプライバシー利益を脅かすことを意味します。したがって、プライバシーを保護するためには、一方的な過剰な共有を防止する必要があります。一般的には、これは外部から強制することは基本的に不可能とされています：誰かが何かを知っている限り、情報を他の人と共有することができます。したがって、関連する戦略は、過剰な共有やデマの拡散などの行動に対する規範、情報を共有すべきでないことを個人に思い出させるツール、過剰な共有を困難にするための手段、および過剰な共有に関与した者を罰する政策に主に焦点を当てています。これらはすべて重要な戦略です：文学、メディア、日常の経験には、過剰な共有への恥辱や情報漏洩者への罰が溢れています。しかし、これらは暗号技術が提供する保護とはかけ離れています。暗号技術は盗み見を非難するだけでなく、それらをシステムの外に閉じ込めることができます。"
+  },
+  "有沒有可能替過度共分享，做一些類似的事情？一種常見的方法，就是避免資料持久性：SnapChat 因資訊消失而嶄露頭角，此後許多資訊協定也採用了類似的方法。另一種更積極的加密技術是「指定驗證者證明」（DVP）。 這是一種發送資訊的方法，其真實性/有效性只能通過特定密鑰來驗證。這種方法只適用於無法獨立驗證的資訊：如果有人選擇過度共用社群密碼，那 DVP 的作用就不大，因為共享密碼的人可以很快檢查密碼是否有效。": {
+    "ja": "過度共有を代替するために、同様のことをすることは可能ですか？一般的な方法は、データの永続性を避けることです：SnapChatは情報が消えることで有名になり、その後、多くの情報プロトコルも同様の方法を採用しました。もう一つの積極的な暗号技術は「指定検証者証明」（DVP）です。これは情報を送信する方法であり、その真正性/有効性は特定の鍵でのみ検証できます。この方法は、独立して検証できない情報にのみ適用されます：誰かが過度に共有されたコミュニティのパスワードを選択した場合、DVPの役割はほとんどありません。なぜなら、共有されたパスワードの人はすぐにパスワードの有効性を確認できるからです。"
+  },
+  "然而，大多數類型的資訊，都很難獨立地立刻得到驗證：即使是埋藏寶藏的地點，也需要特殊意義的資源去追尋和挖掘，否則許多關於寶藏的探險故事，就不會那麼有趣了。隨著「生成式基礎模型」使有說服力的欺騙變得越來越容易，驗證的重要性也將與日俱增。在這樣的世界裡，針對個人進行驗證的能力，以及對「過度分享資訊的不可靠性」的依賴，都可能越來越強。因此，更全面地保護資訊免遭過度共享和窺視的可能性，也會越來越大。": {
+    "ja": "しかし、ほとんどの種類の情報は、独立してすぐに検証することが困難です。たとえ宝の場所であっても、追求や発掘に特別なリソースが必要です。そうでなければ、多くの宝探しの物語は興味深くないでしょう。信憑性のある欺瞞を行うために「生成ベースモデル」がますます容易になるにつれて、検証の重要性も増していくでしょう。このような世界では、個人の検証能力や「情報の過剰共有の不信頼性」への依存もますます強くなるかもしれません。したがって、情報が過剰に共有されたり覗き見される可能性からより包括的に保護されることも増えていくでしょう。"
+  },
+  "### 多元公眾": {
+    "ja": "多元公衆"
+  },
+  "如果將這些工具適當地結合到新一代網路標準中，我們就有能力超越「公開」與「私密」之間膚淺的傳統界限，實現真正的網路結社自由。雖然我們通常認為公開和私密是單維度的範疇，但不難看出，另一個維度也同樣重要。": {
+    "ja": "これらのツールを新世代のインターネット標準に適切に組み合わせることで、私たちは「公開」と「プライベート」の表面的な伝統的な境界を超え、真のネットワークコミュニティの自由を実現する能力を持っています。一般的には、公開とプライベートは単一の次元の範囲と考えられていますが、もう一つの次元も同様に重要であることは明らかです。"
+  },
+  "首先考慮 「隱藏在眾目睽睽之下」的資訊，這些資訊被淹沒在一堆無關緊要的事實中，人人都能獲得，但卻無人知曉。這與當年「曼哈頓計劃」存在的秘密形成了鮮明對比，曼哈頓計劃的秘密，被大約 10 萬人所知曉，但對世界其他地方卻嚴加保密。兩者都接近「私密」與「公開」光譜的中間點，因為兩者在重要方面都是廣泛共用的，但同時也是隱秘的。但它們處於另一個光譜的兩端：集中的共識，與分散的可用性。": {
+    "ja": "まず、考慮すべきは、「隠れている情報」です。これらの情報は、関係のない事実の山の中に埋もれており、誰でも手に入れることができますが、誰も知りません。これはかつての「マンハッタン計画」とははっきりと対照をなしています。マンハッタン計画の秘密は、約10万人が知っていましたが、世界の他の場所では厳重に秘密にされていました。両者は「プライベート」と「パブリック」のスペクトルの中間点に近い位置にあります。重要な点で両者は広く共有されていますが、同時に秘密です。しかし、それらは別のスペクトルの両端に位置しています：集中的な合意と分散的な利用可能性です。"
+  },
+  "這個例子說明了為何「私密」和「公開」是過於簡單的概念，無法描繪出支撐自由結社的共同知識。雖然任何簡單的描述，都無法體現我們應該繼續研究的豐富內涵，但我們在其他地方稱之為「多元公眾」的模式，可能更加貼切。「多元公眾」指的是建立資訊標準，使具有強烈的內部共同信念、並與外界隔絕的各種群體能夠共存的願望。要做到這一點，就必須保持 Shrey Jain 和 Zoë Hitzig 所說的「脈絡信心（contextual confidence）」，即系統中的參與者，可以很容易地確定並保護其交流的脈絡。": {
+    "ja": "この例は、「プライベート」と「パブリック」があまりにも単純な概念であり、自由な結社を支える共通の知識を描写することができないことを説明しています。どんなに簡単な説明でも、私たちが研究を続けるべき豊かな内容を表現することはできませんが、私たちは他の場所で「多様なパブリック」と呼ばれるモデルがより適切かもしれません。「多様なパブリック」とは、強い内部共通信念を持ち、外部と隔離されたさまざまなグループが共存できるようにするための情報基準を確立することを指します。これを実現するためには、Shrey JainとZoë Hitzigが言うように、「文脈的な信頼性（contextual confidence）」を維持する必要があります。つまり、システムの参加者が、自分のコミュニケーションの文脈を容易に特定し、保護することができるようにする必要があります。"
+  },
+  "幸運的是，近年來，一些隱私和宣傳開放標準技術的領軍人物，已經將注意力轉向了這個問題。ActivityPub 公司的 Lemmer Webber 在過去幾年裡一直致力於 Spritely 專案，該專案旨在以多元公眾的精神，創建自治且緊密聯繫的私人社群，讓個人用戶在開放標準中清晰地辨別、瀏覽和區分社群脈絡。越來越多的 ｗeb3 和區塊鏈社群研究人員，正致力於將這些技術與隱私技術，特別是 ZKP 結合起來。": {
+    "ja": "幸運なことに、近年、いくつかのプライバシーとオープン標準技術のリーダーたちは、この問題に注目しています。ActivityPubのLemmer Webber氏は、過去数年間、Spritelyプロジェクトに取り組んでおり、このプロジェクトは多様なパブリックスピリットを持つ自治的で密接につながったプライベートコミュニティを作り出し、個人ユーザーがオープン標準でコミュニティの文脈を明確に識別、閲覧、区別できるようにすることを目指しています。ますます多くのWeb3およびブロックチェーンコミュニティの研究者が、これらの技術と特にZKPのプライバシーテクノロジーを組み合わせるために取り組んでいます。"
+  },
+  "一個在這項研究開鑿出、最有趣的可能性，就是實現對「共同知識」和「無法披露」的組合的形式保證。例如，我們可以使用 DVP 創建分佈在社群成員之間的帳本。這也將創建該社群共同知識的資訊記錄，並確保該資訊（及其作為共同知識的地位）無法在該社群之外被可信地共用。此外，如果協定確定「共識」的程式，依賴於比目前更複雜的投票規則，例如我們在下文關於投票的章節中描述的那些規則，那麼它可能會比目前的帳本體現出更豐富、更細微的「共同知識」概念。": {
+    "ja": "この研究の中で最も興味深い可能性の一つは、「共有知識」と「非開示」の組み合わせの形式的な保証を実現することです。例えば、DVPを使用して、コミュニティメンバー間で分散した台帳を作成することができます。これにより、コミュニティの共有知識の情報記録が作成され、その情報（および共有知識としての地位）が信頼性のある方法でコミュニティ外で共有されないように保証されます。さらに、プロトコルが「合意」のプログラムによって決定される場合、現在よりも複雑な投票ルールに依存する場合（例えば、後述する投票のセクションで説明されているルール）、それによって台帳がより豊かで微妙な「共有知識」の概念を具現化する可能性があります。"
+  },
+  "此外，圍繞這些主題的所有領域，都充斥著有關標準的工作：密碼學、區塊鏈、開放式通信協定（如 Activity Pub）等。因此，我們可以輕易想像這些標準，會彙聚到某種動態發展但被廣泛接受的「結社」技術概念上，從而形成被廣泛遵守的標準，使線上社群能夠形成並保持自我。這樣的未來，才能保障數位結社自由的權利。": {
+    "ja": "この他にも、これらのテーマに関連するすべての領域で、標準に関する作業が溢れています：暗号学、ブロックチェーン、オープンな通信プロトコル（例：Activity Pub）など。したがって、これらの標準がある種のダイナミックな発展を遂げ、広く受け入れられる「コミュニティ」の技術概念に集約されることを容易に想像することができます。これにより、オンラインコミュニティが形成され、自己を維持することができるようになります。このような未来こそが、デジタルコミュニティの自由を保証するのです。"
+  },
+  "### 結社、身分和商業": {
+    "ja": "### 社会、身分と商業"
+  },
+  "數位結社自由，與我們在本書這部分討論的其他自由密切相關。正如我們在上一章中所看到的，「隱私」是身分系統完整性的核心，但就像我們在這裡所看到的，通常被貼上「隱私」標籤的問題，更適合與個人所處環境的多樣性聯繫起來，而不是個人主義意義上的隱私。因此，結社自由的權利和人格完整的權利，兩者密不可分：如果說我們在社會群體的多元交織，造就了我們作為一個人的獨特性，那麼只有保護這種多樣性的完整性，獨立的人格才是可能的。當然，由於群體是由人組成的，反之亦然：如果人們沒有明確身分，就不可能構成由共同知識界定的群體。": {
+    "ja": "デジタルコミュニティの自由は、本書のこの部分で議論されている他の自由と密接に関連しています。前章で見たように、「プライバシー」はアイデンティティの完全性の核心ですが、ここで見るように、通常「プライバシー」とラベル付けされる問題は、個人主義的な意味ではなく、個人の環境の多様性と関連していることがより適切です。したがって、コミュニティの自由の権利と人格の完全性の権利は密接に関連しています。社会的な多様性が私たちを個人として形成するのであれば、この多様性の完全性を保護することで、独立した人格が可能になります。もちろん、集団は人々によって形成されるため、逆もまた真です：人々が明確なアイデンティティを持たなければ、共通の知識によって定義される集団を形成することは不可能です。"
+  },
+  "此外，自由結社權利，是商業和合約的根本基礎。交易是最簡單的結社形式之一，數位交易系統嘗試複製與現金相關的隱私，這個能力取決於誰能以何種細節層次來查看交易。比起交易來說，合約更為複雜，而公司則更進一步。所有這些結社形式，都高度依賴於資訊完整性和對義務的共同認知。從這個角度來看，我們在本章中所概述的自由結社，以及在上一章中討論的身分認同，都是本書後續內容的關鍵支撐點。": {
+    "ja": "また、自由結社の権利は、商業と契約の基盤です。取引は、最も単純な結社形態の一つであり、デジタル取引システムは、現金に関連するプライバシーを複製しようとします。この能力は、誰がどのような詳細レベルで取引を見ることができるかに依存します。取引に比べて、契約はより複雑であり、会社はさらに進んでいます。これらの結社形態は、情報の完全性と義務の共通認識に高度に依存しています。この観点から、本章で概説されている自由結社と、前章で議論されているアイデンティティは、本書の後続の内容の重要な支えとなります。"
+  },
+  "此專案的成功，部分影響了包括 OpenAI 聯合創始人山繆·阿特曼（Sam Altman）在內的一群技術專家，於 2019 年推出了 Worldcoin 專案，目標是成為首個通用生物識別身分系統。迄今為止，他們使用專利虹膜掃描儀「the Orb」掃描了數百萬人，這些人幾乎都生活在開發中國家。他們利用密碼學對這些掃描結果進行「雜湊」，這樣就無法查看或復原，但今後的任何掃描結果都可以與之比對，確保其獨特性。他們以此初始化一個帳戶，並將虛擬通貨存入其中。他們的任務是「確保」隨著生成基礎模型模仿人類的能力越來越強，身分的安全基礎仍然存在，例如：可以用來向地球上的每個人分配平等的 \"全民基本收入\"，或允許參與投票和其他通用權利。": {
+    "ja": "このプロジェクトの成功は、OpenAIの共同創設者であるサム・アルトマンを含む一群の技術専門家に影響を与え、2019年にWorldcoinプロジェクトを立ち上げるきっかけとなりました。このプロジェクトの目標は、初めての汎用生体認証身分システムとなることです。これまでに彼らは特許取得済みの虹彩スキャナー「the Orb」を使用して数百万人のスキャンを行いましたが、これらの人々のほとんどは開発途上国に住んでいます。彼らはこれらのスキャン結果を暗号化して「ハッシュ化」し、表示や復元はできませんが、将来のスキャン結果と照合することで一意性を確保しています。彼らはこれを利用してアカウントを初期化し、仮想通貨を保管しています。彼らの使命は、人間の能力を模倣する基盤モデルがますます強化される中でも、身分の安全基盤が維持されることです。例えば、地球上のすべての人に均等に「ユニバーサルベーシックインカム」を配分するために使用したり、投票やその他の一般的な権利への参加を許可したりすることができます。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Many textbooks, including by some of our close friends, have been written on this structure.  It is hard to doubt that it is one of the powerful modes of cooperation humans have ever devised and has been central to the unprecedented progress in material conditions around the world in the last two centuries.  Furthermore, the most famous theoretical results in economics are the \"fundamental welfare theorems\", which assert that under certain conditions markets lead selfish individuals \"by an invisible hand\" to serve the common good.  Yet the conditions and scope of this result are quite circumscribe, which is why capitalism has so many familiar problems.": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;この構造については、私たちの親しい友人の中にも、多くの教科書が書かれています。疑う余地なく、これは人間が考案した最も強力な協力の形態の一つであり、過去2世紀における世界中の物質的な状況の前例のない進歩の中心となってきました。さらに、経済学における最も有名な理論的結果は、「基本的な福祉定理」と呼ばれるものであり、特定の条件の下で市場が利己的な個人を「見えない手」で共通の利益に奉仕させることを主張しています。しかし、この結果の条件と範囲はかなり限定されており、それが資本主義には多くの馴染みのある問題がある理由です。"
+  },
+  "Standing at the summit of Yushan, the highest peak in East Asia, one can not only overlook the terrain of Taiwan but also perceive how this small, mountainous island is intricately connected to the world. Located at the intersection of the Eurasian and the Pacific technonic plates, Taiwan's geological fault lines have not only elevated Yushan but have also fostered a diverse and resilient society amid the clash of cultures and values.": {
+    "ja": "東アジア最高峰の玉山に立っていると、台湾の地形を見渡すだけでなく、この小さな山岳地帯の島が世界と複雑につながっていることがわかります。ユーラシアと太平洋のテクトニックプレートの交差点に位置する台湾の地質的な断層は、玉山を高く押し上げるだけでなく、文化や価値観の衝突の中で多様で強靭な社会を育んできました。"
+  },
+  "站在東亞最高峰—玉山的頂點，不僅能俯瞰臺灣的樣貌，還能感受到這座小小多山的島國如何與全球緊密連接。位於歐亞大陸和太平洋板塊交界處的臺灣，地質斷層線不僅推升了玉山，更在文化和價值觀的衝撞中，發展出多元而韌性十足的社會。": {
+    "ja": "東アジア最高峰である玉山の頂上からは、台湾の姿を一望することができるだけでなく、この小さな多山の島国がどのように世界と緊密につながっているかを感じることができます。ユーラシア大陸と太平洋プレートの境界に位置する台湾は、地質断層線によって玉山が隆起するだけでなく、文化や価値観の衝突の中で多様で強靭な社会を発展させてきました。"
   }
 }
