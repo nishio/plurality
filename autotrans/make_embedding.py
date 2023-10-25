@@ -14,14 +14,14 @@ from vectorstore import VectorStore
 
 """
 # Targets
-When same content exist in multiple files, preceding target will be shown as a reference. So:
-- English should be the first
-- Auto-translated contents should be the bottom
+When same content exist in multiple files, last target will be shown as a reference. So:
+- English should be the last
+- Auto-translated contents should be the top
 """
 dirs = [
-    "../contents/english",
-    "../contents/traditional-mandarin",
     "../contents/japanese-auto",
+    "../contents/traditional-mandarin",
+    "../contents/english",
 ]
 targets = []
 for d in dirs:
@@ -105,7 +105,6 @@ def main(
 
     data = []
     not_to_embed = json.load(open("not_to_embed.json", "r", encoding="utf-8"))
-    x = []
     for page in targets:
         with open(page, "r", encoding="utf-8") as f:
             lines = f.readlines()
