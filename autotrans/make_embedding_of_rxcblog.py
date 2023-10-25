@@ -1,9 +1,6 @@
 """
 Make embedding vectors for each line in the manuscript of RxC blog.
 Derived from make_embedding.py
-
-$ git clone https://github.com/RadicalxChange/www.git
-
 """
 
 import os
@@ -16,60 +13,52 @@ from vectorstore import VectorStore
 
 """
 # Targets
-When same content exist in multiple files, preceding target will be shown as a reference. So:
-- English should be the first
-- Auto-translated contents should be the bottom
+
+$ git clone https://github.com/RadicalxChange/www.git
+
+When same content exist in multiple files, last target will be shown as a reference.
+It is sorted by file name, and the name starts with date, so the latest blog will be the last.
 """
 dirs = [
-    "../contents/english",
-    "../contents/traditional-mandarin",
-    "../contents/japanese-auto",
+    "www/src/site/media/blog",
 ]
 targets = []
 for d in dirs:
     targets += list(sorted(f"{d}/{f}" for f in os.listdir(d)))
 print(targets)
 
+not_to_embed = json.load(open("not_to_embed.json", "r", encoding="utf-8"))
+
 
 def to_skip(line):
     if not line:
         return True
-    if line.strip() == "":
+    line = line.strip()
+    if line == "":
         return True
     if line.startswith("<img src="):
         return True
-    if "| 作者" in line or "| 譯者" in line:
+    if line.startswith("<div"):
+        return True
+    if line.startswith("<ol"):
+        return True
+    if line.startswith("layout: "):
+        return True
+    if line.startswith("postAuthor: "):
+        return True
+    if line.startswith("style="):
+        return True
+    if line.startswith("date: "):
+        return True
+    if line.startswith('<p class="youtube-container">'):
         return True
 
+    if "| 作者" in line or "| 譯者" in line:
+        return True
+    if line in not_to_embed:
+        return True
     return False
 
-
-"""
-# Check repeatedly occuring lines
-the result is saved to `not_to_embed.json` and reused.
-"""
-if 0:
-    used = set()
-    not_to_embed = set()
-    for page in targets:
-        with open(page, "r", encoding="utf-8") as f:
-            lines = f.readlines()
-        for line in lines:
-            line = line.rstrip("\n")
-            if to_skip(line):
-                continue
-            if line in used:
-                print(repr(line))
-                not_to_embed.add(line)
-            else:
-                used.add(line)
-
-    json.dump(
-        list(not_to_embed),
-        open("not_to_embed.json", "w", encoding="utf-8"),
-        ensure_ascii=False,
-        indent=2,
-    )
 
 dotenv.load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
@@ -105,29 +94,38 @@ def main(
     vs = VectorStore(out_index)
 
     data = []
-    not_to_embed = json.load(open("not_to_embed.json", "r", encoding="utf-8"))
-    x = []
     for page in targets:
         with open(page, "r", encoding="utf-8") as f:
             lines = f.readlines()
+        basename = page.replace("www/src/site/media/blog/", "").replace(".md", "")
+        # print(basename)
+        assert basename[10] in "-_"
+        url_id = basename[11:]
+        url = f"https://www.radicalxchange.org/media/blog/{url_id}/"
+        print(url)
+
         for line in lines:
             line = line.rstrip("\n")
+            if line.startswith("title: "):
+                title = line.replace('title: "', "").rstrip('"')
+                print(title)
             if to_skip(line):
                 continue
             if line in not_to_embed:
                 continue
-            title = page.replace("../contents/", "").replace(".md", "")
-            data.append((line, title))
+            # url = https://www.radicalxchange.org/media/blog/2018-11-26-4m9b8b/
+            data.append((line, title, url))
 
     for p in tqdm(data):
-        line, title = p
+        line, title, url = p
         # replace special token
         line = line.replace("<|endoftext|>", " ")
         payload = {
             "title": title,
-            "project": "pluralitybook",
+            "project": "rxc_blog",
             "text": line,
             "is_public": True,
+            "url": url,
         }
         add(line, payload)
 
@@ -151,4 +149,7 @@ def main(
 
 
 if __name__ == "__main__":
-    main("plurality.pickle")
+    main("rxc_blog.pickle")
+    import upload_embedding
+
+    upload_embedding.main(["rxc_blog.pickle"], IS_LOCAL=False)
