@@ -5077,5 +5077,389 @@
   },
   "而且，「監督」僅僅是各種不同類型的社群（從標會到國家）為了創造這種因地制宜的金融自由，所須承擔的責任的開端。這樣的監督並不只是單純地窺探行為。相反地，其旨在防止一系列的金融犯罪，從詐欺到與違反國際法的侵害者進行交易。除了這些引人注目的違法行為之外，還有一系列交易都對交易雙方以外的其他人，具有是否合法的重要性：如藥物/毒品和武器的銷售、承擔未報告的債務從而影響他人償還其他債務的能力、應稅銷售額等等。這些全部都表明出，為何匿名、無法課責的現金，以及政府對帳戶的集中控制，都不足以理解多元的商業信任體系。": {
     "ja": "そして、「監督」は、さまざまな種類のコミュニティ（団体から国家まで）がこのような状況に応じた金融の自由を創造するために負うべき責任の始まりです。このような監督は、単に行動を監視することだけではありません。それはむしろ、詐欺から国際法違反者との取引まで、さまざまな金融犯罪を防止することを目的としています。これらの顕著な違法行為に加えて、薬物/麻薬や武器の販売、報告されていない債務を負担し、他の債務の返済能力に影響を与えるなど、取引の双方以外の他の人々にとっても合法性が重要です。これらすべては、なぜ匿名で責任を追及できない現金や政府による口座の集中的な制御だけでは多様なビジネス信頼体制を理解するのに十分ではないことを示しています。"
+  },
+  "Standing at the summit of Yushan, the highest peak in East Asia, one can not only overlook the terrain of Taiwan but also perceive how this small, mountainous island nation is intricately connected to the world. Located at the intersection of the Eurasian and the Pacific tectonic plates, Taiwan's geological fault lines have not only elevated Yushan but have also fostered a diverse and resilient society amid the clash of cultures and values.": {
+    "ja": "東アジア最高峰の玉山に立っていると、台湾の地形を見渡すだけでなく、この小さな山岳地帯の島国が世界と複雑につながっていることがわかります。ユーラシアと太平洋のテクトニックプレートの交差点に位置する台湾の地質的な断層線は、玉山を高めるだけでなく、文化や価値観の衝突の中で多様で強靭な社会を育んできました。"
+  },
+  "Taiwan has combined advanced technology and the plural spirit of the digital realm with the philosophy of broadband human rights and social resilience, transforming them into tools that promote inter-group connectivity and warmth. This is confirmed by Taiwan's role in the global digital network topology: Not just a \"republic of citizens\" but also a global carrier of diverse values and the spirit of collaboration.": {
+    "ja": "台湾は、先進技術とデジタル領域の多元的な精神をブロードバンド人権と社会的な弾力性の哲学と組み合わせ、それらを相互グループの連結と温かさを促進するツールに変えました。これは、台湾がグローバルなデジタルネットワークのトポロジーにおける役割によって確認されています。単なる「市民の共和国」だけでなく、多様な価値観と協力の精神を持つグローバルなキャリアでもあります。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Beyond these formal technologies, organizations and standards, broader and more diffuse concepts, expectations and norms will have to develop so to ensure broad understanding of what is at stake in data collaborations, so that contributors feel empowered to strike fair agreements and hold their collaborators accountable.  Given the pace of technological change and adaptation in what data collaborations will thus become, these norms will both have to become pervasive and reasonably stable *and* dynamic and adaptive.  Achieving this will require practices of education and cultural engagement that keep pace with technical change, as we discuss in the following chapters.": {
+    "ja": "これらの形式的な技術、組織、および標準の他にも、データの共同作業における利害関係者が公正な合意を結び、共同作業者に責任を負わせるために、広範でより拡散した概念、期待、および規範が開発されなければなりません。技術の変化と適応の速度を考慮すると、これらの規範は普及し、比較的安定しているだけでなく、動的かつ適応的でなければなりません。これを実現するには、技術の変化に遅れを取らない教育と文化的な関与の実践が必要です。次の章で議論するように。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; The evolution of property in name spaces has been even more radical.  Traditionally the Internet Corporation for Assigned Names and Numbers (ICANN) allowed registration of domain names at relatively low cost with nominal fees for renewal, similar to the property-like licensing regime for spectrum.  While this system has evolved, the more fundamental change has been that today, most people reach website through search engines rather than direct navigation.  These engines usually list sites associated with a given name based on a variety of (mostly not publicly disclosed) signals of their relevance to users as well as including some paid advertisements that are auctioned in real-time.  While relevance algorithms are something of a black box, a reasonable first mental model for them is the original \"PageRank\" algorithm of Google founders Sergey Brin and Larry Page, which ranked pages based on their \"network centrality\", a notion related to the network-based voting systems we will discuss in our chapter on \"Voting\" below.  Thus, to a first blush, we can think of the *de facto* property regime of internet name spaces today as being a combination of collective direction towards the interest of browsers (rather than domain owners) combined with a real-time auction for domain owners.  Both are a far cry from traditional property systems.": {
+    "ja": "名前空間における財産の進化はさらに根本的でした。従来、インターネットアドレスと番号の管理機関（ICANN）は、ドメイン名の登録を比較的低コストで行い、更新には名目的な料金がかかりました。これは、スペクトルのような財産のようなライセンス制度と似ています。このシステムは進化してきましたが、より基本的な変化は、今日、ほとんどの人が直接ナビゲーションではなく、検索エンジンを介してウェブサイトにアクセスすることです。これらのエンジンは、一般に、ユーザーに関連性のある名前に関連付けられたサイトをリストアップします。これは、（ほとんど公開されていない）さまざまな信号に基づいています。また、リアルタイムでオークションにかけられる一部の有料広告も含まれています。関連性のアルゴリズムは、ブラックボックスのようなものですが、最初のメンタルモデルとしては、Googleの創設者であるセルゲイ・ブリンとラリー・ページのオリジナルの「PageRank」アルゴリズムに基づいてページをランク付けしています。これは、ネットワークベースの投票システムと関連する概念であり、以下の「投票」の章で議論する予定です。したがって、第一印象では、インターネット名前空間の事実上の財産制度は、ブラウザの利益（ドメイン所有者ではなく）に向けられた集団的な方向性と、ドメイン所有者向けのリアルタイムオークションの組み合わせと考えることができます。どちらも、従来の財産制度とは大きく異なります。"
+  },
+  "# Access": {
+    "ja": "アクセス"
+  },
+  "Long before the rise of the internet, access to information had always been a crucial part of human civilization: as Sir Francis Bacon put it centuries ago, “knowledge is power”. In today’s information age, and even more in the future we describe in this book, it is increasingly impossible to deny the literal truth of this dictum. While the previous chapters of this section of the book focus on the aspects of digital life that ensure human rights, these mean nothing to human life unless every human can securely and with integrity access this world we imagine. In this chapter, we will explore what making such access a fundamental right must mean.": {
+    "ja": "インターネットの台頭のはるか前から、情報へのアクセスは人類の文明の重要な一部であった。数世紀前にサー・フランシス・ベーコンが言ったように、「知識は力である」。情報化時代の今日、そしてこの本で描かれる未来においては、この格言の文字通りの真実を否定することはますます不可能になっている。本書のこのセクションの前の章では、人権を保証するデジタルライフの側面に焦点を当てていますが、これらは私たちが想像するこの世界に安全かつ信頼性のあるアクセスを提供しない限り、人間の生活には何の意味もありません。この章では、そのようなアクセスを基本的な権利とするために何をする必要があるのかを探求します。"
+  },
+  "This idea must stretch beyond simple access, to access with integrity. If the information some receive is accurate and others corrupted, it is worse than if the latter had no access at all. Democracy depends on a populace that can fully participate: every voice is critical. While, as we have emphasized above, different communities make sense of the pattern of facts in different ways.  But this diversity of perspective must come founded on underlying common access to uncorrupted input data if it is to contribute to a plural future. We all can and must make our own meanings of life, but we are denied our equal right to do so if some of us receive manipulated versions of the inputs to the global information commons.": {
+    "ja": "このアイデアは、単純なアクセスを超えて、完全なアクセスを持つことが必要です。もし情報が正確なものと他の人が改ざんされたものを受け取る場合、後者がまったくアクセスできないよりも悪いです。民主主義は、完全に参加できる人々に依存しています：すべての声が重要です。前述のように、異なるコミュニティは事実のパターンを異なる方法で理解することができます。しかし、この多様性の視点は、未来の多元性に貢献するために、改ざんされていない入力データへの共通のアクセスに基づいている必要があります。私たちは皆、人生の意味を自分自身で作り出すことができ、それをする権利を平等に与えられていますが、グローバルな情報共有の入力の一部が操作されたバージョンを受け取る場合、その権利は否定されます。"
+  },
+  "From the United Nations' adoption of the Universal Declaration of Human Rights in 1948 to the Declaration for the Future of the Internet in 2022, human society has continuously emphasized the importance of freedom of expression and access. These two documents illustrate a pathway that extends from basic human rights to the principles of freedom and security in the digital age. In 2023, the Global Declaration on Information Integrity Online directly addressed the collective challenges posed by generative AI and its potential for mass manipulation.": {
+    "ja": "1948年の国際連合による人権宣言から2022年のインターネットの未来に関する宣言まで、人類社会は絶えず表現の自由とアクセスの重要性を強調してきました。これらの2つの文書は、基本的な人権からデジタル時代の自由と安全の原則に至る経路を示しています。2023年には、グローバル情報インテグリティオンライン宣言が、生成AIによる集団的な課題とその大規模な操作の可能性に直接取り組んでいます。"
+  },
+  "In simple terms, we must ensure that everyone has equal access to contextually complete information; otherwise, it can become worthless or even a harmful weapon. This imperative is not solely driven by digital technology; it also requires a collective, universal, and inclusive digital alliance, supported by a democratic structure. In today's era, where internet access is considered a digital human right, the spirit of pluralism flows seamlessly across the globe, much like the ancient concept of 'dao.' This spirit is woven from zeros and ones, continuously expanding our 'internet of beings' and integrating with societal structures in ways that combine democratic governance with collaborative technology. Thus, 'access' signifies not just technological availability but also contributes to the realization of everyone's innate vision, naturally fostering trust, mutual respect, and safety.": {
+    "ja": "簡単に言えば、私たちは誰もが文脈に即した完全な情報に平等にアクセスできることを確保しなければなりません。そうでなければ、それは無価値になるか、さらには有害な武器になる可能性があります。この命令はデジタル技術だけでなく、民主的な構造に支えられた集団的で普遍的で包括的なデジタル連携も必要とします。インターネットアクセスがデジタル人権と見なされる現代の時代において、多元主義の精神は古代の「道」の概念と同様に世界中にシームレスに広がっています。この精神は0と1から織り成され、私たちの「存在のインターネット」と統合し、民主的な統治と協働技術を組み合わせた社会的な構造と結びついています。したがって、「アクセス」とは単に技術的な利用可能性だけでなく、誰もが持つ固有のビジョンの実現にも貢献し、信頼、相互尊重、安全を自然に育むことを意味します。"
+  },
+  "Next, we will clarify the current status of internet access, countries' efforts towards access, as well as our expectations for the digital environment and prospects for future development. ": {
+    "ja": "次に、インターネットアクセスの現状、各国の取り組み、デジタル環境への期待、将来の発展の見通しについて明確にします。"
+  },
+  "### Bridging the Digital Divide": {
+    "ja": "### デジタルディバイドの克服"
+  },
+  "In the course of global digitalization, nations like Taiwan, Estonia, and the Scandinavian nations have pioneered the principle of digital access as a foundational right through proactive government support for internet development, cross-disciplinary collaboration, and the involvement of local community workers as key policy and implementation participants. But this is just a downpayment on the long-term investment we need to support digital public infrastructure. These collective efforts not only propel societal change but also help consolidate democratic values and establish collective consensus. It is no surprise that these countries that lead in access are also those which have most strongly embraced the substantive digital democracy we discuss in the next section of the book.": {
+    "ja": "グローバルなデジタル化の過程で、台湾、エストニア、そしてスカンジナビア諸国のような国々は、積極的な政府のインターネット開発支援、学際的な協力、地域のコミュニティワーカーの関与を通じて、デジタルアクセスを基盤とした権利の先駆者となってきました。しかし、これはデジタル公共インフラを支援するために必要な長期的な投資の一部に過ぎません。これらの集合的な取り組みは、社会的な変革を推進するだけでなく、民主的な価値観を確立し、共通の合意を形成するのにも役立っています。アクセスのリードをするこれらの国々が、次のセクションで議論する実質的なデジタル民主主義を最も強く受け入れているのは驚くことではありません。"
+  },
+  "Yet, these positive outcomes are not widespread. Digital disparity exemplifies social polarization, particularly between rural and urban areas. Prior to the pandemic, 76% of urban households around the world had access to home internet, which was nearly double the 39% in rural regions. The pandemic has intensified public attention on such disparities as more areas of life — from work and education to socializing — have moved online. The International Telecommunication Union (ITU) reports that in 2020 alone, 466 million people used the internet for the first time. While the number and global penetration of internet users have continued to grow through 2021 to 2022, multifaceted inequalities in internet access remain. These contribute to a wide range of economic, political, and social inequities.": {
+    "ja": "しかし、これらのポジティブな結果は広範囲には広がっていません。デジタル格差は社会の分断を象徴しており、特に都市部と農村部の間で顕著です。パンデミック前、世界中の都市部の世帯の76%が自宅のインターネットにアクセスできる状況であり、これは農村地域の39%のほぼ2倍でした。パンデミックにより、仕事や教育から交流まで、生活のさまざまな領域がオンラインに移行したことで、このような格差に対する公衆の関心が高まりました。国際電気通信連合（ITU）によると、2020年だけで4億6600万人が初めてインターネットを利用しました。インターネット利用者の数と世界的な普及率は2021年から2022年にかけても増加し続けていますが、インターネットへのアクセスにおける多面的な不平等は依然として存在しています。これらは経済、政治、社会のさまざまな不平等に寄与しています。"
+  },
+  "2.7 billion people globally are still without internet access. The geographic distribution of access reflects global inequality. The internet is fraught with multidimensional inequalities in geography, politics, gender, and age. Addressing these issues requires a global, grand vision, widespread implementation, and large-scale promotion. [Need more data here]": {
+    "ja": "世界中で27億人がまだインターネットにアクセスできていません。アクセスの地理的な分布は、世界的な不平等を反映しています。インターネットは、地理、政治、ジェンダー、年齢の多次元的な不平等に満ちています。これらの問題に対処するには、グローバルな大きなビジョン、広範な実施、大規模な普及が必要です。[ここにはさらなるデータが必要です]"
+  },
+  "Building on previous chapters of this book, we need to understand the fundamental right of access from plural perspectives, and the role of policymakers is crucial. They need to focus on global digital divides and take corresponding measures to resolve the inequality in access. Such steps must also include investment in digital public infrastructure to protect contextual integrity for online exchange.": {
+    "ja": "この本の前の章に基づいて、私たちは複数の視点からアクセスの基本的な権利を理解する必要があります。そして、政策立案者の役割は重要です。彼らはグローバルなデジタル格差に焦点を当て、アクセスの不平等を解消するための対策を取る必要があります。また、オンラインの交換のための文脈の整合性を保護するために、デジタル公共インフラへの投資も含まれる必要があります。"
+  },
+  "While openness is promoted, digital participants also need to contribute their efforts to illuminate the dark and tricky corners existing on the internet, watching out for each other. Of course, this issue touches upon global social structures and cultural diversity. Fortunately, we no longer need to cross oceans as Tocqueville did to learn from the valuable experiences of different countries in building digital democracy and sustainable development.": {
+    "ja": "オープンさが推進される一方で、デジタル参加者はインターネット上に存在する暗くてトリッキーな角を照らすために自分たちの努力を貢献する必要もあります。もちろん、この問題はグローバルな社会構造と文化の多様性に関わるものです。幸いなことに、私たちはもはやトクヴィルが異なる国々の貴重な経験を学ぶために海を渡る必要はありません。デジタル民主主義と持続可能な発展を築くための。"
+  },
+  "In short, we are at a global turning point. To safeguard and establish a more safe and open digital access environment, there are two important courses of action:": {
+    "ja": "簡単に言えば、私たちは世界的な転換点にいます。より安全でオープンなデジタルアクセス環境を確保し、確立するために、2つの重要な行動があります："
+  },
+  "1. Digital Infrastructure: Develop an interoperable model for international infrastructures that overcomes the challenges of collective action we discuss in the Markets chapter below, thereby providing equitable services globaly.": {
+    "ja": "1. デジタルインフラストラクチャー：私たちが以下のマーケット章で議論する集団行動の課題を克服するための国際的なインフラストラクチャーの相互運用モデルを開発し、公正なサービスをグローバルに提供します。"
+  },
+  "2. Information Integrity: Address the challenges posed by mimetic models (so-called “deepfakes”) to maintain semantic security and allowing continued enjoyment ofy the benefits of the digital age.": {
+    "ja": "2. 情報の完全性：模倣モデル（いわゆる「ディープフェイク」）がもたらす課題に対処し、意味的なセキュリティを維持し、デジタル時代の恩恵を継続的に享受することを可能にします。"
+  },
+  "If we can advance these two fundamental rights, the other rights described in this section can reach into the lived experience of all people and serve as a substrate not just of collective intelligence “online”, but in the daily lives of everyone across the world. As we have highlighted throughout the book, many public services and social interactions in today's digital environment seem overshadowed by capitalism. Nowadays, \"internet access is a human right.\" is nearly a consensus among democracies. What remains is to untangle the complications between democracy and internet access.": {
+    "ja": "これらの2つの基本的な権利を前進させることができれば、このセクションで説明されている他の権利は、すべての人々の生活体験に届き、世界中のすべての人々の日常生活の基盤となることができます。本書全体を通じて強調してきたように、現代のデジタル環境における多くの公共サービスや社会的な相互作用は、資本主義によって影を落とされているように思われます。現在では、「インターネットへのアクセスは人権である」ということが民主主義の間でほぼ合意されています。残されているのは、民主主義とインターネットへのアクセスの複雑さを解きほぐすことです。"
+  },
+  "### Infrastructures for Information Integrity": {
+    "ja": "情報の完全性のためのインフラストラクチャ"
+  },
+  "Forestry expert Suzanne Simard focuses on exploring the collaborative nature of forests, viewing them as intelligent systems. These forests not only possess self-awareness and spontaneous development capabilities, but also feature close interactions between various ecological components. Simard has studied how tree roots and symbiotic mycorrhizal fungi communicate in the soil layers of ancient forests in British Columbia. She discovered that in this environment driven by fungal networks, different types of trees can send warning signals to each other and share essential sugars, water, carbon, nitrogen, and phosphorus.": {
+    "ja": "森林の専門家であるスザンヌ・シマードは、森林の協調性を探求し、それらを知的なシステムと見なしています。これらの森林は、自己認識と自発的な発展能力を持つだけでなく、さまざまな生態系の要素との密接な相互作用も特徴としています。シマードは、ブリティッシュコロンビア州の古代の森林の土壌層で、木の根と共生菌のコミュニケーションについて研究してきました。彼女は、菌糸網によって駆動されるこの環境では、異なる種類の木々がお互いに警告信号を送り合い、必要な糖分、水、炭素、窒素、リンを共有することを発見しました。"
+  },
+  "In such a vibrant forest, a single 'mother tree' can establish connections with hundreds of other trees. Multiple such mother trees ensure the continuity of the entire forest as a collective organism through overlapping networks, ensuring a secure and robust environment through open connections.": {
+    "ja": "そんな活気ある森の中で、一本の「母木」は数百本の他の木とつながりを築くことができます。複数の母木が重なり合うネットワークを通じて、森全体が一つの集合的な生物としての連続性を確保し、オープンなつながりを通じて安全で堅牢な環境を確保します。"
+  },
+  "Digital infrastructure follows a similar pattern with open source and open data. It serves as a public foundation that is open to the global community, collaborating with tens of thousands of digital communities while offering open and secure Internet access and jointly defending against immediate digital threats.": {
+    "ja": "デジタルインフラストラクチャは、オープンソースとオープンデータと同様のパターンに従います。それは、グローバルコミュニティに開かれた公共の基盤として機能し、数万のデジタルコミュニティと協力しながら、オープンで安全なインターネットアクセスを提供し、即座のデジタル脅威に共同で対処します。"
+  },
+  "Taiwan is one of the world’s primary DDoS hotspots, according to Cloudflare's report. Its government has adopted the IPFS framework discussed in the previous chapter for its websites, allowing it to interconnect with both private digital services and emerging open networks. This structure is not only more resistant to sudden DDoS attacks and is conducive to open collaboration and mutual support with global technology communities. This provides an illustration of making systems more robust against information manipulation.": {
+    "ja": "台湾は、Cloudflareのレポートによれば、世界の主要なDDoSのホットスポットの一つです。台湾政府は、前の章で議論されたIPFSフレームワークをウェブサイトに採用しており、これにより、プライベートなデジタルサービスと新興のオープンネットワークとの相互接続が可能になっています。この構造は、突然のDDoS攻撃に対してより耐性があり、グローバルなテクノロジーコミュニティとのオープンな協力と相互支援にも適しています。これにより、情報操作に対してシステムをより堅牢にする方法が示されています。"
+  },
+  "Furthermore, it is essential to ensure that people have the right to access information with contextual confidence. The primary goals of open government data align with this: granting more power to citizens, increasing government transparency and accountability, thus effectively combating corruption and enabling democratic systems serve the people more efficiently. The Ukrainian \"Diia\" and the Estonian \"mRiik\" serve as examples that highlight the bidirectional features of trusted networks and information openness.": {
+    "ja": "さらに、人々が文脈に自信を持って情報にアクセスする権利を持つことが重要です。オープンガバメントデータの主な目標は、これに合致しています：市民により多くの権力を与え、政府の透明性と説明責任を高め、腐敗を効果的に撲滅し、民主的なシステムがより効率的に人々に奉仕することを可能にすることです。ウクライナの「Diia」とエストニアの「mRiik」は、信頼できるネットワークと情報のオープン性の双方向の特徴を強調する例です。"
+  },
+  "Both Estonia and Ukraine are proactive in digitalization toward public participation. They make digital technology a genuinely necessary social tool for the public, providing secure, open digital public services for citizens to access government services and real-time information. Diia has shown the world how digital technology can break down long-standing corruption. This year, Estonia launched its latest app \"mRiik,\" largely inspired by the Ukrainian app Diia.[^Diia]": {
+    "ja": "エストニアとウクライナは、公共参加に向けたデジタル化に積極的です。彼らはデジタル技術を公共の必要な社会ツールとし、市民が政府のサービスやリアルタイム情報にアクセスできる安全でオープンなデジタル公共サービスを提供しています。Diiaは、デジタル技術が長年の腐敗を打破することができることを世界に示しました。エストニアは今年、ウクライナのアプリDiiaに大いに触発された最新のアプリ「mRiik」を発表しました。[^Diia]"
+  },
+  "Digital infrastructure does not point to a one-size-fits-all solution; each nation still needs to adapt based on its unique development needs. However, the fundamental functions and democratic essence are similar values and offer a common ground for expansion. Taiwan, Estonia, and Ukraine show us how information integrity and digital infrastructure intertwine to enhance societal resilience. [More About the Ambitious Vision for the Future]": {
+    "ja": "デジタルインフラストラクチャは、一つのサイズが全てに適合する解決策を指すものではありません。各国はまだ独自の開発ニーズに基づいて適応する必要があります。しかし、基本的な機能と民主主義の本質は類似した価値観であり、拡大のための共通の土台を提供します。台湾、エストニア、ウクライナは、情報の信頼性とデジタルインフラストラクチャが社会の強靭性を高めるためにどのように絡み合っているかを示しています。[将来の野心的なビジョンについての詳細]"
+  },
+  "In conclusion, the right to access is a cornerstone for achieving digital democracy and social inclusivity. To move towards such a future requires multi-dimensional efforts, including technological innovation and policy cooperation. The next chapter will delve deeper into these intertwined issues.": {
+    "ja": "結論として、アクセス権はデジタル民主主義と社会的包摂を実現するための基盤です。このような未来に向けて進むためには、技術革新と政策協力を含む多次元の取り組みが必要です。次の章では、これらの絡み合った問題について詳しく掘り下げます。"
+  },
+  "[^Diia]: Ukrainian Digital Minister Mykhailo Fedorov said, \"[Diia is willing to share its code and UX/UI design methods with Estonia](https://mezha.media/2023/01/19/diia-mriik/)\"": {
+    "ja": "[^Diia]: ウクライナのデジタル大臣、ミハイロ・フェドロフ氏は、「[DiiaはエストニアとそのコードとUX/UIデザインの方法を共有する意思がある](https://mezha.media/2023/01/19/diia-mriik/)」と述べました。"
+  },
+  "臺灣透過寬頻人權、社會韌性的理念，將尖端科技與數位多元精神相互結合，且轉化為促進族群連接與溫度的輔具。這一點，由臺灣在全球數位社群網絡拓撲（network topology）中的角色得以確認：不僅是「公民之國」，也是多元價值和合作精神的全球載體。": {
+    "ja": "台湾は、広帯域の人権と社会的な強さの理念を通じて、先端技術とデジタルの多様性を組み合わせ、民族のつながりと温かさを促進するための支援を提供しています。この点は、台湾がグローバルなデジタルコミュニティネットワークのトポロジーで果たす役割から確認できます。台湾は「市民の国」だけでなく、多様な価値観と協力精神を持つグローバルなキャリアでもあります。"
+  },
+  "幸運的是，這樣的情形已經逐漸改變。過去十年的發展，已經適時的承擔起網際網路「缺失層」的重任。這些工作包括 「web3」和「分散式資訊網」生態、歐洲的 Gaia-X 資料共享框架、各式數位原生貨幣和支付系統的開發，以及最突出的，是對 \"數位公共建設\" 不斷增長的投資 -- 印度在過去十年中開發的 \"India stack\" 就是一個例子。這些努力往往資金不足、在不同國家和意識形態間顯得支離破碎、往往野心不足，或是受到 AT 和 ES 意識型態的誤導。然而，它們共同形塑了建設多元宇宙的堅韌基礎。接下來，我們將展示出如何在這些專案的基礎上建設、為它們的未來投資，摸索出走向多元未來的路徑。": {
+    "ja": "幸運なことに、このような状況は徐々に変わってきています。過去10年の進展により、インターネットの「欠落層」を適時に担うようになりました。これらの取り組みには、\"web3\"や分散型情報ネットワークのエコシステム、欧州のGaia-Xデータ共有フレームワーク、さまざまなデジタルネイティブ通貨や支払いシステムの開発、そして最も注目すべきは、デジタルパブリックインフラストラクチャへの投資の増加です。過去10年間にインドで開発された「India stack」はその一例です。これらの取り組みはしばしば資金不足であり、異なる国やイデオロギーの間で分断され、野心が足りないことがあり、ATとESのイデオロギーに誤解されることもあります。しかし、これらの取り組みは多様な宇宙を構築するための堅固な基盤を共有しています。次に、これらのプロジェクトを基盤として、それらの未来に投資し、多様な未来への道を探求する方法を示します。"
+  },
+  "這些身分形式，正是我們討論中最為多樣化、卻也是共同特徵最少的一組。不過它們也有一些共同特質，這些特質恰好與分散性、異質性緊密關聯： ": {
+    "ja": "これらのアイデンティティ形式は、私たちが議論する中で最も多様であり、共通の特徴が最も少ないグループです。ただし、これらの形式にはいくつかの共通の特性もあります。これらの特性は、分散性と異質性と密接に関連しています。"
+  },
+  "1. 這些系統高度碎片化、互通性相對有限，很少形成同盟或彼此相互連接，因此應用範圍往往非常受局限。": {
+    "ja": "1. これらのシステムは高度に分断され、相互運用性が比較的に制限されており、同盟を形成したり相互に接続したりすることはほとんどありません。そのため、これらのシステムの適用範囲は通常非常に限られています。"
+  },
+  "雖然這些例子，可能是數位身分中最邊緣化的一群，不過它們或許最能顯示數位身分的系統狀態。數位身分系統是異質的，通常相當不安全，互通性弱且功能受限，同時允許權力集中的實體對其進行普遍監控，在許多情況下都破壞了它們本應該保護的隱私常規。這些問題，現在已經越來越被關注，也讓許多技術專案，將重點放在如何克服這些問題上。": {
+    "ja": "これらの例は、デジタルアイデンティティの中でも最も周辺化されたグループかもしれませんが、それらはデジタルアイデンティティシステムの状態を最もよく示すかもしれません。デジタルアイデンティティシステムは異質であり、通常非常に安全ではなく、相互運用性が低く機能が制限されています。同時に、権力を持つエンティティによる普遍的な監視を許可しており、多くの場合、それらが保護すべきプライバシーの規則を破壊しています。これらの問題は、ますます注目されており、多くの技術プロジェクトがこれらの問題を克服する方法に焦点を当てています。"
+  },
+  "與此同時，這些系統在識別和保護身分的能力方面，也面臨很大的局限性。將如此廣泛的互動，與單一的生物識別基礎聯繫起來，就必須進行極為嚴格的權衡考量。一方面，如果（比如：Aadhaar 系統中）程式管理員不斷驗證生物識別技術，並將相關的活動與它聯繫起來，他們就有可能獲得前所未有的能耐，來監視公民在廣泛領域參加的活動，並且也可能向弱勢群體的身分，進行破壞或具有針對性的活動。一些社運人士，曾多次就印度穆斯林少數民族的地位問題，提出過對此類問題的憂慮。": {
+    "ja": "同時、これらのシステムは、身元の識別と保護の能力においても非常に制約があります。このような広範な相互作用を単一の生体識別基盤に関連付けるためには、非常に厳格なバランスを取る必要があります。一方、（例えばAadhaarシステムの場合）プログラム管理者が生体識別技術を継続的に検証し、関連する活動と関連付ける場合、彼らは公民が広範な領域で参加する活動を監視するための前例のない能力を持つ可能性があり、また、弱者の身元に対して破壊的または標的型の活動を行う可能性もあります。一部の社会運動家は、インドのムスリム少数民族の地位問題に関して、このような問題に対する懸念を何度も表明してきました。"
+  },
+  "另一方面來看，如果像 Worldcoin 那般，只在初始化帳戶時使用生物識別技術來保護隱私，也容易讓系統弱化，以致帳戶被竊取或出售。人們想要獲得的大多數服務，都不僅僅需要證明他們是一個獨一無二的人（例如，他們是某個國家的公民、某家企業的員工等）。極端保護隱私的作法，也削弱了系統大部分功效。再者，生物識別系統的技術性能，在這樣的系統裡承受非常大的負擔。如果說，在未來的某個時候，AI 可結合先進的列印技術來欺騙這些系統，那麼將可能出現極端的「單點故障」（SPOF）。總而言之，儘管生物識別系統具備了包容和便利性，但其功能過於單一，無法建立和保護支持多元宇宙所需的身分細緻樣態與安全性。 ": {
+    "ja": "一方面、Worldcoinのように、プライバシーを保護するために生体認証技術をアカウントの初期化時にのみ使用する場合、システムが弱体化し、アカウントが盗まれたり売られたりする可能性が高くなります。人々が必要とする多くのサービスは、彼らが唯一無二の存在であることを証明するだけでなく（例えば、彼らがある国の市民であること、ある企業の従業員であることなど）、プライバシーを極端に保護することは、システムのほとんどの機能を弱めます。また、生体認証システムの技術的な負荷は非常に大きくなります。将来的には、AIが先進的な印刷技術と組み合わせてこれらのシステムを欺くことができるようになるかもしれません。その場合、極端な「単一障害点」（SPOF）が発生する可能性があります。結論として、生体認証システムは包括性と利便性を備えていますが、多様な宇宙をサポートするために必要な身元の細かいパターンとセキュリティを確立することはできません。"
+  },
+  "是否有一種方法，可以克服這些看似無法調和的衝突，確保在不被集中監控的情況下，安全識別且有力的保護身分？此問題的答案，自然可以依循《我們遺忘的道》裡描繪的多元宇宙思想：重視身分的多樣性、相互交織性和網路架構的潛質。正如封包交換可將分散性與效用調和並實際連結、超文本將速度與文本路徑的多樣性調和起來一樣，通過合適的實驗和標準建設，「交織式身分識別方法」似乎越來越有可能調和身分識別與保護並重的目標。": {
+    "ja": "これらの見かけ上調和できない衝突を克服し、集中監視されずに安全に識別し、強力に身元を保護する方法はありますか？この問題の答えは、自然に「忘れられた道」で描かれた多元宇宙の考え方に従うことができます：身元の多様性、相互の絡み合い、ネットワークの潜在能力を重視します。パケットスイッチングが分散性と効率を調和させ、実際に接続することができるように、ハイパーテキストが速度とテキストパスの多様性を調和させるのと同様に、「絡み合い型身元識別方法」は、適切な実験と標準の構築によって、身元識別と保護の両方を重視する目標を調和させる可能性がますます高まっているようです。"
+  },
+  "* 複雜性：管理和處理如此多樣化的個人、機構之間的信任和驗證關係，已遠超出了大多數人甚至機構的能力範圍。不過，有一些合乎常理的方法，可以解決這樣的複雜性。一種方法是憑藉著經過訓練、不斷增長能力的生成式基礎模型（GFM），透過訓練它們對於個人或機構的關聯和輪廓理解，在多樣的訊號中提取意義；我們將在後面篇章裡，廣泛討論這樣的可能性。另一種方法，則是限制任何個人或機構必須管理的關係數量，轉而仰賴中等規模的機構（比如中型企業、教會）讓其扮演中介作用（Jaron Lanier和本書作者之一稱之為「個資仲介組織（MID）」，或者依靠「朋友的朋友」關係（我們稱之為 \"信任遞移\" ）。眾所周知，在少量連結（大約六度），幾乎可相連地球上的任何兩個人。我們將在下文討論這兩種方法的特性、權衡和相容性。": {
+    "ja": "* 複雑性：個人や組織間の信頼関係や検証関係を管理し処理する複雑性は、ほとんどの人や組織の能力を超えています。しかし、このような複雑性を解決するためには、合理的な方法があります。一つの方法は、訓練され、能力を向上させる生成型基礎モデル（GFM）を使用し、個人や組織の関連性や輪郭を理解し、多様な信号から意味を抽出することです。この可能性については、後の章で詳しく議論します。もう一つの方法は、個人や組織が管理しなければならない関係の数を制限し、中規模の組織（例えば中小企業や教会）が仲介役となることです（Jaron Lanierと本書の著者の一人はこれを「個人情報仲介組織（MID）」と呼んでいます）。または、「友人の友人」関係（私たちはこれを「信頼の伝達」と呼んでいます）に頼ることもできます。ご存知のように、少数のリンク（約6つ）で地球上のほぼどの2人でもつながることができます。これら2つの方法の特性、トレードオフ、互換性については、後述で議論します。"
+  },
+  "再說，利用遞移關係鏈來建立關係、資訊和效度的想法，自古就經常出現，也是「引介」的概念、「傳話遊戲」（強調其中某些局限性）、熱門的商業社交網站LinkedIn等等的基礎。在原本彼此陌生的人們之間，要搜尋和管理許多條可能的介紹鏈，顯然需要一些技術支援，但資訊科學研究已經證實了這類運算的可行性。這個問題在實務上，與為網際網路提供動力的封包交換技術基礎非常相似。": {
+    "ja": "再説、遞移関係鎖を利用して関係、情報、および有効性を構築するアイデアは、古くから頻繁に現れるものであり、また「紹介」の概念、または「電話ゲーム」（その制約の一部を強調したもの）や、人気のあるビジネスソーシャルネットワーキングサイトLinkedInなどの基礎でもあります。互いに知らない人々の間で、多くの可能な紹介鎖を検索および管理するには、明らかにいくつかの技術的なサポートが必要ですが、情報科学の研究はこの種の計算の実行可能性を証明しています。この問題は実際には、インターネットを駆動するパケット交換技術の基礎と非常に似ています。"
+  },
+  "# 財產與合約": {
+    "ja": "財産と契約"
+  },
+  "原文：PROPERTY AND CONTRACT": {
+    "ja": "翻訳：財産と契約"
+  },
+  "多元社會中的多數大規模合作，都是通過將資產集中到「法人」實體裡進行的，包括合夥關係、非營利組織、宗教和社會組織，當然還有公司。儘管，這些顯然不全是正式意義上的公司，但它們與公司一樣，都有以法律為基礎的合約協議，這個合約安排管理著資產（實物、智識、人力和財資）的共用，以實現共同目標。即使是最簡單、最常見、規模最小的合約，如租賃協議，也涉及到人與人之間的資產共用。": {
+    "ja": "多元社会における多くの大規模な協力は、資産を「法人」の実体に集中させることによって行われます。これには、パートナーシップ、非営利組織、宗教団体、社会組織、そしてもちろん会社も含まれます。これらは明らかに正式な意味での会社ではないかもしれませんが、法的な契約に基づいた合意があり、この契約によって資産（物品、知識、労働力、財務）の共有が管理され、共通の目標を達成します。最も単純で一般的で最小規模の契約である賃貸契約でさえ、人と人の間で資産の共有が関与しています。"
+  },
+  "利克最初構思「星際網際網路」的核心目標之一，就是促進運算、儲存、資料等數位資產的共享。某種程度上可以說，這樣的共享，正是今日數位經濟的核心，「雲」提供了巨大的共用運算和儲存池，而線上廣泛共享的資訊，則構成了席捲整個技術行業的生成式基礎模型（GFM）的基礎。然而，儘管這項工作取得了巨大成功，它卻局限於數位世界的有限切角，並且被一小部分高利潤、以營利為目的的實體所控制，這些實體的總部也集中在少數幾個國家。這既造成了機會的巨大浪費，也造成了權力的集中。網際網路可以實現廣泛的橫向資產共享 -- 這個夢想尚未實現。": {
+    "ja": "リックの最初の構想である「星際インターネット」の主な目標の一つは、計算、ストレージ、データなどのデジタルアセットの共有を促進することです。ある程度言えるのは、このような共有こそが今日のデジタル経済の核心であり、「クラウド」は大規模な共有計算とストレージプールを提供し、オンラインで広範に共有される情報は、技術産業全体を席巻する生成的基本モデル（GFM）の基盤を構成しているということです。しかし、この取り組みは大きな成功を収めたものの、デジタル世界の限られた側面に制約され、利益を追求する一部のエンティティによって支配されています。これらのエンティティの本部は、わずかな数の国に集中しています。これは大きな機会の浪費と権力の集中を引き起こしています。インターネットは広範な横断的資産共有を実現することができますが、この夢はまだ実現していません。"
+  },
+  "正如我們在本書這部分所討論的其他基礎協定一樣，人們一直在為了彌平差距做出顯著的努力。在本章中，我們將審視將這些數位資產共享的潛力、現在的情形，觀察現有努力，強調在其中的某些成果和局限性，並勾勒出可以克服這些問題和實現多元線上資產共享生態的路徑。": {
+    "ja": "本書のこのセクションで議論されている他の基本プロトコルと同様に、人々は格差を埋めるために大きな努力をしてきました。この章では、これらのデジタルアセットを共有するための潜在能力、現在の状況、既存の取り組みを検討し、その中での一部の成果と制約を強調し、これらの問題を克服し、多様なオンラインアセット共有エコシステムを実現するための道筋を示します。"
+  },
+  "### 數位時代的資產": {
+    "ja": "### デジタル時代の資産"
+  },
+  "數位世界，建立在物理世界之上。凱特·克勞佛（Kate Crawford）優美文藻筆下的《AI Atlas》，或許最能體現這點：電腦電路由稀有金屬製成，而這些稀有金屬的開採也帶來了各種社會挑戰 ; 資料中心的工作方式與發電廠十分相似，而且往往與發電廠同處一地 ; 資料是由 Mary Gray 和 Siddarth Suri 記錄的 「幽靈工人」等人創造的。[^Phys] 因此，任何關於數位領域的嚴謹論述，都必須處理實體不動產的關係。然而，從物理基礎中衍生的重要資產，卻是以數位原生的抽象形式存在，並且成為線上生活的關鍵組成部分。": {
+    "ja": "デジタルの世界は物理の世界の上に構築されています。ケイト・クロフォード（Kate Crawford）の美しい筆致で描かれた「AI Atlas」は、おそらくこれを最も体現しています：コンピュータの回路は希少な金属で作られており、これらの希少な金属の採掘はさまざまな社会的な課題を引き起こしています。データセンターの動作は発電所と非常に似ており、しばしば同じ場所に存在します。データはメアリー・グレイとシダールス・スリによって記録された「ゴーストワーカー」などによって作成されます。[^Phys] したがって、デジタル領域に関する厳密な論述は、物理的な不動産の関係を扱う必要があります。しかし、物理的な基盤から派生した重要な資産は、デジタルネイティブの抽象的な形式で存在し、オンライン生活の重要な構成要素となっています。"
+  },
+  "我們將著重探討無所不在的三個類別：儲存、運算和資料。 然而，還有許多其他例子與之交織，並面臨許多相關的挑戰，包括電磁光譜、程式碼、名稱和其他位址（例如網址）、虛擬世界中的「物理」空間，以及非同質化的憑證（NFT）。": {
+    "ja": "私たちは、ストレージ、計算、データの3つのカテゴリに焦点を当てて探求します。しかし、他にも多くの例があり、関連するさまざまな課題に直面しています。これには、電磁スペクトル、コード、名前や他のアドレス（例えばURL）、仮想世界の「物理」空間、非同質化トークン（NFT）などが含まれます。"
+  },
+  "儲存、運算和資料，是所有線上互動的核心。線上發生的任何事之所以能夠從這一時刻持續到下一時刻，正是因為它所依賴的資料儲存在某個地方。事件本身通過運算，來確定指令和操作的結果。而每一個操作的輸入和輸出，都是資料。基於這個意義上，儲存的作用大約類似於實體經濟中的土地，計算的作用類似於燃料，而資料的作用則類似於人力投入（有時稱為勞力）和人們創造並重複使用的人工製品（有時稱為資本）。": {
+    "ja": "ストレージ、計算、データは、オンラインの相互作用の中心です。オンラインで起こるすべてのことが、この瞬間から次の瞬間まで続くことができるのは、それが依存しているデータがどこかに保存されているからです。イベント自体は、計算によって、命令や操作の結果を確定します。そして、各操作の入力と出力は、データです。この意味で、ストレージの役割は、物理経済の土地に類似しています。計算の役割は、燃料に類似しています。そして、データの役割は、労働力（時には労働力とも呼ばれる）や人々が作り出し、繰り返し使用する人工製品（時には資本とも呼ばれる）に類似しています。"
+  },
+  "雖然土地、燃料、勞力和資本經常被視為「大宗物資」，但社會理論家卡爾·波蘭尼（Karl Polanyi）曾有過著名的主張，認為這是一種簡化的虛構。儲存、運算，尤其是資料是異質的，與地點、人群和文化息息相關，這些聯繫既影響了它們的性能特徵，也影響了在數位經濟和社會中使用它們的社會影響和意義。雖然這些挑戰對於「實體世界」中的虛擬商品來說是巨大的，但數位資產在某些方面，則面臨更為嚴峻的挑戰，至少社會還沒有足夠的時間來一同調整、圍繞著它們的經濟和社會結構。這些挑戰，是阻礙數位共享、財產和契約系統發揮作用的主要因素。": {
+    "ja": "土地、燃料、労働力、資本はしばしば「大量の物資」と見なされていますが、社会理論家のカール・ポラニーはこれを単純化された虚構と考えていました。ストレージ、計算、特にデータは異質であり、場所、人々、文化と密接に関連しています。これらの関係は、それらのパフォーマンス特性に影響を与えるだけでなく、それらをデジタル経済や社会で使用する社会的な影響と意味にも影響を与えます。これらの課題は、「物理的な世界」の仮想商品にとっては大きなものですが、デジタルアセットはいくつかの面でより深刻な課題に直面しています。少なくとも社会がそれらの経済や社会構造を調整するために十分な時間を持っていないためです。これらの課題は、デジタル共有、財産、契約システムの機能を妨げる主要な要因です。"
+  },
+  "### 星際電腦網路": {
+    "ja": "### 宇宙コンピュータネットワーク"
+  },
+  "利克在 1960 年發表的「星際電腦網路備忘錄」中，他並沒有特別關注在線上社交或是商業相關的潛力上，而這也正是他同時代、後來的許多文章的特點。相反地，或許是考慮到他當時的科學受眾，把重點放在了科學家通過個人電腦網路共用分析的工具、記憶體和存儲、計算和研究成果，從而大幅提高工作效率的潛力，以及這可能為相關軍事應用帶來的前景。這也是「分時」系統的自然延伸， \"分時\" 系統是利克資助的首批專案之一，其目的是通過允許眾多用戶共用一台大型電腦的容量，在大型主機時代實現 “個人電腦”體驗的雛形。從這個意義上說，網際網路剛開始首先是一個平台，而我們本章重點討論的正是大規模計算資源分享。": {
+    "ja": "利克は1960年に発表された「星際コンピュータネットワークメモ」で、オンラインソーシャルやビジネスに関連する潜在能力に特に注目していませんでした。これは彼の時代や後の多くの記事の特徴でもあります。その代わりに、彼の科学的な読者を考慮しているのかもしれませんが、個人のコンピュータネットワークを通じて科学者が分析ツール、メモリとストレージ、計算と研究成果を共有することによって効率を大幅に向上させる可能性、および関連する軍事応用にもたらす可能性に重点を置いています。これはまた、「タイムシェアリング」システムの自然な拡張でもあります。 \"タイムシェアリング\"システムは、リックが支援した最初のプロジェクトの一つであり、大型コンピュータの容量を多くのユーザーで共有することにより、大型ホスト時代における「パーソナルコンピュータ」の体験を実現することを目的としています。この意味で、インターネットは最初にプラットフォームであり、私たちがこの章で重点的に議論しているのは大規模な計算リソースの共有です。"
+  },
+  "想要了解為什麼，這樣一個看似枯燥的話題，會讓利克這樣廣智之人這麼興奮，我們不妨從現在往後回望，觀察他試圖克服的限制 ; 向前眺望，我們在實現如此願景時可能克服的挑戰。上世紀五六十年代，運算的主流模式是「大型主機」，主要由國際商業機器公司（IBM）銷售。這些機器價格昂貴，意圖為滿足整個企業、大學院校或其他大型集團的需求。要存取這些機器，用戶必須將程式提交給中央管理員，而且只有少數幾次「高風險」的機會，來運行他們想要的運算程序。一旦發現程式有錯誤（經常出現這種情況），他們就必須還原系統，在沒有經過調整測試的情況下，一絲不苟地嘗試修復這些錯誤。同時，由於編程準備和管理機器的工作極具挑戰性，機器的大部分時間都在空轉，等待程式碼的到來。": {
+    "ja": "なぜこのような退屈なトピックが、リックのような知識豊富な人を興奮させるのかを理解するために、私たちは過去から現在を振り返り、彼が克服しようとしている制約を観察することができます。また、私たちはこのようなビジョンを実現する際に直面する可能性のある課題を予測することもできます。 1950年代から1960年代にかけて、コンピューティングの主流は「メインフレーム」であり、主にIBMが販売していました。これらのマシンは非常に高価であり、企業、大学、または他の大規模な組織のニーズを満たすために設計されていました。これらのマシンにアクセスするためには、ユーザーはプログラムを中央管理者に提出する必要があり、ごくわずかな「ハイリスク」の機会しかなく、自分たちが実行したい計算プロセスを実行することができませんでした。プログラムにエラーがあると（これはよくあることです）、彼らはシステムを元に戻さなければならず、調整やテストが行われていない状態で、これらのエラーを修正しようと必死になりました。同時に、プログラムの準備やマシンの管理は非常に困難な作業であったため、マシンの大部分の時間は待機しており、コードの到着を待っていました。"
+  },
+  "對比現今的個人電腦世界，在已開發國家裡，大多數人辦公桌上、腿上或口袋中都裝有電腦，可以進行著各種令人眼花繚亂的計算，而且反饋幾乎是即時的。當然，在很大程度上，這得益於摩爾定律 (Moore's law)，即單位價格的運算能力每 18 個月加倍。但是，利克和他在麻省理工學院及其他大學資助的一些早期專案看到的是，如果能更有效地利用電腦，並且更多關注他在設計飛航界面時，所研究的人們對反饋的需求，那麼即使是當時的電腦，至少也能實現其中的某些功能。": {
+    "ja": "現在のパーソナルコンピュータの世界と比較すると、先進国ではほとんどの人がデスクトップ、ラップトップ、またはポケットにコンピュータを持っており、さまざまな驚くべき計算を行い、ほぼリアルタイムでフィードバックを受けることができます。もちろん、これは大部分がムーアの法則によるものであり、つまり、計算能力の単位価格が18ヶ月ごとに倍増するというものです。しかし、リックと彼がマサチューセッツ工科大学や他の大学で支援しているいくつかの初期のプロジェクトで見たのは、コンピュータをより効果的に活用し、フィードバックのニーズに焦点を当てることができれば、当時のコンピュータでも少なくとも一部の機能を実現できるということです。"
+  },
+  "當時有限的運算能力，大部分都浪費在了閒置時間上，而使用者所需要的反饋，並不需要每張桌子上都有一台完整的機器。相反地，每個使用者都擁有一個基本的顯示和輸入站（ \"用戶端\" ），通過網路連接到一台中央機器（ \"伺服器\" ），並共用該機器的使用時間。當時伊利諾大學厄巴納 - 香檳分校的柏拉圖專案，首次將這種設置作為基於電腦運算的教學系統。幾年之後，這使得 ARPANET 成員（如道格拉斯·恩格爾巴特）能夠在大型主機時代，模擬出將來的個人電腦。": {
+    "ja": "当時有限の計算能力、大部分はアイドル時間に浪費され、ユーザーが必要とするフィードバックは、各テーブルに完全なマシンがある必要はありませんでした。その代わりに、各ユーザーは基本的な表示と入力ステーション（ \"クライアント\" ）を持ち、ネットワークを介して中央のマシン（ \"サーバー\" ）に接続し、そのマシンの使用時間を共有しました。当時、イリノイ大学アーバナ・シャンペーン校のプラトプロジェクトは、このような設定をコンピュータベースの教育システムとして初めて導入しました。数年後、これによりARPANETのメンバー（ダグラス・エンゲルバートなど）は、大型ホスト時代に将来のパーソナルコンピュータをシミュレートすることができました。"
+  },
+  "如果我們能更有效地共享計算資產，我們將模擬出何等令人驚歎的未來？[請根據下面的定量估算，在這裡寫一個故事，1-2 段，提及雲端運算如何讓我們窺探到可能的未來。]": {
+    "ja": "もし私たちが計算資産を効率的に共有できたら、私たちはどんな驚くべき未来を予測できるでしょうか？[以下の数量的な推定に基づいて、クラウドコンピューティングが私たちに可能性のある未来を垣間見せる方法について、1-2段落のストーリーを書いてください。]"
+  },
+  "資料共享的可能性則更加豐富，甚至可能更具變革性。[如果我們可以讓它更好地發揮作用，請用 1-2 段文字，介紹具體可行和海闊天空的可能性。提及 LFMS 如何成為可能的頂峰]。": {
+    "ja": "資料共有の可能性はさらに豊かであり、革新的なものになる可能性もあります。[もしも私たちがそれをより良く活用できるようにすることができれば、具体的な実現可能性と無限の可能性について1〜2段落で説明してください。また、LFMSが可能性の頂点となる方法についても触れてください]。"
+  },
+  "### 資產共享的現況": {
+    "ja": "### 資産共有の現状"
+  },
+  "[對這 3 項資產（運算、儲存、資料）的浪費與錯失的機會，進行定量分析 / 對安全和環境影響的討論。]": {
+    "ja": "[これらの3つの資産（計算、ストレージ、データ）の浪費と機会の損失について、定量的な分析を行います/安全性と環境への影響について議論します。]"
+  },
+  "或許，這些數據最讓人震驚之處，是在於其和實體資產的比較。鑒於運輸和物理資產重新部署的困難，人們自然會以為，實體的有形資產會更難共享與確保充分利用。[與有形資產等值的利用率數據比較：住房率、實體資產使用率、就業率等。] 簡單來說，若是實物資產的浪費率（實質閒置與棄置率）稍微接近這些數據，早已被視為全球危機。": {
+    "ja": "おそらく、これらのデータが最も驚くべき点は、実物資産との比較です。輸送や物理的な資産の再配置が困難であることを考慮すると、物理的な有形資産は共有や十分な活用がより困難であると思われるでしょう。[有形資産と同等の利用率データの比較：住宅率、物理的な資産の利用率、雇用率など。] 簡単に言えば、物理的な資産の浪費率（実際の無駄や廃棄率）がこれらのデータに近づくと、それは既に世界的な危機と見なされています。"
+  },
+  "為何這一場無聲的危機，並沒有像數據顯示的如此令人驚訝，關鍵原因是，數位資產相對較新。社會有數千年、甚至數萬年的時間，來試驗各種勞動制度、租賃合約和資本管理制度；即使是如何有效租用汽車，也有數十年的時間來研究，並且越來越常使用數位工具來改善這些資產的共用性（如乘車和住房共享平臺）。但數位資產，尤其是掌握在大批非技術人員手中的數位資產，只有幾十年的歷史。因此，在我們面前的重要任務，就是確定關鍵的社會與技術障礙，讓我們對數位資產的期望，能達到與對有形資產效益類似的期待。": {
+    "ja": "なぜこの無音の危機は、データに表示されるほど驚くべきものではなかったのか、その鍵は、デジタル資産が比較的新しいということです。社会は何千年、何万年もの時間をかけて、さまざまな労働制度、リース契約、資本管理制度を試してきました。たとえば、車の効率的なリースについても、数十年の研究があり、デジタルツールを使用してこれらの資産の共有性を改善するためにますます頻繁に使用されています（カーシェアリングや住宅共有プラットフォームなど）。しかし、デジタル資産、特に非技術者が所有する大量のデジタル資産は、数十年の歴史しかありません。したがって、私たちの前にある重要な課題は、デジタル資産に対する期待が有形資産と同様の効果をもたらすために、社会的および技術的な障壁を特定することです。"
+  },
+  "是什麼阻礙了運算資產共享？一種思考方法是，考慮運算資產共享且相對成功的領域，並找出這些領域與迄今為止，大多失敗的領域之間的區別。為此，我們將討論上述三個重點領域：儲存、運算和資料。": {
+    "ja": "何が計算資産の共有を妨げているのでしょうか？一つの考え方は、計算資産の共有が比較的成功している領域を考え、これらの領域とこれまでほとんど失敗している領域との違いを見つけることです。そのために、上記の3つの重要な領域、すなわちストレージ、コンピューティング、データについて議論します。"
+  },
+  "在儲存領域，最接近資產共享的開放標準框架是「星際檔案系統（IPFS）」，它明確地基於利克的願景，由胡安·貝內特（Juan Benet）和協定實驗室（PL）首創。此一開放式協定，允許自世界各地的電腦以分片、加密和分散式的方式，點對點相互提供存儲空間，有助於確保冗餘性、穩健性和資料保密性 / 完整性，而存儲空間的使用者只需支付合理的費用。基於該協定建立的著名服務，包括臺灣的數位部等政府機構，在面臨強大、可能對集中化的服務商擁有影響力的對手時，確保資料的持久儲存；PL 的 Filecoin 系統也創建了一個存儲市場，允許基於 IPFS 儲存服務的商業交易。": {
+    "ja": "ストレージ領域では、資産共有に最も近いオープンスタンダードフレームワークは「インタープラネタリーファイルシステム（IPFS）」です。これは、リークのビジョンに基づいて、Juan Benetとプロトコルラボ（PL）によって開発されました。このオープンプロトコルは、世界中のコンピュータが分散、暗号化、分散型の方法でストレージスペースを提供し合うことを可能にし、冗長性、堅牢性、データの機密性/完全性を確保するのに役立ちます。ストレージスペースの利用者は、合理的な料金を支払うだけで済みます。このプロトコルを基にした有名なサービスには、台湾のデジタル部門などの政府機関があります。これらのサービスは、集中型のサービスプロバイダに対抗する強力な競争相手に直面した場合でも、データの永続的な保存を保証します。また、PLのFilecoinシステムは、IPFSベースのストレージサービスに基づくビジネス取引を可能にするストレージマーケットを作成しました。"
+  },
+  "然而即使是 IPFS，在提供「即時」儲存、讓世界各地都能快速存取的服務上，也只取得了有限的成功。這樣看來， \"深度\" 儲存（相當於現實生活中常見的 \"倉儲空間\" 服務）的相對簡單性，使 IPFS 得以生存。即使是稍顯複雜的延遲優化挑戰，絕大多數也是由微軟、亞馬遜、Google 和 Salesforce 等大型企業「雲」服務商提供。已開發國家消費者熟悉的多項數位服務（跨設備遠端儲存個人資訊、音訊和影音內容流、共享文件等），都依賴於這些雲服務商。它們也是當今大多數數位業務的核心。[此處需要數據]": {
+    "ja": "しかし、IPFSでさえも、「リアルタイム」のストレージを提供し、世界中から迅速にアクセスできるサービスを提供するという点では、限定的な成功しか収めていません。このように見ると、IPFSが生き残ることができるのは、\"ディープ\"ストレージ（現実の生活でよく見られる\"倉庫スペース\"サービスに相当）の相対的な簡単さです。少し複雑な遅延最適化の課題でさえも、ほとんどはマイクロソフト、アマゾン、Google、Salesforceなどの大手企業のクラウドサービスプロバイダーによって提供されています。開発済み国の消費者が馴染んでいる多くのデジタルサービス（デバイス間でのリモートストレージ、オーディオおよびビデオコンテンツのストリーミング、ファイル共有など）は、これらのクラウドサービスプロバイダーに依存しています。それらは現在のほとんどのデジタルビジネスの中核です。[ここにデータが必要です]"
+  },
+  "在這個領域，除了被少數幾家營利公司控制的問題之外，這些雲端系統在許多方面的成就，也遠遠趕不上利克等人當年的遠見與想像。": {
+    "ja": "この領域では、わずかな利益を追求する企業によって支配されている問題を除いて、これらのクラウドシステムの成果は、リックらの先見の明と想像力には遠く及ばない。"
+  },
+  "首先，「雲世代」的先驅，例如發現、也成功說服微軟追求此項先機的團隊成員，當年認為雲的許多收益，正是自於租戶與應用程式二者間的資源共享效益優化。[^EconoCloud] 然而，在現實進程中，雲端運算的大部分收益來自於資料中心的物理成本節約，而這些資料中心位於電力充沛的地區，也受到優質的維護，而不是來自於有意義的跨租戶資源共享；因為很少有雲服務商可以有效地促進這種市場，也很少有客戶找到了讓資源共享為其服務的方法。": {
+    "ja": "まず、\"クラウド世代\"の先駆者である、例えば発見し、またマイクロソフトにこの機会を追求するよう説得したチームメンバーは、クラウドの多くの利益がテナントとアプリケーションの間のリソース共有の効果的な最適化によるものであると当時考えていました。[^EconoCloud] しかし、現実のプロセスでは、クラウドコンピューティングのほとんどの利益はデータセンターの物理的なコスト削減から得られており、これらのデータセンターは電力が豊富な地域に位置し、高品質のメンテナンスを受けています。意味のあるテナント間のリソース共有からではありません。なぜなら、このような市場を効果的に促進できるクラウドサービスプロバイダはほとんど存在せず、顧客もリソース共有をサービスにする方法をほとんど見つけていません。"
+  },
+  "與此相關，但更明顯的是，正如前述統計數據所強調的，全球各地的新興資料中心，為雲端運算大規模定製建設。但大部分可用的運算和儲存資源，仍在全球個人電腦使用者的手中，它們利用率嚴重不足。此外，與雲端資料中心相比，這些電腦與運算資源與消費者的物理距離更近，網路聯繫也更緊密...... 然而，雲端系統的「天才」設計，卻系統性的浪費了這些資源。簡單說，儘管雲端運算取得了規模化的成功，然而在很大程度上，它可說是回到了在利克支持的分時專案啟動前，早已存在的集中化「大型主機」模式，而非實現利克的宏偉目標。": {
+    "ja": "関連することは、より明らかなのは、前述の統計データが強調するように、世界中の新興データセンターがクラウドコンピューティングの大規模なカスタム構築を行っていることです。しかし、利用可能な計算およびストレージリソースの大部分は、まだ世界中の個人のコンピュータユーザーの手にあり、それらの利用率は非常に低いです。さらに、クラウドデータセンターと比較して、これらのコンピュータと計算リソースは消費者と物理的に近く、ネットワーク接続もより密接です... しかし、クラウドシステムの「天才的な」設計は、これらのリソースをシステム的に浪費しています。要するに、クラウドコンピューティングは規模化の成功を収めていますが、大いに言えるのは、リックが支持するタイムシェアリングプロジェクトが開始される前に既に存在していた集中化された「メインフレーム」モデルに戻ったということであり、リックの壮大な目標を達成していないということです。"
+  },
+  "然而，即使是這些有限的成功，也比資料共享所取得的成就，要廣泛得多。今天看來，最大規模的資料應用，通常是在企業或機構內部極度孤立的穀倉，並且被內部的隱私政策高度分割。此外，也有不少可以公開取得的線上資料，但原本的創建者根本沒有意識到，更不用說同意了。後一種情況的主要例子，是至今仍未完整披露、用來訓練大型生成式基礎模型的資料集。多年來，即使在公共衛生或疾病治療等明確關於公共利益的情況下，允許資料共享的專案推動持續以各式名義進行，但不論是在私營部門還是在基於開放標準的協作中，都進展緩慢。": {
+    "ja": "しかし、これらの限られた成功でさえ、データ共有に比べてはるかに広範な成果を上げています。今日では、最も大規模なデータアプリケーションは、通常、企業や組織内部の非常に孤立したデータ倉庫であり、内部のプライバシーポリシーによって厳密に分割されています。さらに、公開で入手可能なオンラインデータも多くありますが、元の作成者はまったく意識しておらず、同意していません。後者の場合、大規模な生成ベースモデルのトレーニングに使用されるデータセットは、まだ完全に開示されていない主な例です。多年にわたり、公衆衛生や疾病治療など、公共の利益に関する明確な場合であっても、データ共有を許可するプロジェクトは、さまざまな名目で進行してきましたが、私企業やオープンスタンダードに基づく協力の両方で進展は遅いです。"
+  },
+  "這個問題許多人都已經知道，並成為全球各地許多倡儀的主題。歐盟的 Gaia-X 資料聯盟基礎建設與《資料治理法》、印度的《國家資料共享與可及性政策》以及新加坡的資料共享法制環境建構等，都是試圖克服這些挑戰的範例。": {
+    "ja": "この問題は、多くの人々に既に知られており、世界中で多くの提唱のテーマとなっています。欧州連合のGaia-Xデータ連合の基盤と「データガバナンス法」、インドの「国家データ共有とアクセシビリティ政策」、シンガポールのデータ共有法制環境構築などは、これらの課題に取り組むための例です。"
+  },
+  "### 阻礙共享的因素": {
+    "ja": "### 共有を妨げる要因"
+  },
+  "從這些失敗中，我們可以汲取哪些教訓，來理解有效共享數位資產的障礙？資料共享的失敗最為驚人、圍繞資料共享的問題也最為棘手，從這樣的事實出發，一個自然的假設是，此處面臨問題可能是許多問題的核心所在。畢竟，相關挑戰在所有這些領域都反覆出現。IPFS 的大部分結構及其面臨的挑戰，都與維護資料隱私有關，同時允許在遠離尋求隱私的個人或組織之處進行儲存。雲端運算服務商的一個核心優勢是，他們在維護客戶資料安全和隱私的同時，還允許這些客戶在其設備上共用資料，並對其進行大規模的運算。": {
+    "ja": "これらの失敗から、有効なデジタルアセットの共有の障害を理解するためにどのような教訓を得ることができますか？データ共有の失敗は驚くべきものであり、データ共有に関する問題は非常に困難です。このような事実から、問題に直面している可能性があるのは多くの問題の核心です。関連する課題は、すべての領域で繰り返し発生しています。IPFSのほとんどの構造とその直面している課題は、データのプライバシーを維持することと、プライバシーを求めない個人や組織がデータを保存することを可能にすることに関連しています。クラウドコンピューティングサービスプロバイダの主な利点は、顧客データの安全性とプライバシーを維持しながら、これらの顧客がデータを共有し、大規模な計算を行うことを許可することです。"
+  },
+  "關於這些挑戰，理解資料與現實世界中許多標準資產間的基本對比，這點非常重要。同上面所闡述的，資產的貸出和彙集在經濟中無處不在。對其至關重要的是可以分解個人對資產所擁有的權利。法律學者通常描述財產有三個屬性： \"usus\"（使用權）、\"abusus\"（處置權）和 \"fructus\"（收益權）。比如說，標準的租賃合約將使用權轉讓給租房者，但處置權及收益權保留給房東。公司將許多資產的使用權授予雇員，但處置權僅授予高階經理人，且通常在有對應的相互制衡機制下兌現，收益權則保留給股東。": {
+    "ja": "これらの課題について、データと現実世界の多くの標準的な資産の基本的な対比を理解することは非常に重要です。前述のように、資産の貸出と集約は経済において広く行われています。重要なのは、個人が資産を所有する権利を分解できることです。法学者は通常、財産には「usus」（使用権）、 「abusus」（処分権）、および「fructus」（収益権）の3つの属性があると説明しています。例えば、標準的な賃貸契約では、使用権が賃借人に譲渡されますが、処分権と収益権は家主に保留されます。企業は多くの資産の使用権を従業員に与えますが、処分権は通常、上級管理職にのみ与えられ、相互に制約のあるメカニズムが存在する場合にのみ行使され、収益権は株主に保留されます。"
+  },
+  "就資料而言，要以不同的方式實現關鍵的權益分割，可說更具挑戰性。賦予資料使用權最簡單的方式，也同時賦予了將資料轉讓予他人的處置權，更讓他人從這些資料中獲得經濟利益，更可能會威脅到共享資料者的收益權。許多人選擇在網上公布的資料，現在都已經被納入基礎模型中，而這些人往往相信自己只是在分享資訊給他人使用，並沒有意識到這種分享會產生的全部影響。": {
+    "ja": "資料を扱う上で、重要な権益の分割を異なる方法で実現することは、より困難と言えます。データの使用権を与えることは、データを他の人に譲渡する権利を与えることでもあり、他の人がこれらのデータから経済的利益を得る可能性があります。これは、データを共有する人の収益権を脅かす可能性があります。多くの人々は、オンラインでデータを公開することを選択しており、これらのデータは既に基本モデルに組み込まれています。これらの人々は、自分が情報を他の人と共有しているだけであり、この共有がもたらすすべての影響に気付いていないことがよくあります。"
+  },
+  "當然，社會規範、法律和加密技術，都能在糾正這種情況方面發揮作用，我們將簡要討論這些問題。但現在相對於公司治理或房屋租賃來說，這些發展都不太成熟，也影響了資料共享的積極成長。": {
+    "ja": "当然、社会規範、法律、および暗号技術は、このような状況を是正するために役立つことができます。これらの問題について簡単に議論します。しかし、現在、企業統治や賃貸住宅に比べて、これらの発展はまだ十分に成熟しておらず、データ共有の積極的な成長にも影響を与えています。"
+  },
+  "而讓事情更為複雜的，是我們在「結社」裡強調過的原因，也就是資料另一個關鍵特性的挑戰：資料相關的利益，如果作為個人權利來理解，幾乎是毫無指望的。資料本身具有結社性、社會性和交織性，這也使得許多針對此問題的「快速解決方案」（例如隱私法規、加密技術）難以符合促進共享的需求，卻反而阻礙了進步。": {
+    "ja": "そして、さらに複雑になるのは、私たちが「結社」で強調している理由、つまりもう一つの重要な特性の課題であるデータの関連利益です。個人の権利として理解すると、ほとんど望みがありません。データ自体が結社的であり、社会的であり、交錯しているため、この問題に対する多くの「迅速な解決策」（プライバシー法規、暗号技術など）は、共有を促進するニーズに合致することが難しく、進歩を妨げる結果となっています。"
+  },
+  "更進一步來說，即使對這些挑戰有一套明確的解決方案，也沒有直接實施的簡單方式。對合約最簡單的理解，是透過文件來敘述各方協商同意後的承諾，合約的自主性，只在於如何要求這些承諾得到執行。現實是更複雜的：在合約中不太可能列舉如何解決日後可能升起的各種衝突，也沒有人能夠閱讀和處理如此詳細的文件。因此，大多數的合約協議主要受到慣例期待、法律先例、與其相一致的法規等演變所影響。": {
+    "ja": "更に進んで言えば、これらの課題に対して明確な解決策があっても、直接的な実施方法は簡単ではありません。契約の最も簡単な理解は、関係者の合意に基づいて約束を記述する文書を通じて行われます。契約の自律性は、これらの約束を履行する方法に関する要求にのみ存在します。現実はより複雑です：契約では、将来起こりうるさまざまな紛争の解決方法を具体的に列挙することはほとんど不可能であり、そんな詳細な文書を読み解くことも処理することもできる人はいません。したがって、ほとんどの契約合意は、慣習的な期待、法的先例、関連する法規制の進化に影響を受けています。"
+  },
+  "在許多情境下，與這些演變後的原則相衝突的合約條款，將不會執行。這些社會規範和法律結構，經過數十年甚至數個世紀的共同演化，用於規範租賃和僱傭等典型關係，從而最大限度地降低了正式的、基於法院的合約條款和強制執行的作用。因此，雖然自主執行的數位「智慧合約」可能為順利實行這些規範提供了一種途徑，但它們無法取代如：資料協作如何運作、各方可以期待什麼、各種法律和技術執行機制何時應該啟動等，建立穩定社會理解的過程。": {
+    "ja": "多くの場合、これらの進化した原則と衝突する契約条項は実行されません。これらの社会的規範や法的構造は、数十年または数世紀にわたる共同の進化を経て、賃貸や雇用などの典型的な関係を規制するために使用され、公式の裁判所に基づく契約条項や強制執行の役割を最小限に抑えています。したがって、自己実行型のデジタル「スマートコントラクト」は、これらの規範を円滑に実施する手段を提供するかもしれませんが、データの協力がどのように機能し、各当事者が期待できるもの、さまざまな法的および技術的執行メカニズムがいつ起動すべきかなど、安定した社会的理解を構築するプロセスを代替することはできません。"
+  },
+  "當然，困擾數位資產共享的問題遠不止這些。但是，由於缺乏明確而有意義的標準（包括法律標準和技術標準）來保護共享中的資料，其後果幾乎波及到數位合作擴展的方方面面。若要確立這些標準，雖然任何推理分析都無法替代社會實驗和演進，但我們可以強調某些可能解決上述核心矛盾的組成部分和努力。因此，如果我們要克服當前數位資產共用的障礙，這些社會探索的方向可說至關重要。": {
+    "ja": "当然、デジタル資産共有の問題はこれだけではありません。しかし、データ共有を保護するための明確で意味のある基準（法的基準や技術的基準を含む）が欠如しているため、その結果はデジタル協力のあらゆる側面に波及しています。これらの基準を確立するためには、推論分析は社会の実験と進化を代替することはできませんが、上記の核心的な矛盾を解決する可能性のある構成要素と努力を強調することができます。したがって、現在のデジタル資産共有の障害を克服するためには、これらの社会的探索の方向が非常に重要です。"
+  },
+  "### 多元資產": {
+    "ja": "多元資産"
+  },
+  "首要也是最簡單的挑戰，是運算資產共享的效能與安全。當使用者儲存自己的資料，或委託他方進行運算時，需要確保：他們的資料不會被第三方揭露；運算將按照他們的預期來進行；資料可以自行取回或授權顧客取回，並且在世界各地亦可按照預期的延遲分配取回。目前，此類的保證是雲端服務商價值主張的核心，而由於提供運算服務的個人與組織沒有類似的標準，這些強大的公司就主宰了市場。一個類似的案例是 \"https\" 的導入，它允許一系列的網路托管服務符合安全標準，從而被網路內容消費者信賴，存取該網站的資料時不會被惡意監控。這樣的標準協定，自然可以與用來搜尋、請求、媒合性能與安全特點的標準格式相互匹配。": {
+    "ja": "首要であり最も簡単なチャレンジは、計算資産の共有のパフォーマンスとセキュリティです。ユーザーが自分のデータを保存したり、他の人に計算を委託したりする場合、次のことを確保する必要があります：彼らのデータが第三者に公開されないこと；計算が彼らの期待通りに行われること；データを自分で取り戻したり、顧客に取り戻すための権限を与えたりできること；そして、世界中のどこでも遅延を予想どおりに分配してデータを取り戻すことができること。現在、このような保証はクラウドサービスプロバイダーの価値主張の中心ですが、計算サービスを提供する個人や組織には類似の標準がないため、これらの大手企業が市場を支配しています。類似の例は、HTTPSの導入です。これにより、一連のネットワークホスティングサービスがセキュリティ基準を満たし、ネットワークコンテンツの消費者が信頼し、ウェブサイトのデータにアクセスする際に悪意のある監視から守られることができます。このような標準プロトコルは、検索、リクエスト、パフォーマンス、セキュリティの特徴を検索、リクエスト、マッチングするために使用できます。"
+  },
+  "然而，如上所述，最棘手的問題不是性能或第三方攻擊，而是資料協作的核心問題：當甲方向乙方共享資料或其他數位資產時，乙方應該對甲方資料有哪些瞭解？雖然這顯然沒有唯一的標準答案，但如何設定參數和期待值，讓參與者可從相互協作中受益、又不會因此而損害自己或因為合作而影響他者的關鍵利益，正是讓資料協作永續可行的關鍵。值得慶幸的是，目前有許多工具正走向可用發展，將有助於為這種關係提供技術框架。": {
+    "ja": "しかし、前述のように、最も困難な問題はパフォーマンスや第三者の攻撃ではなく、データの共同作業の核心的な問題です。甲が乙とデータや他のデジタル資産を共有する際、乙は甲のデータについてどのような理解を持つべきでしょうか？これには明確な標準答えはありませんが、参加者が相互協力から利益を得ることができ、自身を損なうことなく、または協力によって他者の重要な利益に影響を与えることなく、パラメータと期待値をどのように設定するかが、データの共同作業を持続可能にするための鍵です。幸いなことに、現在は利用可能な多くのツールが開発されており、このような関係に技術的なフレームワークを提供するのに役立ちます。"
+  },
+  "儘管我們在「結社」一章中已討論過這些，但在這裡，依舊值得回顧一下它們的相關性。安全多方計算（SMPC）和同態加密，允許多方共同執行運算並創建集體輸出，且無需向其他單位透露輸入資訊。雖然最簡單的案例，僅包括算出平均工資或在選舉中進行投票統計，不過更複雜的可能性正逐步擴大也觸手可及，例如訓練或微調基礎模型。這些目標遠大的應用，幫助創建了「聯邦學習」和「資料聯盟」領域，也使得這些雄心勃勃的應用所需的運算，可以在當地的個人或組織電腦的分散式網路中進行，模型的輸入也可以安全來回傳遞，而底層訓練資料則永遠不會離開通信相關單位的機器或伺服器。聯合國等國際組織與 OpenMined 等開源工具提供者合作，建立起越來越多資料協作的實驗性展示平臺。這種分散式方法的另一種替代方案是，使用專門的「機密運算器」，這些電腦可以驗證與執行特定運算，但不允許任何人存取過程中的輸出。不過，由於這些電腦價格昂貴，而且只為有限的幾家公司生產，因此更適合由某個值得信賴的中央實體來進行控制，而不是進行分散式協作。": {
+    "ja": "「結社」の章でこれらについて議論しましたが、ここではそれらの関連性を再確認する価値があります。セキュアマルチパーティ計算（SMPC）とホモモーフィック暗号は、複数の参加者が共同で計算を実行し、集合的な出力を作成することを可能にし、他のユニットに入力情報を開示する必要はありません。最も単純なケースでは、平均給与の計算や選挙の投票統計などが含まれますが、より複雑な可能性も徐々に広がり、例えばベースモデルのトレーニングやファインチューニングなどが可能です。これらの大規模な応用は、「フェデレーテッドラーニング」と「データ連盟」の領域を作り出し、これらの野心的な応用に必要な計算を、個人や組織のローカルコンピュータの分散ネットワークで行うことができます。モデルの入力も安全に送受信でき、基礎となるトレーニングデータは通信関連のユニットのマシンやサーバーから決して離れません。国連などの国際機関とオープンソースツールプロバイダーであるOpenMinedなどが協力し、ますます多くのデータ協力の実験的な展示プラットフォームを構築しています。この分散アプローチのもう一つの代替案は、専用の「機密計算機」を使用することです。これらのコンピュータは特定の計算を検証および実行できますが、プロセス中の出力へのアクセスは許可されません。ただし、これらのコンピュータは高価であり、限られた数の企業にしか製造されていないため、分散協力ではなく、信頼できる中央エンティティによる制御が適しています。"
+  },
+  "雖然這些方式，可以避免不必要的資訊在合作者之間傳遞，並達成協作的目的，但還需要其他工具來處理共創的預期輸出（如統計數據或模型）中包含的資訊。模型既可能洩露輸入資訊（例如複製某個人的病歷細節），也可能掩蓋資訊來源（例如複製輸入的創意稿件而未註明出處，違反版權規定）。這兩種情況都嚴重阻礙資料協作，因為合作者通常希望獲得其資料使用方式的主動設定權。": {
+    "ja": "これらの方法は、不要な情報が共同作業者間で伝達されるのを避け、協力の目的を達成することができますが、共同創造の予想される出力（統計データやモデルなど）に含まれる情報を処理するために他のツールが必要です。モデルは入力情報を漏洩させる可能性があります（例えば、個人の病歴の詳細をコピーすること）し、情報の出所を隠す可能性もあります（例えば、入力されたアイデアの原稿を出典を明示せずにコピーすることは、著作権に違反します）。これらの両方の場合、データの協力は深刻に妨げられます。なぜなら、共同作業者は通常、データの使用方法を自分で設定したいと考えているからです。"
+  },
+  "應對這些挑戰的工具不止是密碼學，更多要靠統計學。差分隱私限制了在集中輸出資料時可猜測輸入資料的程度，使用「隱私預算（privacy budget）」確保共同揭露數據時，輸入的資料不會隨著一起流出。數位浮水印可以在內容中創建「簽名」，以難以擦除、難以忽略甚至在某些情況下難以檢測的方式顯示其來源。「影響函數」可追溯特定資料集在產生模型輸出時所起的作用，至少可以部分確定「黑盒」模型輸出的歸因。": {
+    "ja": "これらの課題に対処するためのツールは、暗号学だけでなく、統計学にも頼らなければなりません。差分プライバシーは、集中的な出力データの際に入力データを推測できる程度を制限し、プライバシーバジェットを使用してデータを共有する際に、入力データが一緒に漏れ出さないようにします。デジタルウォーターマークは、コンテンツに「署名」を作成し、その出所を消去しにくく、無視しにくく、一部の場合には検出しにくい方法で表示することができます。「影響関数」は、特定のデータセットがモデルの出力を生成する際に果たす役割を追跡することができ、少なくとも「ブラックボックス」モデルの出力の帰属を部分的に確定することができます。"
+  },
+  "所有這些技術，在一定程度上都落後於基礎模型的發展速度、規模和能力。比如，差分隱私主要專注於基於事實在字面上的統計可恢復性，而基礎模型通常能夠像偵探一樣進行 \"推理\"，例如從後來就讀的學校、友誼關係等一系列鬆散的相關事實中，推斷出某人就讀的第一所學校。同樣，通過神經網路來追蹤出處和價值歸因的研究，也進展甚微。利用這些模型的能力來應對種種技術挑戰，並衍生資料保護和歸屬的技術標準定義，特別是隨著模型的進一步發展，將成為資料永續協作的核心。": {
+    "ja": "これらの技術は、基本モデルの開発速度、規模、能力に比べてある程度遅れています。例えば、差分プライバシーは、事実に基づいた統計的な復元可能性に焦点を当てていますが、基本モデルは通常、探偵のように「推論」を行うことができます。例えば、後に読んだ学校や友情関係などの一連の関連する事実から、ある人が最初に通った学校を推測することができます。同様に、出典と価値の帰属を追跡するためのニューラルネットワークによる研究もほとんど進んでいません。これらのモデルの能力を利用して、さまざまな技術的な課題に対処し、データ保護と帰属の技術的な基準を派生させることは、特にモデルのさらなる発展とともに、データの持続的な共同作業の中心になるでしょう。"
+  },
+  "然而，資料協作所面臨的許多挑戰，更多屬於組織和社會性質，而不單純是技術性的。如前所述，資料利益很少僅是個人利益，因為幾乎所有資料都是關聯式的。除了這最基本的一點，還有很多原因導致在個人層面，組織資料權利和控制是不切實際的，這些包括：": {
+    "ja": "しかし、データの協力には、技術的な問題よりも組織的および社会的な問題が多く存在します。前述のように、データの利益は個人の利益だけではなく、ほとんどのデータが関連しているためです。これに加えて、個人レベルでの組織のデータの権利と制御は現実的ではない理由がいくつかあります。これには以下のようなものがあります："
+  },
+  "- 社交洩漏：即使資料不是直接來自社會互動，也幾乎總是具有社會影響。例如，由於親屬間具有共同的基因結構，從人口中抽取 1% 的統計樣本就可以從基因圖譜中識別出任何個人，這使得保護基因隱私成為一項影響深遠的社會任務。": {
+    "ja": "社交漏洩：たとえデータが直接的に社会的な相互作用から得られていなくても、ほぼ常に社会的な影響を持っています。たとえば、親族間で共通の遺伝子構造を持っているため、人口の1％の統計サンプルからは個人を遺伝子プロファイルから特定することができます。これにより、遺伝子のプライバシー保護が重要な社会的な課題となっています。"
+  },
+  "- 管理挑戰：單靠個人，幾乎不可能了解以各類方式共享資料所帶來的財務和個人影響。雖然自動化工具可以提供説明，但這些工具的制定或形塑依賴於社會組織，這些組織將成為個人的受託人。": {
+    "ja": "管理の課題：個人だけでは、さまざまな方法で情報を共有することによってもたらされる財務的および個人的な影響を理解することはほぼ不可能です。自動化ツールは説明を提供することができますが、これらのツールの開発や形成は、個人の信託関係となる社会組織に依存しています。"
+  },
+  "- 集體談判：大型資料集的主要消費者，是世界上最大、最有實力的企業。全世界數十億的資料創建者，只有與他們達成協議，才能獲得合理的對價，但這些公司只有在資料創建者集體行動的情況下，才能進行有誠意的談判。": {
+    "ja": "集団交渉：大型データセットの主要な消費者は、世界最大かつ最も力を持つ企業です。世界中の数十億のデータ作成者は、彼らと合意に達することで合理的な対価を得ることができますが、これらの企業はデータ作成者の集団行動がある場合にのみ誠実な交渉を行うことができます。"
+  },
+  "能夠代表「資料主體」權利和利益，進行集體代理角色的組織，被冠以各種名稱：資料聯盟、信託、仲介、協作組織，或者如作者之一異想天開地提出的「個資仲介組織」（MIDs）。其中的某些組織，可以很自然地沿用現有的模式：例如，代表創意工作者產出內容的工會，或代表其志願編輯和貢獻者集體利益的維基百科。另一些組織則可能需要新的組織型態，例如用於訓練程式碼生成模型的開放原始碼的貢獻者、同人小說的作者和 Reddit 頁面的作者等，可能都需要組織各自的集體代表形式。": {
+    "ja": "「資料主体」の権利と利益を代表し、集団代理の役割を果たす組織は、データ連盟、信託、仲介、協力組織など、さまざまな名前で呼ばれています。また、著者の一人が提案した「個人情報仲介組織」（MIDs）などもあります。これらの組織の一部は、既存のモデルを自然に引き継ぐことができます。たとえば、クリエイティブなコンテンツの制作者を代表するユニオンや、ボランティアの編集者や貢献者の利益を代表するウィキペディアなどです。他の組織には、オープンソースのコード生成モデルの貢献者、同人小説の作者、Redditページの作者など、それぞれの集団代表形式が必要な場合もあります。"
+  },
+  "除了這些正式的技術、組織和標準之外，還必須發展出更廣泛、更擴散的概念、期待和規範，來確保人們普遍理解資料協作中的利害關係，使貢獻者感到他們的授權可以造就合理協議，且持有協作者的承諾。考慮到技術變革的速度和資料合作的適應性，這些規範不但必須普遍，更需要保持基本穩定，並具備動態適應性。要做到這一點，需要與技術變革同步的教育和文化參與實踐，我們將在後續章節進行討論。 ": {
+    "ja": "これらの公式の技術、組織、および標準に加えて、データの協力に関する利害関係を一般的に理解し、貢献者が合理的な合意を生み出すための権限を持ち、共同作業者の約束を持つことを確保するために、より広範で普及した概念、期待、および規範を開発する必要があります。技術の変化の速さとデータの協力の適応性を考慮すると、これらの規範は一般的であるだけでなく、基本的な安定性を維持し、動的な適応性を持つ必要があります。これを実現するには、技術の変化に同期した教育と文化の参加が必要です。これについては、後の章で議論します。"
+  },
+  "一旦資料協作工具、組織和實踐得到充分發展和傳播，它們就會像「產權」一樣深入人心，成為法律實踐密不可分的成分。雖然正如我們所指出的，它們所採取的形式，幾乎必與管理土地私有權、股份公司等標準組織不同。也正像我們闡述的，它們將需要包括更多的技術與密碼學要素、更加強調於集體治理和信託責任的不同類型的社會組織，以及防止「個資仲介組織」成員單方面受到披露資訊的規範或法律（類似於禁止資方單方面破壞工會罷工）。這些都可能成為數位世界未來版本的「資產」，而這種「資產」更加適應資料的多元特性。": {
+    "ja": "一旦資料協作工具、組織和實踐得到充分發展和傳播，它們就會像「產權」一樣深入人心，成為法律實踐密不可分的成分。雖然正如我們所指出的，它們所採取的形式，幾乎必與管理土地私有權、股份公司等標準組織不同。也正像我們闡述的，它們將需要包括更多的技術與密碼學要素、更加強調於集體治理和信託責任的不同類型的社會組織，以及防止「個資仲介組織」成員單方面受到披露資訊的規範或法律（類似於禁止資方單方面破壞工會罷工）。這些都可能成為數位世界未來版本的「資產」，而這種「資產」更加適應資料的多元特性。"
+  },
+  "### 多元不動產": {
+    "ja": "多元不動産"
+  },
+  "要實現這個目標，將面臨巨大的、不斷變化的挑戰。然而，每個挑戰都蘊含著機遇。在某些方面，資料深層次的社會屬性，使其有別於現實世界的資產，並對財產和合約系統的設計提出了挑戰；而在另一方面，由於人們對資料並不熟悉，傳統資產系統本身也未必適合管理當今的不動產。讓我們先離開純粹數位資產的世界，考慮與數位運作相關的資產，也許最容易看清這一點。": {
+    "ja": "この目標を達成するためには、大きな変化に直面することになります。しかし、すべての挑戦には機会があります。ある面では、データの深い社会的属性は、現実世界の資産とは異なり、財産や契約システムの設計に対して挑戦を投げかけます。一方で、人々がデータに慣れていないため、伝統的な資産システム自体が現代の不動産の管理に適していないかもしれません。純粋なデジタル資産の世界を離れて、デジタルオペレーションに関連する資産を考えることで、この点が最も明確になるかもしれません。"
+  },
+  "兩個自然的例子，是電磁頻譜和域名。在這兩個領域，人們正在迅速重新構思傳統的產權制度。": {
+    "ja": "2つの自然な例は、電磁スペクトルとドメインです。これらの2つの領域では、人々が伝統的な所有権制度を急速に再構築しています。"
+  },
+  "傳統上，在特定地理範圍內使用特定電磁頻率進行廣播的權利（在包括美國在內的許多國家）都是分配或拍賣給營運商的，執照的續約費用很低。這實際上創造了一種類似於私有財產的權利，這種權利的基礎是：如果允許眾多頻率使用者在同一地點的同一頻段上營運，他們就會相互干擾；而如果執照持有者對頻段擁有產權，那他們就會對頻段進行管理。然而，這種假設最近經受了嚴峻考驗，因為許多數位應用（如 WiFi）可以共用頻譜，而頻譜使用的性質也在迅速變化（從廣播電台到 5G 技術），這極大地改變了干擾模式，需要對頻譜進行重組，而傳統執照持有者往往會成為阻礙重組的因素。這又反過來又導致了產權制度的重大變革，允許美國聯邦通訊委員會等執照特許機構在拍賣中重新安置這些阻礙者。該領域的領導者還提出了更激進的設計規劃，即混合租賃和擁有權要素，正如我們接下來在「市場」章節所闡述的，或為特定共享用途保留指定的頻譜。": {
+    "ja": "従来、特定の地理的範囲で特定の電磁波の周波数を使用して放送する権利（多くの国、アメリカを含む）は、運営者に割り当てられるかオークションにかけられることが一般的で、ライセンスの更新費用は非常に低いです。これにより、実際には私有財産に類似した権利が創出されます。この権利の基礎は、多くの周波数利用者が同じ場所の同じ周波数帯域で運営することを許可すると、彼らは互いに干渉し合うというものです。一方、ライセンス保持者が帯域に所有権を持っている場合、彼らは帯域を管理することができます。しかし、この仮定は最近厳しい試練にさらされています。なぜなら、多くのデジタルアプリケーション（例：WiFi）がスペクトラムを共有できるようになり、スペクトラムの使用性質も急速に変化しているからです（放送局から5G技術へ）。これにより、干渉パターンが大きく変わり、スペクトラムの再編成が必要となりますが、従来のライセンス保持者は再編成の障害となることが多いです。これはまた、所有権制度の重大な変革をもたらし、アメリカ連邦通信委員会などのライセンス特許機関がこれらの障害者をオークションで再配置することを許可するようになりました。この分野のリーダーたちは、より革新的な設計計画を提案しており、ハイブリッドリースと所有権要素を組み合わせることがあります。これについては、次の「市場」の章で詳しく説明します。また、特定の共有用途のために特定のスペクトラムを予約することもあります。"
+  },
+  "在域名領域的產權演變，甚至更為激進。傳統上，網際網路名稱與數字位址分配機構（ICANN）允許以相對較低的成本註冊域名（domain name) ，只收取象徵性的續購費用，近似於頻譜的財產許可制度。雖然這個制度還在不斷發展，但更基本的變化是，現今的大多數人是通過搜尋、而不是直接輸入來訪問網站的。這些搜尋引擎通常根據與使用者相關的各種資訊（大多未公開揭露）列出相關的網站，其中還包括一些即時競價的付費廣告。雖然關聯度演算法像個黑盒子，但大致可以用 Google 創始人謝爾蓋·布林（Sergey Brin）和賴利·佩吉（Larry Page）最初的 \"PageRank\" 演算法來理解，該演算法根據網頁的 \"網路中心性\"（network centrality）進行排序，此一概念與我們接下來在「投票」章節中討論的網狀投票系統有關。因此乍看之下，我們可以認為，當今網際網路名稱空間的實際產權制度，是朝向瀏覽者（而非網域擁有者）利益的集體導引，以及網域擁有者即時競價的結合。兩者都與傳統的產權制度大相徑庭。": {
+    "ja": "在ドメイン領域の所有権の変遷は、さらに進化しています。従来、インターネットのドメイン名と数字のアドレスの割り当て機関（ICANN）は、比較的低コストでドメイン名を登録することを許可し、象徴的な更新料のみを請求していました。これは、スペクトルの財産許可制度に近いものです。この制度はまだ進化中ですが、より基本的な変化は、現在のほとんどの人が直接入力ではなく、検索を通じてウェブサイトにアクセスしていることです。これらの検索エンジンは、ユーザーに関連するさまざまな情報（ほとんどが非公開）に基づいて関連するウェブサイトをリストアップし、リアルタイムの入札広告も含まれています。関連性のアルゴリズムはブラックボックスのようなものですが、おおよそGoogleの創設者であるセルゲイ・ブリンとラリー・ページが最初に開発した「PageRank」アルゴリズムによって理解することができます。このアルゴリズムは、ウェブページの「ネットワーク中心性」に基づいてランキングを付けます。この概念は、次の「投票」の章で議論するネットワーク投票システムと関連しています。したがって、現在のインターネットのドメイン名空間の実際の所有権制度は、閲覧者（ドメイン所有者ではなく）の利益を集合的に導くことと、ドメイン所有者のリアルタイム入札の組み合わせに向かっていると言えます。両者は従来の所有権制度とは大きく異なります。"
+  },
+  "當然，這些都並非盡善盡美、更不是都具備社會正當性。這些系統在很大程度上，是由技術專家和經濟學家團隊在遠離公眾觀點下設計的，缺乏公眾的理解。很少有人明白理解它們的運作方式，更不用說相信它們是合適的。另一方面，它們以創造性的方式回應現實的挑戰，所解決的問題遠遠超出了迄今為止所應用的狹隘領域。解決拿翹問題和頻譜共用，是實現數位發展的核心，而數位發展是公眾的廣泛需求，甚至是國安問題的核心。都市空間的再開發、共通基礎設施的建設也都存在類似的拿翹問題：目前作為私有財產的許多土地可以變成公園等共用空間（反之亦然）。": {
+    "ja": "当然、これらは完璧ではなく、社会的に正当であるわけでもありません。これらのシステムは、大部分が技術専門家や経済学者のチームによって一般の視点から遠く離れた場所で設計されており、一般の理解が欠けています。これらのシステムの動作方法を理解する人はほとんどいませんし、それが適切であると信じる人はほとんどいません。一方で、これらのシステムは創造的な方法で現実の課題に対応し、これまでの狭い範囲で解決されてきた問題をはるかに超えています。問題解決とスペクトラム共有のための解決策は、デジタル開発の中核であり、デジタル開発は一般の広範な要求であり、国家安全保障の中核でもあります。都市空間の再開発や共通の基盤整備にも同様の問題が存在しています：現在は私有財産として所有されている多くの土地が公園などの共有空間に変わる可能性があります（逆もまた然り）。"
+  },
+  "將命名空間視為私有財產並無太大意義，因為碰巧擁有某個具爭議的名稱（例如 \"ABC.com\"）的人可能是域名霸佔者、是替有限受眾服務的傳統擁有者、利用品牌名稱的欺詐者等。儘管擁有者願意付費所帶來的穩定和重要性信號，顯然具有某種程度的重要性，但搜尋引擎使用的制度，通過明確考慮穩定性方面的公共利益，以及願意為域名空間付費者的即時需求，可能比簡單的私有財產制度實現了更好的平衡。": {
+    "ja": "命名空間を私有財産と見なすことはあまり意味がありません。なぜなら、偶然「ABC.com」のような物議を醸す名前を持っている人は、ドメインの乗っ取り屋、限られたオーディエンスにサービスを提供する伝統的な所有者、ブランド名を利用した詐欺師など、さまざまな可能性があるからです。所有者が支払いをする意思があることによる安定性と重要性のシグナルは明らかに重要ですが、検索エンジンが使用する制度は、安定性に関する公共の利益を明確に考慮し、ドメイン空間に支払いをする意思のある人々の即時のニーズを満たすことによって、単純な私有財産制度よりもより良いバランスを実現している可能性があります。"
+  },
+  "這些問題也經常出現在 \"現實世界\" 的領域，從商標等智慧財產權，到古董和城市歷史地點的擁有權。只需添加一些想像，我們就會發現，如果將這些問題與更好的公眾參與、教育與倡議相互結合，在數位領域已經發展、正在演變的不動產創新替代方案，就有可能幫助我們朝著多元方向，更廣泛地重新思考不動產制度。我們將在「市場」一章中更深入地探討這個主題。": {
+    "ja": "These issues also frequently arise in the \"real world\" domain, from trademarks and other intellectual property rights to ownership of antiques and historical city sites. With just a little imagination, we will find that by combining these issues with better public participation, education, and advocacy, it is possible to help us move towards a more diverse direction and more broadly rethink the real estate system, using innovative alternative solutions that have already developed and are evolving in the digital domain. We will explore this topic more deeply in the \"Market\" chapter."
+  },
+  "[^Phys]: 引用 Crawford and Gray and Suri 的著作。": {
+    "ja": "[^Phys]: 引用 Crawford and Gray and Suri の著作。"
+  },
+  "[^EconoCloud]: 引用 Harms 和 Yamartino「Economics of the Cloud」論文": {
+    "ja": "[^EconoCloud]: 引用 Harms 和 Yamartino「Economics of the Cloud」論文"
+  },
+  "# 存取權": {
+    "ja": "アクセス権"
+  },
+  "早在網際網路興起之前，存取資訊一直是人類文明的重要組成部分：正如法蘭西斯·培根爵士（Sir Francis Bacon）幾個世紀前所說的那樣：「知識就是力量。」在當今的資訊時代，以及在本書所描述的未來，越來越無法否認這句話的真實性。我們前幾章的重點，是確保人權落實在數位環境的各個方面，但除非每個人都能安全、完整地接取我們所想像的世界，否則這些對人類生活毫無意義。在本章中，我們將探討將存取權作為基本權利的含義。": {
+    "ja": "インターネットが台頭する前から、情報へのアクセスは人類の文明の重要な一部でした。フランシス・ベーコン卿（Sir Francis Bacon）が何世紀も前に言ったように、「知識は力である」という言葉の通りです。現代の情報時代や、この本で説明されている未来においても、この言葉の真実性を否定することはますます難しくなっています。私たちがこれまでの章で重点を置いてきたのは、人権がデジタル環境のあらゆる側面において実現されることを確保することでしたが、私たちが想像する世界に安全かつ完全にアクセスできない限り、これらは人間の生活には意味を持ちません。この章では、アクセス権を基本的な権利として探求します。"
+  },
+  "這樣一個理念必須超越單純的存取權，延伸至具完整性的存取。如果某些人接收到的資訊是準確的，而其他人接收到的資訊卻是被竄改的，後者往往比完全無法存取資訊還要糟糕。民主依賴於能夠全面參與的民眾：每個聲音都至關重要。正如我們上文強調的，不同的社群以不同的方式理解事實的模式。但是，這種觀點的多樣性，有賴於共同存取未經竄改的基礎輸入資料，才能為多元未來做出貢獻。我們都能夠也必須為生命賦予意義，但如果從全球資訊公共資源獲取的，卻是經過操弄的輸入，這項平等權利就不免遭受剝奪。": {
+    "ja": "このような考え方は、単なるアクセス権を超えて、完全なアクセス権を持つことに拡張する必要があります。情報が正確に受け取られる一方で、他の人が改ざんされた情報を受け取る場合、後者は完全にアクセスできない情報よりも悪い結果になることがしばしばあります。民主主義は、参加できる人々に依存しています：すべての声が非常に重要です。前述のように、異なるコミュニティは事実のパターンを異なる方法で理解します。しかし、この視点の多様性は、改ざんされていない基本的な入力データへの共同アクセスに依存しており、多様な未来に貢献することができます。私たちは皆、生活に意味を与えることができなければなりませんが、グローバルな情報の公共資源から得られる入力が操作されている場合、この平等な権利は奪われてしまいます。"
+  },
+  "從 1948 年聯合國通過的《世界人權宣言》到 2022 年的《未來網際網路宣言》，人類社會持續強調表意與存取自由的重要性。這兩份文件，描繪了從基本人權到數位時代自由與安全原則的路徑。2023 年的《全球線上資訊完整性宣言》，更直接回應了由生成式 AI 帶來的大規模操弄能力，所造成的集體挑戰。": {
+    "ja": "1948年に国連が採択した「世界人権宣言」から2022年の「未来のインターネット宣言」まで、人類社会は意味とアクセスの自由の重要性を継続的に強調してきました。これらの文書は、基本的な人権からデジタル時代の自由と安全の原則までの道筋を描いています。2023年の「グローバルオンライン情報の完全性宣言」は、生成型AIによる大規模な操作能力によって引き起こされる集団的な課題に直接対応しています。"
+  },
+  "簡單來說，我們需要讓所有人都能平等接觸到脈絡完整的資訊，不然它們也將毫無價值，甚至成為有害的武器。這些不僅由數位技術來推動，更需要集體、共通、包容的數位聯盟與民主結構的支持，在「上網是數位人權」的時代，多元精神無縫地在全球間流動，正如同古老的「道」概念。這是由零與一編織而成、不斷擴展的智慧聯網，以結合民主治理和協作技術的方式與社會結構融合。因此，「存取」不僅象徵技術普及，更有助於實現每個人內在的願景，自然培養信任、相互尊重和安全。": {
+    "ja": "簡単に言えば、私たちはすべての人が完全な文脈を持つ情報に平等にアクセスできるようにする必要があります。そうでなければ、それらは無価値でさえあり、有害な武器になる可能性もあります。これらはデジタル技術によって推進されるだけでなく、集団的で共通の、包括的なデジタル連盟と民主的な構造の支援も必要です。インターネットがデジタル人権である時代において、多様な精神がシームレスに世界中を流れるようになりました。これは古代の「道」の概念と同様に、ゼロと一が織りなす、拡張し続けるスマートネットワークであり、民主的なガバナンスと協働技術を組み合わせた方法で社会構造と融合しています。したがって、「アクセス」とは技術の普及を象徴するだけでなく、個々の内なるビジョンを実現するのにも役立ち、信頼、相互尊重、安全を育むのにも役立ちます。"
+  },
+  "接下來，我們會闡述網際網路存取的現況、各國對於存取的努力，以及我們提出關於對數位環境的期待，以及未來的展望。": {
+    "ja": "次に、インターネットアクセスの現状、アクセスに対する各国の取り組み、デジタル環境への期待と展望について説明します。"
+  },
+  "### 彌平數位鴻溝": {
+    "ja": "彌平數位鴻溝"
+  },
+  "在全球數位化的進程中，臺灣、愛沙尼亞和斯堪地納維亞等民主國家，無疑成為了典範。這些國家成功的要素，包括政府對於網際網路發展的積極支持，對跨領域專業合作的重視，以及讓在地社區的工作者成為重要的政策和實施參與者。不過，對於數位公共基礎建設所需的長期投資來說，這只是頭期款。這些集體努力不僅推動了社會變革，更有助於鞏固民主價值和形成集體共識。理所當然地，這些在存取權方面處於領先地位的國家，也是那些最積極擁抱實質數位民主的國家，我們將在下一部分討論。": {
+    "ja": "在全球デジタル化のプロセスにおいて、台湾、エストニア、スカンディナビアなどの民主国家は、間違いなく模範となっています。これらの国の成功要素には、インターネットの発展に対する政府の積極的な支援、異分野の専門家との協力の重視、地域社会の労働者が重要な政策と実施の参加者となることが含まれます。ただし、デジタル公共インフラストラクチャに必要な長期投資に関しては、これは初期費用に過ぎません。これらの集団的な取り組みは、社会変革を推進するだけでなく、民主的価値を強化し、集団的な合意形成にも役立っています。当然のことながら、アクセス権の面で先行しているこれらの国は、実質的なデジタル民主主義を積極的に受け入れている国でもあり、次のセクションで議論します。"
+  },
+  "然而，這樣的積極成果並非常態。數位落差是社會兩極分化的主要例子，尤其是在農村和城市地區之間。在疫情前，全球 76% 的城市家庭擁有家庭網際網路存取，幾乎是農村地區 39% 的兩倍。疫情過後，隨著生活的各個方面（從工作、教育到社交活動）轉移到線上，這種差異再次成為公眾關注的焦點。根據國際電信聯盟（ITU）的數據，儘管 2020 年有 4.66 億人首次存取網際網路，而且 2021 年至 2022 年全球使用者的數量和滲透率都將繼續增長，然而，網際網路在存取方面的多面向不平等依舊存在，助長了一系列經濟、政治和社會不公平現象。": {
+    "ja": "しかし、このような積極的な成果は常態ではありません。デジタル格差は社会の二極化の主な例であり、特に農村と都市地域の間で顕著です。パンデミック前、世界の都市の76%の家庭が家庭用インターネットにアクセスしていましたが、農村地域の39%のほぼ2倍です。パンデミック後、仕事、教育、社交活動など、生活のさまざまな側面がオンラインに移行するにつれて、この格差は再び注目を浴びるようになりました。国際電気通信連合（ITU）のデータによると、2020年には4億6600万人が初めてインターネットにアクセスし、2021年から2022年にかけて世界のユーザー数と普及率がさらに増加すると予想されていますが、インターネットへのアクセスにおける多面的な不平等は依然として存在し、一連の経済的、政治的、社会的な不公平現象を助長しています。"
+  },
+  "全球有 27 億人仍未接入網際網路，地理分佈也各不相同，反應了全球不平等。網際網路中充斥著地理、政治、性別和年齡等多維度的差異；解決這些問題需要全球性宏偉的視野、普及實施和大規模推動。[需要更多數據]": {
+    "ja": "全球には、まだ27億人がインターネットに接続していません。また、地理的な分布も異なっており、これは世界の不平等を反映しています。インターネットには、地理的、政治的、性別、年齢など、多くの側面の差異が存在しています。これらの問題を解決するには、グローバルな視点、普及の実施、大規模な推進が必要です。[さらなるデータが必要です]"
+  },
+  "在本書前幾章的基礎上，我們需要從多元角度理解基本的「存取權」，其中政策制定者的角色格外重要。他們需要關注全球數位分歧，並採取相應措施來解決存取不平等的問題，包括對數位公共建設的投資，以守護線上交流的脈絡完整性。": {
+    "ja": "本書の前の章で基礎を学んだ後、私たちは基本的な「アクセス権」を多角的な視点から理解する必要があります。その中で、政策立案者の役割は特に重要です。彼らはグローバルなデジタルの分断に関心を持ち、アクセスの不平等の問題を解決するための適切な措置を取る必要があります。これにはデジタル公共インフラへの投資やオンラインコミュニケーションの一貫性を守るための措置も含まれます。"
+  },
+  "在開放的同時，每位數位參與者也需要貢獻自己的力量，照亮網際網路的陰暗角落，彼此守望相助。當然，這個議題涉及全球社會結構和文化多樣性。幸運地，我們現在無需像托克維爾那樣遠渡重洋，就能學習到各國在建構數位民主和永續發展的寶貴經驗。": {
+    "ja": "オープンな状況で、各デジタル参加者は自分の力を貢献する必要があります。インターネットの暗い角を照らし合い、お互いに助け合いましょう。もちろん、この問題は世界の社会構造と文化の多様性に関わります。幸運なことに、私たちは今、トクヴィルのように遠くに渡航する必要なく、各国がデジタル民主主義と持続可能な発展を構築するための貴重な経験を学ぶことができます。"
+  },
+  "總之，我們正處於全球轉折點。為了保障和建立更安全、更開放的數位存取環境，有兩個重要的行動方向：": {
+    "ja": "総じて、私たちは世界の転換点にいます。より安全でよりオープンなデジタルアクセス環境を確保し構築するために、2つの重要な行動方針があります："
+  },
+  "1. 數位基礎建設：開發國際互通的建設模式，克服我們在下文「市場」一章中討論的集體行動的挑戰，從而在全球範圍內提供公平的服務。": {
+    "ja": "1. デジタル基盤の構築：国際的な接続を可能にする構築モデルを開発し、前述の「市場」の章で議論した集団行動の課題を克服し、世界全体で公平なサービスを提供します。"
+  },
+  "2. 資訊完整性：解決模仿模型（所謂的「深偽」技術）帶來的挑戰，以維持語義安全並繼續享受數位時代帶來的益處。": {
+    "ja": "2. 情報の完全性：模倣モデル（いわゆる「ディープフェイク」技術）による課題を解決し、意味の安全性を維持し、デジタル時代の利点を引き続き享受するために。"
+  },
+  "如果我們能夠推進這兩項基本權利，本節描述的其他權利就能夠滲透到所有人的生活體驗中，不僅只是「線上」集體智慧的基石，更是全球日常生活的基礎。正如本書反覆強調的，當今數位環境中的許多公共服務和社會互動，都受到資本主義的制約。如今「網路存取是人權」幾乎已經是整體民主國家間的共識。接下來的工作，則是解決民主制度與網路存取之間的複雜問題。": {
+    "ja": "もし私たちがこれらの2つの基本的な権利を推進できれば、このセクションで説明されている他の権利はすべての人々の生活体験に浸透することができます。それは単に「オンライン」集合知の基盤ではなく、グローバルな日常生活の基盤でもあります。本書で何度も強調されているように、現在のデジタル環境では、多くの公共サービスや社会的な相互作用が資本主義の制約を受けています。現在、「インターネットへのアクセスは人権である」という考え方は、民主主義国家間でほぼ共通の認識となっています。次の課題は、民主制度とインターネットへのアクセスの間の複雑な問題を解決することです。"
+  },
+  "### 資訊完整性的基礎建設": {
+    "ja": "### インフォメーションインテグリティの基盤"
+  },
+  "加拿大研究學者 Suzanne Simard 專注於探討森林的合作性質，她認為野生森林可以被視為智慧系統。森林不僅具有自我洞察和自主發展的能力，而且各式生態元件之間更密切相互作用。Simard 在英屬哥倫比亞的古老森林中，研究了樹木根系和共生的菌根真菌如何在土壤下層進行交流。她發現，在這種由真菌網絡牽引的環境中，不同種類的樹木能夠相互傳遞警告信號，並分享必要的糖、水、碳、氮和磷。": {
+    "ja": "カナダの研究者であるSuzanne Simardは、森林の協力的な性質を探究しています。彼女は野生の森林を知性システムと見なすことができると考えています。森林は自己洞察力や自己発展能力を持つだけでなく、さまざまな生態要素との密接な相互作用も持っています。Simardは、ブリティッシュコロンビア州の古代の森林で、樹木の根系と共生菌根菌が土壌の下層でどのようにコミュニケーションを取っているかを研究しました。彼女は、真菌ネットワークによって引き起こされる環境では、異なる種類の樹木がお互いに警告信号を送り合い、必要な糖分、水分、炭素、窒素、リンを共有することができることを発見しました。"
+  },
+  "在生機勃勃的森林中，單一的 \"母樹\" 能與數百棵其他樹木建立連接。多棵母樹透過重疊的網絡，確保了整個森林作為集體有機體的連續性，透過開放的連接，來確保安全牢靠的環境。": {
+    "ja": "生き生きとした森の中で、単一の「母樹」は数百の他の木と接続することができます。複数の母樹は重なり合ったネットワークを通じて、森全体が集合的な有機体としての連続性を確保し、開放的な接続によって安全で確かな環境を確保しています。"
+  },
+  "數位基礎建設，透過開源軟體和開放資料建立起類似的模式。作為全球社群開放的公共基礎，它與成千上萬的數位社群合作，同時提供開放且安全的網際網路存取，並共同防禦當前的數位威脅。": {
+    "ja": "デジタルインフラストラクチャは、オープンソースソフトウェアとオープンデータを活用して構築された類似のモデルです。グローバルコミュニティが共有するパブリックインフラストラクチャとして、数千のデジタルコミュニティと協力し、オープンで安全なインターネットアクセスを提供し、現在のデジタル脅威に共同で対処します。"
+  },
+  "源自 Cloudflare 的報告顯示，臺灣是阻斷服務攻擊的主要熱點之一。臺灣政府採用了前一章討論的 IPFS 框架作為網站架構，使其能夠與私人數位服務、新興的開放性網路相互連結、共同防禦。這樣的結構，不但更能抵抗突如其來的阻斷攻擊，且利於與全球技術社群開放合作、相互支持。這提供了一個使系統對抗資訊竄改更為牢固的例證。": {
+    "ja": "Cloudflareのレポートによると、台湾はサービス妨害攻撃の主要なホットスポットの1つです。台湾政府は、前の章で議論されたIPFSフレームワークをウェブサイトの構築に採用し、それによってプライベートデジタルサービスや新興のオープンネットワークと相互に接続し、共同防御することができるようにしました。このような構造は、突然のサービス妨害攻撃に対してより耐性を持ち、グローバルな技術コミュニティとのオープンな協力や相互サポートを促進します。これは、システムが情報改ざんに対してより堅牢に対抗できることを示す例証を提供しています。"
+  },
+  "此外，在人們存取資訊時，保障可信的脈絡也至關重要。開放政府資料的主要目標與此相符：賦予公民更多權力，使政府更透明、更負責，從而有效地打擊腐敗，使民主制度更有效地為人民服務。烏克蘭的「Diia」和愛沙尼亞的「mRiik」，就是鮮明的信任網路和資訊開放雙向特點的例子。": {
+    "ja": "また、情報にアクセスする際には、信頼できるコンテキストを確保することも非常に重要です。オープンデータの主な目標は、市民により多くの権限を与え、政府をより透明で責任あるものにし、腐敗を効果的に撲滅し、民主制度が人々により効果的に奉仕することです。ウクライナの「Diia」とエストニアの「mRiik」は、信頼できるネットワークと情報のオープン性の両方の特徴を持つ鮮明な例です。"
+  },
+  "愛沙尼亞和烏克蘭在數位化方面都很積極，並採用了促進公眾參與的形式。它們使數位技術真正成為公眾必要的社會工具，為公民獲取政府服務和即時資訊提供安全、開放的數位公共服務。「Diia」向全球展示了數位技術如何打破長期存在的腐敗。今年，愛沙尼亞推出了最新的應用程式「mRiik」，其設計靈感主要來自烏克蘭應用程式 Diia。[^Diia]": {
+    "ja": "エストニアとウクライナは、デジタル化に積極的であり、公共参加を促進する形式を採用しています。彼らはデジタル技術を本当に必要な社会ツールにし、市民が政府サービスやリアルタイム情報を安全かつオープンに入手できるようにしています。\"Diia\"は、デジタル技術が長年の腐敗を打破する方法を世界に示しています。今年、エストニアは最新のアプリ「mRiik」を発表しましたが、そのデザインのインスピレーションは主にウクライナのアプリDiiaから得られています。[^Diia]"
+  },
+  "數位基礎設施並非放諸四海皆準的解決方案，各國仍然需要根據發展需求來進行調整。然而，基本功能和民主本質是相近的價值觀，為它的擴展提供了共同基礎。臺灣、愛沙尼亞和烏克蘭，展示了資訊完整性與數位基礎設施如何相互交織，形塑更強大的社會韌性。[關於未來更宏偉的願景]": {
+    "ja": "デジタルインフラは、一つの解決策ではありません。各国は、発展のニーズに応じて調整する必要があります。しかし、基本的な機能と民主主義の本質は、共通の基盤を提供しています。台湾、エストニア、ウクライナは、情報の完全性とデジタルインフラストラクチャがどのように相互に絡み合い、より強力な社会的な弾力性を形成するかを示しています。[未来のより大きなビジョンについて]"
+  },
+  "總而言之，存取權是實現數位民主和社會包容的基石。要實現這樣的未來，需要多方面的努力，包括技術創新和政策合作。下一章將深入探討這些相互交織的問題。": {
+    "ja": "総じて言えば、アクセス権はデジタル民主主義と社会的包摂を実現するための基盤です。このような未来を実現するためには、技術革新と政策協力を含むさまざまな努力が必要です。次の章では、これらの相互に絡み合った問題について詳しく探求します。"
+  },
+  "[^Diia]: 烏克蘭數位部長 Mykhailo Fedorov 表示 - \"[Diia 願意與愛沙尼亞分享其原始碼和 UX/UI 設計方法](https://mezha.media/2023/01/19/diia-mriik/)\"。": {
+    "ja": "[^Diia]: 烏克蘭のデジタル大臣、Mykhailo Fedorovは、「DiiaはエストニアとそのソースコードやUX/UIデザイン手法を共有する意思がある」と述べました。"
   }
 }
