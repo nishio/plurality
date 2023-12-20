@@ -6814,5 +6814,35 @@
   },
   "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/mediatedreality.png\" width=\"100%\" alt='Venn diagram with four overlapping circles labeled \"Virtual Reality\", \"Augmented Reality\", \"Mixed Reality,\" and \"Modulated Reality.\" A larger circle encompasses these, labeled \"Mediated Reality.\"'>": {
     "ja": "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/mediatedreality.png\" width=\"100%\" alt='「仮想現実」、「拡張現実」、「複合現実」、「調整現実」という4つの重なり合った円があるベン図。これらを包括する大きな円には「仲介現実」というラベルが付いています。'>"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Partly inspired by this success, a group of technologists including OpenAI Co-Founder Sam Altman launched Worldcoin in 2019 with the aim of becoming the first universal biometric identity.[^Altman]  Using a propriety \"orb\", they have scanned the irises of several million people, almost exclusively in developing countries, to date.  Harnessing cryptography, they \"hash\" these scans so that they cannot be viewed or recovered, but any future scan can be checked against them to ensure uniqueness.  They use this to initialize an account that they deposit units of a cryptocurrency into.  Their mission is to ensure that, as generative foundation models become increasingly capable of imitating humans, that there remains a secure foundation for identity that could be used, for example, to distribute an equal \"universal basic income\" to every person on the planet or to allow participation in voting and other universal rights.": {
+    "ja": "部分的にこの成功に触発され、OpenAIの共同創設者であるサム・アルトマンを含む一群の技術者が2019年にワールドコインを立ち上げ、最初の普遍的な生体認証アイデンティティを目指しています。[^Altman] 彼らは「オーブ」と呼ばれる独自の技術を使用して、これまでに開発途上国を中心に数百万人の虹彩をスキャンしています。暗号技術を利用して、これらのスキャンを「ハッシュ化」し、表示や復元ができないようにしていますが、将来のスキャンと照合して一意性を確認することができます。彼らはこれを利用して、暗号通貨の口座を初期化し、その口座に通貨の単位を預け入れています。彼らの使命は、生成的な基盤モデルがますます人間を模倣する能力を持つようになるにつれて、アイデンティティの安全な基盤が確保され続けることを保証することです。これは、例えば地球上のすべての人に対して平等な「ユニバーサルベーシックインカム」を配布するために使用されたり、投票やその他の普遍的な権利への参加を可能にするために使用されたりすることができます。"
+  },
+  "[^1]: References 1) History of the Social Security Number System as described by the [Social Security Administration](https://www.ssa.gov/policy/docs/ssb/v69n2/v69n2p55.html). 2) [Opening Pandora’s box : the social security number from 1937-2018](https://repositories.lib.utexas.edu/handle/2152/66022) by Meiser, Kenneth Donaldson, UT Electronic Theses and Dissertations. ": {
+    "ja": "[^1]: 参考文献 1) [社会保障庁](https://www.ssa.gov/policy/docs/ssb/v69n2/v69n2p55.html)による社会保障番号システムの歴史。2) Meiser, Kenneth Donaldson, UT Electronic Theses and Dissertationsによる[パンドラの箱を開ける：1937年から2018年までの社会保障番号](https://repositories.lib.utexas.edu/handle/2152/66022)。"
+  },
+  "[^2]: See Records, [Computers, and the Rights of Citizens](https://www.rand.org/content/dam/rand/pubs/papers/2008/P5077.pdf), 1973, Rand Corporation. ": {
+    "ja": "[^2]: レコード、[コンピュータ、市民の権利](https://www.rand.org/content/dam/rand/pubs/papers/2008/P5077.pdf)を参照してください、1973年、ランド・コーポレーション。"
+  },
+  "[^3]: See 1) [Social Secrutiy Numbers: Private Sector Entities Routinely Obtain and Use SSNs, and Laws Limit the Disclosure of This Information](https://epic.org/wp-content/uploads/privacy/ssn/gao-04-11.pdf) by the GAO Report to the Chairman, Subcommittee on Social Security, Committee on Ways and Means, House of Representatives. 2) [Social Securty Number: Federal and State Laws Restrict Use of SSNs, yet Gaps Remain](https://www.gao.gov/assets/gao-05-1016t.pdf), GAO Testimony Before the Committee on Consumer Affairs and Protection and Committee on Governmental Operations, New York State Assembly ": {
+    "ja": "[^3]: 1) [社会保障番号：民間企業は定期的にSSNを取得し使用しており、情報の開示は制限されています](https://epic.org/wp-content/uploads/privacy/ssn/gao-04-11.pdf) - GAO報告書、社会保障副委員長、社会保障委員会、下院。 2) [社会保障番号：連邦および州の法律はSSNの使用を制限していますが、まだギャップが存在します](https://www.gao.gov/assets/gao-05-1016t.pdf) - GAO証言、消費者事務局および政府運営委員会、ニューヨーク州議会の前で。"
+  },
+  "[^4]: News Release: [DHS Awards $193K for a Standards Based Approach to an Alternative Identifier to the Social Security Number](https://www.dhs.gov/science-and-technology/news/2020/10/09/news-release-dhs-awards-alternative-identifier-social-security-number)": {
+    "ja": "[^4]: ニュースリリース：[DHSは、社会保障番号の代替識別子に対する標準ベースのアプローチに193,000ドルを授与](https://www.dhs.gov/science-and-technology/news/2020/10/09/news-release-dhs-awards-alternative-identifier-social-security-number)"
+  },
+  "[^Altman]: https://www.reuters.com/technology/worldcoin-aims-set-up-global-id-network-akin-indias-aadhaar-2023-11-02/": {
+    "ja": "[^Altman]: [Worldcoin](https://www.reuters.com/technology/worldcoin-aims-set-up-global-id-network-akin-indias-aadhaar-2023-11-02/)は、2023年にインドのアーダールに似たグローバルIDネットワークを設立することを目指しています。"
+  },
+  "[^5]: Kim Cameron's [Laws of Identities](https://www.identityblog.com/?p=1065) (blog post, August 2009)": {
+    "ja": "[^5]: キム・キャメロンの[アイデンティティの法則](https://www.identityblog.com/?p=1065)（ブログ投稿、2009年8月）"
+  },
+  "<center> <h1> Access </h1> </center>": {
+    "ja": "<center> <h1> アクセス </h1> </center>"
+  },
+  "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/communitynotes.png\" width=\"100%\" alt=\"Twitter Community Notes\">": {
+    "ja": "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/communitynotes.png\" width=\"100%\" alt=\"Twitter コミュニティノート\">"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Usually seen as a variant of \"fact checking\", Community Notes (CN) allows members of the X community to suggest contextualizing additional information on posts that are flagged as potentially misleading as illustrated above.  Participants in this process not only submit suggested notes: they also rate the notes suggested by others.  These ratings are used to asses the overall perspective of a rater statistically. ": {
+    "ja": "通常、コミュニティノート（CN）は「事実確認」の一種と見なされ、Xコミュニティのメンバーが、上記のように誤解を招く可能性のある投稿に関する文脈を提案することを許可します。このプロセスに参加する人々は、提案されたノートだけでなく、他の人が提案したノートを評価することもします。これらの評価は、評価者の全体的な視点を統計的に評価するために使用されます。"
   }
 }
