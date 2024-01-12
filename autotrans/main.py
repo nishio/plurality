@@ -27,6 +27,12 @@ parser.add_argument(
     action="store_true",
     help="skip GPT API call for tests",
 )
+parser.add_argument(
+    "--target",
+    action="store",
+    default="all",
+    help="target file to translate",
+)
 args = parser.parse_args()
 
 
@@ -108,20 +114,44 @@ def translate_one_page(page="../contents/traditional-mandarin/序章 數位觀�
     with open(page, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
+    new_lines = []
+    for line in lines:
+        r = translate_one_line(line)
+        new_lines.append(r)
+
     with open(OUTFILE, "w", encoding="utf-8") as f:
-        for line in lines:
-            r = translate_one_line(line)
-            f.write(r + "\n")
+        for line in new_lines:
+            f.write(line + "\n")
+
+    # add language icon
+    OUTFILE = f"../contents/japanese-auto/with_lang_icon/{basename}"
+    if "traditional-mandarin" in page:
+        icon = "🇹🇼"
+    else:
+        icon = "🇺🇸"
+    with open(OUTFILE, "w", encoding="utf-8") as f:
+        for line in new_lines:
+            if line:
+                f.write(f"{icon}{line}\n")
+            else:
+                f.write("\n")
 
 
-# translate all pages
-targets = [f"../contents/english/{f}" for f in os.listdir("../contents/english")] + [
-    f"../contents/traditional-mandarin/{f}"
-    for f in os.listdir("../contents/traditional-mandarin")
-]
-targets.sort()
-for page in targets:
-    translate_one_page(page)
-    # save translation cache
-    with open("cache.json", "w", encoding="utf-8") as f:
-        json.dump(new_trans, f, ensure_ascii=False, indent=2)
+def main():
+    # translate all pages
+    targets = [
+        f"../contents/english/{f}" for f in os.listdir("../contents/english")
+    ] + [
+        f"../contents/traditional-mandarin/{f}"
+        for f in os.listdir("../contents/traditional-mandarin")
+    ]
+    targets.sort()
+    for page in targets:
+        translate_one_page(page)
+        # save translation cache
+        with open("cache.json", "w", encoding="utf-8") as f:
+            json.dump(new_trans, f, ensure_ascii=False, indent=2)
+
+
+if __name__ == "__main__":
+    main()
