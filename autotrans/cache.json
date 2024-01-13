@@ -7327,5 +7327,467 @@
   },
   "* 「輔助式即時投票」（Assisted real-time voting）：另一個經常被討論的想法是，如果數位助理能夠學會模擬投票者的觀點和偏好，代表他們投票，並接受投票者的審查/審計，那麼投票就可以變得更加頻繁和細緻。": {
     "ja": "* 「輔助式即時投票」（Assisted real-time voting）：もう1つよく議論される考え方は、デジタルアシスタントが投票者の視点や好みを模倣し、彼らを代表して投票し、投票者の審査/監査を受けることができれば、投票はより頻繁かつ詳細になる可能性があります。"
+  },
+  "More central to the heart of governmental responsibility in democracies, however, is the digitization of public services. Many middle-income and weathy democracies invest less in e-government compared to authoritarian counterparts. The UN e-government development index (EGDI) is a composite measure of three important dimensions of e-government, namely: provision of online services, telecommunication connectivity, and human capital. In 2022, several authoritarian governments ranked highly, including UAE,  13th, Kazakhstan  28th, and Saudia Arabia  31, ahead of many, democracies incuding notably Canada 32, Italy 37, Brazil 49, and Mexico 62. (_United Nations Department of Economic and Social Affairs. E-Government Knowledge Database, 2022. https://publicadministration.un.org/egovkb/Data-Center).": {
+    "ja": "民主主義国家において、政府の責任の中心にあるのは、公共サービスのデジタル化です。しかし、中所得国や富裕国の多くは、独裁政権と比較して、電子政府への投資が少ないです。国連の電子政府開発指数（EGDI）は、オンラインサービスの提供、通信接続性、人的資本という3つの重要な要素を総合的に評価した指標です。2022年には、UAE（13位）、カザフスタン（28位）、サウジアラビア（31位）など、いくつかの独裁政権が高い順位にランクインしています。一方、カナダ（32位）、イタリア（37位）、ブラジル（49位）、メキシコ（62位）などの民主主義国家は後退しています。 (_United Nations Department of Economic and Social Affairs. E-Government Knowledge Database, 2022. https://publicadministration.un.org/egovkb/Data-Center)."
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; The advent of post-symbolic communication marks the beginning of a new era in the exchange of ideas and emotions between individuals. This paradigm transcends the limitations of language and traditional symbols, which are often constrained by cultural boundaries and subjective interpretations. Post-symbolic communication leverages cutting-edge technologies, including neuro-interfaces, mediated reality, and advanced AI, to facilitate a more intuitive and direct form of human interaction.": {
+    "ja": "ポストシンボリックコミュニケーションの出現は、個人間のアイデアや感情の交換における新たな時代の幕開けを告げています。このパラダイムは、しばしば文化的な境界や主観的な解釈によって制約される言語や伝統的なシンボルの限界を超えています。ポストシンボリックコミュニケーションは、神経インターフェース、仲介現実、高度なAIなどの最先端技術を活用して、より直感的で直接的な人間の相互作用を促進します。"
+  },
+  "In this chapter, we describe some of these technologies and explore the concept and frontiers of Post-Symbolic Communication, examining how it could revolutionize interpersonal connections, education, and collaboration. The discussion delves into the potential of technologies that enable the transmission of thoughts, feelings, and sensory experiences without the intermediation of spoken or written language. It considers the implications of such communication on society, individual identity, and our collective understanding of consciousness.": {
+    "ja": "この章では、これらの技術のいくつかについて説明し、ポストシンボリックコミュニケーションの概念とフロンティアを探求します。これにより、人間関係、教育、協力の方法が革新される可能性があるかどうかを調べます。議論は、口頭や書面による言語を介さずに思考、感情、感覚体験を伝達することを可能にする技術の可能性について探求します。また、そのようなコミュニケーションが社会、個人のアイデンティティ、そして私たちの集合的な意識の理解に与える影響について考察します。"
+  },
+  "Moreover, this chapter also investigates how post-symbolic communication could influence the way we approach global challenges, such as cultural misunderstandings and conflicts, by fostering a more profound level of empathy and shared experience. It scrutinizes the ethical considerations of such profound connectivity, including privacy concerns and the preservation of individual thought autonomy. As we stand on the cusp of this communication revolution, we must prepare to embrace a future where ideas flow as seamlessly as emotions, where understanding is not hindered by the ambiguity of words, and where human experience can be shared as vividly as it is lived.": {
+    "ja": "さらに、この章では、ポストシンボリックなコミュニケーションが、文化的な誤解や紛争などのグローバルな課題へのアプローチの仕方にどのように影響を与えるかを調査します。これにより、より深い共感と共有の経験が促進されます。また、個々の思考の自律性の保護やプライバシーの懸念など、このような深いつながりの倫理的な考慮も検討されます。このコミュニケーションの革命の瀬戸際に立つ私たちは、アイデアが感情と同様にシームレスに流れる未来を受け入れる準備をしなければなりません。言葉の曖昧さによって理解が妨げられることなく、人間の経験を鮮明に共有できる未来です。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Post-symbolic communication, a term coined by Jaron Lanier [^1], ventures beyond the realm of traditional language and symbols to explore the potential for direct and immersive shared experience. Lanier draws inspiration from the sophisticated non-verbal communication observed in animals like the octopus, which dynamically alter their form and color to convey complex messages. This mode of communication proposes an evolution from the abstract to the tangible, enabling humans, in a virtual space, to express themselves with the immediacy and vividity of thought.": {
+    "ja": "ポストシンボリックコミュニケーションは、Jaron Lanierによって考案された用語であり、従来の言語やシンボルの領域を超えて、直接的で没入型の共有体験の可能性を探求します。 Lanierは、ダイナミックに形状や色を変化させて複雑なメッセージを伝えるタコのような動物で観察される洗練された非言語コミュニケーションからインスピレーションを得ています。 このコミュニケーションの形式は、抽象的なものから具体的なものへの進化を提案し、仮想空間で人間が思考の即時性と生き生きとした表現をすることを可能にします。"
+  },
+  "In the current landscape, we see glimpses of this post-symbolic potential in various forms of human interaction. Dance and physical intimacy, for instance, communicate complex emotional states and narratives without uttering a single word. In music, there is evidence of shared brain activity among musicians and between performers and audiences. Some studies have used fMRI to observe synchronized responses in listeners' brains [^2], while others have used EEG to track the brain activity of musicians in orchestras [^3], finding links between this coordination and musical enjoyment [^4]. Another example is the unspoken mother-baby bond, particularly the synchronization of heartbeats between a mother and her unborn child, especially when the mother breathes rhythmically, suggesting an intrinsic communication pathway [^5]. These instances – the coordination in music, the mother-child heartbeat connection, and the collective states reached during meditation or psychedelic experiences – all point towards a deep potential for communication that transcends verbal and written language.": {
+    "ja": "現在の風景では、さまざまな形式の人間の相互作用において、この象徴的なポテンシャルの一端を垣間見ることができます。例えば、ダンスや身体的な親密さは、一言も発せずに複雑な感情状態や物語を伝えます。音楽では、ミュージシャン同士や演奏者と観客の間で共有される脳活動の証拠があります。一部の研究では、fMRIを使用してリスナーの脳の同期した反応を観察しています[^2]。他の研究では、オーケストラのミュージシャンの脳活動を追跡するためにEEGを使用し、この調整と音楽の楽しみとの関連性を見つけました[^3][^4]。もう一つの例は、言葉にならない母子の絆であり、特に母親と未生児の心拍の同期です。特に母親がリズミカルに呼吸するときには、内在的なコミュニケーション経路を示唆しています[^5]。これらの例 - 音楽の調整、母子の心拍のつながり、瞑想や幻覚体験中に達成される集合的な状態 - すべてが、言葉や書かれた言語を超えたコミュニケーションの深い可能性を示しています。"
+  },
+  "But perhaps one of the most pervasive and underrated senses in post-symbolic communication is the sense of smell. The role of chemosignals in human communication is an area ripe for exploration in the context of post-symbolic communication. Chemosignals, or chemical signals, are used extensively in the animal kingdom for communication and play a subtle yet significant role in human interactions as well. These biochemical messengers can convey emotional states and trigger responses in others, often unconsciously. For instance, research has shown that human sweat contains compounds that, when detected by others, can convey stress or fear, influencing the receiver's perception and behavior. This form of communication, deeply rooted in our biology, aligns with the principles of post-symbolic communication by bypassing traditional linguistic methods and directly affecting the receiver's emotional state and cognition across the consciousness continuum [^6].": {
+    "ja": "しかし、ポストシンボリックコミュニケーションにおいて、最も普及していて過小評価されている感覚の一つは嗅覚です。化学信号の役割は、ポストシンボリックコミュニケーションの文脈で探求されるべき領域です。化学信号は、動物界で広範に使用され、人間の相互作用においても微妙でありながら重要な役割を果たしています。これらの生化学メッセンジャーは、感情状態を伝え、他者の反応を引き起こすことができます。たとえば、研究によれば、人間の汗には、他者に検知されるとストレスや恐怖を伝える化合物が含まれており、これが受信者の認識や行動に影響を与えることが示されています。この形式のコミュニケーションは、私たちの生物学に深く根ざしており、伝統的な言語的手法を迂回し、受信者の感情状態と認知を直接的に影響させることによって、ポストシンボリックコミュニケーションの原則と一致しています[^6]。"
+  },
+  "Further exploring the intersection of technology and post-symbolic communication, the concept of homuncular flexibility [^7] provides a fascinating perspective. This idea suggests that individuals can learn to control virtual bodies that differ significantly from their own physical form. By altering the relationship between tracked motion (input) and rendered motion (output), users can experience a form of communication that transcends the limitations of their physical bodies. This concept has been particularly insightful in understanding and simulating phenomena like phantom limbs, where individuals perceive and interact with limbs that are not physically present. Building on this concept, recent advancements in AI and animation, particularly the use of Large Language Models (LLMs) in real-time animation control, further expand the scope of homuncular flexibility. These technologies enable the interpretation of natural language inputs to generate dynamic and realistic animations in virtual environments [^8]. By integrating LLMs, users can command and interact with their virtual avatars or environments more intuitively, using natural language to prompt complex animations. This synergy enhances the user's ability to express and experience various states and actions, making virtual interactions more lifelike and immersive.": {
+    "ja": "技術とポストシンボリックコミュニケーションの交差点をさらに探求することで、ホムンクルスの柔軟性の概念は魅力的な視点を提供します。このアイデアは、個人が自分自身の身体的形態とは大きく異なる仮想的な体を制御することを学ぶことができるというものです。追跡された動き（入力）とレンダリングされた動き（出力）の関係を変えることにより、ユーザーは物理的な身体の制約を超えた形式のコミュニケーションを体験することができます。この概念は、特に幻肢のような現象を理解しシミュレートする上で非常に有益です。幻肢とは、物理的に存在しない肢体を知覚し、それと対話する個人のことです。この概念を基に、AIとアニメーションの最近の進歩、特にリアルタイムアニメーション制御における大規模言語モデル（LLM）の使用は、ホムンクルスの柔軟性の範囲をさらに拡大しています。これらの技術により、自然言語の入力を解釈して仮想環境でダイナミックかつリアルなアニメーションを生成することが可能になります。LLMを統合することで、ユーザーは自然言語を使って複雑なアニメーションを促すことで、仮想のアバターや環境と直感的にコマンドや対話することができます。このシナジーにより、ユーザーはさまざまな状態やアクションを表現し体験する能力が向上し、仮想的な相互作用がより生き生きと没入感を持つものになります。"
+  },
+  "Moreover, the integration of neural interfaces into the realm of post-symbolic communication presents an exciting frontier. Neural interfaces, devices that connect directly to the brain, are becoming increasingly sophisticated and will offer a direct pathway for communicating complex thoughts and emotions. These technologies can capture neural activity related to specific thoughts or states and translate them into digital or physical outputs, allowing for an unprecedented level of interaction. Researchers have already shown how brain implants can connect the intentions of a paralyzed patient into physical movements [^9], demonstrating the remarkable potential of neural interfaces to bridge the gap between thought and action. This capability illustrates a significant stride toward realizing post-symbolic communication, where the transmission of ideas and emotions can occur directly and seamlessly.": {
+    "ja": "さらに、神経インターフェースの統合は、ポストシンボリックコミュニケーションの領域において刺激的なフロンティアを提供します。神経インターフェースは、直接脳に接続するデバイスであり、ますます洗練されており、複雑な思考や感情を伝えるための直接的な経路を提供します。これらの技術は、特定の思考や状態に関連する神経活動を捉え、それらをデジタルまたは物理的な出力に変換することができます。これにより、前例のないレベルの相互作用が可能となります。研究者はすでに、脳インプラントが麻痺患者の意図を物理的な動きにつなげることができることを示しており[^9]、神経インターフェースの驚異的な潜在能力が思考と行動の間のギャップを埋めることができることを示しています。この能力は、アイデアや感情の伝達が直接かつシームレスに行われるポストシンボリックコミュニケーションの実現に向けた重要な進歩を示しています。"
+  },
+  "Such technological advances, when paired with our growing understanding of human perception and cognition, are paving the way for a future where communication encompasses a much broader range of human experiences and states. The combination of homuncular flexibility and neural interfaces in post-symbolic communication could lead to more inclusive and empathetic ways of interacting, enabling a form of communication that is not only post-symbolic but also deeply empathetic, as individuals share experiences and emotions in their most unfiltered form, where physical limitations are no longer barriers to deep, meaningful connections.": {
+    "ja": "このような技術の進歩は、人間の知覚と認知の理解が進むにつれて、コミュニケーションがより広範な人間の経験や状態を包括する未来を切り拓いています。ホムンクルスの柔軟性と神経インターフェースの組み合わせによるポストシンボリックコミュニケーションは、より包括的で共感的な相互作用の方法をもたらす可能性があります。個人が経験や感情を最もフィルタリングされていない形で共有し、物理的な制約が深い意味のあるつながりの障壁ではなくなることで、ポストシンボリックでありながらも深い共感を持つコミュニケーションが可能になります。"
+  },
+  "[^1]: Lanier, Jaron. You are not a gadget: A manifesto. Vintage, 2011.": {
+    "ja": "[^1]: ラニエ、ジャロン。あなたはガジェットではありません：マニフェスト。ヴィンテージ、2011年。"
+  },
+  "[^2]: Abrams DA, Ryali S, Chen T, Chordia P, Khouzam A, Levitin DJ, Menon V. Inter-subject synchronization of brain responses during natural music listening. Eur J Neurosci. 2013 May;37(9):1458-69. doi: 10.1111/ejn.12173. Epub 2013 Apr 11. PMID: 23578016; PMCID: PMC4487043.": {
+    "ja": "[^2]: Abrams DA、Ryali S、Chen T、Chordia P、Khouzam A、Levitin DJ、Menon V. 自然音楽の聴取中における脳応答の被験者間同期。 Eur J Neurosci. 2013年5月; 37（9）：1458-69. doi：10.1111 / ejn.12173. 2013年4月11日にEpub。 PMID：23578016; PMCID：PMC4487043。"
+  },
+  "[^3]: Babiloni, Claudio, et al. \"Brains “in concert”: frontal oscillatory alpha rhythms and empathy in professional musicians.\" Neuroimage 60.1 (2012): 105-116.": {
+    "ja": "[^3]: Babiloni, Claudio, et al. \"Brains “in concert”: frontal oscillatory alpha rhythms and empathy in professional musicians.\" Neuroimage 60.1 (2012): 105-116."
+  },
+  "[^4]: Hou, Yingying, et al. \"The averaged inter-brain coherence between the audience and a violinist predicts the popularity of violin performance.\" Neuroimage 211 (2020): 116655.": {
+    "ja": "[^4]: Hou, Yingyingら。\"The averaged inter-brain coherence between the audience and a violinist predicts the popularity of violin performance.\" Neuroimage 211 (2020): 116655."
+  },
+  "[^5]: Van Leeuwen, P., Geue, D., Thiel, M., Cysarz, D., Lange, S., Romano , M. C., Wessel, N., Kurths, J., & Groenemeyer, D. H. (2009). Influence of paced maternal breathing on fetal–maternal heart rate coordination. PNAS, 106(33), 13661-13666. https://doi.org/10.1073/pnas.0901049106": {
+    "ja": "[^5]: Van Leeuwen, P., Geue, D., Thiel, M., Cysarz, D., Lange, S., Romano , M. C., Wessel, N., Kurths, J., & Groenemeyer, D. H. (2009). Influence of paced maternal breathing on fetal–maternal heart rate coordination. PNAS, 106(33), 13661-13666. https://doi.org/10.1073/pnas.0901049106"
+  },
+  "[^6]: Fernandez, Judith Amores. Olfactory interfaces: toward implicit human-computer interaction across the consciousness continuum. Diss. Massachusetts Institute of Technology, School of Architecture and Planning, Program in Media Arts and Sciences, 2020.": {
+    "ja": "[^6]: フェルナンデス、ジュディス・アモレス。嗅覚インターフェース：意識の連続を超えた暗黙の人間とコンピュータの相互作用に向けて。マサチューセッツ工科大学、建築と計画学部、メディア芸術と科学プログラム、2020年の博士論文。"
+  },
+  "[^7]: Andrea Stevenson Won, Jeremy Bailenson, Jimmy Lee, Jaron Lanier, Homuncular Flexibility in Virtual Reality, Journal of Computer-Mediated Communication, Volume 20, Issue 3, 1 May 2015, Pages 241–259, https://doi.org/10.1111/jcc4.12107": {
+    "ja": "[^7]: アンドレア・スティーブンソン・ウォン、ジェレミー・ベイレンソン、ジミー・リー、ジャロン・レニア、バーチャルリアリティにおけるホムンクルスの柔軟性、コンピューターメディエーションコミュニケーションジャーナル、第20巻、第3号、2015年5月1日、241-259ページ、https://doi.org/10.1111/jcc4.12107"
+  },
+  "[^8]: Huang, Han, et al. \"Real-time Animation Generation and Control on Rigged Models via Large Language Models.\" NeurIPS Workshop on ML for Creativity and Design (2023)": {
+    "ja": "[^8]: Huang, Han, et al. \"リアルタイムアニメーション生成とリグモデルの制御：大規模言語モデルを用いた.\" NeurIPS Workshop on ML for Creativity and Design (2023)"
+  },
+  "[^9]: Lorach, H., Galvez, A., Spagnolo, V. et al. Walking naturally after spinal cord injury using a brain–spine interface. Nature 618, 126–133 (2023). https://doi.org/10.1038/s41586-023-06094-5": {
+    "ja": "[^9]: Lorach, H., Galvez, A., Spagnolo, V. et al. 脳脊髄インターフェースを用いた脊髄損傷後の自然な歩行. Nature 618, 126–133 (2023). https://doi.org/10.1038/s41586-023-06094-5"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Immersive Shared Reality refers to the use of technology to create a shared virtual environment where users can interact with each other in real-time. This type of “reality” can be considered a subset application of Mediated Reality, a broader term coined by Steve Mann back in the 90’s. Mediated Reality encompasses various technologies that mediate our perception of reality, including Virtual, Augmented and Mixed Reality (a.k.a. VR, AR, MR). Some of the most common applications are related to gaming, entertainment, art, healthcare, and education, which are often also immersive, shared realities.": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;没入型共有現実は、技術を使用して、ユーザーがリアルタイムでお互いとやり取りできる共有仮想環境を作成することを指します。このタイプの「現実」は、90年代にスティーブ・マンによって作られた広い意味の仲介現実の一部のアプリケーションと考えることができます。仲介現実は、仮想現実、拡張現実、混合現実（VR、AR、MRとも呼ばれる）を含む、現実の知覚を仲介するさまざまな技術を包括しています。最も一般的なアプリケーションのいくつかは、ゲーム、エンターテイメント、アート、医療、教育に関連しており、しばしば没入型で共有された現実でもあります。"
+  },
+  "Today’s immersive shared reality is a vibrant mix of entertainment, art, and collaboration, from virtual concerts and online multiplayer gaming to remote team-building exercises and virtual tourism. Artists like Billie Eilish have already held virtual concerts that draw crowds into the pulsating heart of her music, or music festivals like Coachella have embraced the benefits of VR without the constraints of physical venues (e.g., selling out). Such shared experiences, like in online multiplayer gaming, create worlds where players not only compete but also form lasting friendships that break the boundaries of the virtual-physical divide. Remote team-building exercises, rendered through VR, turn colleagues separated by oceans into teammates in a shared digital space, fostering team spirit and camaraderie. Through virtual tourism, travelers can experience remote places, walking through historic cities or visiting foreign landscapes without leaving their homes.": {
+    "ja": "今日の没入型共有現実は、仮想コンサートやオンラインマルチプレイヤーゲームからリモートチームビルディングの演習や仮想観光まで、エンターテイメント、アート、コラボレーションの活気に満ちたミックスです。Billie Eilishのようなアーティストは、彼女の音楽の鼓動する心臓に群衆を引き込む仮想コンサートを既に開催しており、Coachellaのような音楽フェスティバルも物理的な会場の制約なしでVRの利点を取り入れています（例：完売）。オンラインマルチプレイヤーゲームのような共有体験は、競争だけでなく、仮想と物理の境界を超えた持続的な友情を築く世界を作り出します。VRを通じてレンダリングされたリモートチームビルディングの演習は、海を隔てた同僚を共有のデジタル空間でチームメイトに変え、チームスピリットと仲間意識を育みます。仮想観光を通じて、旅行者は自宅を出ることなく、歴史的な都市を歩いたり、外国の風景を訪れたりすることができます。"
+  },
+  "But more than amusement, these platforms also create spaces for shared understanding and empathy across cultures and distances, promoting emotional connection and awareness among people who are far apart.  For example, language learning applications use these to immerse users in the linguistic and cultural background of others, while virtual reality therapy sessions offer healing and comfort to those with mental health challenges. Each of these examples encapsulates a unique facet of how Immersive Shared Realities can meld entertainment with deeper social connections. As these technologies mature, they are increasingly harnessed to not just simulate reality but to enhance it, creating a bridge between diverse cultures and fostering a global community of shared experiences and mutual understanding regardless of one’s origin or language.  ": {
+    "ja": "しかし、これらのプラットフォームは、単なる娯楽以上に、異なる文化や距離を超えた共有理解と共感の場を創り出しています。これにより、遠く離れた人々の間で感情的なつながりと意識が促進されます。たとえば、言語学習アプリは、ユーザーを他の人々の言語と文化的背景に没入させるためにこれらを使用し、仮想現実療法セッションは精神的な健康上の課題を抱える人々に癒しと快適さを提供します。これらの例は、Immersive Shared Realitiesが娯楽とより深い社会的なつながりを融合させる独自の側面を具体化しています。これらの技術が成熟するにつれて、それらは現実を単にシミュレートするだけでなく、異なる文化をつなぎ、出身国や言語に関係なく、共有の経験と相互理解を促進するための橋を作り出すためにますます活用されています。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Emerging technologies on the horizon promise to deepen the immersive experience and reshape human interaction by enveloping users in a synthetic world that simulates multiple senses simultaneously. While sight and sound have been the traditional focus, the integration of touch, smell, and even taste is beginning to enhance the immersive experience.  The horizon of immersive shared reality gleams with potential, foreshadowing a tomorrow where multisensory integration is not an exception but a norm. New sensors and actuators promise to deepen the immersive experience by synthetic worlds that not only replicate but enhance all senses.": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;将来の新興技術は、ユーザーを複数の感覚を同時にシミュレートする合成世界に包み込むことで、没入型体験を深め、人間の相互作用を再構築することを約束しています。視覚と聴覚が伝統的な焦点であった一方、触覚、嗅覚、さらには味覚の統合が没入型体験を向上させることが始まっています。没入型共有現実の地平線は潜在能力で輝き、多感覚の統合が例外ではなく常識となる明日を予示しています。新しいセンサーとアクチュエーターは、すべての感覚を再現するだけでなく、向上させる合成世界によって没入型体験を深めることを約束しています。"
+  },
+  "Audio-visual interfaces have long been the vanguard senses in the digital realm; thus, the frontier is now expanding to include touch, facilitated by advanced haptic feedback systems that replicate the subtleties of physical contact. Smell, once considered elusive in the digital domain, is now being captured by olfactory technology, enabling fragrances and odors to be part of storytelling, education, and even retail experiences in VR. Taste, though still in nascent stages, is beginning to make its mark through taste retargeting [^1], hinting at a future where dining can be a shared virtual adventure by altering taste perception delivering chemical modulators to the mouth before eating. ": {
+    "ja": "オーディオビジュアルインターフェースは、デジタル領域における先駆的な感覚であり、そのため、フロンティアは今や触覚を含むように拡大しています。これは、物理的な接触の微妙なニュアンスを再現する高度な触覚フィードバックシステムによって可能になっています。かつてデジタル領域では捉えにくいと考えられていたにおいは、現在では嗅覚技術によって捉えられるようになり、香りや臭いが物語や教育、さらにはVRの小売体験の一部となることができます。味覚はまだ初期の段階にありますが、味の再ターゲティングによってその存在感を示しており、食事の前に口に化学物質を送り込むことで、共有の仮想冒険となる未来を示唆しています。 [^1]"
+  },
+  "This multisensory expansion is not merely for enhancement but serves a higher purpose of fostering inclusivity and equality within immersive spaces. For instance, hyper-realistic social VR platforms are being designed with accessibility in mind, allowing those with visual or auditory impairments to engage through other senses. Virtual chambers are being designed where people who are fare away from one another can converse as if in the same room. For instance, the Portals Policing Project [^2] exemplifies how Immersive Shared Realities can serve the public good by sharing the lived experiences of people with law enforcement in a controlled, yet realistic virtual chamber, improving understanding and trust on both sides. On similar lines, the Tree Project [^3] demonstrates how immersive VR can evoke empathy and compassion for the natural environment by transforming the user into a rainforest tree and exposing them to the threats of deforestation and climate change. ": {
+    "ja": "この多感覚の拡張は、単に向上させるためだけでなく、没入型の空間内での包括性と平等を促進するというより高い目的を果たしています。たとえば、超リアルな社会的なVRプラットフォームは、視覚や聴覚の障害を持つ人々が他の感覚を通じて参加できるように設計されています。仮想のチャンバーでは、互いに遠く離れた人々が同じ部屋にいるかのように会話できるように設計されています。たとえば、ポータル警察プロジェクト[^2]は、制御されたが現実的な仮想チャンバーで法執行機関との生活体験を共有することで、両者の理解と信頼を向上させることで公共の利益に貢献することを示しています。同様に、ツリープロジェクト[^3]は、没入型VRがユーザーを熱帯雨林の木に変え、森林伐採や気候変動の脅威にさらすことで共感と思いやりを喚起する方法を示しています。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp;  At the frontiers of Immersive Shared Reality, we are not merely spectators but active participants in a revolution of multisensory integration [^4]. As Mediated Reality technologies advance, the precision with which sensory modalities are replicated and introduced into virtual experiences will improve, allowing for a more sophisticated and controlled use of non-traditional sensory inputs like the sense of smell and taste. This careful curation of olfactory and haptic stimuli, when combined with visual and auditory, can create a compelling illusion of reality that deeply resonates with the users’ emotions and memories. Such stimuli, when reactivated during sleep, not only can enhance these memories [^5], but simulate worlds through sensory stimulation in altered states of consciousness [^6], such in a shared lucid dream [^7].": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;没入型共有現実の最前線では、私たちは単なる観客ではなく、多感覚統合の革命の積極的な参加者です[^4]。仲介現実技術が進歩するにつれて、感覚モダリティが複製され、仮想体験に導入される精度が向上し、嗅覚や味覚のような非伝統的な感覚入力のより洗練された制御された使用が可能になります。視覚と聴覚と組み合わせることで、慎重にキュレーションされた嗅覚と触覚の刺激は、現実の錯覚を作り出し、ユーザーの感情と記憶に深く共鳴するものを作り出すことができます。このような刺激は、睡眠中に再活性化されると、これらの記憶を強化するだけでなく、意識の変化した状態で感覚刺激を通じて世界をシミュレートすることができます[^6]、共有の明晰な夢のようなもの[^7]。"
+  },
+  "The importance of such integration speaks to the broader objectives of immersive shared realities – creating experiences that are not merely escapes from reality but are extensions of it, enhancing users’ understanding of and engagement with important global issues such as the critical arena of climate change, providing a platform for not just awareness but active participation in sustainability efforts. Virtual environments can simulate the stark realities of climate change, such as rising sea levels or the impact of extreme weather events, making the abstract and often distant concepts an immediate and personal experience. These immersive simulations are not scare tactics but educational tools that engage users emotionally and cognitively, fostering a deeper understanding of the environmental consequences of human actions. This can be particularly powerful when using affective computing within these realities, where the system will adapt the environment based on the user’s response, physiology as well as memories or preferences, creating a feedback loop that heightens awareness and empathy for climate issues. ": {
+    "ja": "このような統合の重要性は、没入型共有現実のより広範な目標を示しています。それは現実からの逃避ではなく、それを拡張する体験を作り出し、重要な地球規模の問題（例えば気候変動の重要な領域）に対するユーザーの理解と関与を向上させるものです。仮想環境は、海面上昇や極端な気象イベントの影響など、気候変動の厳しい現実をシミュレートすることができ、抽象的でしばしば遠い概念を即座かつ個人的な体験に変えることができます。これらの没入型シミュレーションは、脅威ではなく教育ツールであり、ユーザーの感情的および認知的な関与を促進し、人間の行動の環境への影響のより深い理解を育むものです。これは、これらの現実の中で感情的なコンピューティングを使用する場合に特に効果的です。システムはユーザーの反応、生理学的な特徴、記憶、好みに基づいて環境を適応させ、気候問題への意識と共感を高めるフィードバックループを作り出します。"
+  },
+  "The 3D printing of homes and community structures offers a radical departure from traditional construction methods. Automated printers, guided by precise digital schematics produced from the immersive shared reality sessions, layer the biomaterials to create walls and architectural features with a speed and efficiency that traditional methods cannot match. This process significantly reduces construction waste and allows for complex, organic designs that would be difficult or impossible to achieve with conventional building techniques. The concept of “printing” a community from the collective imagination of its future inhabitants is not as far-fetched as it once seemed.": {
+    "ja": "家やコミュニティの構造物の3Dプリントは、従来の建築方法とは大きく異なります。自動化されたプリンターは、没入型共有現実セッションから生成された正確なデジタル設計図に従って、生体材料を層状に積み重ねて壁や建築的特徴を作り出します。このプロセスは、従来の方法では到達できない速度と効率で、建設廃棄物を大幅に削減し、複雑で有機的なデザインを可能にします。将来の住民の集合的な想像力からコミュニティを「印刷する」という概念は、かつて思われていたほど非現実的ではありません。"
+  },
+  "Immersive shared reality serves as a powerful design tool, allowing residents to co-create their living spaces in a virtual environment. Such worlds will contribute to the formation of shared experiences and collective memory and will situate this evolving technology within the new era of post-symbolic communication described in the previous chapter.": {
+    "ja": "没入型の共有現実は、住民が仮想環境で自分の生活空間を共同で創造するための強力なデザインツールとして機能します。このような世界は、共有の経験と集合的な記憶の形成に貢献し、前章で説明されたポストシンボリックコミュニケーションの新しい時代におけるこの進化する技術を位置づけます。"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Despite its promise, immersive shared reality faces a wide variety of ethical dilemmas and societal challenges that could undermine the principles of Plurality. We confront potential issues such as the risk of virtual escapism and the dilution of real-world activism, potential for addition or the neglect of physical world responsibilities and relationships. As virtual experiences verge on becoming indistinguishable from our tangible reality, the risks of addiction and the potential for neglecting the physical world's demands become palpable concerns. The seductive allure of these digital realms could precipitate a form of virtual escapism, where the lines between authentic activism and simulated advocacy blur, possibly diluting the vigor of real-world change efforts.": {
+    "ja": "約束にもかかわらず、没入型の共有現実は、多様な倫理的ジレンマや社会的課題に直面しており、Pluralityの原則を損なう可能性があります。仮想的な逃避行のリスクや現実世界での活動の希釈、中毒の可能性や物理的な世界の責任や関係の無視などの潜在的な問題に直面しています。仮想的な体験が私たちの現実と区別がつかなくなるにつれて、中毒のリスクや物理的な世界の要求を無視する可能性が現実的な懸念となってきます。これらのデジタル領域の魅力的な誘惑は、真の活動とシミュレートされた支援の間の境界線が曖昧になり、現実世界での変化の努力の活力を希釈する可能性があります。"
+  },
+  "Addressing these concerns requires a careful embedding of ethical and democratic principles within the very fabric of virtual communities. Drawing from insights presented in other chapters, the integration of participatory governance systems, like democratic voting mechanisms, into virtual environments offers a promising approach. Such systems can ensure that individuals remain grounded and accountable, preserving a balance between digital engagement and their real-world roles and responsibilities. By fostering a culture of active citizenship and responsible stewardship within these platforms, we can work towards safeguarding the plurality and diversity that form the cornerstone of vibrant societies.": {
+    "ja": "これらの懸念に対処するには、倫理的で民主的な原則を仮想コミュニティの非常に基盤に埋め込むことが必要です。他の章で提示された洞察から引用し、民主的な投票メカニズムのような参加型ガバナンスシステムを仮想環境に統合することは、有望なアプローチです。このようなシステムによって、個人が地に足をつけて責任を持ち、デジタルな関与と現実世界での役割と責任のバランスを保つことができます。これらのプラットフォーム内で積極的な市民意識と責任ある管理の文化を育むことにより、多様性と多様性を守ることができ、活気ある社会の基盤を築くことができます。"
+  },
+  "[^1]: Jas Brooks, Noor Amin, and Pedro Lopes. 2023. Taste Retargeting via Chemical Taste Modulators. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23). Association for Computing Machinery, New York, NY, USA, Article 106, 1–15. https://doi.org/10.1145/3586183.3606818": {
+    "ja": "[^1]: Jas Brooks、Noor Amin、Pedro Lopes. 2023. 化学的味覚調整子を介した味の再ターゲティング. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23). Association for Computing Machinery, New York, NY, USA, Article 106, 1–15. https://doi.org/10.1145/3586183.3606818"
+  },
+  "[^2]:  Cornelio, Patricia, Carlos Velasco, and Marianna Obrist. \"Multisensory integration as per technological advances: A review.\" Frontiers in Neuroscience (2021): 614.": {
+    "ja": "[^2]: Cornelio, Patricia, Carlos Velasco, and Marianna Obrist. \"Multisensory integration as per technological advances: A review.\" Frontiers in Neuroscience (2021): 614."
+  },
+  "[^3]: https://www.justicehappenshere.yale.edu/projects/portals-policing-project": {
+    "ja": "[^3]: [ポータルズ・ポリシング・プロジェクト](https://www.justicehappenshere.yale.edu/projects/portals-policing-project)"
+  },
+  "[^4]: www.treeofficial.com": {
+    "ja": "[^4]: www.treeofficial.com"
+  },
+  "[^5]: Amores Fernandez, Judith, et al. \"Olfactory Wearables for Mobile Targeted Memory Reactivation.\" Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems. 2023.": {
+    "ja": "[^5]: Amores Fernandez, Judith, et al. \"Olfactory Wearables for Mobile Targeted Memory Reactivation.\" 2023年 CHI人間工学会議論文集. 2023."
+  },
+  "[^6]:  Carr, Michelle, et al. \"Dream engineering: Simulating worlds through sensory stimulation.\" Consciousness and cognition 83 (2020): 102955.": {
+    "ja": "[^6]: Carr, Michelle, et al. \"夢工学：感覚刺激を通じて世界をシミュレートする.\" 意識と認知 83 (2020): 102955."
+  },
+  "[^7]: Konkoly et al. Real-time dialogue between experimenters and dreamers during REM sleep. Current Biology, 2021 DOI: 10.1016/j.cub.2021.01.026": {
+    "ja": "[^7]: Konkolyら。REM睡眠中の実験者と夢見る人のリアルタイムの対話。Current Biology、2021年、DOI：10.1016/j.cub.2021.01.026"
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Most boldly, this idea could in principle extend beyond living human beings.  In his classic *The Parliament of Things*, philosopher Bruno Latour argued that natural features (like rivers and forests) deserve representation in governments.  The challenge, of course, is how these can speak.  LLMs might offer ways to translate scientific measures of the state of these systems into a kind of \"Lorax\", Dr. Seuss's mythical creature who speaks for the trees and animals that cannot speak for themselves.  Something similar might occur for unborn future generations, as in Kim Stanley Robinson's *Ministry for the Future*.  For better or worse, such LLM-based representatives might be capable of carrying out deliberations faster than most humans can follow and might then convey summaries to human participants, allowing for deliberations that include individual humans and also allow for other styles, speeds and scales of natural language exchange.": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;最も大胆なアイデアとして、この考えは原則として生きている人間を超える可能性があります。哲学者ブルーノ・ラトゥールは、彼の古典的な著書「物事の議会」で、川や森などの自然の特徴も政府に代表されるべきだと主張しました。もちろん、課題はこれらがどのように話すことができるかです。LLMは、これらのシステムの状態の科学的な測定を「ロラックス」という種のドクタースースの神話の生き物のように翻訳する方法を提供するかもしれません。自然の言語の交換のスタイル、速度、スケールを含む個々の人間を含む審議を可能にするために、より速く審議を行うことができるかもしれないLLMベースの代表者が、要約を人間の参加者に伝えることができるかもしれません。"
+  },
+  "At the same time, technology has also clearly driven us apart. Business models based on a fight for attention have prioritized outrage over curiosity, echo chambers over shared understanding, and practically unfettered information manipulation.": {
+    "ja": "同時に、技術は私たちを明らかに引き離しています。注意を引くためのビジネスモデルは、好奇心よりも憤りを優先し、共有の理解よりもエコーチェンバーを重視し、事実上無制限の情報操作を行ってきました。"
+  },
+  "Plurality is the third way beyond libertarianism and technocracy, a movement we have perhaps three to five years to set in motion. Within that time frame, a critical mass of the technology that people and companies use every day will have become deeply dependent on large language models. At that point, we won’t be able to reverse the “reality” that libertarianism or technocracy have generated for us. But between now and then, we can mobilize to re-chart the course: toward a human-centered, relationship-embracing, digital democracy in which diverse groups of people, despite not agreeing, are able to cooperate and collaborate in sustained and thriving societies.  ": {
+    "ja": "多数派は、リバタリアニズムと技術主義の向こう側にある第三の方法であり、おそらく3〜5年以内に始動する必要がある運動です。その時間枠内で、人々や企業が日常的に使用する技術の臨界質量は、大規模な言語モデルに深く依存するようになります。その時点で、私たちにとってリバタリアニズムや技術主義が生み出した「現実」を逆転することはできません。しかし、今とその時の間に、私たちはコースを再設定するために動員することができます。多様なグループの人々が合意しなくても、持続的で繁栄する社会で協力し、共同作業することができる、人間中心の関係を重視したデジタル民主主義への道へ。"
+  },
+  "We pluralists are in every country in the world and every sector of the economy. Connect, affiliate, rally, mobilize … and join us, in the deliberate and committed movement to build a more dynamic and plural world. ": {
+    "ja": "私たちの多元主義者は、世界中のすべての国と経済のすべてのセクターにいます。結びつき、提携し、集まり、動員し...そして私たちに参加して、よりダイナミックで多元的な世界を築くための意図的で献身的な運動に参加しましょう。"
+  },
+  "十幾年來，科技的主導趨勢，是 AI 與區塊鏈。AI 賦予由上而下的集中控制權，區塊鏈加速了個體極化與金融資本主義，二者都侵蝕了民主多元化的價值觀。因此，技術被視為對民主最大的威脅、或作為那些外部專制主義者和想從內部顛覆民主者所持的有力工具，也就不足為奇了。": {
+    "ja": "数十年にわたり、技術の主導トレンドはAIとブロックチェーンです。AIはトップダウンの集中制御権を与え、ブロックチェーンは個体の極端化と金融資本主義を加速させ、両方が民主的多様性の価値観を侵食しています。そのため、技術は民主主義にとって最大の脅威と見なされるか、外部の専制主義者や内部から民主主義を転覆させようとする者たちの強力なツールとして使用されることは驚くことではありません。"
+  },
+  "然而，消極的語調、與價值同盟的科技發展相對脫節的現象，以及在已發展的民主國家中，評論員和政策制定者對於闡述正面科技願景的普遍沉默，這些因素相結合，已造成了產業受到圍攻的印象。或許最顯著反映出公共部門對資訊技術關注下降的量化標記，就是公共「研發」（R&D）支出佔國內生產總值（GDP）的比例下降，特別在於資訊技術的範疇。而這也反映出在大多數的民主進步國家中，即使企業的研發 R&D 支出不斷增大，圍繞在公共相關的 R&D 佔 GDP 的比例卻在近幾十年呈現出下降趨勢。不過在此處，中华人民共和国（以下簡稱為簡體「中国」）的政府 R&D 支出佔 GDP 的比例卻大幅增加，更以資訊技術領域為重點（需要圖示）[^16]。": {
+    "ja": "しかし、消極的な語調、価値同盟からの科学技術の発展との乖離、そして発展した民主国家において、コメントや政策立案者が前向きな科学技術のビジョンを説明することについて普遍的に沈黙していることなど、これらの要素が組み合わさり、産業が攻撃を受けている印象を与えています。情報技術への公共部門の関心の低下を最も顕著に反映しているのは、国内総生産（GDP）に占める公共の研究開発（R&D）支出の割合の低下です。特に情報技術の領域においてです。これは、多くの民主進歩国家において、企業の研究開発（R&D）支出が増加し続けているにもかかわらず、公共に関連するR&DのGDP比率が近年減少傾向にあることを反映しています。ただし、中華人民共和国（以下、簡体字中国とします）の政府のR&D支出のGDP比率は大幅に増加しており、特に情報技術分野に重点を置いています（図を参照）[^16]。"
+  },
+  "二十世紀，尤其是上一章提到的黃金年代，正是歷史上科技進步最快速的年代。這些進步主要發生在一系列領域，其中大多數領域都由一條共同的線索貫穿，即是：對一元原子論的超越，對多元論的擁抱。我們接下來將用數學、物理學、生物學、和神經科學的例子來說明。": {
+    "ja": "20世紀、特に前章で言及された黄金時代は、科学技術の進歩が最も速かった時代でした。これらの進歩は、いくつかの領域で主に起こりましたが、ほとんどの領域で共通の線索がありました。それは、単一原子論の超越と多元論の受け入れです。次に、数学、物理学、生物学、神経科学の例を挙げて説明します。"
+  },
+  "作業系統（OS）在數位生活中無所不在。作者之一任職的微軟公司發行的 Windows，可能是地球上最知名的軟體之一。iOS 和 Android 為大多數的智慧手機提供動力。Linux 是有史以來最雄心壯志、最成功的開源軟體專案，人們每次的數位互動都依賴於底層的作業系統。": {
+    "ja": "作業系統（OS）はデジタルライフにおいてどこにでも存在しています。筆者の一人が勤めるマイクロソフトが発行するWindowsは、おそらく地球上で最も有名なソフトウェアの一つです。iOSとAndroidは、ほとんどのスマートフォンにパワーを提供しています。Linuxは、史上最も野心的で成功したオープンソースプロジェクトであり、人々のすべてのデジタルインタラクションは基礎となるオペレーティングシステムに依存しています。"
+  },
+  "# 後符號交流": {
+    "ja": "後符号交流"
+  },
+  "原文：POST-SYMBOLIC COMMUNICATION": {
+    "ja": "翻訳：ポストシンボリックコミュニケーション"
+  },
+  "| 譯者：唐鳳 Audrey Tang": {
+    "ja": "| 譯者：唐鳳 Audrey Tang"
+  },
+  "「後符號交流」的出現，標誌着人與人之間思想和情感交流新時代的開始。這種模式超越了語言和傳統符號的侷限，因爲它們往往受到文化界限和主觀解釋的限制。「後符號交流」利用尖端技術，包括神經界面、中介實境和先進的 AI ，促進了更直觀、更直接的人際互動。": {
+    "ja": "「後符号交流」の出現は、人と人の間の思想や感情の交流の新しい時代の始まりを示しています。このモードは、言語や伝統的な記号の制約を超えており、しばしば文化的な制約や主観的な解釈の制約を受けることがあります。「後符号交流」は、最先端の技術、神経インターフェース、仲介現実、先進的なAIを活用して、より直感的で直接的な人間の相互作用を促進しています。"
+  },
+  "在本章中，我們將介紹其中的一些技術，探索後符號交流的概念和前沿，研究它將如何徹底改變人際聯繫、教育和協作。討論深入探討了無需口語或書面語言就能傳遞思想、情感和感官體驗的技術的潛力。本章探討了這種通信對社會、個人身份以及我們對集體意識的理解的影響。此外，本章還探討了後符號交流如何通過促進更深層次的共鳴和共享經驗，影響我們應對文化誤解和衝突等全球性挑戰的方式。": {
+    "ja": "この章では、いくつかの技術を紹介し、後符号コミュニケーションの概念と最先端を探求し、それが人間関係、教育、協働にどのように根本的に変化するかを研究します。議論は、口頭や書面の言語を必要とせずに思考、感情、感覚体験を伝える技術の潜在能力について詳しく探求しています。この章では、このようなコミュニケーションが社会、個人のアイデンティティ、集合的な意識への理解に与える影響についても議論しています。さらに、この章では、後符号コミュニケーションがより深い共鳴や経験の共有を促進することによって、文化的な誤解や紛争などのグローバルな課題への対処方法にも影響を与えることを探求しています。"
+  },
+  "本章也會仔細探討這種深度互聯所涉及的倫理問題，包括對隱私的關注和對個人思想自主性的保護。當我們站在這場通訊革命的風口浪尖上時，我們必須做好準備，迎接這樣一個未來：在這裏，思想和情感一樣暢通無阻，理解不會因爲言語的含糊不清而受到阻礙，人類分享經驗時生動的程度，和親身體驗時一般無二。": {
+    "ja": "本章では、プライバシーへの関心や個人の思考の自律性の保護など、深いインターコネクションに関連する倫理的な問題について詳しく調査します。通信革命の最前線に立つ私たちは、言葉の曖昧さによる理解の妨げを受けることなく、思考や感情が自由に流れる未来に備える必要があります。人々が経験を共有する際の生動さや、自身の経験と同じようなものになることを期待しています。"
+  },
+  "### 今日的親近關係": {
+    "ja": "今日の親密な関係"
+  },
+  "後符號交流（Post-symbolic communication）是杰倫-拉尼爾（Jaron Lanier）[^1] 創造的術語，它超越了傳統語言和符號的範疇，探索直接和身臨其境共享體驗的潛力。拉尼爾從章魚等動物身上觀察到的複雜的非語言交流中汲取靈感，章魚通過動態改變自己的形態和顏色來傳達複雜的資訊。這種交流模式提出了從抽象到具體的演變，使人類能夠在虛擬空間中以直接和生動的思想表達自己。": {
+    "ja": "後符号交流（ポストシンボリックコミュニケーション）は、ジャロン・ラニアー（Jaron Lanier）[^1]によって創造された用語であり、伝統的な言語や記号の範囲を超えて、直接的で没入型の共有体験の可能性を探求しています。ラニアーは、タコなどの動物から観察される複雑な非言語コミュニケーションからインスピレーションを得ており、タコは自身の形状や色を動的に変化させることで複雑な情報を伝えています。このようなコミュニケーションのモデルは、抽象から具体への進化を提案し、人間が仮想空間で直接的かつ生き生きと自己を表現することができるようにしています。"
+  },
+  "在當前的景觀中，我們從各種形式的人類互動中看到了這種後符號化潛力的曙光。例如，舞蹈和肢體親密接觸可以在不說一個字的情況下傳達複雜的情感狀態和敘事。在音樂方面，有證據表明音樂家之間以及表演者與觀衆之間存在共同的大腦活動。一些研究利用核磁共振成像（fMRI）觀察聽衆大腦的同步反應[^2]，還有一些研究利用腦電圖追蹤管絃樂隊中音樂家的大腦活動[^3]，發現這種協調與音樂享受之間存在聯繫[^4]。另一個例子是無言的母嬰紐帶，特別是母親和胎兒之間的心跳同步，尤其是當母親有節奏地呼吸時，這表明了一種內在的交流途徑[^5]。這些例子--音樂中的協調、母子心跳的聯繫、冥想或迷幻體驗中達到的集體狀態--都指向一種超越口頭和書面語言的深層交流潛力。": {
+    "ja": "現在の景観では、人間のさまざまな形態の相互作用から、この後の象徴化の可能性の光が見えてきました。例えば、ダンスや身体的な接触は、言葉を使わずに複雑な感情状態や物語を伝えることができます。音楽の場合、音楽家同士や演奏者と観客の間に共通の脳活動が存在することが証拠とされています。一部の研究では、機能的磁気共鳴イメージング（fMRI）を使用して聴衆の脳の同期反応を観察することが行われています[^2]。また、脳波測定を使用してオーケストラの音楽家の脳活動を追跡する研究もあり、この調和が音楽の楽しみと関連していることがわかっています[^3][^4]。もう一つの例は、言葉のない母子の絆であり、特に母親と胎児の心拍の同期です。特に、母親がリズム良く呼吸すると、内的なコミュニケーション経路が示されます[^5]。これらの例、音楽の調和、母子の心拍の関連、瞑想や幻覚体験で達成される集団状態は、口頭や書面の言語を超えた深いコミュニケーションの潜在能力を示しています。"
+  },
+  "不過，在後符號交流中，嗅覺也許是最普遍、最被低估的感官之一。化學信號在人類交流中的作用是後符號交流中一個成熟的探索領域。化學信號或化學信號在動物界被廣泛用於交流，在人類互動中也發揮着微妙而重要的作用。這些生化信使可以傳達情緒狀態，並引發他人的反應，而且往往是無意識的。例如，研究表明，人的汗液中含有一些化合物，當這些化合物被他人檢測到時，可以傳達壓力或恐懼，從而影響接收者的感知和行爲。這種交流形式深深植根於我們的生物學，通過繞過傳統的語言方法，直接影響接收者的情緒狀態和整個意識連續體的認知，符合後符號交流的原則[^6]。": {
+    "ja": "ただし、後付けのシンボルコミュニケーションでは、嗅覚はおそらく最も一般的で最も低く評価されている感覚の一つです。化学的なシグナルは、人間のコミュニケーションにおいても成熟した探索領域であり、動物界でも広く使用されています。これらの生化学的なメッセージは、感情状態を伝え、他者の反応を引き起こし、しばしば無意識的です。例えば、研究によると、人間の汗にはいくつかの化合物が含まれており、これらの化合物が他者に検出されると、ストレスや恐怖を伝えることができ、受信者の知覚や行動に影響を与えることが示されています。このようなコミュニケーション形式は、私たちの生物学に深く根ざしており、伝統的な言語的手法を回避し、受信者の感情状態や意識の連続体全体に直接影響を与えることで、後付けのシンボルコミュニケーションの原則に合致しています[^6]。"
+  },
+  "總之，今天的對話中，不乏接近於後符號交流的例子。從生理信號的同步，到能夠微妙影響人類行爲和互動的化學信號的傳遞，我們正在學習欣賞和運用我們非語言交流能力的力量。": {
+    "ja": "総じて、今日の対話では、後付けの記号交流の例が多くありました。生理信号の同期から、微妙に人間の行動や相互作用に影響を与える化学信号の伝達まで、私たちは非言語コミュニケーション能力の力を理解し、活用することを学んでいます。"
+  },
+  "### 明日的親近關係": {
+    "ja": "### 明日の親密な関係"
+  },
+  "在技術領域，尤其是在生成式 AI 領域，我們正在見證與後符號交流理念平行的演變。像 DALL-E 這樣的工具，和其他先進的 AI 平臺，就是這項進步的例證。這些技術讓我們能夠以與我們想像力匹配的速度，生成我們思想的視覺呈現。現在，我們不再侷限於學習繪畫或使用複雜的電腦圖形軟體；我們可以立即創造出以前只存在於我們頭腦中的圖像和視覺場景。這種將思維轉化爲視覺形式的即時表現，是向後符號交流時代的一次重大飛躍。它彌合了抽象概念與有形表現之間的鴻溝，使我們能夠以更直接、更直觀的方式交流思想和情感。這種能力超越了單純的藝術表達；它對我們如何分享和理解彼此的內在體驗和創造性構想，有著深遠的影響。": {
+    "ja": "技術領域では、特に生成型AIの領域では、私たちは後符号交流の考え方と並行して進化を目撃しています。DALL-Eなどのツールや他の先進的なAIプラットフォームは、この進歩の証拠です。これらの技術により、私たちは想像力に合わせた速さで、思考の視覚的な表現を生成することができます。今では、絵を学んだり、複雑なコンピュータグラフィックスソフトウェアを使用することに制約されることはありません。以前は私たちの頭の中にしか存在しなかったイメージや視覚的なシーンを即座に作り出すことができます。思考を視覚的な形に変換するこのリアルタイムの表現は、後符号交流の時代への大きな飛躍です。それは抽象的な概念と具体的な表現との間の溝を埋め、思考や感情をより直接的で直感的な方法で伝えることができるようにしています。この能力は単なる芸術的な表現を超えています。それは私たちが内的な体験や創造的なアイデアを共有し理解する方法に深い影響を与えています。"
+  },
+  "在進一步探索技術與後符號交流的交匯點時，「人形彈性（homuncular flexibility）」[^7]的概念提供了一個引人入勝的視角。這一概念表明，個人可以學會控制與自己的身體形態大相徑庭的虛擬身體。通過改變追蹤運動（輸入）和渲染運動（輸出）之間的關係，用戶可以體驗到一種超越身體限制的交流形式。這個洞見，對理解和模擬幻肢等現象特別重要。在幻肢現象中，人可以感知到並與不存在的肢體進行互動。在這一概念的基礎上，AI 和動畫領域的最新進展，尤其是語言模型在即時動畫控制中的應用，進一步擴大了人形彈性的範圍。這些技術能夠解釋自然語言輸入，在虛擬環境中生成動態逼真的動畫[^8]。通過整合語言模型，用戶可以更直觀地指揮虛擬化身或環境，並與之互動，使用自然語言提示覆雜的動畫。這種協同作用增強了用戶表達和體驗各種狀態和動作的能力，使虛擬互動更加逼真和身臨其境。": {
+    "ja": "技術と後続の交流の交差点をさらに探求する際に、「人形弾性（homuncular flexibility）」[^7]の概念は魅力的な視点を提供します。この概念は、個人が自身の身体形態とは異なる仮想的な身体を制御することを学ぶことができることを示しています。トラッキング運動（入力）とレンダリング運動（出力）の関係を変えることにより、ユーザーは身体の制約を超えたコミュニケーション形態を体験することができます。この洞察は、幻肢などの現象を理解し、シミュレーションするために特に重要です。幻肢現象では、人は存在しない肢体を感知し、それと対話することができます。この概念を基に、AIとアニメーションの最新の進展、特にリアルタイムアニメーション制御における言語モデルの応用は、人形弾性の範囲をさらに広げています。これらの技術は、自然言語の入力を解釈し、仮想環境でダイナミックでリアルなアニメーションを生成することができます[^8]。言語モデルを統合することで、ユーザーはより直感的に仮想の身体や環境を指示し、自然言語のヒントで複雑なアニメーションを作成することができます。このような協力作用により、ユーザーはさまざまな状態や動作を表現し、体験する能力が向上し、仮想的なインタラクションがよりリアルで没入感のあるものになります。"
+  },
+  "此外，將神經界面融入後符號通訊領域，也是令人興奮的前沿發展。神經界面，即直接連接大腦的設備，正變得越來越複雜，並將爲複雜思想和情感的交流提供直接途徑。這些技術可以捕捉與特定思想或狀態相關的神經活動，並將其轉化爲數字或物理輸出，從而實現前所未有的互動。研究人員已經展示了大腦植入如何將癱瘓病人的意圖轉化爲物理動作[^9]，顯示了神經界面在彌合思想與行動之間鴻溝的巨大潛力。這種能力表明，在實現後符號交流方面取得了重大進展，思想和情感的傳遞可以直接、無縫地進行。": {
+    "ja": "また、神経インターフェースを後続の記号通信領域に統合することも、興奮する最先端の進展です。神経インターフェースは、脳に直接接続するデバイスであり、ますます複雑になっており、複雑な思考や感情のコミュニケーションに直接的な手段を提供しています。これらの技術は、特定の思考や状態に関連する神経活動を捉え、それを数字や物理的な出力に変換することで、前例のないインタラクションを実現することができます。研究者たちは、脳への埋め込みがどのように麻痺患者の意図を物理的な動作に変換するかを示しました[^9]。これは、神経インターフェースが思考と行動のギャップを埋める巨大な潜在能力を示しています。この能力は、後続の記号通信の実現において重大な進展を遂げており、思考や感情の伝達が直接かつシームレスに行われることを示しています。"
+  },
+  "這些技術進步，再加上我們對人類感知和認知的不斷深入瞭解，為未來的交流鋪平道路，使交流能夠涵蓋更廣泛的人類體驗和狀態。在後符號通訊中，人形彈性和神經界面的結合可能會帶來更具包容性和同理心的互動方式，實現一種不僅是後符號而且是深度同理的通訊形式，因爲個人以最未經過濾的形式分享經驗和情感，身體的限制不再是深度、有意義聯繫的障礙。": {
+    "ja": "これらの技術の進歩に加えて、私たちは人間の知覚と認知についてますます深く理解していることから、将来のコミュニケーションに道を開き、より広範な人間の経験と状態をカバーするコミュニケーションが可能になります。後続の符号通信では、人間の形状の柔軟性と神経インターフェースの組み合わせにより、より包括的で共感的なインタラクションの方法がもたらされ、後続の符号だけでなく、深い共感を持つコミュニケーション形式が実現されます。なぜなら、個人は経験や感情を最もフィルタリングされていない形で共有し、身体の制約はもはや深い、意味のあるつながりの障害ではなくなるからです。"
+  },
+  "### 心靈感應的前沿 ": {
+    "ja": "### 心の感応の最先端"
+  },
+  "從同步心跳到以圖像的形式虛擬表達思想，我們正在穩步邁向這樣一個現實：溝通的邊界不斷擴大，從而能夠產生更深層次的共鳴、創造力和共同理解。展望未來，「後符號交流」將爲我們帶來一個大膽的未來。通過神經界面進行心靈感應交流、在可控環境中共同探索清醒的夢境以及直接傳遞情緒狀態，這些都是有可能實現的。研究人員不僅在對現有技術進行迭代，還在爲可能重新定義人類聯繫的激進創新鋪平道路。": {
+    "ja": "同期心拍からイメージを使った思考の仮想的な表現まで、私たちは次第にこのような現実に向かって進んでいます：コミュニケーションの境界が広がり続け、より深い共鳴、創造力、共通理解を生み出すことができるようになります。将来を展望すると、「ポストシンボルコミュニケーション」は私たちに大胆な未来をもたらすでしょう。脳インターフェースを介した心の共感的なコミュニケーション、制御可能な環境での共同での明晰な夢の探求、そして感情状態の直接伝達など、これらは実現可能です。研究者たちは既存の技術を改良するだけでなく、人間のつながりを再定義する可能性に向けて革新的な道を切り拓いています。"
+  },
+  "這些技術的發展預示着，在未來，人與人之間的隔閡會逐漸消失，從而實現更親密、更直接的交流。當我們學會駕馭這些新空間時，我們很可能會發現藝術、社交互動和集體解決問題的新形式，以以前無法想象的方式利用我們共同的人性。": {
+    "ja": "これらの技術の発展は、将来、人と人との隔たりが徐々に消え、より親密で直接的なコミュニケーションが実現されることを示唆しています。これらの新しい空間を使いこなすことを学ぶと、芸術、社会的な対話、集団問題解決の新しい形式が見つかるかもしれません。これにより、私たちの共通の人間性を以前に想像もできなかった方法で活用することができるでしょう。"
+  },
+  "### 後符號交流的侷限性": {
+    "ja": "後符号交流の制約"
+  },
+  "然而，後符號交流的旅程並非全無風險。承諾加深聯繫的工具，可能會在不經意間導致個性的喪失，因爲使每個人獨一無二的細微差別，會被同質化的集體體驗所淹沒。這引發了人們對隱私、親密關係的本質以及個人身份未來的極大擔憂。": {
+    "ja": "しかし、後の記号交流の旅は全くリスクがないわけではありません。つながりを深めるためのツールは、無意識のうちに個性の喪失を引き起こす可能性があります。なぜなら、個々の微妙な違いが同質化された集団の経験によって押し流されるためです。これにより、プライバシーや親密な関係の本質、そして個人のアイデンティティの将来に対する大きな懸念が生じます。"
+  },
+  "爲了應對這些挑戰，我們必須借鑑前面章節所討論的倫理框架和民主原則。將這些原則納入後符號平臺的結構中，可以提供保障，確保在我們尋求更深層次的合一時，個性也能得到維護。多元社會的基本原則，必須在這些新領域中得到調整和加強，以防止個人自主性受到侵蝕，並保持人類文化所特有的豐富多彩的多樣性。": {
+    "ja": "これらの課題に対処するために、私たちは前の章で議論された倫理的な枠組みと民主主義の原則を参考にする必要があります。これらの原則を後続のプラットフォームの構造に組み込むことで、私たちはより深い統一を求める中で個性が保護されることを確保することができます。多様な社会の基本的な原則は、これらの新しい領域で調整および強化される必要があり、個人の自律性が侵害されることを防ぎ、人間の文化に固有の豊かで多様な多様性を維持することができます。"
+  },
+  "[^1]: Lanier, Jaron. 你不是小玩意： 宣言。Vintage, 2011.": {
+    "ja": "[^1]: ラニエ, ジャロン. 你不是小玩意： 宣言。ヴィンテージ, 2011."
+  },
+  "[^2]: Abrams DA, Ryali S, Chen T, Chordia P, Khouzam A, Levitin DJ, Menon V. 自然音樂聆聽過程中大腦反應的受試者間同步。Eur J Neurosci. 2013 May;37(9):1458-69. Doi: 10.1111/ejn.12173. Epub 2013 Apr 11. PMID: 23578016; PMCID: PMC4487043.": {
+    "ja": "[^2]: Abrams DA, Ryali S, Chen T, Chordia P, Khouzam A, Levitin DJ, Menon V. 自然音楽聴取プロセス中の脳の反応の被験者間の同期。Eur J Neurosci. 2013 May;37(9):1458-69. Doi: 10.1111/ejn.12173. Epub 2013 Apr 11. PMID: 23578016; PMCID: PMC4487043."
+  },
+  "[^3]: Babiloni, Claudio, et al. 《大腦 \"協調一致\"：專業音樂家的額葉振盪阿爾法節奏和移情》。神經影像 60.1 (2012)： 105-116.": {
+    "ja": "[^3]: Babiloni, Claudio, et al. \"大脳の「協調一致」：専門音楽家の前頭葉の振動アルファリズムと感情移入\"。神経画像 60.1 (2012)：105-116."
+  },
+  "[^4] Hou, Yingying, et al. \"The averageaged inter-brain coherence between the audience and a violinist predicts the popularity of violin performance.\" Neuroimage 211 (2020): 3.3.2. 神經影像 211 (2020): 116655.": {
+    "ja": "[^4] Hou, Yingyingら。\"観客とバイオリニストの間の平均年齢の脳の一貫性は、バイオリン演奏の人気を予測する。\" Neuroimage 211 (2020): 3.3.2. 神經影像 211 (2020): 116655."
+  },
+  "[^5]: Van Leeuwen, P., Geue, D., Thiel, M., Cysarz, D., Lange, S., Romano , M. C., Wessel, N., Kurths, J., & Groenemeyer, D. H. (2009)。母體呼吸節奏對胎兒與母體心率協調的影響。pnas, 106(33), 13661-13666. https://doi.org/10.1073/pnas.0901049106": {
+    "ja": "[^5]: Van Leeuwen, P., Geue, D., Thiel, M., Cysarz, D., Lange, S., Romano , M. C., Wessel, N., Kurths, J., & Groenemeyer, D. H. (2009)。母體呼吸節奏對胎兒與母體心率協調的影響。pnas, 106(33), 13661-13666. https://doi.org/10.1073/pnas.0901049106"
+  },
+  "[^6]: 費爾南德斯，朱迪斯-阿莫爾。嗅覺界面：跨越意識連續體的隱性人機交互。Diss. 麻省理工學院，建築與規劃學院，媒體藝術與科學專案，2020 年。": {
+    "ja": "[^6]: フェルナンデス、ジュディス-アモール。嗅覚インターフェース：意識の連続体を超えた潜在的な人間とのインタラクション。Diss. マサチューセッツ工科大学、建築と計画学院、メディアアートとサイエンスプロジェクト、2020 年。"
+  },
+  "[^7]: Andrea Stevenson Won、Jeremy Bailenson、Jimmy Lee、Jaron Lanier，《虛擬現實中的人形彈性》，《電腦輔助通信期刊》，第20卷第3期，2015年5月1日，第241-259頁，https://doi.org/10.1111/jcc4.12107": {
+    "ja": "[^7]: アンドレア・スティーブンソン・ウォン、ジェレミー・ベイレンソン、ジミー・リー、ジャロン・ラニアー，《仮想現実中の人形弾性》，《コンピュータ支援通信ジャーナル》，第20巻第3号、2015年5月1日、241-259ページ、https://doi.org/10.1111/jcc4.12107"
+  },
+  "[^8]: Huang, Han, et al. \"Real-time Animation Generation and Control on Rigged Models via Large Language Models.\" NeurIPS 創意與設計 ML 研討會 (2023)": {
+    "ja": "[^8]: Huang, Han, et al. \"リアルタイムアニメーション生成とリグモデルの制御：大規模言語モデルを用いた研究.\" NeurIPS 創意與設計 ML 研討會 (2023)"
+  },
+  "[^9]: Lorach, H., Galvez, A., Spagnolo, V. 等人. 使用腦脊液接口在脊髓損傷後自然行走. 自然 618, 126-133 (2023). https://doi.org/10.1038/s41586-023-06094-5": {
+    "ja": "[^9]: Lorach, H., Galvez, A., Spagnolo, V. 等人. 使用脳脊髄液インターフェースによる脊髄損傷後の自然歩行. 自然 618, 126-133 (2023). https://doi.org/10.1038/s41586-023-06094-5"
+  },
+  "# 沉浸式共享實境": {
+    "ja": "沈浸型共有現実"
+  },
+  "原文：IMMERSIVE SHARED REALITY": {
+    "ja": "翻訳：没入型共有現実"
+  },
+  "沉浸式共享實境技術的出現，標誌著人類互動的變革，運用了最先進的虛擬實境（VR）、擴增實境（AR）和混合實境（MR）系統。這些技術使人們能夠不受地域限制，參與深度共享、價值驅動和多感官體驗，培養團結和社群意識。本章深入探討了身臨其境技術的前景、應用和潛力，同時將它們置於更廣泛的數位和物理互動模式之中。本章的重點是促進融合物理和虛擬元素、集體體驗的身臨其境技術；不僅探討這些技術如何促進超越傳統社會和空間限制的互動，來補充和擴展人類體驗，更強調這些技術可能在環境和氣候參與中發揮的關鍵作用，以創造永續、具有氣候韌性的共享實境。": {
+    "ja": "沈没的共有実境技術の出現は、人間の相互作用の変革を象徴しており、最先端の仮想現実（VR）、拡張現実（AR）および混合現実（MR）システムを利用しています。これらの技術により、地理的制約を受けずに、深い共有、価値駆動および多感覚体験に参加し、結束とコミュニティ意識を育むことができます。本章では、没入型技術の展望、応用および潜在能力について詳しく調査し、それらをより広範なデジタルおよび物理的相互作用モデルに位置付けます。本章の重点は、物理的および仮想的な要素の融合、集団体験の没入型技術を促進することです。これらの技術が伝統的な社会および空間の制約を超えた相互作用を促進し、人間の体験を補完および拡張する方法について考察するだけでなく、これらの技術が環境および気候への参加に果たす重要な役割を強調し、持続可能で気候に強い共有現実を創造する可能性についても論じています。"
+  },
+  "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/mediatedreality.png\" width=\"100%\" alt=\"文氏圖有四個重疊的圓圈，標記為「虛擬實境」、「擴增實境」、「混合實境」和「調製實境」。一個更大的圓圈包含這些，標記為「中介實境」。\">": {
+    "ja": "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/mediatedreality.png\" width=\"100%\" alt=\"文氏図には、重なり合った4つの円があり、「仮想現実」、「拡張現実」、「ミックス現実」、「モデュレーテッド現実」としてラベルが付けられています。これらを包含するより大きな円があり、「中介現実」としてラベルが付けられています。\">"
+  },
+  "**圖 1：中介實境框架，改編自 Mann 和 Nnlf '94 **": {
+    "ja": "**図1：仲介現実フレームワーク、MannとNnlf '94に基づいて改変**"
+  },
+  "### 今日的共享實境": {
+    "ja": "今日の共有現実"
+  },
+  "沉浸式共享實境，指的是利用技術創建一個共用的虛擬環境，用戶可以在其中進行即時互動。這種類型的「實境」可被視為一種「中介實境」（Mediated Reality）的應用，「中介實境」是史帝夫·曼（Steve Mann）在上世紀 90 年代創造的一個更廣泛的術語。「中介實境」涵蓋了各種能夠中介我們對現實的感知的技術，包括虛擬實境、增強實境和混合實境（又稱 VR、AR、MR）。某些最常見的應用，包括遊戲、娛樂、藝術、醫療保健和教育有關，通常也是身臨其境的共享實境。": {
+    "ja": "沈没的共有現実は、技術を利用して共有の仮想環境を作成し、ユーザーがリアルタイムでインタラクションを行うことを指します。このタイプの「現実」は、「仲介現実」とも呼ばれる「仲介現実」（Mediated Reality）の応用と見なすことができます。仲介現実は、スティーブ・マン（Steve Mann）が1990年代に創造したより広範な用語であり、仮想現実、拡張現実、混合現実（またはVR、AR、MRとも呼ばれる）を含む、私たちの現実への知覚を仲介するさまざまな技術をカバーしています。ゲーム、エンターテイメント、アート、ヘルスケア、教育など、一部の最も一般的な応用は、没入型の共有現実でもあります。"
+  },
+  "如今的沉浸式共享實境，是娛樂、藝術和協作的生動組合，從虛擬音樂會和線上多人遊戲、遠端團隊建立練習，到虛擬旅遊，不一而足。Billie Eilish 等藝術家已經舉辦了虛擬音樂會，將觀眾吸引到音樂的脈動中心，Coachella 等音樂節也在沒有實體場地限制（如售罄）的情況下，運用了 VR 的優勢。這種共享體驗，就像線上多人遊戲一樣，創造出某個世界，在這個世界中，玩家不僅可以競爭，還可以建立持久的友誼，打破虛擬與現實的界限。通過虛擬實境技術，來開展遠端團隊建立活動，可將遠隔重洋的同事變成共享數位空間中的隊友，培養團隊精神和友誼。通過虛擬旅遊，旅行者可以體驗偏遠地區的風土人情，足不出戶就能漫步歷史名城、遊覽異國風光。": {
+    "ja": "今日の没入型共有現実は、エンターテイメント、アート、協力の生き生きとした組み合わせであり、仮想コンサートやオンラインマルチプレイヤーゲーム、リモートチームビルディングの練習、仮想旅行など、さまざまなものがあります。Billie Eilishなどのアーティストはすでに仮想コンサートを開催し、観客を音楽の鼓動の中心に引き込んでいます。また、Coachellaなどの音楽フェスティバルも、実体のある会場の制約（完売など）を受けずにVRの利点を活用しています。このような共有体験は、オンラインマルチプレイヤーゲームのように、ある世界を創り出し、その世界で競争するだけでなく、持続的な友情を築くことができ、仮想と現実の境界を超えます。仮想現実技術を活用してリモートチームビルディング活動を行うことで、遠く離れた同僚を共有デジタル空間の仲間にすることができ、チームスピリットと友情を育むことができます。仮想旅行を通じて、旅行者は遠隔地の風土や文化を体験することができ、家を出ることなく歴史的な都市を散策したり、異国の風景を楽しむことができます。"
+  },
+  "不過，這些平台不僅能帶來娛樂，還能創造出跨越文化和距離的共同理解和共鳴空間，促進相隔遙遠的人們之間的情感聯繫和認識。舉例來說，語言學習應用平臺，可以讓使用者沉浸在他人的語言和文化背景中，而虛擬實境療程則為那些面臨心理健康挑戰的人，提供治療和安慰。每個例子都體現了沉浸式共享實境，如何將娛樂與更深層次的社會聯繫融為一體的獨特層面。隨著這些技術的成熟，人們不僅用來模擬實境，更擴增了實境，在不同文化之間架起橋樑，促進全球社群的共同體驗和相互理解，無論個人的出身或語言如何。": {
+    "ja": "ただし、これらのプラットフォームはエンターテイメントを提供するだけでなく、異文化や距離を超えた共通の理解と共感の空間を創造し、遠く離れた人々の感情的なつながりと理解を促進することができます。例えば、言語学習アプリは、ユーザーが他の人の言語や文化的背景に没頭することを可能にし、仮想現実療法は心理的な健康上の課題に直面している人々に治療と慰めを提供します。それぞれの例は、エンターテイメントとより深い社会的なつながりを融合させることで、没入型の共有現実がどのように独自の側面を持つかを示しています。これらの技術の成熟とともに、人々は現実をシミュレートするだけでなく、現実を拡張し、異なる文化の間に橋を架け、グローバルコミュニティの共有体験と相互理解を促進しています。それは個人の出自や言語に関係なくです。"
+  },
+  "### 明日的遠端共享實境": {
+    "ja": "### 明日のリモート共有現実"
+  },
+  "即將來臨的新興技術，有望加深身臨其境的體驗，通過讓使用者置身於可同時類比多種感官的合成世界中，來重塑人與人之間的互動。雖然視覺和聽覺一直是傳統的重點，但觸覺、嗅覺甚至味覺的整合，正開始增強身臨其境的體驗。身臨其境共享實境的前景潛力，預示著多感官融合將不再是例外，而是常態。新型感測器和執行器，有望通過合成世界加深身臨其境的體驗，這些合成世界不僅能複製而且能增強所有感官。": {
+    "ja": "新興技術の到来により、身体感覚を深めることが期待されています。ユーザーを複数の感覚を同時に模擬できる合成世界に置くことで、人と人との相互作用を再構築します。視覚と聴覚は伝統的な焦点でしたが、触覚、嗅覚、味覚の統合も身体感覚を強化するために始まっています。身体感覚を共有する仮想現実の将来の可能性は、多感覚の融合が例外ではなくなり、常態になることを示唆しています。新しいセンサーとアクチュエーターは、合成世界を通じて身体感覚を深めることが期待されており、これらの合成世界はすべての感覚を複製し、強化することができます。"
+  },
+  "長期以來，視聽介面一直是數位領域的先驅感官，現在的前沿領域正拓展至觸覺；先進的觸覺反饋系統，可以複製身體接觸的細微差異。嗅覺，曾一度被認為是數位領域中難以被捉摸的感官，但現在技術也能捕捉到嗅覺，使香味和氣味成為VR中關於故事講述、教育甚至零售體驗的一部分。味覺，雖然仍處於萌芽階段，但已開始通過味覺重定向技術[^1]大顯身手，通過在進食前，向口腔輸送化學調製劑來改變味覺感知，這預示著，在未來用餐將成為一種共同的虛擬冒險。": {
+    "ja": "長期以来、視聴インターフェースはデジタル領域の先駆感覚であり、現在の最先端の領域は触覚にまで拡大しています。先進的な触覚フィードバックシステムは、身体の触れ方の微妙な違いを再現することができます。嗅覚はかつてデジタル領域では捉えにくい感覚と考えられていましたが、現在の技術では嗅覚も捉えることができ、香りや匂いがVRのストーリーテリング、教育、さらには小売体験の一部となっています。味覚はまだ発展途上ですが、味覚リダイレクション技術[^1]を通じてすでにその力を発揮し始めています。食事の前に口腔に化学調製剤を供給することで味覚の知覚を変えることができます。これは将来的には食事が共有の仮想冒険になることを示唆しています。"
+  },
+  "多感官擴增，不僅僅是為了增強效果，還有一個更高的目的，即在沉浸式空間中促進包容性平等。例如，超級寫實的社交虛擬實境平台，在設計時即可考慮無障礙因素，允許有視覺或聽覺障礙的人，通過其他感官參與其中。當前設計中的虛擬會議空間，可以讓相距甚遠的人們，像在同一個房間裡一樣交談。例如，「門戶警務專案（Portals Policing Project）」[^2] 就示範了身臨其境共享實境，如何通過在可控但逼真的虛擬房間裡，與執法人員分享人們的生活經驗，增進雙方的理解和信任，從而成為公共利益服務的例證。同樣，「樹專案」[^3] 展示了沉浸式虛擬實境，如何通過把用戶變成一棵熱帶雨林的樹，來體會砍伐森林和氣候變化的威脅，從而喚起人們對自然環境的同情和憐憫。": {
+    "ja": "多感覚拡張は、効果を高めるだけでなく、より高い目的を持っています。それは、没入型の空間で包括的な平等を促進することです。例えば、超リアルなソーシャルバーチャルリアリティプラットフォームは、アクセシビリティの要素を考慮して設計されており、視覚や聴覚の障害を持つ人々が他の感覚を通じて参加できるようになっています。現在のデザインでは、仮想会議空間によって遠く離れた人々がまるで同じ部屋にいるかのように会話することができます。例えば、「ポータル警察プロジェクト」[^2] は、臨場感のある共有現実を通じて、制度執行者と人々が生活経験を共有することで相互理解と信頼を深め、公共の利益に貢献する例証となっています。同様に、「Tree Project」[^3] は、没入型仮想リアリティを通じて、ユーザーを熱帯雨林の木に変えることで森林伐採や気候変動の脅威を体験し、人々の自然環境への同情と思いやりを喚起しています。"
+  },
+  "### 沉浸式共享實境的前沿": {
+    "ja": "### 沈浸型共有現実の最先端"
+  },
+  "在沉浸式共享實境的前沿，我們不僅僅是旁觀者，而是多感官整合革命的積極參與者[^4]。 隨著「中介實境」技術的進步，複製感官模式、並將其引入虛擬體驗的精緻度也將提高，從而可以更複雜、更可控地運用非傳統感官輸入，如嗅覺和味覺。這種對嗅覺和觸覺刺激的精心策展，在與視覺和聽覺相結合時，可以創造出一種令人信服的幻覺實境，與使用者的情感和記憶產生深度共鳴。這種刺激在睡眠中被重新啟動時，不僅能增強這些記憶[^5]，還能通過感官刺激，在意識改變的狀態下模擬世界[^6]，例如共享的清醒夢境中[^7]。": {
+    "ja": "沈浸型共有実境の最前線では、私たちは単なる観察者ではなく、多感覚統合革命の積極的な参加者です[^4]。 「中介実境」技術の進歩に伴い、感覚モデルを複製し、それをバーチャル体験に導入する精緻度も向上し、より複雑で制御可能な非伝統的な感覚入力、例えば嗅覚や味覚をより効果的に活用することができます。この嗅覚や触覚の刺激を緻密に組み合わせることで、視覚や聴覚と組み合わせることで、説得力のある幻覚的な実境を創り出し、ユーザーの感情や記憶と深い共鳴を生み出すことができます。この刺激は睡眠中に再起動されることで、これらの記憶を強化するだけでなく、感覚刺激を通じて意識の変化した状態で世界を模擬することができます[^6]。例えば、共有の明晰夢の中で[^7]。"
+  },
+  "這種整合的重要性，說明了沉浸式共享實境的更廣泛目標——創造的體驗並非逃避現實，而且是現實的延伸，增強使用者對氣候變遷等重要全球問題的理解和參與，提供一個平臺，讓使用者不僅提高認識，而且積極參與永續發展的努力。虛擬環境可以模擬氣候變遷的嚴峻現實，如海平面上升或極端天氣事件的影響，將抽象、往往遙遠的概念，化為直接的個人體驗。這些身臨其境的模擬並不是嚇唬人的策略，而是可從情感和認知上吸引使用者的教育工具，能促進使用者更深入地瞭解人類行為對環境造成的後果。在這些實境裡使用情感運算時，這一點尤為強大，系統會根據使用者的反應、生理以及記憶或偏好來調整環境，從而形成反饋迴路，提高對氣候問題的認識和共鳴。": {
+    "ja": "このような統合の重要性は、没入型共有現実のより広範な目標を説明しています - 作成された体験は現実を逃れるものではなく、現実の延長であり、ユーザーの気候変動などの重要なグローバル問題への理解と参加を高め、ユーザーが認識を高めるだけでなく、持続可能な開発の取り組みに積極的に参加できるプラットフォームを提供します。仮想環境は、海面上昇や極端な天候の影響など、気候変動の厳しい現実をシミュレートすることができ、抽象的でしばしば遠い概念を直接的な個人の体験に変えることができます。これらの没入型のシミュレーションは、人々を脅かすための戦略ではなく、感情や認識に訴える教育ツールであり、人間の行動が環境に与える結果をより深く理解することを促進することができます。これらの現実の中で感情計算を使用する場合、この点は特に強力であり、システムはユーザーの反応、生理的な要素、記憶や好みに基づいて環境を調整し、フィードバックループを形成し、気候問題への理解と共感を高めることができます。"
+  },
+  "我們可以考慮這種身臨其境的體驗，用在環保宣傳和社群創造行為方面的潛力。在虛擬設計工作室中，社群成員、建築師和工程師齊聚一堂，共同創造未來的綠色空間。這個過程不只是企劃；參與者可以感受這樣的環境並產生共鳴，還可以虛擬地觸摸那些預定種植的樹木的樹皮，吸入花園裡芬芳的花香，在第一顆種子播撒到現實世界之前，就已經在專案中建立了內在的聯繫。想像這樣一種場景：在身臨其境的共享實境中，經過這樣的合作設計過程，社群的願景不僅被轉化為詳細的 3D 模型，而且還通過大型 3D 列印變成了現實。這個過程借鑒循環經濟的原則，即所使用的材料可以在不產生廢物的情況下進行採購、利用且最終回歸地球。房屋和社區結構的 3D 列印，與傳統的建築方法則截然不同。": {
+    "ja": "私たちは、このような没入型の体験を環境保護の宣伝やコミュニティ創造の行動に活用する可能性を考えることができます。仮想設計スタジオでは、コミュニティメンバー、建築家、エンジニアが集まり、未来の緑の空間を共同で創造します。このプロセスは単なる企画だけではありません。参加者はこのような環境を感じ、共感を生み出すことができます。また、予定された植樹の樹皮を仮想的に触れたり、庭園の芳香を吸い込んだりすることもできます。最初の種子が現実世界に播種される前に、プロジェクト内で内在的なつながりが築かれています。次のようなシーンを想像してみてください：没入型の共有現実の中で、このような協働設計プロセスを経て、コミュニティのビジョンが詳細な3Dモデルに変換され、さらに大型の3Dプリントを通じて現実化される。このプロセスは循環経済の原則を借りており、使用される材料は廃棄物を生まずに調達、利用、そして最終的に地球に還元されます。3Dプリントによる住宅やコミュニティの構造は、従来の建築方法とはまったく異なります。"
+  },
+  "在通過沉浸式共享實境對話，生成的精確數位示意圖指導下，自動列印機可以將生物材料層層疊加，以傳統模式無法比擬的速度、效率，製造出牆壁和建築特徵。這個過程大幅減少了建築垃圾，並可實現複雜的有機設計，而傳統建築技術很難、或根本無法實現這些設計。從未來居民的集體想像中「列印」社區的概念，並不像以前看起來那麼牽強。": {
+    "ja": "在通過沉浸式共享實境對話，生成的精確數位示意圖指導下，自動列印機可以將生物材料層層疊加，以傳統模式無法比擬的速度、效率，製造出牆壁和建築特徵。這個過程大幅減少了建築垃圾，並可實現複雜的有機設計，而傳統建築技術很難、或根本無法實現這些設計。從未來居民的集體想像中「列印」社區的概念，並不像以前看起來那麼牽強。"
+  },
+  "沉浸式共享實境是一種強大的設計工具，它允許居民在虛擬環境中共同創造自己的生活空間。這種世界將有助於形成共同的經驗和集體記憶，並將這種不斷發展的技術融入上一章所述的後符號交流新時代。": {
+    "ja": "沈浸型共有実境は、強力なデザインツールであり、住民が仮想環境で自分自身の生活空間を共同で創造することを可能にします。この世界は共有の経験と集団の記憶を形成するのに役立ち、前章で述べた後符号交流の新時代にこのような進化し続ける技術を組み込むことになります。"
+  },
+  "### 沉浸式共享實境的局限性": {
+    "ja": "沈浸型共有現実の制約"
+  },
+  "儘管身臨其境的共享實境技術大有可為，但它也面臨著各種各樣的倫理兩難和社會挑戰，可能會破壞多元宇宙原則。我們面臨的潛在問題包括：虛擬逃避現實的風險、現實世界行動主義的淡化、增加或忽視現實世界責任和關係的可能性。隨著虛擬體驗的降臨，與我們的有形現實並無二致，沉迷的風險和忽視現實世界需求的可能性，成為了令人擔憂的問題。這些數位領域的誘惑力，也可能催生出某種虛擬的逃避主義，使真實的行動主義和可類比的宣傳之間的界限愈發模糊，從而削弱現實世界變革努力的活力。": {
+    "ja": "儘管身臨其境的共享實境技術大有可為，但它也面臨著各種各樣的倫理兩難和社會挑戰，可能會破壞多元宇宙原則。我們面臨的潛在問題包括：虛擬逃避現實的風險、現實世界行動主義的淡化、增加或忽視現實世界責任和關係的可能性。隨著虛擬體驗的降臨，與我們的有形現實並無二致，沉迷的風險和忽視現實世界需求的可能性，成為了令人擔憂的問題。這些數位領域的誘惑力，也可能催生出某種虛擬的逃避主義，使真實的行動主義和可類比的宣傳之間的界限愈發模糊，從而削弱現實世界變革努力的活力。"
+  },
+  "要解決這些問題，就必須在虛擬社群的結構中，認真植入倫理和民主原則。借鑒其他章節提出的見解，將參與式治理系統（如民主投票機制）融入虛擬環境，提供了很有前景的方法。這些系統可以確保每個人腳踏實地、負起責任，在數位參與和現實世界的角色、責任之間保持平衡。通過在這些平台中培養積極的公民意識，與負責任的管理文化，我們可以努力捍衛多元化和多樣性，它們正是充滿活力的社會的基石。": {
+    "ja": "これらの問題を解決するためには、仮想コミュニティの構造に倫理と民主主義の原則を真剣に組み込む必要があります。他の章で提案された見解を参考に、参加型ガバナンスシステム（民主的な投票メカニズムなど）を仮想環境に統合することは、非常に有望な方法です。これらのシステムは、すべての人が責任を持ち、デジタル参加と現実世界の役割と責任のバランスを保つことを確保することができます。これらのプラットフォームで積極的な市民意識と責任ある管理文化を育成することにより、多様性と多様性を守るために努力することができます。これらは、活気ある社会の基盤です。"
+  },
+  "[^1]: Jas Brooks、Noor Amin、Pedro Lopes. 2023：《通過化學味覺調節機器實現味覺重定位》。第 36 屆 ACM 使用者介面軟體與技術研討會論文集（UIST 23）。美國電腦協會，紐約州紐約市，第 106 條，1-15。 https://doi.org/10.1145/3586183.3606818。": {
+    "ja": "[^1]: Jas Brooks、Noor Amin、Pedro Lopes. 2023: \"Taste Relocation through Chemesthetic Taste Modulation\". Proceedings of the 36th ACM User Interface Software and Technology Symposium (UIST 23). Association for Computing Machinery, New York, NY, USA, Article 106, 1-15. https://doi.org/10.1145/3586183.3606818."
+  },
+  "[^2]: Cornelio, Patricia, Carlos Velasco, and Marianna Obrist. 《技術進步帶來的多感官融合：綜述》，神經科學前沿（2021）：614.": {
+    "ja": "[^2]: Cornelio, Patricia, Carlos Velasco, and Marianna Obrist. \"技術進步帶來的多感官融合：綜述\", 神經科學前沿（2021）：614."
+  },
+  "[^5]: Amores Fernandez、Judith 等人：《用於移動目標記憶重啟動的嗅覺可穿戴設備》，2023 CHI 大會論文集。2023.": {
+    "ja": "[^5]: Amores Fernandez、Judith 等人：《移動目標のメモリリスタートに使用される嗅覚ウェアラブルデバイス》，2023 CHI 大会論文集。2023."
+  },
+  "[^6]: Carr, Michelle 等人：《通過感官刺激模擬世界》，意識與認知 83 (2020)：102955。": {
+    "ja": "[^6]: Carr, Michelle 等人：《通過感官刺激模擬世界》，意識與認知 83 (2020)：102955。"
+  },
+  "[^7]: Konkoly 等人： 《快速眼動睡眠中實驗者與做夢者的即時對話》，當代生物學，2021 DOI: 10.1016/j.cub.2021.01.026": {
+    "ja": "[^7]: Konkoly 等人： 《快速眼動睡眠中実験者と夢を見る人のリアルタイム対話》，現代生物学，2021 DOI: 10.1016/j.cub.2021.01.026"
+  },
+  "另一種更具實驗性的做法，與我們在「沈浸式實境共享」中強調的方法有很大的重疊，其目的是將遠端連線討論的豐富性，提升到與人面對面的程度。最近一個引人注目的例子是， Meta 執行長馬克·祖克柏（Mark Zuckerberg）與知名 Podcast 主持人利克斯·弗里德曼（Lex Fridman）之間的對話，兩人在虛擬實境中，都能感知對方的細微面部表情。一個不那麼戲劇化、但也許更有意義的例子是「門戶警務專案（Portals Policing Project）」，在受警察暴力影響的城市裡安裝貨櫃，讓人們可以跨越物理和社會距離，在鮮活的視訊交流中，感受這種暴力。其他大有可為的因素包括：高器質、低成本和越來越具有文化意識的機器翻譯工具日益普及，以及利用類似系統，使人們便於綜合價值觀，並從自然語言陳述中找到共同立場的工作。": {
+    "ja": "もう一つの実験的なアプローチは、私たちが「沈浸型リアリティ共有」で強調している方法と非常に重なっており、遠隔接続での議論の豊かさを対面のレベルまで高めることを目的としています。最近の注目すべき例は、MetaのCEOであるマーク・ザッカーバーグと有名なポッドキャストホストのレックス・フリードマンの対話です。両者は仮想現実の中でお互いの微細な表情を感じることができます。より劇的ではないかもしれませんが、より意味のある例としては、「ポータル警察プロジェクト」があります。このプロジェクトでは、警察の暴力の影響を受けた都市にコンテナを設置し、物理的および社会的距離を超えて、生き生きとしたビデオコミュニケーションでその暴力を感じることができます。その他の重要な要素には、高品質で低コスト、そしてますます文化的な意識を持つ機械翻訳ツールの普及、および類似のシステムを利用して、人々が総合的な価値観を容易にし、自然言語の陳述から共通の立場を見つけることができるようにすることが含まれます。"
+  },
+  "最大膽的是，這種想法原則上可以超越在世的人類。哲學家布魯諾·拉圖爾（Bruno Latour）在其經典著作《萬物議會》中認為，自然特徵（如河流和森林）在政府中應有代表權。當然，挑戰在於如何讓這些自然景觀說話。語言模型可能會提供一些方法，將對這些系統狀況的科學測量轉化為某種「Lorax」（雷斯），即蘇斯博士筆下為那些不能為自己說話的樹木和動物說話的神話生物。金·史丹利·羅賓遜（Kim Stanley Robinson）的《未來發展部》（Ministry for the Future）一書中也有類似的內容。無論好壞，這種基於語言模型的代表，都有能力以比大多數人類更快的速度進行討論，然後向人類參與者傳達討論摘要，從而使討論既包括人類個體，也允許其他風格、速度和規模的自然語言交流。": {
+    "ja": "最大胆なのは、この考え方が原則的には人間を超えることができるということです。哲学者ブルーノ・ラトゥール（Bruno Latour）は、彼の古典的な著作「万物議会」で、自然の特徴（川や森など）が政府に代表権を持つべきだと主張しています。もちろん、課題はこれらの自然景観をどのようにして話させるかです。言語モデルは、これらのシステム状況の科学的な測定をある種の「ロラックス」として変換する方法を提供するかもしれません。ロラックスとは、スーズ博士の作品に登場する、自分自身の声を出せない木や動物のために話す神話の生物です。キム・スタンリー・ロビンソン（Kim Stanley Robinson）の「未来発展部」（Ministry for the Future）にも似たような内容があります。良いか悪いかに関わらず、言語モデルに基づく代表は、多くの人間よりも速く議論を進める能力があり、その後、人間の参加者に議論の要約を伝えることができます。これにより、議論は人間の個体だけでなく、他のスタイル、速度、規模の自然言語コミュニケーションも許容されるようになります。"
+  },
+  "7. 再分配：大多數發達資本主義國家，都有廣泛的收入和商業稅收制度，為社會保險和公共福利計劃等專案提供資金，確保可提供一系列服務與財政支持，以遏制極端不平等現象。然而，與土地稅和財富稅的承諾相比，這些主要收入來源，通常會部分阻礙市場的運作、難以針對許多最失控的財富徵稅。在不平等對其他形式合作造成結構性阻礙時，也只能做出不完全的校正。": {
+    "ja": "7. 再分配：大多数発展した資本主義国では、広範な所得税および事業税制度があり、社会保険や公共福祉プログラムなどのプロジェクトに資金を提供し、一連のサービスと財政支援を提供して極端な不平等現象を抑制します。しかし、土地税や富税に比べて、これらの主要な収入源は市場の運営を一部阻害し、多くの最も富を持つ人々に対する課税が困難です。他の形態の協力に対して構造的な障害を引き起こす不平等がある場合、完全な補正はできません。"
+  },
+  "這種方法與「以社群為基礎」的方法形成對比，後者也提供了許多簡略、不精確的早期（多元）數位技術（如時間共享、個人電腦和許多應用程式）。正如我們在《我們遺忘的道》一章中簡短討論的，這些技術始於早期採用者社群，其中通常包括許多以數位工具「進行實驗」的系統設計師。雖然這些社群通常對其系統有何用途有一些初步的想法，但他們鮮少能將期望的成果精簡為預先指定的指標，事實上，其系統有許多組件是其他早期採用者創建的。這些系統透過許多回社群從學習時遇到的未預期情況，並將這樣的學習歷程回饋到產品設計，同時提供社群創建的應用程序，將之傳播到相鄰的社群，最終傳播給大眾。": {
+    "ja": "この方法は、「コミュニティベース」の方法とは対照的であり、後者は多くの簡略化された、精度の低い初期（多元）デジタル技術（タイムシェアリング、パーソナルコンピュータ、多くのアプリケーションなど）も提供しています。私たちが「忘れられた道」の章で簡単に議論したように、これらの技術は初期の採用者コミュニティから始まり、通常、デジタルツールを「実験」するためのシステムデザイナーが含まれています。これらのコミュニティは、システムの目的について初歩的な考えを持っていることが多いですが、望ましい結果を事前に指定された指標に簡略化することはほとんどありません。実際、これらのシステムの多くのコンポーネントは他の初期の採用者によって作成されました。これらのシステムは、学習時に予期しない状況に遭遇した際に、コミュニティによるフィードバックを受け、そのような学習プロセスを製品設計にフィードバックし、コミュニティによって作成されたアプリケーションを提供し、隣接するコミュニティに伝え、最終的に一般の人々に広まっていきます。"
+  },
+  "1. 種子必須有一定的社群規模，足以包容技術針對橋接的多樣性，同時足夠小，以成為眾多這類實驗中的一個。": {
+    "ja": "種子は、技術の多様性に対応するために十分なコミュニティの規模を持つ必要がありますが、同時に多くの実験の1つになるために十分に小さくなければなりません。"
+  },
+  "2. 種子應該是能夠獲得明確價值、對技術的使用和貢獻都有明確興趣的早期採用者社群，而且他們不會太過脆弱到預期內的失敗會對他們造成嚴重傷害。": {
+    "ja": "2. 種子は、明確な価値を持ち、技術の使用と貢献に明確な興味を持つ早期の採用者コミュニティであり、予想される失敗が彼らに深刻な損害を与えるほど脆弱ではありません。"
+  },
+  "3. 種子應該在某個網絡中具有聲望，或者能夠透過技術的幫助獲得聲望，這樣一來傳播就可能實現。": {
+    "ja": "3. 種子は、あるネットワーク内での評判を持つか、技術の助けを借りて評判を得ることができるべきです。そうすれば、情報の伝播が実現する可能性があります。"
+  },
+  "4. 種子應該是強大的社群，在技術上擁有管理和應對系統性危害，以及支持系統性益處的機構。": {
+    "ja": "4. 種子は強力なコミュニティであり、システム的な危険に対処し、システム的な利益をサポートする機関です。"
+  },
+  "5. 種子之間應該具有多樣性，並有寬鬆的溝通網絡，以確保平衡的擴散、避免衝突，並應對溢出效應。": {
+    "ja": "5. 種子間には多様性があり、緩やかなコミュニケーションネットワークがあることで、バランスの取れた拡散が確保され、衝突が回避され、オーバーフローエフェクトに対処することができます。"
+  },
+  "[^LevWay]: 列維茨基、韋，=《革命與獨裁》": {
+    "ja": "[^LevWay]: 列ヴィッツキー、韋、=《革命と独裁》"
+  },
+  "[^GraeberWengrow]: 格雷貝爾、溫格羅，《萬物的曙光》": {
+    "ja": "[^GraeberWengrow]: グレーバー、ウェングロウ、「万物の曙光」"
+  },
+  "# 結語": {
+    "ja": "# 結語"
+  },
+  "原文：CONCLUSION": {
+    "ja": "結論"
+  },
+  "縱觀本書，我們試圖為崇尚多元主義的社會，以及促進和維持多元的技術提供論據。如果你也有同感，請加入我們的多元宇宙運動。": {
+    "ja": "本書を見渡すと、多元主義を尊重する社会や多様性を促進し維持する技術についての論拠を提供しようとしています。もし同感があるなら、ぜひ私たちの多元宇宙運動に参加してください。"
+  },
+  "## 關鍵時刻": {
+    "ja": "## キーモーメント"
+  },
+  "技術是當今世界最強大的力量。無論我們是否瞭解它的內部運作，是否試探性地或貪婪地使用它，是否同意那些迄今為止影響其發展的公司和政策制定者的觀點——它仍然是我們塑造未來社會的唯一最大槓桿。": {
+    "ja": "技術は現代の世界で最も強力な力です。私たちがそれの内部動作を理解しているかどうか、それを試探的にまたは貪欲に使用しているかどうか、それを発展させてきた企業や政策立案者の視点に同意しているかどうかに関係なく、それは私たちが未来の社会を形作るための唯一の最大のレバレッジです。"
+  },
+  "正如我們在本書中所論述的，「社會」不僅指我們每個人，也指連接我們的關係網。無論你從科學、歷史、社會學、宗教還是政治的角度來看，越來越清楚的是，現實不僅取決於我們是誰，還取決於我們如何聯繫在一起。": {
+    "ja": "私たちが本書で議論しているように、「社会」とは私たち一人ひとりだけでなく、私たちを結びつける関係のネットワークを指します。科学、歴史、社会学、宗教、政治のどの視点から見ても、ますます明らかになっているのは、現実は私たちが誰であるかだけでなく、私たちがどのようにつながっているかにも依存しているということです。"
+  },
+  "技術對這些聯繫產生了巨大的影響。從鐵路、電報到電話；從臉書將我們與幼兒園的老朋友和志同道合的新盟友聯繫在一起；到 Zoom 在疫情期間將企業和家庭團結在一起，我們從技術建立和加強人類聯繫的能力中獲益匪淺。": {
+    "ja": "技術はこれらのつながりに大きな影響を与えています。鉄道、電報から電話まで。Facebookは幼稚園の昔の友人や志を同じくする新しい仲間とつながるために使われます。Zoomはパンデミックの間に企業や家族を結びつけるために使われます。私たちは技術を通じて人間のつながりを築き強化する能力から多くの利益を得ています。"
+  },
+  "與此同時，技術也明顯地將我們分開。以爭奪注意力為基礎的商業模式將憤怒置於好奇之上，將回音室置於共同理解之上，對資訊操縱幾乎不受限制。": {
+    "ja": "この間、技術は私たちを明らかに分断しています。注意を引くことに基づくビジネスモデルは好奇心よりも怒りを優先し、エコーコーチャンバーは共通理解よりも優先され、情報操作はほぼ制限されていません。"
+  },
+  "考慮到 AI 的發展速度和變革能力，我們現在正站在一個十字路口。技術是會讓我們更緊密地團結在一起，還是會讓我們更加疏遠，這將決定人類下一階段的經歷。就目前而言——但不會太久——選擇哪條路，取決於我們自己。": {
+    "ja": "AIの発展速度と変革能力を考慮すると、私たちは今、十字路に立っています。技術は私たちをより結束させるのか、それとも私たちをより遠ざけるのか、それが人類の次の段階の経験を決定するでしょう。現時点では、私たち自身によってどの道を選ぶかが決まりますが、それも長くは続かないでしょう。"
+  },
+  "有些人把技術未來的問題，歸結為加速主義和減速主義之爭。2023 年末，OpenAI 的治理內爆使這一觀點深入人心，首席執行官山姆・奧特曼（Sam Altman）被歸入第一陣營，而他昔日的非營利性董事會則被歸入第二陣營。但在我們看來，減速主義不可能獲勝。": {
+    "ja": "技術の将来の問題は、加速主義と減速主義の争いに帰結されると考える人もいます。2023年末、OpenAIのガバナンスの内紛がこの視点を広め、CEOのサム・アルトマンは第一陣営に分類され、かつての非営利の取締役会は第二陣営に分類されました。しかし、私たちの見解では、減速主義が勝利することは不可能です。"
+  },
+  "相反，正如我們在本書前文所論述的，有兩種加速主義的情形迫在眉睫，每種情形都有自己的意識形態：「放任主義」和「專家統治」。第一個陣營，包括彼得・蒂爾（Peter Thiel）和巴拉吉・斯里納瓦桑（Balaji Srinavasan）等高管和投資者，希望「解放」個人，使其成為完全原子化的代理人——沒有約束、良知或責任。包括里德・霍夫曼（Reid Hoffman）和山姆・阿特曼在內的第二種人認為，不受約束的技術進步可以解決人類的問題，他們有智慧決定如何實現這一目標。": {
+    "ja": "相反、私たちがこの本の前文で議論したように、加速主義には2つの異なる状況が迫っており、それぞれ独自のイデオロギーを持っています。「放任主義」と「専門家統治」です。最初のグループには、ピーター・ティールやバラジ・スリナヴァサンなどの経営者や投資家が含まれており、個人を「解放」し、完全に原子化された代理人にすることを望んでいます - 制約や良心、責任がない状態です。リード・ホフマンやサム・アルトマンを含む第二のグループは、制約のない技術の進歩が人類の問題を解決できると考えており、彼らはこの目標を達成するための知恵を持っています。"
+  },
+  "如果要在這兩種選擇中做出抉擇，本書迫切而充滿熱情的答案是：兩者皆非。我們多元論者認為，大多數人類既不是沒有共同責任的原子化個體，也不是沒有代理權的主體。總體來說，人類既是個體，也是社會的存在，既渴望完整的生活，也有能力實現持久的和平。但是，為了實現這些目標，我們需要我們周圍的制度——政治制度和技術制度——來賦予我們能動性和責任。我們當然也需要我們所掌握的最強大的工具來幫助我們找到相處之道，即使不能達成一致。這就是多元宇宙的願望和當務之急。": {
+    "ja": "もしもこの2つの選択肢の中から選ばなければならないとしたら、この本は熱心で情熱的な答えを持っています：どちらでもない。私たちの多元論者の立場では、ほとんどの人間は孤立した個体ではなく、また代理権を持たない主体でもありません。全体として、人間は個体でありながら社会的存在であり、充実した生活を望み、持続可能な平和を実現する能力を持っています。しかし、これらの目標を達成するためには、私たちの周りの制度 - 政治制度や技術制度 - が私たちに能動性と責任を与える必要があります。もちろん、私たちは合意に達することができなくても、共存の方法を見つけるために私たちが持っている最も強力なツールを活用する必要もあります。これが多元宇宙の願望と当面の課題です。"
+  },
+  "「多元宇宙」是超越放任主義和專家統治的第三條道路，我們或許有三到五年的時間來啟動這場運動。在這個時間框架內，人們和公司每天使用的大量技術都將深深依賴於大型語言模型。到那時，我們將無法扭轉放任主義或專家統治為我們創造的「現實」。但從現在到那時，我們可以動員起來，重新規劃路線：走向以人為本、包容關係的數位民主，在這樣的數位民主中，不同群體儘管意見不一致，卻能夠在持續繁榮的社會中協同合作。 ": {
+    "ja": "「多元宇宙」は放任主義や専門家統治を超えた第三の道であり、この運動を開始するために3〜5年の時間があるかもしれません。この時間の範囲内で、人々や企業が日々使用する大量の技術は、大規模な言語モデルに深く依存することになります。その時点では、私たちが作り出した「現実」を放任主義や専門家統治から変えることはできません。しかし、今からその時までに、私たちは立ち上がり、ルートを再計画することができます：人間中心で包括的な関係を持つデジタル民主主義に向かうことです。このようなデジタル民主主義では、異なるグループは意見が一致しないかもしれませんが、持続的な繁栄の社会で協力し合うことができます。"
+  },
+  "這樣的轉向需要全社會的緊急動員。企業、政府、大學和公民社會組織，必須要求我們的技術加深我們與多種形式的社會多樣性之間的聯繫。這是未來加強人類穩定、繁榮和昌盛的關鍵，也是唯一的途徑。": {
+    "ja": "このような転換には、社会全体の緊急動員が必要です。企業、政府、大学、市民社会組織は、私たちの技術がさまざまな形態の社会的多様性とのつながりを深めるよう要求する必要があります。これは、人間の安定、繁栄、繁盛を強化するための鍵であり、唯一の方法です。"
+  },
+  "正如《我們遺忘的道》一章中所描述的，這一願景本來可以成為網際網路的主導精神。ARPA 的 JCR Licklider 和施樂公司的羅伯特・泰勒（Robert W. Taylor）等創始人和先驅，都曾設想用更加聯合、網絡化的關係和治理方式取代世界上集中、線性和原子化的結構。由於美國一系列不利的政治發展，包括政府不再介入技術領域，公共和社會部門在技術發展中的作用縮小了。取而代之的是私營部門的參與者，包括我們今天所熟知的科技巨頭以及思科、美國在線、貝寶等公司，他們完全定義了網際網路的新興構件。從網路、儲存、運算到身份識別、用戶界面到支付等等，網際網路的形式反映了私人動機而非公共價值。": {
+    "ja": "正如「我們遺忘的道」一章中所描述的，這一願景本來可以成為網際網路的主導精神。ARPA 的 JCR Licklider 和施樂公司的羅伯特・泰勒（Robert W. Taylor）等創始人和先驅，都曾設想用更加聯合、網絡化的關係和治理方式取代世界上集中、線性和原子化的結構。由於美國一系列不利的政治發展，包括政府不再介入技術領域，公共和社會部門在技術發展中的作用縮小了。取而代之的是私營部門的參與者，包括我們今天所熟知的科技巨頭以及思科、美國在線、貝寶等公司，他們完全定義了網際網路的新興構件。從網路、儲存、運算到身份識別、用戶界面到支付等等，網際網路的形式反映了私人動機而非公共價值。"
+  },
+  "這並不是說，沒有私營部門的參與，公共部門和社會部門也能構建網際網路。但是，私人資本的主導地位意味着，這個正在改變我們生活的工具不僅充滿了私營部門的資源和智慧，而且還服務於私營部門的優先事項。網際網路在變革進步方面的許多潛力從未實現。": {
+    "ja": "これは、私営部門の参加がないわけではありませんが、公共部門や社会部門もインターネットを構築することができます。しかし、私的資本の主導地位は、私たちの生活を変えているこのツールが、私営部門のリソースと知識に満ちているだけでなく、私営部門の優先事項にも奉仕していることを意味します。インターネットの進歩に関する多くの潜在能力がまだ実現されていません。"
+  },
+  "如果我們想實現這份潛力，我們還有一個短暫的機會之窗。": {
+    "ja": "もし私たちがこの潜在能力を実現したいのであれば、私たちは短いチャンスの窓を持っています。"
+  },
+  "## 多元技術的承諾 ": {
+    "ja": "## 多元技術の約束"
+  },
+  "在過去的 20 多年裡，我們的社會對技術產生了某種習得無助感。我們被它所吸引，為它所喜悅，也為它所沮喪；但我們傾向於認為，它的出現是不可阻擋的，就像現代性本身一樣。我們不會去想一小撮工程師做出了什麼選擇，讓臉書、谷歌和 TikTok 以這樣的方式出現。我們不認為「我們這些人」有任何能力，更不用說任何權利來影響作為我們生活作業系統的平臺的發展方向。": {
+    "ja": "過去20年以上、私たちの社会は技術に対して何らかの無力感を抱いてきました。私たちはそれに引かれ、それを喜び、また失望することもありますが、私たちはそれが止められない存在であると考える傾向があります。それは現代性そのものと同じように。私たちは、わずかなエンジニアがFacebook、Google、TikTokをこのような形で生み出すためにどのような選択をしたのか考えることはありません。私たちは「私たち人間」がプラットフォームの開発方向に影響を与える能力、さらには権利を持っていないと考えています。"
+  },
+  "但我們確實有權利，甚至有義務要求更好。有些技術把我們拉開，有些技術把我們拉近。有些技術助長我們的怨恨，有些技術幫助我們達成共識。如果我們動員起來，要求後者，要求那些旨在幫助我們跨越差異進行合作的「多元技術」，我們就能重新設計作業系統。": {
+    "ja": "しかし、私たちは確かにより良いものを求める権利を持っており、さらには義務もあります。一部の技術は私たちを引き離し、一部の技術は私たちを近づけます。一部の技術は私たちの怒りを増幅させ、一部の技術は私たちが合意に達するのを助けます。私たちが動員して、後者を求め、私たちが異なるものを協力して乗り越えるために設計された「多様な技術」を求めるならば、私たちはオペレーティングシステムを再設計することができます。"
+  },
+  "如今，有些變革的時機已經成熟，現在就可以積極行動起來。各行各業的人們——也就是你、你的朋友、你的同事——現在就可以推動相關倡議，以增進信任、理解和共同目標。如果你在科技行業工作，你可以利用 Pol.is、Remesh 和 All Our Ideas 等前景廣闊但尚未完善的工具，這些工具與大多數形式的社交媒體恰恰相反，能夠促進對話而非不和。政府工作人員可以制定法規和激勵措施，鼓勵發展此類多元技術。學術界可以研究多元技術及其影響，並制定嚴格的措施來幫助我們瞭解什麼纔是真正有效的技術。文化領袖，包括各類活動人士，可以為廣大聽眾娓娓道來多元主義和多元技術。": {
+    "ja": "今日、いくつかの変革の機会が成熟しており、積極的に行動することができます。あなたやあなたの友人、同僚など、あらゆる業界の人々は、信頼、理解、共通の目標を促進するために関連するイニシアチブを推進することができます。テクノロジー業界で働いている場合、Pol.is、Remesh、All Our Ideasなどの広範でまだ完全ではないツールを活用することができます。これらのツールは、ほとんどの形式のソーシャルメディアとは対照的に、対話を促進することができます。政府の関係者は、このような多様な技術の発展を奨励するために規制やインセンティブ策を策定することができます。学術界は、多様な技術とその影響について研究し、真に効果的な技術を理解するための厳格な措置を策定することができます。文化のリーダー、さまざまな活動家などは、多様性と多様な技術について広大な聴衆に語りかけることができます。"
+  },
+  "對於那些具有更系統的想像力和雄心壯志的人來說，他們有機會在更廣闊的視野中追求多元宇宙，重塑機構，讓更多的人發表意見，邀請更多的人參與。在這方面，企業員工也可以在內部運營和公司治理中推進多元宇宙——從自下而上地設計工作場所，到利用多元協作技術探索工作中的「艱難對話」，再到加強遠程團隊建設，使員工能夠不懼距離，共享創造力。政府僱員也可以這樣做。多元技術已幫助臺灣的共乘政策、加拿大的視覺藝術、智利的城市流動性等分歧政策問題找到解決之道；這裡有廣闊的實驗和學習空間。": {
+    "ja": "よりシステマティックな想像力と野心を持つ人々にとって、彼らはより広い視野で多元宇宙を追求し、組織を再構築し、より多くの人々に意見を述べさせ、より多くの人々を参加させる機会があります。この点において、企業の従業員も内部の運営や企業統治において多元宇宙を推進することができます-職場をボトムアップで設計することから、困難な対話を探求するための多元協働技術の活用、そしてリモートチームビルディングの強化により、従業員は距離を恐れずに創造力を共有することができます。政府の従業員も同様に行うことができます。多様な技術は、台湾の共有乗車政策、カナダの視覚芸術、チリの都市の流動性など、異なる政策問題の解決策を見つけるのに役立っています。ここには広範な実験と学習の空間があります。"
+  },
+  "從中期來看，學術界也可以利用多元技術，推進學術研究和辯論的重組。他們可以更加批判性地審視自己的多元思想歷程。文化領袖也可以將多元技術帶入文化創作之中。如果我們可以眾包一本書，他們能眾包一部電影嗎？": {
+    "ja": "中期的視点から見ると、学術界も多様な技術を活用して学術研究や議論を進めることができます。彼らは自分たちの多様な思考プロセスをより批判的に検討することができます。文化のリーダーも多様な技術を文化創造に取り入れることができます。もし私たちが本をクラウドソーシングで作ることができるなら、彼らは映画をクラウドソーシングで作ることができるでしょうか？"
+  },
+  "對於那些具有更廣闊視野的讀者，我們在本書中花了大量篇幅，來闡述真正具有變革性的多元技術，這些技術最終將重塑人類交流與合作的方式。這一雄心直指多元宇宙運動的根本，也是民主的核心單位：「人格」，不僅僅是原子或「一元」的，也是由社會關係定義的。因此，它催生了更廣義的權利概念，超越了個人權利，承認隸屬關係、商業、財產等多元概念，以及我們社會的其他基石。": {
+    "ja": "広い視野を持つ読者に対して、私たちはこの本で革新的な多元技術を詳しく説明しています。これらの技術は最終的に人間のコミュニケーションと協力の方法を再構築するものです。この大志は多元宇宙運動の根本を指し示し、また民主主義の核心である「個性」をも定義します。個性は単なる原子や「一元的」なものだけでなく、社会的な関係によっても定義されます。そのため、個人の権利を超えて所属関係やビジネス、財産などの多元な概念を認めるより広い権利の概念が生まれ、また私たちの社会の他の基盤も認識されるようになりました。"
+  },
+  "我們對這些願望的早期觀點進行了彙整。例如，在最具變革性的多元技術中：": {
+    "ja": "我々はこれらの願望の初期の視点をまとめました。例えば、最も変革的な多様な技術では、"
+  },
+  "**身份** 不僅可以通過個人的生物特徵（如出生日期和指紋）得到確認和保護，還可以通過社會學的關係特徵（如共同經歷和社區證詞）得到確認和保護。": {
+    "ja": "**身分** は、個人の生物学的特徴（生年月日や指紋など）によって確認や保護が行われるだけでなく、社会的な関係特徴（共有の経験や地域の証言など）によっても確認や保護が行われます。"
+  },
+  "**組織** 不僅可以通過實際的成員關係和近距離的聯繫來推進，還可以通過保密、安全和強化的線上聯繫來推進，從而使具有強烈內部共同信念的真正多樣化的社群能夠蓬勃發展，而不受外人的不當干擾，並對參與者的真實身份具有可靠的信心。": {
+    "ja": "**組織**は、実際のメンバー関係や近距離のコンタクトだけでなく、秘密保持、セキュリティ強化されたオンラインコミュニケーションを通じて推進することもできます。これにより、強い内部共通信念を持つ真の多様なコミュニティが外部の不適切な干渉を受けずに繁栄することができ、参加者の真のアイデンティティに対して信頼性を持つことができます。"
+  },
+  "**商業** 通過代金券、憑單和信用等基於網路的新工具，可以將更多人納入繁榮的網絡，同時還能保護所有參與者的安全、隱私和投資。": {
+    "ja": "**商業** 通過代金券、憑單和信用等基於網路的新工具，可以將更多人納入繁榮的網絡，同時還能保護所有參與者的安全、隱私和投資。"
+  },
+  "**財產** 可以重新思考，利用參與者身份和可靠性、資產使用和財產評估等更靈活的標記，來擴大資產共享和估值。我們已經在以 15 年前無法想像的方式分享我們的房屋和汽車；我們可以從哪些新的方向引導所有權，讓更多人參與其中，同時又能保護專屬和隱私？": {
+    "ja": "**財産**は、参加者の身分と信頼性、資産の使用と評価など、より柔軟なマーキングを利用して、資産の共有と評価を拡大することができます。私たちは、15年前には考えられなかった方法で家や車を共有しています。所有権をどのような新しい方向に導くことができるのか、より多くの人々が参加できるようにしながら、独占とプライバシーを保護することができるでしょうか？"
+  },
+  "**市場** 和 **公司治理** 可以通過以網絡為中心的創新得到加強——更加關注受公司決策影響的所有利益關係人、參與式設計和預測市場，以加快創新和解決問題的速度、企業中的「多元管理」，在員工參與和權威的關鍵作用之間取得更好的平衡。": {
+    "ja": "**市場**と**企業統治**は、ネットワークを中心としたイノベーションによって強化されることができます。これにより、企業の意思決定に影響を受けるすべての利害関係者により注目し、参加型デザインや予測市場を通じてイノベーションのスピードを加速し、問題を解決することができます。また、企業内の「多元的な経営」により、従業員の参加と権威のバランスをより良く取ることができます。"
+  },
+  "**公共政策** 可以通過建立在網絡思維基礎上的創新來加強——從基於社區的移民長期工作許可贊助，到阻止昂貴鬥爭式競選活動的平方投票法。": {
+    "ja": "**公共政策**は、コミュニティベースの移民の長期的な労働許可スポンサーシップから、高額な競争的な選挙活動を防ぐための平方投票法まで、ネットワーク思考に基づいたイノベーションを通じて強化することができます。"
+  },
+  "對於那些對這種雄心勃勃的變革有興趣的人來說，現在正是開始行動的時候。企業可以投資基礎建設，支持與數位公共建設相關的政策，這將在我們現在充滿恐懼和分裂的地方增進信任和凝聚力。政府可以重新思考合作——從如何吸納從未發表過意見的利益關係人，到如何就氣候和流行病等無國界問題，開展國際合作。學術界和研究人員，可以探索和建立轉型多元宇宙的知識和經驗基礎。我們的文化領袖可以通過書籍、電影、視訊、音樂或我們尚未想到的全新類別，闡述更加多元的未來願景。": {
+    "ja": "このような野心的な変革に興味を持つ人々にとって、今が行動を起こす時です。企業はインフラ投資を行い、デジタルパブリックインフラに関連する政策を支持することで、私たちの現在の恐怖と分裂の中で信頼と結束を高めることができます。政府は協力の再考を行うことができます-未発表の利害関係者の意見をどのように取り入れるか、気候変動やパンデミックなどの国境を越える問題について国際的な協力を展開する方法などです。学術界や研究者は、多様な未来のビジョンを探求し、構築するための知識と経験を持つ多元的な宇宙を探求することができます。文化のリーダーは、書籍、映画、ビデオ、音楽、またはまだ考えつかない新しいカテゴリを通じて、より多様な未来のビジョンを説明することができます。"
+  },
+  "## 付諸行動": {
+    "ja": "## 付諸行動"
+  },
+  "在寫了這本關於多元主義智慧泉源的書——並且彙聚多元貢獻者來構建這本書本身——之後，如果我們竟然宣佈某種從上而下、中央集權、命令與控制的計劃來實現多元宇宙，那將會很有趣。": {
+    "ja": "この多元主義の知恵の源についての本を書いた後、そしてこの本自体を構築するために多様な貢献者を集めた後、もし私たちが上から下へ、中央集権的な命令と制御によって多元宇宙を実現する計画を発表するなら、それは非常に興味深いことでしょう。"
+  },
+  "當然，並不是每家公司、每個社區或每個國家，都能走一條放之四海而皆準的多元宇宙之路。然而，如果這本書能達到預期效果的話，很快就會出現由全球各地的人們組成的網絡，他們以團體的形式緊密聯繫，組成鬆散的聯盟，致力於實現多元宇宙，而不是放任主義和專家統治這兩個迫在眉睫的替代方案。作為第三條道路的開拓者，多元主義者認為，科技必須服務於人類，而不是相反；人們最大的願望是擁有充實的生活，豐富的人際關係，以及體驗愛與失去、逆境與成就的機會。科技應該幫助我們做到這一點——而不是把我們變成「蒼蠅王」，或無差別的數據點。": {
+    "ja": "当然、すべての企業、コミュニティ、または国が多元宇宙の道を歩むことはできるわけではありません。しかし、この本が期待される効果をもたらすことができれば、世界中の人々が結集し、緊密に連携したグローバルなネットワークがすぐに現れるでしょう。彼らはグループの形で結びつき、緩やかな連合を形成し、自由主義と専門家支配という2つの代替案ではなく、多元宇宙の実現に取り組むでしょう。第3の道を切り拓く多元主義者は、技術が人間に奉仕するべきであり、逆ではないと考えています。人々の最大の願望は、充実した生活、豊かな人間関係、愛と喪失、逆境と成就の機会を体験することです。技術は私たちがそれを実現するのを助けるべきです-私たちを「ハエの王」にするのではなく、無差別なデータポイントにするのではありません。"
+  },
+  "如果你相信繁榮、進步和正義的社會的核心條件是社會多樣性，以及在這種豐富的多樣性中的協作，請加入我們。": {
+    "ja": "もし、繁栄、進歩、正義を信じる社会の核心条件が社会の多様性であり、この豊かな多様性の中での協力であるなら、私たちに参加してください。"
+  },
+  "如果你相信，技術作為當今社會最強大的工具，能夠幫助我們作為個體以及在我們多重的、有意義的隸屬關係中蓬勃發展，請加入我們。": {
+    "ja": "もし、技術が現代社会で最も強力なツールとして信じているなら、私たちが個人として成長し、意味のある多重の所属関係の中で繁栄するのを助けることができると信じているなら、私たちに参加してください。"
+  },
+  "如果你想為多元宇宙的近期目標、中期目標或真正的變革性目標做出貢獻，或者橫跨所有目標，你有多個切入點。如果你在科技界、商界、政府部門、學術界、民間社會、文化機構、教育界、家庭中工作，你就有多種途徑來改變現狀。": {
+    "ja": "もし、あなたが多元宇宙の近期目標、中期目標、または真の変革的目標に貢献したい場合、またはすべての目標にまたがる場合、あなたには複数のアプローチがあります。もし、あなたがテクノロジー業界、ビジネス界、政府機関、学術界、市民社会、文化機関、教育界、家庭で働いている場合、現状を変えるためのさまざまな方法があります。"
+  },
+  "我們多元主義者遍佈世界每個國家和每個經濟領域。聯繫、加入、集會、動員... 請加入我們，共同致力於建設更具活力的多元世界。": {
+    "ja": "私たちは多元主義者であり、世界のあらゆる国と経済領域に広がっています。連絡を取り合い、参加し、集まり、結集しましょう... 私たちに参加して、より活気のある多元な世界の構築に共に取り組みましょう。"
   }
 }
