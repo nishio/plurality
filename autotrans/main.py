@@ -108,7 +108,7 @@ def translate_one_line(
         prompt = generate_system_prompt(line)
         ret = call_gpt(prompt)
     line = line.rstrip("\n")  # remove trailing newline
-    new_trans[line] = {"ja": ret}
+    new_trans[line] = {"ja": ret, "latest": True}
     return ret
 
 
