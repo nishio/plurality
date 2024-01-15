@@ -42,8 +42,14 @@ if os.path.exists("cache.json"):
 else:
     prev_trans = {}
 
+
+## CACHE CONTROL
 # new_trans = {}  # clear not-used cache
-new_trans = prev_trans.copy()  # keep not-used cache
+# new_trans = prev_trans.copy()  # keep not-used cache
+# mark all cache as not latest, then add new one as latest
+new_trans = prev_trans.copy()
+for k in new_trans:
+    new_trans[k]["latest"] = False
 
 
 def generate_system_prompt(line):
