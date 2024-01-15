@@ -112,7 +112,7 @@ def translate_one_line(
     return ret
 
 
-def translate_one_page(page="../contents/traditional-mandarin/序章 數位觀照.md"):
+def translate_one_page(page="../contents/traditional-mandarin/01-數位觀照.md"):
     print("Translating page: " + page)
     basename = os.path.basename(page)
     OUTFILE = f"../contents/japanese-auto/{basename}"
