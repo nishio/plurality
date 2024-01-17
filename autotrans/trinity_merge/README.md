@@ -12,7 +12,4 @@ To use hotkeys, you need to focus on small textarea on right bottom corner of th
 Use 'j', 'k', and 'l' to pick lines from input1, input2, and input3 respectively.
 Use 'u', 'i', and 'o' to drop lines from input1, input2, and input3 respectively.
 Use Backspace to undo the last drop.
-
-## License
-
-Distributed under the MIT License.
+Use Enter to insert new line in output textarea.

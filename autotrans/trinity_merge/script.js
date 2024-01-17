@@ -1,14 +1,14 @@
 function pickLines(id) {
-  var input = document.getElementById(id);
-  var output = document.getElementById("output");
+  const input = document.getElementById(id);
+  const output = document.getElementById("output");
 
   // Split the input into lines
-  var lines = input.value.split("\n");
+  let lines = input.value.split("\n");
 
   // Check if there are any lines to cut
   if (lines.length > 0) {
     // Cut the first line
-    var firstLine = lines.shift();
+    const firstLine = lines.shift();
     if (id == "input2" || id == "input3") {
       lines = autoMerge(lines);
     }
@@ -21,15 +21,15 @@ function pickLines(id) {
 }
 
 function dropLines(id) {
-  var input = document.getElementById(id);
+  const input = document.getElementById(id);
 
   // Split the input into lines
-  var lines = input.value.split("\n");
+  let lines = input.value.split("\n");
 
   // Check if there are any lines to cut
   if (lines.length > 0) {
     // Cut the first line and store it in droppedLines
-    var droppedLine = lines.shift();
+    const droppedLine = lines.shift();
     pushDroppedLines(id, droppedLine);
 
     if (id == "input2" || id == "input3") {
@@ -41,7 +41,7 @@ function dropLines(id) {
 }
 
 // for enabling undo of dropLines, we need to store the dropped lines in a stack
-var droppedLines = [];
+const droppedLines = [];
 // [{from: "input1", line: "line1"}, ...] , latest dropped line is at the end of the array
 // functions to push and pop from the stack
 function pushDroppedLines(from, line) {
@@ -53,30 +53,51 @@ function popDroppedLines() {
 // function to undo the last dropLines
 function undoDropLines() {
   // if there are no dropped lines, do nothing
-  if (droppedLines.length == 0) {
+  if (droppedLines.length === 0) {
     return;
   }
-  var droppedLine = popDroppedLines();
-  var input = document.getElementById(droppedLine.from);
+  const droppedLine = popDroppedLines();
+  const input = document.getElementById(droppedLine.from);
   input.value = droppedLine.line + "\n" + input.value;
 }
 
-// scroll the output textartea to the bottom
+// scroll the output textarea to the bottom
 function scrollBottom() {
-  var output = document.getElementById("output");
+  const output = document.getElementById("output");
   output.scrollTop = output.scrollHeight;
 }
 
 // after update of input, if the top line is the same as the one in input1, automatically drop it.
 function autoMerge(lines) {
-  var input1 = document.getElementById("input1");
-  var lines1 = input1.value.split("\n");
+  const input1 = document.getElementById("input1");
+  const lines1 = input1.value.split("\n");
   if (lines.length > 0 && lines1.length > 0) {
     if (lines[0] == lines1[0]) {
       lines.shift();
     }
   }
   return lines;
+}
+
+// scroll the input textarea to the top
+function scrollTop() {
+  document.getElementById("input1").scrollTop = 0;
+  document.getElementById("input2").scrollTop = 0;
+  document.getElementById("input3").scrollTop = 0;
+}
+
+// copy the output textarea to the clipboard
+function copyOutput() {
+  const output = document.getElementById("output");
+  output.select();
+  document.execCommand("copy");
+}
+
+// add new line on output textarea
+function addNewLine() {
+  const output = document.getElementById("output");
+  output.value += "\n";
+  scrollBottom();
 }
 
 document.getElementById("pick1").addEventListener("click", function () {
@@ -107,6 +128,14 @@ document.getElementById("undo").addEventListener("click", function () {
   undoDropLines();
 });
 
+document.getElementById("copy-output").addEventListener("click", function () {
+  copyOutput();
+});
+
+document.getElementById("scroll-top").addEventListener("click", function () {
+  scrollTop();
+});
+
 // This event listener allows the user to control the picking and dropping of lines from the input textareas using keyboard shortcuts.
 // 'j', 'k', and 'l' are used to pick lines from input1, input2, and input3 respectively.
 // 'u', 'i', and 'o' are used to drop lines from input1, input2, and input3 respectively.
@@ -128,6 +157,8 @@ document
       dropLines("input3");
     } else if (event.key === "Backspace") {
       undoDropLines();
+    } else if (event.key === "Enter") {
+      addNewLine();
     }
     event.preventDefault();
   });
