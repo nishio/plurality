@@ -58,7 +58,7 @@ function undoDropLines() {
   }
   var droppedLine = popDroppedLines();
   var input = document.getElementById(droppedLine.from);
-  input.value += droppedLine.line + "\n";
+  input.value = droppedLine.line + "\n" + input.value;
 }
 
 // scroll the output textartea to the bottom
