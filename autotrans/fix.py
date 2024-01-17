@@ -1,6 +1,9 @@
 """
 Tool to assist in fixing translation errors
 
+Intenqded usage:
+1. run in IPython console
+2. call functions as needed
 """
 
 import json
@@ -51,6 +54,9 @@ def search_orig(keyword="數位"):
 
 
 def edit_line(keyword):
+    """
+    Find single line that contains keyword, and edit it
+    """
     target = []
     for k in cache:
         if cache[k]["latest"] == False:
