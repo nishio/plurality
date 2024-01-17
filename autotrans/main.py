@@ -166,6 +166,7 @@ def translate_one_page(page="../contents/traditional-mandarin/01-數位觀照.md
 
     # add language icon
     OUTFILE = f"../contents/japanese-auto/with_lang_icon/{basename}"
+    OUTFILE = OUTFILE.replace(".md", ".txt")
     if "traditional-mandarin" in page:
         icon = "🇹🇼"
     else:
