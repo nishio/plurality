@@ -120,6 +120,15 @@ def to_update(line):
     return False
 
 
+def post_process(line):
+    """
+    Fix some errors in the translation result.
+
+    """
+    line = line.replace("審議", "熟議")
+    return line
+
+
 def translate_one_line(
     line="網際網路揭開世界面紗，是光引向前行道路。理想與變革的 60 年代，見證了跨文化技術的萌芽，催生超越地理和時間限制的數位社群。通過這座數位橋樑，知識在不同語文間綻放。",
 ):
@@ -133,6 +142,7 @@ def translate_one_line(
         prompt = generate_system_prompt(line)
         ret = call_gpt(prompt)
     line = line.rstrip("\n")  # remove trailing newline
+    line = post_process(line)
     new_trans[line] = {"ja": ret, "latest": True}
     return ret
 
