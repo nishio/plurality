@@ -143,6 +143,7 @@ def post_process(line):
 
     """
     line = line.replace("審議", "熟議")
+    line = line.replace("&npsp;", "")
     return line
 
 
@@ -190,7 +191,7 @@ def translate_one_page(page="../contents/traditional-mandarin/01-數位觀照.md
         icon = "🇺🇸"
     with open(OUTFILE, "w", encoding="utf-8") as f:
         for line in new_lines:
-            if line:
+            if line.strip() != "":
                 f.write(f"{icon}{line}\n")
             else:
                 f.write("\n")
