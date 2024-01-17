@@ -77,3 +77,37 @@ def edit_line(keyword):
     cache[k]["ja"] = new
     save()
     print("saved")
+
+
+def replace(keyword, new_keyword):
+    """
+    Find all lines that contains keyword, and replace it with new_keyword
+
+    Sample Usage:
+    replace("審議", "熟議")
+    Found 37 matches
+    view? (y/n)n
+    replace? (y/n)y
+    saved
+    """
+    target = []
+    for k in cache:
+        if cache[k]["latest"] == False:
+            continue
+        if keyword in cache[k]["ja"]:
+            target.append(k)
+
+    if len(target) == 0:
+        print("No match")
+        return
+
+    print(f"Found {len(target)} matches")
+    if input("view? (y/n)") == "y":
+        for k in target:
+            print_pair(k)
+
+    if input("replace? (y/n)") == "y":
+        for k in target:
+            cache[k]["ja"] = cache[k]["ja"].replace(keyword, new_keyword)
+        save()
+        print("saved")
