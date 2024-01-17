@@ -1,4 +1,4 @@
-🇺🇸<center> <h1> プロパティと契約 </h1> </center>
+🇺🇸# プロパティと契約
 
 🇺🇸&nbsp;&nbsp;&nbsp;&nbsp;親愛なるVasanaゲーマーの皆様、
 
