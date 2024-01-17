@@ -33,6 +33,11 @@ parser.add_argument(
     default="all",
     help="target file to translate",
 )
+parser.add_argument(
+    "--update",
+    action="store_true",
+    help="call update() instead of main()",
+)
 args = parser.parse_args()
 
 
@@ -56,6 +61,7 @@ def generate_system_prompt(line):
     return """\
 # Task
 Translate given input text to Japanese. The input is a line from a markdown file.
+Translate English "deliberation" and Mandarin "審議" to Japanese "熟議".
 
 # Input
 {line}
@@ -96,13 +102,32 @@ def call_gpt(prompt, model="gpt-3.5-turbo"):
     return ret
 
 
+def to_update(line):
+    """
+    Return True if the line should be updated.
+    If args.update is False, always return False. It means "always use cache".
+    If args.update is True, some caches will be ignored.
+    The condition to ignore cache is described in this function.
+    This "update" action is triggered by the human, not used in automated process.
+
+    """
+    if args.update == False:
+        return False
+
+    # # if "審議" in line:
+    # #     return True
+
+    return False
+
+
 def translate_one_line(
     line="網際網路揭開世界面紗，是光引向前行道路。理想與變革的 60 年代，見證了跨文化技術的萌芽，催生超越地理和時間限制的數位社群。通過這座數位橋樑，知識在不同語文間綻放。",
 ):
     line = line.rstrip("\n")  # remove trailing newline
     if line.strip() == "":
         return line
-    if line in prev_trans:
+
+    if line in prev_trans and not to_update(line):
         ret = prev_trans[line]["ja"]
     else:
         prompt = generate_system_prompt(line)
