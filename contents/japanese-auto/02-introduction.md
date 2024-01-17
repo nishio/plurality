@@ -21,7 +21,7 @@
 技術と地政学に対する不安は、今日では広範囲に存在しています。しかし、技術の優位を巡る大国間の対立よりも、より基本的な対立が進行中です。さらに、技術と民主主義というシステムが進んできた道筋によって、両者は対立し、その結果として両側に犠牲者が出ています。
 
 
-近年の技術の主要なトレンドは、人工知能とブロックチェーンです。これらは、それぞれ中央集権的なトップダウンの制御を強化し、分極化と金融資本主義を加速させています。両方の結果は、民主的多元主義の価値にとって腐食性があります。そのため、技術は民主主義への最大の脅威の一つとして広く認識されており、外部の権威主義者や内部から民主主義を破壊しようとする者にとっても強力なツールと見なされています。
+近年の技術の主要なトレンドは、人工知能とブロックチェーンです。これらはそれぞれ、中央集権的なトップダウンの制御を強化し、分極化と金融資本主義を加速させています。両方の結果は、民主的な多元主義の価値観にとって腐食性があります。そのため、技術は民主主義への最大の脅威の一つと見なされ、外部の権威主義者や内部から民主主義を覆そうとする者にとって強力なツールとして広く認識されています。
 
 
 同時に、民主主義はかつて都市国家の統治を大陸に広がる何百万人もの市民に拡大するための過激な実験でした。今日、それは世界の多くの地域で、硬直化し、時代遅れで、極端化し、麻痺し、ますます正統性を失った政府を保存しようとする必死の努力の同義語となっています。したがって、技術者の多くが進歩の障害としての民主的参加に対する軽蔑を持ち、技術の進歩が独裁的な敵対者の優位性や内部崩壊をもたらすという恐れを持つ民主主義の提唱者の多くに驚かれるべきではありません。
@@ -110,7 +110,7 @@ SF（サイエンスフィクション）は、人間の心が想像すること
 最近のベンチャーキャピタル業界の動向から始まり、過去10年間は人工知能と仮想通貨に関連する「Web3」技術へのベンチャーキャピタルの注目が劇的かつ圧倒的に集中しています。図Vは、NetBase Quidによって収集され、StanfordのCenter for Human-Centered Artificial Intelligenceの2022 AI Index Reportによってグラフ化されたAIへの民間投資のデータを示しており、2010年代に爆発的な成長を遂げ、民間技術投資を席巻してきた成長を示しています。図Wは、Pitchbookのデータに基づき、Galaxy Digital Researchによってグラフ化されたWeb3スペースの同様のデータを別の期間と四半期ごとに示しています。
 <img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/private.png" width="100%" alt="プライベート">
 
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/crypto.png" width="100%" alt="暗号化">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/crypto.png" width="100%" alt="Crypto">
 
 **図W：プライベートクリプト/ブロックチェーン投資**
 
@@ -156,7 +156,7 @@ ESは、民主主義国家におけるナショナリストと極右との関係
 
 一方で、ESのイデオロギーは一貫してナショナリズム（または他の形態の集団主義や連帯）に敵対的であり、ESの信奉者はしばしば右派に関連付けられる多くの核心的な宗教、国家、文化的価値観を嘲笑し、無視します。これは、彼らが主流の左派文化的価値観と認識しているものに対する共通の反感、またはヤービン、ドナルドソン、リース＝モグが提唱する「加速主義」の態度によって解決されるかもしれません。この加速主義の態度は、不可避な技術的傾向に対する「ナショナリストの反動」を加速剤と潜在的な同盟国と見なすものであり、国家の解体に向けたものです。
 
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/golden.png" width="100%" alt="ゴールデン">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/golden.png" width="100%" alt="Golden">
 
 **図Y、出典：ロジャー・ゴードン、アメリカ経済成長の興亡**
 
@@ -179,7 +179,7 @@ ESは、民主主義国家におけるナショナリストと極右との関係
 
 最初のポイントでは、Acemoglu、Pascual Restrepo、および共同研究者たちは、黄金時代からデジタル停滞への技術進歩の方向の変化を文書化しています。図Aは、彼らの結果を要約し、労働自動化（彼らが「置換」と呼ぶもの）と労働増強（彼らが「復帰」と呼ぶもの）による時間の経過に伴う生産性の累積的な変化をプロットしています[^AcemogluRestrepoStudy]。黄金時代では、復帰と置換がほぼバランスしており、労働者に支払われる所得の割合はほぼ一定でした。しかし、デジタル停滞では、置換がわずかに加速し、一方で復帰が劇的に減少したため、全体的な生産性の成長が鈍化し、労働者に支払われる所得の割合が大幅に減少しました。さらに、彼らの分析は、この不均衡の不平等な影響が低賃金労働者の間での置換の集中によって悪化していることを示しています。
 
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/displace.png" width="100%" alt="変位">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/displace.png" width="100%" alt="Displace">
 
 **図A：アセモグルとレストレポ。2019年。「自動化と新しいタスク：技術が労働を置き換え、復活させる方法。」経済展望誌。**
 
@@ -218,7 +218,7 @@ ATとESの採用を取り巻く経済状況は、数値化しやすく、最も�
 [^MarketPower]: 2017年にJan De LoeckerとJan Eeckhoutによって発表された「The Rise of Market Power and the Macroeconomic Implications」、2019年にDaron Acemogluによって発表された「The Race Between Man and Machine: Implications of Technology for Growth, Factor Shares and Employment」、2020年にJohn Barrios、Yael Hochberg、Hanyi Yiによって発表された「The Cost of Convenience: Ridehailing and Traffic Fatalities」、2020年にDavid Autor、David Dorn、Lawrence F. Katz、Christina Patterson、John Van Reenenによって発表された「Firming Up Inequality」、2019年にGustavo Grullon、Yelena Larkin、Roni Michaelyによって発表された「The Increasing Dominance of Large Firms」、2018年にChad Syversonによって発表された「The Digital Economy, Business Dynamism and Productivity Growth」、2019年にFiona Scott Mortonによって発表された「Industrial Concentration in the Age of Digital Platforms」、2019年にPhilippe Aghion、Antonin Bergeaud、Timo Boppart、Peter Klenow、Huiyu Liによって発表された「The Failure of Free Entry」、2021年にShouyong Shi、Wei Cuiによって発表された「The Capitalist Machine: Computerization, Workers' Power, and the Decline in Labor's Share within U.S. Industries」
 「ビッグファイブの時代における競争と市場力」、トーマス・フィリッポン著、アメリカ経済レビュー、2021年。
 [^AuthoritarianTech]: AIスーパーパワーズ：中国、シリコンバレー、そして新世界秩序（著者：カイ・フー・リー）；独裁者のジレンマ：中国共産党の生存戦略（著者：ブルース・J・ディクソン）；接続のコスト（著者：ニック・クラウドリーとウリセス・メヒアス）；「人工知能と国家安全保障」（著者：ポール・シャーレ）；「新しいデジタル専制主義：習近平のガバナンスの未来のビジョン」（著者：サマンサ・ホフマン）；「データコロニアリズム：現代の主体との関係を再考するビッグデータ」（著者：ジャック・リンチュアン・チュウ）；「デジタル時代の権力の未来」（著者：テイラー・オーウェンとベン・スコット）；「デジタル抑圧の台頭：技術が権力、政治、抵抗を再構築する方法」（著者：スティーブン・フェルドスタイン）。
-[^DemocracyTechHostility]: OpenForumEurope.orgオープンテックコミュニティ欧州委員会は、オープンソースソフトウェア（OSS）の影響に関する研究を公表しました。数年前のEUにおけるデータの厳格な制御への恐れは、競争とイノベーションの不足、市場のリスクの増加につながりました。現在、OSSへの投資が増えていることも、多くの東欧諸国におけるイノベーションの取り組みのおかげです。国がデジタルテクノロジーへの投資を維持し、人々や公共セクターのつながりを確保できない場合、将来的には民主的多元主義を含む大きな損失を引き起こすことになります。ウクライナとロシアの戦争においても、デジタルOSSの重要性が見られています。
+[^DemocracyTechHostility]: OpenForumEurope.org Open Tech Communitythe European Commission published a study on the impact of open source software (OSS)EUにおけるデータの厳格な制御への恐れは、数年前に競争とイノベーションの不足、市場のリスクの増加につながりました。今では、OSSへの投資が増えていることが見て取れます。これは、多くの東欧諸国でのイノベーションの進展にも感謝すべきです。国がデジタル技術に投資し、人々や公共部門のつながりを維持し続けることができなければ、将来的には民主的な多元主義を含む大きな損失を引き起こすでしょう。現在、ウクライナとロシアの戦争において、デジタルOSSの重要性が見えてきています。
 [^PublicOpinionTech]: https://news.gallup.com/poll/329666/views-big-tech-worsen-public-wants-regulation.aspx ただし、https://ec.europa.eu/commission/presscorner/detail/en/IP_21_4645 も参照してください。また、https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/ も参照してください。さらに、https://deliverypdf.ssrn.com/delivery.php?ID=378070074070096106120096075093127076009075022081036087078089015067078006091125065007021011006001039100019103096003108083114089116049039081035024111121091071093107025069011095094068091120007107065101126071008081003028090028030076083084111115121117089072&EXT=pdf&INDEX=TRUE も参照してください。
 [^TechInvestmentDecline]: 参考文献: "The Innovation Illusion: How So Little is Created by So Many Working So Hard" by Fredrik Erixon and Bjorn Weigel (2016), "The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War" by Robert J. Gordon (2016)
 「雇用の未来：仕事はどれくらいコンピュータ化に対応できるのか？」カール・ベネディクト・フライとマイケル・A・オズボーン（2013）

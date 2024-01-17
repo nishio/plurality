@@ -2,7 +2,7 @@
 
 🇹🇼情報技術と民主主義：広がる溝
 
-🇹🇼| 作者：オードリー・タン、E. グレン・ウェイル、およびプララリティ・コミュニティ
+🇹🇼| 作者：オードリー・タン、E. グレン・ワイル、および多元主義コミュニティ
 🇹🇼| 翻訳者：唐鳳 Audrey Tang、周宜蔓 Gisele Chou、王嘉田 Greg Wang
 
 🇹🇼---
@@ -126,7 +126,7 @@
 
 🇹🇼<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/private.png" width="100%" alt="プライベート">
 
-🇹🇼<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/crypto.png" width="100%" alt="暗号化">
+🇹🇼<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/crypto.png" width="100%" alt="Crypto">
 
 🇹🇼**図 W：プライベートエンクリプション／ブロックチェーン投資**
 
@@ -172,7 +172,7 @@
 
 🇹🇼一方面、ESのイデオロギーは常に民族主義（または他の形式の集団主義や党派形式）に敵意を持っており、ESの支持者はしばしば右派の関連する核心的な価値観（宗教、民族、文化など）を嘲笑し否定します。彼らは、彼らが主導的な左派の文化的価値観に共感しないことを示すために、「加速主義」と呼ばれるYarvin、Donaldson、Rees-Moggが提唱する態度を通じて、または「民族主義の反動」として、これらの未来の必然的な傾向の技術的な発展を触媒と潜在的な同盟国として利用して、民族国家の崩壊を促進します。
 
-🇹🇼<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/golden.png" width="100%" alt="ゴールデン">
+🇹🇼<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/golden.png" width="100%" alt="Golden">
 
 🇹🇼**図 Y、データソース：ロジャー・ゴードン、「アメリカの経済成長の興亡」**
 
@@ -199,7 +199,7 @@
 
 🇹🇼* 第一点、Acemoglu、Pascual Restrepo および彼らの共同研究者は、最近の一連の論文で、技術の進歩が黄金時代からデジタル化の停滞期に向かう方向に変化していることを記録しています。図Aは彼らの結果をまとめたもので、労働の自動化（彼らが「置き換え」と呼んでいる）と労働力の増強（彼らが「回復」と呼んでいる）[^28] の時間経過に伴う累積生産性の変化を示しています。黄金時代では、回復が置き換えをほぼバランスさせ、労働者の収入の割合を基本的に一定に保っていました。しかし、デジタル化の停滞期では、置き換えがわずかに加速し、回復が明らかに遅くなり、全体的な生産性の成長が鈍化し、労働者の収入の割合が著しく減少しました。さらに、彼らの分析は、置き換えの影響が主に低いスキルを持つ労働者に影響を与えるため、この不均衡な格差効果がより深刻になっていることを示しています。
 
-🇹🇼<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/displace.png" width="100%" alt="変位">
+🇹🇼<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/displace.png" width="100%" alt="Displace">
 
 🇹🇼**図 Acemoglu and Restrepo. 2019. 《自動化と新しいタスク：技術が労働を置き換え、復活させる方法》、経済学の展望。**
 

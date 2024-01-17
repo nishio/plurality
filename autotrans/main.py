@@ -57,18 +57,32 @@ for k in new_trans:
     new_trans[k]["latest"] = False
 
 
+MAP = {
+    "Pluralist thinking": "多元主義者の考え方",
+    "advancing Plurality": "多元主義を推進する",
+    "Plural Publics": "多元的な公衆",
+    "plural understanding of society": "多元的な社会の理解",
+    "pluralistic societies": "多元主義の社会",
+    "plural social science": "多元社会科学",
+    "pluralism": "多元主義",
+    "plural technology (Plurality)": "多元技術（Plurality）",
+    "Plurality launches": "デジタル多元主義の始まり",
+}
+MAP = json.dumps(MAP, ensure_ascii=False)
+
+
 def generate_system_prompt(line):
     return """\
 # Task
 Translate given input text to Japanese. The input is a line from a markdown file.
-Translate English "deliberation" and Mandarin "審議" to Japanese "熟議".
+Consider the mapping: {map}
 
 # Input
 {line}
 
 # Output
 """.format(
-        line=line
+        line=line, map=MAP
     )
 
 
@@ -114,8 +128,11 @@ def to_update(line):
     if args.update == False:
         return False
 
-    # # if "審議" in line:
-    # #     return True
+    if "Plural" in line:
+        return True
+    if "plural" in line:
+        return True
+    # MEMO: after observing the result, I feel that the conditions shold be described with the Japanese text.
 
     return False
 
