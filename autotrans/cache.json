@@ -1245,7 +1245,7 @@
   },
   "* Privacy:  Perhaps even more interestingly, all of these \"verifiers\" know this information from interactions that most of us feel consistent with \"privacy\": we don't get concerned about the co-knowledge of these social facts in the way we would surveillance by a corporation or government.": {
     "ja": "プライバシー：興味深いことに、これらの「検証者」は、私たちのほとんどが「プライバシー」と一致すると感じる相互作用からこの情報を知っています。私たちは、これらの社会的な事実の共有について、企業や政府による監視のように心配することはありません。",
-    "latest": true
+    "latest": false
   },
   "* Security: Pluralism also avoids many of the problems of a \"single point of failure\".  The corruption of even several individuals and institutions only affects those who rely on them, which may be a very small part of the society, and even for them the redundancy described above implies they may only suffer a partial reduction in the verification they can achieve.  This is particularly important given the potential risks (as mentioned above) to e.g. biometric systems from advances in AI and printing technology.  Given the basis of other verification methods above are much more diverse (a range of communicative acts, physical encounters etc.) the chances these all fail based on a particular technological advance is far less likely.": {
     "ja": "* セキュリティ：多元主義は、「単一の障害点」の多くの問題を回避します。数人の個人や機関の腐敗は、それらに依存する人々にのみ影響を与えますが、それは社会のごく一部であり、さらに上記で説明した冗長性により、彼らが達成できる検証の一部の減少のみを受ける可能性があります。これは特に、AIや印刷技術の進歩による生体認証システムへの潜在的なリスク（上記で言及されているように）がある場合に重要です。他の検証方法の基盤がはるかに多様である（コミュニケーション行為の範囲、物理的な出会いなど）ため、特定の技術の進歩に基づいてこれらがすべて失敗する可能性ははるかに低いです。",
@@ -1289,7 +1289,7 @@
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Furthermore, the decentralized and distributed strategies can be combined to greatly amplify each other.  To take a simple example, consider our suggestion above that there might be 100,000 verifiers.  In a world of 10 billion, each would have to be managing relationships with 100,000 participants, on average.  If they were also able to manage a similar number of relationships with other verifiers, every verifier would have a direct relationship with every other verifier.  Two degrees of separation could do far more, allowing millions of verifying organizations to thrive under the same logic.    Thus a mixture of transitive trust and polycentrism can quite easily allow, even without any of the magic of GFMs we discuss below, a highly plural and diverse, and thus both functional and private, identity landscape.  ": {
     "ja": "さらに、分散化と分散戦略は互いを大幅に増幅させるために組み合わせることができます。単純な例を挙げると、100,000人の検証者がいるかもしれないという私たちの提案を考えてみてください。100億人の世界では、平均して各検証者は100,000人の参加者との関係を管理する必要があります。もし彼らが他の検証者とも同様の数の関係を管理できるなら、すべての検証者は直接的な関係を持つことになります。2つの分離度ははるかに多くのことを成し遂げることができ、同じ論理の下で数百万の検証組織が繁栄することができます。したがって、推移的な信頼と多中心主義の組み合わせは、GFMsの魔法なしでも、高度に多元的で多様な、そして機能的かつプライベートなアイデンティティの景観を容易に実現することができます。",
-    "latest": true
+    "latest": false
   },
   "[^1] References 1) History of the Social Security Number System as described by the [Social Security Administration](https://www.ssa.gov/policy/docs/ssb/v69n2/v69n2p55.html). 2) [Opening Pandora’s box : the social security number from 1937-2018](https://repositories.lib.utexas.edu/handle/2152/66022) by Meiser, Kenneth Donaldson, UT Electronic Theses and Dissertations. ": {
     "ja": "[^1] 参考文献 1) 社会保障番号システムの歴史は、[社会保障庁](https://www.ssa.gov/policy/docs/ssb/v69n2/v69n2p55.html)によって説明されています。2) Meiser, Kenneth Donaldsonによる[パンドラの箱を開ける：1937年から2018年までの社会保障番号](https://repositories.lib.utexas.edu/handle/2152/66022)、UT Electronic Theses and Dissertations。",
@@ -5069,11 +5069,11 @@
   },
   "* Comprehensiveness and redundancy: Furthermore, jointly, these data cover almost everything meaningful there is to know about a person: the great majority of what we are is determined by various interactions and experiences shared with others.  For almost anything we might want to prove to a stranger, there are some combination of people and institutions (typically many) who can \"vouch\" for this information without any dedicated strategy of surveillance. For example, a person wanting to prove that they are above a particularly age could call on friends who have known them for a long time, the school they attended, doctors who verified their age at various times as well, of course, on governments who verified their age. Such plural verification systems are actually fairly common: when applying for some forms of government identification many jurisdictions allow a variety of verification methods for addresses including bank statements, utility bills, leases etc.": {
     "ja": "*包括性と冗長性：さらに、これらのデータは共同で、人について知りたいことのほとんどすべてをカバーしています。私たちが持っているものの大部分は、他の人々とのさまざまな相互作用や経験によって決定されます。見知らぬ人に証明したいことはほとんど何でも、いくつかの人々や機関（通常は多数）がこの情報を「保証」することができます。たとえば、特定の年齢以上であることを証明したい人は、長い間彼らを知っている友人、彼らが通った学校、さまざまな時期に彼らの年齢を確認した医師、もちろん、彼らの年齢を確認した政府などに頼むことができます。このような多元的な検証システムは実際にはかなり一般的です。政府の身分証明書の申請時には、多くの管轄区域で銀行の明細書、公共料金の請求書、賃貸契約など、さまざまな住所の検証方法が許可されています。",
-    "latest": true
+    "latest": false
   },
   "* Progressive authentication: While standard verification by a single factor allows the user to gain confidence in the attested fact/attribute equal to their confidence in the verifying party/system, such plural systems allow a wide range of confidence to be achieved by drawing on more and more trusted verifiers.  This allows adaptation to a variety of use cases based on the security they require.": {
     "ja": "* プログレッシブ認証：単一の要素による標準的な検証では、ユーザーは検証するパーティ/システムへの信頼と同等の信頼を持つ事実/属性を確認することができますが、このような多元的なシステムでは、より信頼できる検証者を利用することで、さまざまな信頼度を達成することができます。これにより、必要なセキュリティに基づいてさまざまなユースケースに適応することができます。",
-    "latest": true
+    "latest": false
   },
   "* Inter-operation: Making such as system work would obviously require a very wide range of present identity and information systems to inter-operate, while maintaining their independence and integrity.  Achieving this would obviously be a herculean task of coordination, but it is fundamentally a similar one to that underlying the internet itself.": {
     "ja": "* 相互運用：このようなシステムを動作させるためには、非常に広範な現在のアイデンティティと情報システムが相互運用し、独立性と完全性を維持する必要があります。これを実現するには、調整のためのヘルクレスの仕事が必要ですが、基本的にはインターネット自体に基づくものです。",
@@ -6141,7 +6141,7 @@
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; One of the first and the most attention-grabbing of these was the emergence of Bitcoin in 2008 and later a range of other \"cryptocurrencies\" in the 2010s.  These systems used DLTs, like those we discussed in the last chapter, paired with internally generated financial structures to create a validated substrate for tracking transactions.  First, instead of an identity system based on accounting for human participants, they used protocols to prove control over some resource (such as \"proof of work\" protocols based on solving a puzzle that requires access to powerful computers) to protect against predatory participants.  This created an effectively financial screen for participation.  On the other hand, they rewarded \"honest\" participants (those whose recording of transactions match others') with \"coins\" created by including transactions to their own account.  The ledger was otherwise openly available to any participant, creating a global, purely financial ledger with pseudonymous accounts that allowed individual people to potentially have many \"identities\".": {
     "ja": "最初で最も注目されたものの1つは、2008年にビットコインの出現と、2010年代における他のさまざまな「暗号通貨」の出現でした。これらのシステムは、前の章で議論したようなDLTを使用し、内部で生成された金融構造と組み合わせて、トランザクションの追跡のための検証された基盤を作成しました。まず、人間の参加者の会計に基づくアイデンティティシステムの代わりに、強力なコンピュータへのアクセスを必要とするパズルの解決に基づく「作業の証明」プロトコルなどのプロトコルを使用して、捕食的な参加者に対して保護しました。これにより、参加のための効果的な金融スクリーンが作成されました。一方、他の人と一致するトランザクションの記録を行った「正直な」参加者には、「コイン」が報酬として与えられました。これにより、自分自身のアカウントにトランザクションを含めることで、参加者は自分自身のアカウントに「コイン」を作成することができました。台帳は他の参加者にも公開されており、個々の人々が多くの「アイデンティティ」を持つことができる、擬似匿名のアカウントを持つ、グローバルで純粋に金融的な台帳が作成されました。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; The early success of Bitcoin inspired attention and interest for at least three reasons:": {
     "ja": "ビットコインの初期の成功は、少なくとも3つの理由で注目と関心を引き起こしました。",
@@ -6721,7 +6721,7 @@
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Seeking to bring these services at lower cost and more inclusively especially in markets incompletely served by these US and PRC-based services, several major developing-world governments have created publicly supported instant payment services, including Singapore's FAST system in 2014, Brazil's Pix system in 2020 and India's Unified Payments Interface in 2022. Even the United States has followed with FedNow in 2023.  While there are still significant impediments to international inter-operation, there is an increasing consensus that the immediate gap in making instant payments online and in person through digital channels has been met.  This may provide at least a partial explanation for the collapse of valuations in the space as many of these systems came into their own.": {
     "ja": "これらのサービスをより低コストで、特にこれらの米国と中国に拠点を置くサービスが不完全に提供されている市場で包括的に提供することを目指して、いくつかの主要な途上国政府は公的に支援された即時支払いサービスを作成しました。これには、2014年のシンガポールのFASTシステム、2020年のブラジルのPixシステム、2022年のインドの統一支払いインターフェースが含まれます。さらに、2023年には米国もFedNowを導入しました。国際間の相互運用にはまだ重要な障壁がありますが、オンラインやデジタルチャネルを通じた即時支払いの即時ギャップが満たされているという意見の一致が増えています。これは、これらのシステムの多くが独自のものになったことによるスペースの評価の崩壊の少なくとも部分的な説明を提供する可能性があります。",
-    "latest": true
+    "latest": false
   },
   "事實上，OpenAI 創始人 Sam Altman 和 Elon Musk 都曾表示，他們最初是向公共資金尋求支持的，不過由於屢次被拒絕，最終才轉向尋求資本盈利導向的支持資金；OpenAI 後提出了生成式預訓練模型（Generative pre-trained transformers; GPT），這也使得公眾可以對 AI 的潛力產生了越來越多的想像 [^18]。再一次，這與那些專制政權，如中国，形成了巨大反差，後者制定公共資訊技術戰略，積極部署還雄心勃勃的推動它 [^19]。公共部門看待科技的重要性並不僅限於研究和開發，還涉及部署、應用和促進便利化。在這方面最容易被衡量的領域正是數位上網和教育的質量與實用性。": {
     "ja": "実際に、OpenAIの創設者であるSam AltmanとElon Muskは、最初は公的資金の支援を求めていたが、何度も拒否されたため、最終的に資本利益志向の支援資金を求める方向に転向したと述べています。OpenAIは後に生成的事前トレーニングモデル（Generative pre-trained transformers; GPT）を提案し、これにより一般の人々もAIの潜在能力についてますます多くの想像を抱くようになりました [^18]。これは中国などの独裁政権とは大きく異なり、後者は公共の情報技術戦略を策定し、積極的に展開し、野心的に推進しています [^19]。公共部門は技術の重要性を研究開発に限定するのではなく、展開、応用、利便性の促進にも関与しています。この点で最も容易に評価できる領域は、デジタルネットワーキングと教育の品質と実用性です。",
@@ -6865,7 +6865,7 @@
   },
   "Digital infrastructure follows a similar pattern with open source and open data. It serves as a public foundation that is open to the global community, collaborating with tens of thousands of digital communities while offering open and secure Internet access and jointly defending against immediate digital threats.": {
     "ja": "デジタルインフラストラクチャは、オープンソースとオープンデータと同様のパターンに従います。それは、グローバルコミュニティに開かれた公共の基盤として機能し、数万のデジタルコミュニティと協力しながら、オープンで安全なインターネットアクセスを提供し、即座のデジタル脅威に共同で対処します。",
-    "latest": true
+    "latest": false
   },
   "Taiwan is one of the world’s primary DDoS hotspots, according to Cloudflare's report. Its government has adopted the IPFS framework discussed in the previous chapter for its websites, allowing it to interconnect with both private digital services and emerging open networks. This structure is not only more resistant to sudden DDoS attacks and is conducive to open collaboration and mutual support with global technology communities. This provides an illustration of making systems more robust against information manipulation.": {
     "ja": "台湾は、Cloudflareのレポートによれば、世界の主要なDDoSのホットスポットの一つです。台湾政府は、前の章で議論されたIPFSフレームワークをウェブサイトに採用しており、これにより、プライベートなデジタルサービスと新興のオープンネットワークとの相互接続が可能になっています。この構造は、突然のDDoS攻撃に対してより耐性があり、グローバルなテクノロジーコミュニティとのオープンな協力と相互支援にも適しています。これにより、情報操作に対してシステムをより堅牢にする方法が示されています。",
@@ -9009,7 +9009,7 @@
   },
   "In summary, the conversation today is rich with examples that touch upon the edges of post-symbolic communication. From the synchronization of physiological signals to the conveyance of chemosignals that can subtly influence human behavior and interactions, we are learning to appreciate and harness the power of our non-verbal communicative abilities.": {
     "ja": "要約すると、今日の会話は、ポストシンボリックコミュニケーションの端に触れる例に富んでいます。生理学的な信号の同期から、人間の行動や相互作用に微妙に影響を与えることができるケモシグナルの伝達まで、私たちは非言語的なコミュニケーション能力の力を理解し、活用することを学んでいます。",
-    "latest": true
+    "latest": false
   },
   "### Technology’s Role in Advancing Post-Symbolic Communication": {
     "ja": "テクノロジーの役割は、象徴的なコミュニケーションの進歩においてどのような役割を果たしているのでしょうか。",
@@ -9017,7 +9017,7 @@
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; In the realm of technology, especially within the domain of generative AI, we are witnessing an evolution parallel to the ideas of post-symbolic communication. Tools like DALL-E and other advanced AI platforms exemplify this progression. These technologies have empowered us to generate visual representations of our thoughts at a pace that closely mirrors the speed of our imagination. Now, we are not limited to just learning to draw and paint or using complex computer graphics software; we can instantly create images and visual scenarios that previously existed only in our minds. This immediate manifestation of thought into visual form is a significant leap toward post-symbolic communication. It bridges the gap between abstract concepts and tangible representations, allowing us to communicate ideas and emotions in a more direct and visceral manner. This capability extends beyond mere artistic expression; it has profound implications for how we share and understand each other's internal experiences and creative visions.": {
     "ja": "技術の領域において、特に生成型AIの領域では、象徴的なコミュニケーションのアイデアと並行して進化を目撃しています。DALL-Eや他の高度なAIプラットフォームのようなツールは、この進歩を具体化しています。これらの技術によって、私たちは思考の視覚的な表現を、想像力の速度に密接に追いつくペースで生成することができるようになりました。今や、絵を描いたり、複雑なコンピュータグラフィックスソフトウェアを使用したりすることに制約されることはありません。以前は私たちの頭の中にしか存在しなかったイメージや視覚的なシナリオを瞬時に作成することができます。思考を視覚的な形に直接具現化するこの能力は、象徴的なコミュニケーションへの重要な飛躍です。抽象的な概念と具体的な表現とのギャップを埋め、アイデアや感情をより直接的かつ官能的な方法で伝えることができるようになります。この能力は、単なる芸術的表現を超えており、私たちが互いの内的な経験や創造的なビジョンを共有し理解する方法に深い影響を与えています。",
-    "latest": true
+    "latest": false
   },
   "Further exploring the intersection of technology and post-symbolic communication, the concept of homuncular flexibility [[7]](#7) provides a fascinating perspective. This idea suggests that individuals can learn to control virtual bodies that differ significantly from their own physical form. By altering the relationship between tracked motion (input) and rendered motion (output), users can experience a form of communication that transcends the limitations of their physical bodies. This concept has been particularly insightful in understanding and simulating phenomena like phantom limbs, where individuals perceive and interact with limbs that are not physically present. Building on this concept, recent advancements in AI and animation, particularly the use of Large Language Models (LLMs) in real-time animation control, further expand the scope of homuncular flexibility. These technologies enable the interpretation of natural language inputs to generate dynamic and realistic animations in virtual environments [[8]](#8). By integrating LLMs, users can command and interact with their virtual avatars or environments more intuitively, using natural language to prompt complex animations. This synergy enhances the user's ability to express and experience various states and actions, making virtual interactions more lifelike and immersive.": {
     "ja": "技術とポストシンボリックコミュニケーションの交差点をさらに探求することで、ホムンクルスの柔軟性の概念は魅力的な視点を提供します[[7]](#7)。このアイデアは、個人が自分自身の身体的形態とは大きく異なる仮想的な体を制御することを学ぶことができるというものです。追跡された動き（入力）とレンダリングされた動き（出力）の関係を変えることにより、ユーザーは物理的な制約を超えた形式のコミュニケーションを体験することができます。この概念は、特に幻肢のような現象を理解しシミュレートする上で非常に有益です。幻肢とは、物理的に存在しない肢体を知覚し、それとやり取りする個人のことです。この概念を基に、AIとアニメーションの最近の進歩、特にリアルタイムアニメーション制御における大規模言語モデル（LLM）の使用は、ホムンクルスの柔軟性の範囲をさらに拡大しています。これらの技術により、自然言語の入力を解釈して仮想環境でダイナミックかつリアルなアニメーションを生成することが可能になります[[8]](#8)。LLMを統合することで、ユーザーは自然言語を使って複雑なアニメーションを促すことで、仮想のアバターや環境と直感的にコマンドや対話することができます。このシナジーにより、ユーザーはさまざまな状態やアクションを表現し体験する能力が向上し、仮想的な相互作用がより生き生きと没入感を持つものになります。",
@@ -9029,23 +9029,23 @@
   },
   "From the synchronization of heartbeats to the virtual expression of thoughts as images, we are steadily moving towards a reality where the boundaries of communication are expansive, allowing for deeper empathy, creativity, and shared understanding. Looking to the horizon, post-symbolic communication promises a bold future where our current conceptions of interaction may seem rudimentary by comparison. The potential for telepathic exchange through neural interfaces, the shared exploration of lucid dreams in controlled environments, and the direct transmission of emotional states are all within the realm of possibility. Researchers are not merely iterating on existing technologies but are paving the way for radical innovations that could redefine human connection.": {
     "ja": "心拍の同期から思考のイメージ化まで、コミュニケーションの境界が広がり、より深い共感、創造性、共有理解が可能な現実に向かって着実に進んでいます。未来を見据えると、象徴的なコミュニケーションを超えたポストシンボリックなコミュニケーションは、現在の相互作用の概念が比較にならないほど原始的に思える大胆な未来を約束しています。脳インターフェースを通じたテレパシー的な情報交換、制御された環境での明晰な夢の共有、感情状態の直接伝達など、すべてが可能な範囲内にあります。研究者たちは既存の技術を単に改良するだけでなく、人間のつながりを再定義する可能性のある革新的なイノベーションの道を切り拓いています。",
-    "latest": true
+    "latest": false
   },
   "The development of these technologies signals a future where the barriers between minds dissolve, allowing for a more intimate and immediate form of communion. As we learn to navigate these new spaces, we will likely uncover new forms of art, social interaction, and collective problem-solving, leveraging our shared humanity in ways previously unimaginable.": {
     "ja": "これらの技術の発展は、心の間の障壁が解消され、より親密で即座なコミュニオンの形が可能となる未来を示しています。これらの新しい空間を航海することを学ぶにつれて、おそらく新しい形の芸術、社会的な相互作用、集団的な問題解決が明らかになり、以前に想像もできなかった方法で共有の人間性を活用することができるでしょう。",
-    "latest": true
+    "latest": false
   },
   "### Limits of Post-Symbolic Communication": {
     "ja": "### ポストシンボリックコミュニケーションの限界",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; However, the journey into post-symbolic communication is not without its perils. The very tools that promise deeper connection could inadvertently lead to a loss of individuality, as the nuances that make each person unique become subsumed by a homogenized collective experience. This raises significant concerns about privacy, the nature of intimacy, and the future of personal identity.": {
     "ja": "ただし、ポストシンボリックコミュニケーションへの旅は危険を伴います。より深いつながりを約束するその道具自体が、個々の個性を形作る微妙な要素を同化させることで、個人の個性が失われる可能性があります。これにより、プライバシー、親密さの本質、個人のアイデンティティの将来について重大な懸念が生じます。",
-    "latest": true
+    "latest": false
   },
   "To navigate these challenges, we must look to the ethical frameworks and democratic principles discussed in earlier chapters. Incorporating these into the fabric of post-symbolic platforms can provide safeguards that ensure individuality is preserved even as we seek deeper unity. The principles that underpin pluralistic societies must be adapted and reinforced in these new realms to prevent the erosion of personal autonomy and to maintain the rich tapestry of diversity that characterizes human culture.": {
     "ja": "これらの課題に対処するためには、以前の章で議論された倫理的な枠組みと民主主義の原則に目を向ける必要があります。これらを象徴的な後のプラットフォームの構造に取り入れることで、より深い統一を求める一方で個性が保護されるような安全装置を提供することができます。多元主義の社会を支える原則は、これらの新たな領域に適応し強化される必要があります。これにより、個人の自律性の浸食を防ぎ、人間の文化を特徴づける多様性の豊かな織物を維持することができます。",
-    "latest": true
+    "latest": false
   },
   "<a id=\"1\">[1]</a> Lanier, Jaron. You are not a gadget: A manifesto. Vintage, 2011.": {
     "ja": "<a id=\"1\">[1]</a> ラニエ、ジャロン。あなたはガジェットではありません：マニフェスト。ヴィンテージ、2011年。",
@@ -9129,15 +9129,15 @@
   },
   "### Intimacy today": {
     "ja": "### 今日の親密さ",
-    "latest": true
+    "latest": false
   },
   "### Intimacy tomorrow": {
     "ja": "### 明日の親密さ",
-    "latest": true
+    "latest": false
   },
   "### Frontiers of telepathy ": {
     "ja": "### テレパシーのフロンティア",
-    "latest": true
+    "latest": false
   },
   "### Shared reality today": {
     "ja": "### 今日の共有現実",
@@ -9777,15 +9777,15 @@
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; The advent of post-symbolic communication marks the beginning of a new era in the exchange of ideas and emotions between individuals. This paradigm transcends the limitations of language and traditional symbols, which are often constrained by cultural boundaries and subjective interpretations. Post-symbolic communication leverages cutting-edge technologies, including neuro-interfaces, mediated reality, and advanced AI, to facilitate a more intuitive and direct form of human interaction.": {
     "ja": "ポストシンボリックコミュニケーションの出現は、個人間のアイデアや感情の交換における新たな時代の幕開けを告げています。このパラダイムは、しばしば文化的な境界や主観的な解釈によって制約される言語や伝統的なシンボルの限界を超えています。ポストシンボリックコミュニケーションは、神経インターフェース、仲介現実、高度なAIなどの最先端技術を活用して、より直感的で直接的な人間の相互作用を促進します。",
-    "latest": true
+    "latest": false
   },
   "In this chapter, we describe some of these technologies and explore the concept and frontiers of Post-Symbolic Communication, examining how it could revolutionize interpersonal connections, education, and collaboration. The discussion delves into the potential of technologies that enable the transmission of thoughts, feelings, and sensory experiences without the intermediation of spoken or written language. It considers the implications of such communication on society, individual identity, and our collective understanding of consciousness.": {
     "ja": "この章では、これらの技術のいくつかについて説明し、ポストシンボリックコミュニケーションの概念とフロンティアを探求します。これにより、人間関係、教育、協力の方法が革新される可能性があるかどうかを調べます。議論は、口頭や書面による言語を介さずに思考、感情、感覚体験を伝達することを可能にする技術の可能性について探求します。また、そのようなコミュニケーションが社会、個人のアイデンティティ、そして私たちの集合的な意識の理解に与える影響について考察します。",
-    "latest": true
+    "latest": false
   },
   "Moreover, this chapter also investigates how post-symbolic communication could influence the way we approach global challenges, such as cultural misunderstandings and conflicts, by fostering a more profound level of empathy and shared experience. It scrutinizes the ethical considerations of such profound connectivity, including privacy concerns and the preservation of individual thought autonomy. As we stand on the cusp of this communication revolution, we must prepare to embrace a future where ideas flow as seamlessly as emotions, where understanding is not hindered by the ambiguity of words, and where human experience can be shared as vividly as it is lived.": {
     "ja": "さらに、この章では、ポストシンボリックなコミュニケーションが、文化的な誤解や紛争などのグローバルな課題へのアプローチの仕方にどのように影響を与えるかを調査します。これにより、より深い共感と共有の経験が促進されます。また、個々の思考の自律性の保護やプライバシーの懸念など、このような深いつながりの倫理的な考慮も検討されます。このコミュニケーションの革命の瀬戸際に立つ私たちは、アイデアが感情と同様にシームレスに流れる未来を受け入れる準備をしなければなりません。言葉の曖昧さによって理解が妨げられることなく、人間の経験を鮮明に共有できる未来です。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Post-symbolic communication, a term coined by Jaron Lanier [^1], ventures beyond the realm of traditional language and symbols to explore the potential for direct and immersive shared experience. Lanier draws inspiration from the sophisticated non-verbal communication observed in animals like the octopus, which dynamically alter their form and color to convey complex messages. This mode of communication proposes an evolution from the abstract to the tangible, enabling humans, in a virtual space, to express themselves with the immediacy and vividity of thought.": {
     "ja": "ポストシンボリックコミュニケーションは、Jaron Lanierによって考案された用語であり、従来の言語やシンボルの領域を超えて、直接的で没入型の共有体験の可能性を探求します。 Lanierは、ダイナミックに形状や色を変化させて複雑なメッセージを伝えるタコのような動物で観察される洗練された非言語コミュニケーションからインスピレーションを得ています。 このコミュニケーションの形式は、抽象的なものから具体的なものへの進化を提案し、仮想空間で人間が思考の即時性と生き生きとした表現をすることを可能にします。",
@@ -9809,11 +9809,11 @@
   },
   "Such technological advances, when paired with our growing understanding of human perception and cognition, are paving the way for a future where communication encompasses a much broader range of human experiences and states. The combination of homuncular flexibility and neural interfaces in post-symbolic communication could lead to more inclusive and empathetic ways of interacting, enabling a form of communication that is not only post-symbolic but also deeply empathetic, as individuals share experiences and emotions in their most unfiltered form, where physical limitations are no longer barriers to deep, meaningful connections.": {
     "ja": "このような技術の進歩は、人間の知覚と認知の理解が進むにつれて、コミュニケーションがより広範な人間の経験や状態を包括する未来を切り拓いています。ホムンクルスの柔軟性と神経インターフェースの組み合わせによるポストシンボリックコミュニケーションは、より包括的で共感的な相互作用の方法をもたらす可能性があります。個人が経験や感情を最もフィルタリングされていない形で共有し、物理的な制約が深い意味のあるつながりの障壁ではなくなることで、ポストシンボリックでありながらも深い共感を持つコミュニケーションが可能になります。",
-    "latest": true
+    "latest": false
   },
   "[^1]: Lanier, Jaron. You are not a gadget: A manifesto. Vintage, 2011.": {
     "ja": "[^1]: ラニエ、ジャロン。あなたはガジェットではありません：マニフェスト。ヴィンテージ、2011年。",
-    "latest": false
+    "latest": true
   },
   "[^2]: Abrams DA, Ryali S, Chen T, Chordia P, Khouzam A, Levitin DJ, Menon V. Inter-subject synchronization of brain responses during natural music listening. Eur J Neurosci. 2013 May;37(9):1458-69. doi: 10.1111/ejn.12173. Epub 2013 Apr 11. PMID: 23578016; PMCID: PMC4487043.": {
     "ja": "[^2]: Abrams DA、Ryali S、Chen T、Chordia P、Khouzam A、Levitin DJ、Menon V. 自然音楽の聴取中における脳応答の被験者間同期。 Eur J Neurosci. 2013年5月; 37（9）：1458-69. doi：10.1111 / ejn.12173. 2013年4月11日にEpub。 PMID：23578016; PMCID：PMC4487043。",
@@ -10881,59 +10881,59 @@
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Post-symbolic communication, a term coined by Jaron Lanier [^LanierWork], ventures beyond the realm of traditional language and symbols to explore the potential for direct and immersive shared experience. Lanier draws inspiration from the sophisticated non-verbal communication observed in animals like the octopus, which dynamically alter their form and color to convey complex messages. This mode of communication proposes an evolution from the abstract to the tangible, enabling humans, in a virtual space, to express themselves with the immediacy and vividity of thought.": {
     "ja": "ポストシンボリックコミュニケーションは、Jaron Lanierによって考案された用語であり、従来の言語やシンボルの領域を超えて、直接的で没入型の共有体験の可能性を探求します。Lanierは、ダイナミックに形状や色を変化させて複雑なメッセージを伝えるタコのような動物で観察される洗練された非言語コミュニケーションからインスピレーションを得ています。このコミュニケーションの形式は、抽象的なものから具体的なものへの進化を提案し、仮想空間で人間が思考の即時性と生き生きとした表現をすることを可能にします。",
-    "latest": true
+    "latest": false
   },
   "In the current landscape, we see glimpses of this post-symbolic potential in various forms of human interaction. Dance and physical intimacy, for instance, communicate complex emotional states and narratives without uttering a single word. In music, there is evidence of shared brain activity among musicians and between performers and audiences. Some studies have used fMRI to observe synchronized responses in listeners' brains [^MusicBrainSyncStudy], while others have used EEG to track the brain activity of musicians in orchestras [^MusicianBrainOscillation], finding links between this coordination and musical enjoyment [^ViolinPerformanceStudy]. Another example is the unspoken mother-baby bond, particularly the synchronization of heartbeats between a mother and her unborn child, especially when the mother breathes rhythmically, suggesting an intrinsic communication pathway [^FetalMaternalHeartRate]. These instances – the coordination in music, the mother-child heartbeat connection, and the collective states reached during meditation or psychedelic experiences – all point towards a deep potential for communication that transcends verbal and written language.": {
     "ja": "現在の風景では、さまざまな形式の人間の相互作用において、この象徴的なポテンシャルの一端を垣間見ることができます。例えば、ダンスや身体的な親密さは、一言も発せずに複雑な感情状態や物語を伝えることがあります。音楽では、ミュージシャン同士や演奏者と観客の間で共有される脳活動の証拠があります。一部の研究では、fMRIを使用してリスナーの脳の同期した反応を観察しています[^MusicBrainSyncStudy]。また、他の研究では、オーケストラのミュージシャンの脳活動を追跡するためにEEGを使用し、この調整と音楽の楽しみとの関連性を見つけました[^MusicianBrainOscillation][^ViolinPerformanceStudy]。もう1つの例は、言葉によらない母子の絆であり、特に母親と未生児の心拍の同期です。特に、母親がリズミカルに呼吸するときには、固有のコミュニケーション経路を示唆しています[^FetalMaternalHeartRate]。これらの例-音楽の調整、母子の心拍のつながり、瞑想や幻覚体験中に達成される集合的な状態-は、言葉や書かれた言語を超えたコミュニケーションの深い可能性を示しています。",
-    "latest": true
+    "latest": false
   },
   "But perhaps one of the most pervasive and underrated senses in post-symbolic communication is the sense of smell. The role of chemosignals in human communication is an area ripe for exploration in the context of post-symbolic communication. Chemosignals, or chemical signals, are used extensively in the animal kingdom for communication and play a subtle yet significant role in human interactions as well. These biochemical messengers can convey emotional states and trigger responses in others, often unconsciously. For instance, research has shown that human sweat contains compounds that, when detected by others, can convey stress or fear, influencing the receiver's perception and behavior. This form of communication, deeply rooted in our biology, aligns with the principles of post-symbolic communication by bypassing traditional linguistic methods and directly affecting the receiver's emotional state and cognition across the consciousness continuum [^ChemosignalsCommunication].": {
     "ja": "しかし、ポストシンボリックコミュニケーションにおいて、最も普及していて過小評価されている感覚の一つは嗅覚です。化学信号の役割は、ポストシンボリックコミュニケーションの文脈で探求されるべき領域です。化学信号は、動物界で広範に使用され、人間の相互作用においても微妙でありながら重要な役割を果たしています。これらの生化学的なメッセンジャーは、感情状態を伝え、他者の反応を引き起こすことができます。たとえば、研究によれば、人間の汗には、他者に検知されるとストレスや恐怖を伝える化合物が含まれており、これが受信者の認識や行動に影響を与えることが示されています。この形式のコミュニケーションは、私たちの生物学に深く根ざしており、伝統的な言語的手法を迂回し、受信者の感情状態と認知を直接的に影響させることによって、ポストシンボリックコミュニケーションの原則と一致しています。[^ChemosignalsCommunication]",
-    "latest": true
+    "latest": false
   },
   "Further exploring the intersection of technology and post-symbolic communication, the concept of homuncular flexibility [^HomuncularFlexibilityVR] provides a fascinating perspective. This idea suggests that individuals can learn to control virtual bodies that differ significantly from their own physical form. By altering the relationship between tracked motion (input) and rendered motion (output), users can experience a form of communication that transcends the limitations of their physical bodies. This concept has been particularly insightful in understanding and simulating phenomena like phantom limbs, where individuals perceive and interact with limbs that are not physically present. Building on this concept, recent advancements in AI and animation, particularly the use of Large Language Models (LLMs) in real-time animation control, further expand the scope of homuncular flexibility. These technologies enable the interpretation of natural language inputs to generate dynamic and realistic animations in virtual environments [^RealTimeAnimationControl]. By integrating LLMs, users can command and interact with their virtual avatars or environments more intuitively, using natural language to prompt complex animations. This synergy enhances the user's ability to express and experience various states and actions, making virtual interactions more lifelike and immersive.": {
     "ja": "技術とポストシンボリックコミュニケーションの交差点をさらに探求することで、ホムンクルスの柔軟性[^HomuncularFlexibilityVR]の概念は魅力的な視点を提供します。このアイデアは、個人が自身の身体的形態とは大きく異なる仮想的な体を制御することを学ぶことができるというものです。トラッキングされた動き（入力）とレンダリングされた動き（出力）の関係を変えることにより、ユーザーは物理的な制約を超えた形式のコミュニケーションを体験することができます。この概念は、特に幻肢のような現象を理解しシミュレートする上で非常に有益です。幻肢では、個人は物理的に存在しない肢体を知覚し、それと対話することができます。この概念を発展させることで、AIとアニメーションの最近の進歩、特にリアルタイムアニメーション制御における大規模言語モデル（LLM）の使用は、ホムンクルスの柔軟性の範囲をさらに拡大させます。これらの技術により、自然言語の入力を解釈して仮想環境でダイナミックかつリアルなアニメーションを生成することが可能になります[^RealTimeAnimationControl]。LLMを統合することで、ユーザーは自然言語を使って複雑なアニメーションを促すことで、仮想のアバターや環境と直感的にコマンドや対話することができます。このシナジーにより、ユーザーはさまざまな状態やアクションを表現し体験する能力が向上し、仮想的な相互作用がより生き生きと没入感を持つものとなります。",
-    "latest": true
+    "latest": false
   },
   "Moreover, the integration of neural interfaces into the realm of post-symbolic communication presents an exciting frontier. Neural interfaces, devices that connect directly to the brain, are becoming increasingly sophisticated and will offer a direct pathway for communicating complex thoughts and emotions. These technologies can capture neural activity related to specific thoughts or states and translate them into digital or physical outputs, allowing for an unprecedented level of interaction. Researchers have already shown how brain implants can connect the intentions of a paralyzed patient into physical movements [^BrainSpineInterfaceStudy], demonstrating the remarkable potential of neural interfaces to bridge the gap between thought and action. This capability illustrates a significant stride toward realizing post-symbolic communication, where the transmission of ideas and emotions can occur directly and seamlessly.": {
     "ja": "さらに、神経インターフェースの統合は、ポストシンボリックコミュニケーションの領域において刺激的なフロンティアを提供します。神経インターフェースは、直接脳に接続するデバイスであり、ますます洗練されており、複雑な思考や感情を伝えるための直接的な経路を提供します。これらの技術は、特定の思考や状態に関連する神経活動を捉え、それらをデジタルまたは物理的な出力に変換することができます。これにより、前例のないレベルの相互作用が可能となります。研究者たちはすでに、脳インプラントが麻痺患者の意図を物理的な動きにつなげることができることを示しており[^BrainSpineInterfaceStudy]、神経インターフェースの驚異的な潜在能力が思考と行動の間のギャップを埋めることができることを示しています。この能力は、アイデアや感情の伝達が直接かつシームレスに行われるポストシンボリックコミュニケーションの実現に向けた重要な進歩を示しています。",
-    "latest": true
+    "latest": false
   },
   "[^LanierWork]: Lanier, Jaron. You are not a gadget: A manifesto. Vintage, 2011.": {
     "ja": "[^LanierWork]: ラニエ, ジャロン. You are not a gadget: A manifesto. ヴィンテージ, 2011.",
-    "latest": true
+    "latest": false
   },
   "[^MusicBrainSyncStudy]: Abrams DA, Ryali S, Chen T, Chordia P, Khouzam A, Levitin DJ, Menon V. Inter-subject synchronization of brain responses during natural music listening. Eur J Neurosci. 2013 May;37(9):1458-69. doi: 10.1111/ejn.12173. Epub 2013 Apr 11. PMID: 23578016; PMCID: PMC4487043.": {
     "ja": "[^MusicBrainSyncStudy]: Abrams DA、Ryali S、Chen T、Chordia P、Khouzam A、Levitin DJ、Menon V. Inter-subject synchronization of brain responses during natural music listening. Eur J Neurosci. 2013 May;37(9):1458-69. doi: 10.1111/ejn.12173. Epub 2013 Apr 11. PMID: 23578016; PMCID: PMC4487043.",
-    "latest": true
+    "latest": false
   },
   "[^MusicianBrainOscillation]: Babiloni, Claudio, et al. \"Brains “in concert”: frontal oscillatory alpha rhythms and empathy in professional musicians.\" Neuroimage 60.1 (2012): 105-116.": {
     "ja": "[^MusicianBrainOscillation]: Babiloni, Claudio, et al. \"Brains \"in concert\": frontal oscillatory alpha rhythms and empathy in professional musicians.\" Neuroimage 60.1 (2012): 105-116.",
-    "latest": true
+    "latest": false
   },
   "[^ViolinPerformanceStudy]: Hou, Yingying, et al. \"The averaged inter-brain coherence between the audience and a violinist predicts the popularity of violin performance.\" Neuroimage 211 (2020): 116655.": {
     "ja": "[^ViolinPerformanceStudy]: Hou, Yingyingら。\"観客とバイオリニストの間の平均相互脳の一貫性は、バイオリン演奏の人気を予測する。\" Neuroimage 211 (2020): 116655。",
-    "latest": true
+    "latest": false
   },
   "[^FetalMaternalHeartRate]: Van Leeuwen, P., Geue, D., Thiel, M., Cysarz, D., Lange, S., Romano , M. C., Wessel, N., Kurths, J., & Groenemeyer, D. H. (2009). Influence of paced maternal breathing on fetal–maternal heart rate coordination. PNAS, 106(33), 13661-13666. https://doi.org/10.1073/pnas.0901049106": {
     "ja": "[^FetalMaternalHeartRate]: Van Leeuwen, P., Geue, D., Thiel, M., Cysarz, D., Lange, S., Romano , M. C., Wessel, N., Kurths, J., & Groenemeyer, D. H. (2009). 胎児-母体心拍数の調整における母体の呼吸の影響. PNAS, 106(33), 13661-13666. https://doi.org/10.1073/pnas.0901049106",
-    "latest": true
+    "latest": false
   },
   "[^ChemosignalsCommunication]: Fernandez, Judith Amores. Olfactory interfaces: toward implicit human-computer interaction across the consciousness continuum. Diss. Massachusetts Institute of Technology, School of Architecture and Planning, Program in Media Arts and Sciences, 2020.": {
     "ja": "[^ChemosignalsCommunication]: フェルナンデス、ジュディス・アモレス。化学信号通信：意識の連続を超えた暗黙の人間-コンピュータインタラクションへの嗅覚インターフェース。マサチューセッツ工科大学、建築と計画学部、メディア芸術科学プログラム、2020年の博士論文。",
-    "latest": true
+    "latest": false
   },
   "[^HomuncularFlexibilityVR]: Andrea Stevenson Won, Jeremy Bailenson, Jimmy Lee, Jaron Lanier, Homuncular Flexibility in Virtual Reality, Journal of Computer-Mediated Communication, Volume 20, Issue 3, 1 May 2015, Pages 241–259, https://doi.org/10.1111/jcc4.12107": {
     "ja": "[^HomuncularFlexibilityVR]: アンドレア・スティーブンソン・ウォン、ジェレミー・ベイレンソン、ジミー・リー、ジャロン・レニア、バーチャルリアリティにおけるホムンクルスの柔軟性、コンピューター媒介コミュニケーション学会誌、第20巻、第3号、2015年5月1日、241-259ページ、https://doi.org/10.1111/jcc4.12107",
-    "latest": true
+    "latest": false
   },
   "[^RealTimeAnimationControl]: Huang, Han, et al. \"Real-time Animation Generation and Control on Rigged Models via Large Language Models.\" NeurIPS Workshop on ML for Creativity and Design (2023)": {
     "ja": "[^RealTimeAnimationControl]: 黄、韓、他。「大規模言語モデルを用いたリグモデルにおけるリアルタイムアニメーション生成と制御」。NeurIPS Workshop on ML for Creativity and Design (2023)。",
-    "latest": true
+    "latest": false
   },
   "[^BrainSpineInterfaceStudy]: Lorach, H., Galvez, A., Spagnolo, V. et al. Walking naturally after spinal cord injury using a brain–spine interface. Nature 618, 126–133 (2023). https://doi.org/10.1038/s41586-023-06094-5": {
     "ja": "[^BrainSpineInterfaceStudy]: Lorach, H., Galvez, A., Spagnolo, V. et al. 脊髄損傷後に脳脊髄インターフェースを使用して自然な歩行. Nature 618, 126–133 (2023). https://doi.org/10.1038/s41586-023-06094-5",
-    "latest": true
+    "latest": false
   },
   "# Immersive Shared Reality": {
     "ja": "# イマーシブ共有現実",
@@ -11365,6 +11365,182 @@
   },
   "上文「熟議」一章提出了一個自然的策略。社交媒體演算法，可以根據平臺內部的行為模式（如觀看、喜歡、回應、傳播、自願加入）以及外部數據，例如社會科學或群體明確的自我認同（詳見下文），來建立「社群」。對於每個這樣的社群，演算法可以突出顯示該群體跨越內部分歧的「共同內容」（公認的事實和價值觀），以及社區內部的重要分歧點。然後，演算法可以在這種社會脈絡下，向社群裡的公民表明哪些內容是其所在社群的大致共識、哪些內容是分裂性的，並為公民提供機會，探索所屬社群內的每條鴻溝另一側的共識內容。": {
     "ja": "上記の文章は、「熟議」の章で提案された自然な戦略を示しています。ソーシャルメディアのアルゴリズムは、プラットフォーム内の行動パターン（視聴、いいね、コメント、共有、自発的な参加など）や社会科学や明確な自己同一性（後述）などの外部データに基づいて、「コミュニティ」を構築することができます。このようなコミュニティごとに、アルゴリズムは内部の異なりを超えた「共通のコンテンツ」（公認の事実や価値観）やコミュニティ内の重要な異なりを強調することができます。そして、この社会的な文脈の中で、アルゴリズムはコミュニティのメンバーに、そのコミュニティの大まかな合意と分裂的なコンテンツを示し、メンバーにはコミュニティ内のギャップの反対側にある合意のあるコンテンツを探索する機会を提供することができます。",
+    "latest": true
+  },
+  "* Comprehensiveness and redundancy: Furthermore, jointly, these data cover almost everything meaningful there is to know about a person: the great majority of what we are is determined by various interactions and experiences shared with others.  For almost anything we might want to prove to a stranger, there are some combination of people and institutions (typically many) who can \"vouch\" for this information without any dedicated strategy of surveillance. For example, a person wanting to prove that they are above a particularly age could call on friends who have known them for a long time, the school they attended, doctors who verified their age at various times as well, of course, on governments who verified their age. Such plural attribute verification systems are actually fairly common: when applying for some forms of government identification many jurisdictions allow a variety of attribute proofing methods for addresses including bank statements, utility bills, leases etc.": {
+    "ja": "*包括性と冗長性：さらに、これらのデータは共同で、人について知りたいことのほとんどすべてをカバーしています。私たちが持っているものの大部分は、他の人々とのさまざまな相互作用や経験によって決定されます。見知らぬ人に証明したいことはほとんど何でも、いくつかの人々や機関（通常は多数）がこの情報を「保証」することができます。たとえば、特定の年齢以上であることを証明したい人は、長い間彼らを知っている友人、彼らが通った学校、さまざまな時期に彼らの年齢を確認した医師、もちろん、彼らの年齢を確認した政府などに頼むことができます。このような多元属性の検証システムは実際にはかなり一般的です。政府の身分証明書の申請時には、多くの管轄区域で銀行の明細書、公共料金の請求書、賃貸契約など、さまざまな属性の証明方法が許可されています。",
+    "latest": true
+  },
+  "* Privacy:  Perhaps even more interestingly, all of these \"issuers\" of attributes know this information from interactions that most of us feel consistent with \"privacy\": we don't get concerned about the co-knowledge of these social facts in the way we would surveillance by a corporation or government.": {
+    "ja": "* プライバシー：興味深いことに、これらの属性の「発行者」は、ほとんどの人々が「プライバシー」と一致すると感じる相互作用からこの情報を知っています：私たちは、企業や政府による監視のように、これらの社会的事実の共同知識について心配しません。",
+    "latest": true
+  },
+  "* Progressive authentication: While standard verification by a single factor allows the user to gain confidence in the attested fact/attribute equal to their confidence in the verifying party/system, such plural systems allow a wide range of confidence to be achieved by drawing on more and more trusted issuers of attributes.  This allows adaptation to a variety of use cases based on the security they require.": {
+    "ja": "* プログレッシブ認証：単一の要素による標準的な検証では、ユーザーは検証するパーティ/システムへの信頼と同等の信頼を持つ事実/属性を確認することができますが、このような多元的なシステムでは、より信頼できる属性の発行者を利用することで、さまざまな信頼度を達成することができます。これにより、必要なセキュリティに基づいてさまざまなユースケースに適応することができます。",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Furthermore, the decentralized and distributed strategies can be combined to greatly amplify each other.  To take a simple example, consider our suggestion above that there might be 100,000 issuers of attributes.  In a world of 10 billion, each would have to be managing relationships with 100,000 participants, on average.  If they were also able to manage a similar number of relationships with other issuers, every issuer would have a direct relationship with every other issuer.  Two degrees of separation could do far more, allowing millions of issuing organizations to thrive under the same logic that can leverage the attributes from other issuers to do verification.    Thus a mixture of transitive trust and polycentrism can quite easily allow, even without any of the magic of GFMs we discuss below, a highly plural and diverse, and thus both functional and private, identity landscape.  ": {
+    "ja": "さらに、分散化と分散戦略は互いを大幅に増幅させるために組み合わせることができます。単純な例を挙げると、属性の発行者が10万人いるかもしれないという私たちの提案を考えてみましょう。100億人の世界では、平均して各発行者は10万人の参加者との関係を管理する必要があります。もし彼らが他の発行者とも同様の数の関係を管理できるなら、すべての発行者は他のすべての発行者と直接の関係を持つことになります。2つの分離度ははるかに多くのことを成し遂げることができ、他の発行者から属性を活用して検証を行うことができる同じ論理の下で、何百万もの発行組織が繁栄することができます。したがって、推移的な信頼と多中心主義の組み合わせは、GFMsの魔法なしでも、高度に多元的で多様な、そして機能的かつプライベートなアイデンティティの景観を容易に実現することができます。",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; One of the first and the most attention-grabbing of these was the emergence of Bitcoin in 2008 and later a range of other \"cryptocurrencies\" in the 2010s.  These systems used DLTs, like those we discussed in the last chapter, paired with internally generated financial structures to create a validated substrate for tracking transactions.  First, instead of an identity system based on accounting for human participants, they used protocols to prove control over some resource (such as \"proof of work\" protocols based on solving a puzzle that requires access to powerful computers) to protect against predatory participants.  This created an effectively financial screen for participation.  On the other hand, they rewarded \"honest\" participants (those whose recording of transactions match others') with \"coins\" created by including transactions to their own account.  The ledger was otherwise openly available to any participant, creating a global, purely financial ledger with pseudonymous accounts that allowed individual people to potentially have many different identitifiers.": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;これらの中で最初で最も注目されたものの1つは、2008年にビットコインの出現、そして2010年代における他のさまざまな「暗号通貨」の登場でした。これらのシステムは、前の章で議論したようなDLT（分散型台帳技術）を使用し、内部で生成された金融構造と組み合わせて、トランザクションの追跡のための検証された基盤を作成しました。まず、人間の参加者の会計に基づく身元システムの代わりに、プロトコルを使用してあるリソース（例えば、強力なコンピュータへのアクセスが必要なパズルを解く「作業の証明」プロトコルなど）を制御することを証明し、捕食的な参加者に対して保護しました。これにより、参加のための効果的な金融スクリーンが作成されました。一方、他の人と一致するトランザクションの記録を行った「正直な」参加者は、自分のアカウントにトランザクションを含めることで作成された「コイン」で報酬を受けました。台帳は他の参加者に完全に公開されており、個々の人々が潜在的に多くの異なる識別子を持つことができる、疑似匿名のアカウントを持つ、グローバルで純粋に金融的な台帳を作成しました。",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Seeking to bring these services at lower cost and more inclusively especially in markets incompletely served by these US and PRC-based services, several major developing-world governments have created publicly supported instant payment services, including Singapore's FAST system in 2014, Brazil's Pix system in 2020 and India's Unified Payments Interface in 2016. Even the United States has followed with FedNow in 2023.  While there are still significant impediments to international inter-operation, there is an increasing consensus that the immediate gap in making instant payments online and in person through digital channels has been met.  This may provide at least a partial explanation for the collapse of valuations in the space as many of these systems came into their own.": {
+    "ja": "これらのサービスをより低コストで、特にこれらの米国と中国のサービスが不完全に提供されている市場で包括的に提供することを目指して、いくつかの主要な途上国政府は公的に支援された即時支払いサービスを作成しました。2014年にシンガポールのFASTシステム、2020年にブラジルのPixシステム、2016年にインドの統一支払いインターフェースなどがあります。2023年にはアメリカもFedNowを導入しました。国際間の相互運用にはまだ重要な障壁がありますが、オンラインおよびデジタルチャネルを介した直接の支払いの即時化のギャップは埋まりつつあるという意見の一致が増しています。これにより、これらのシステムが独自のものになるにつれて、この領域の評価が崩壊した少なくとも部分的な説明が提供されるかもしれません。",
+    "latest": true
+  },
+  "Digital infrastructure follows a similar pattern with open standards (protocols) open source code and open data. It serves as a public foundation that is open to the global community, collaborating with tens of thousands of digital communities while offering open and secure Internet access and jointly defending against immediate digital threats.": {
+    "ja": "デジタルインフラストラクチャは、オープンな標準（プロトコル）、オープンソースコード、オープンデータと同様のパターンに従います。それは、グローバルコミュニティに開かれた公共の基盤として機能し、数万のデジタルコミュニティと協力しながら、オープンで安全なインターネットアクセスを提供し、即座のデジタル脅威に共同で対処します。",
+    "latest": true
+  },
+  "On a beautiful island of innovation overlooking Tokyo, nestled within the National Museum of Emerging Science and Innovation (the Miraikan) lies the Park of Aging, a realm where time bends into the distant future of both civilization and our lives, offering a rare portal to your body after years worn by aging. Video games blur vision, mimicking cataracts. Sounds are stripped of high pitches. In a photo booth that mirrors the complexities of aged perception, facial expressions fade and blur. The simple act of recalling a shopping list committed to memory  becomes an odyssey, ceaselessly interrupted in a bustling market. Walking in place on pedals with ankle weights, pedals, and leaning on cart simulates the wear of time on the body, and degradation of posture. The Park of Aging is not just an exhibit but an immersive conversation across time, a dialogue with your older self through senses—sight, sound, and the aches and pains of age. This journey of empathy extends beyond the future self, to also foster a deeper connection with a present overlooked cohort: the elderly.": {
+    "ja": "東京を見下ろす革新の美しい島にある、新興科学技術館（Miraikan）内に位置する老化の公園には、文明と私たちの生活の遠い未来に時間が曲がる領域があります。老化によって摩耗した数年後のあなたの体への珍しいポータルを提供し、ビデオゲームは視力をぼやかし、白内障を模倣します。音は高音を剥奪されます。老化した知覚の複雑さを反映するフォトブースでは、表情が薄れてぼやけます。記憶に頼っている買い物リストを思い出すという単純な行為は、賑やかな市場で絶え間なく中断される冒険になります。足首の重り、ペダル、カートに寄りかかって歩くことで、体に時間の摩耗と姿勢の劣化をシミュレートします。老化の公園は単なる展示物ではなく、時間を超えた没入型の対話であり、感覚（視覚、音、年齢の痛み）を通じて自分自身の年上の自己との対話です。この共感の旅は、将来の自己だけでなく、見過ごされがちな現在の同世代である高齢者とのより深いつながりを育むためにも広がります。",
+    "latest": true
+  },
+  "The Park of Aging is a poignant example of proprioceptive, post-symbolic communication, where participants receive information through an intimate, sensorial experience beyond merely interpreting words and symbols, utilizing all sensemaking of the body; the Park not only immerse participants in the sensations of being old, but part of being old is also a degradation in the ability to see and hear words and symbols. While the Park of Aging was a novel, temporal conversation with aging, experiences of proprioceptive, non-symbolic communication include mediation, psychedelics, religious experience, romantic intimacy, dance, yoga, combat, and sports. Not coincidentally, these experiences—harnessing information gathered from many senses (“higher-bandwidth communication”)—also are correlated with long-lasting human bonding and connection when shared. Perhaps it is the diversity of information simultaneously presented to the senses (depth) that contribute to the significance of the experience and therefore strength of connection and “union.”": {
+    "ja": "高齢者の公園は、プロプリオセプティブなポストシンボリックなコミュニケーションの感動的な例であり、参加者は単に言葉やシンボルを解釈するだけでなく、体の感覚的な経験を通じて情報を受け取ります。この公園は参加者を老いの感覚に没入させるだけでなく、老いることは言葉やシンボルを見たり聞いたりする能力の低下でもあります。高齢者の公園は、老いに関する新しい一時的な対話でしたが、プロプリオセプティブな非シンボリックなコミュニケーションの経験には、仲介、サイケデリック、宗教的な経験、ロマンチックな親密さ、ダンス、ヨガ、戦闘、スポーツなどが含まれます。偶然ではありませんが、これらの経験は多くの感覚から収集された情報（「高帯域幅のコミュニケーション」）とも相関しており、共有された場合には長続きする人間の絆とつながりと関連しています。おそらく、感覚に同時に提示される情報の多様性（深さ）が経験の重要性とそれによるつながりと「結合」の強さに寄与しているのでしょう。",
+    "latest": true
+  },
+  "Technological innovations such as neural-interfaces, mediated reality, and generative AI expands the possibility space of post-symbolic communication, where unions within oneself and among people can occur not simply in person, but across temporal, physical, and social distance facilitated by technology. In this chapter, we describe these technologies and explore the frontiers, examining how these technologies could revolutionize interpersonal connections, education, and collaboration, enabling the transmission of thoughts, feelings, and sensory experiences beyond the compression of spoken or written language. We consider the opportunities to rectify cultural misunderstandings and conflicts, by fostering profound empathy and shared experience. Yet, where ideas flow as seamlessly as emotions, we also explore  the risks of connectivity, including surveillance, homogenization,  disconnection and oblivion.": {
+    "ja": "技術革新（例：神経インターフェース、仲介現実、生成AI）により、ポストシンボリックコミュニケーションの可能性空間が拡大しました。これにより、人々の間だけでなく、時間的、物理的、社会的な距離を超えて、自己内部や人々の間での結合が技術によって容易に行われるようになりました。この章では、これらの技術を説明し、そのフロンティアを探求します。これらの技術が人間関係、教育、協力を革新し、話された言語や書かれた言語の圧縮を超えた思考、感情、感覚体験の伝達を可能にする方法を検討します。文化的な誤解や紛争を修正する機会を考え、深い共感と共有体験を育むことによって。しかし、感情と同様にアイデアが自由に流れる場合、監視、均質化、切断、忘却といった接続性のリスクについても探求します。",
+    "latest": true
+  },
+  "**TODAY**": {
+    "ja": "**今日**",
+    "latest": true
+  },
+  "Post-symbolic communication, a term coined by Jaron Lanier [^1], ventures beyond the realm of language and symbols to explore the potential for direct and immersive shared experience harnessing all senses. Our first experience of non-verbal communication is in the natal womb;  the synchronization of heartbeats between a mother and her unborn child, especially when the mother breathes rhythmically, suggests an intrinsic communication pathway [^2]. As we develop, humans convey information nonverbally through body language, facial expression, tone, touch, laughter, crying, and even smell. Biochemical messengers can convey emotional states and trigger responses in others, often unconsciously. For instance, research has shown that human sweat contains compounds that, when detected by others, can convey stress or fear, influencing the receiver's perception and behavior. [^3]. We also see glimpses of this post-symbolic potential in shared, intensive experiences among humans: ": {
+    "ja": "Jaron Lanierによって作られた用語であるポストシンボリックコミュニケーションは、言語やシンボルの領域を超えて、すべての感覚を活用した直接的で没入型の共有体験の可能性を探求します。非言語コミュニケーションの最初の経験は、母親と未生児の間の心拍の同期です。特に母親がリズミカルに呼吸すると、固有のコミュニケーション経路を示唆します。私たちは成長するにつれて、身体言語、表情、トーン、触れること、笑い、泣き声、さらには匂いなど、非言語的に情報を伝えます。生化学的なメッセンジャーは感情の状態を伝え、他の人々に反応を引き起こすことがありますが、これはしばしば無意識のうちに行われます。たとえば、研究によれば、人間の汗には他の人に検出されるとストレスや恐怖を伝える化合物が含まれており、これが受信者の認識や行動に影響を与えることが示されています。また、人間同士の共有的で集中的な経験でも、このポストシンボリックの可能性の一端を見ることができます。",
+    "latest": true
+  },
+  "  **Dance:** Stepping deeper into music, two participants synchronizing their movements both feel their body and anticipating their partner’s movements and create a deeper shared experience.": {
+    "ja": "**ダンス：** 音楽に深く入り込み、2人の参加者が動きを同期させ、お互いの動きを予測しながら、より深い共有体験を創り出します。",
+    "latest": true
+  },
+  "  **Combat:** on the battlefield, soldiers experience heightened senses, adrenaline, and a battery of sounds, leading to an intense awareness of their surroundings and their comrades. Non-verbal cues become critical for survival and strategy. This shared high-stress environment creates a bond and deep understanding and trust develop among combatants.": {
+    "ja": "**戦闘:** 戦場では、兵士たちは感覚が研ぎ澄まされ、アドレナリンが出て、さまざまな音が鳴り響き、周囲と仲間に対する強烈な意識が生まれます。非言語的な合図が生存と戦略において重要となります。この共有された高ストレスの環境は、戦闘員の間で絆を生み、深い理解と信頼が築かれます。",
+    "latest": true
+  },
+  "  **Sports**: in team sports, players develop a keen sense of each other's presence and movements.  Teammates often anticipate each other's actions and work as a cohesive unit, relying on signals communicated through sound, movement and hand gestures. This synchrony is somewhere between dance and combat, also fueled by the shared goal of winning.": {
+    "ja": "**スポーツ**：チームスポーツでは、選手たちはお互いの存在と動きの鋭い感覚を養います。チームメイトはしばしばお互いの行動を予測し、音声、動き、手のジェスチャーを通じて伝えられる信号に頼って、一体となって働きます。この同期はダンスと戦闘の中間に位置し、勝利という共有の目標にも燃料を注ぎます。",
+    "latest": true
+  },
+  "  **Romantic Intimacy:** through touch, eye contact, and emotional vulnerability, partners create a unique, shared experience. This ": {
+    "ja": "**ロマンチックな親密さ:** タッチ、目の接触、感情的な脆弱性を通じて、パートナーはユニークで共有された経験を作り出します。これは",
+    "latest": true
+  },
+  "  connection is built on mutual trust and understanding, often going beyond words to a deeper form of non-verbal communication.": {
+    "ja": "相互の信頼と理解に基づいて構築される関係は、しばしば言葉を超えたより深い形の非言語コミュニケーションにまで及ぶ。",
+    "latest": true
+  },
+  "  **Religious Experience:** in mystical practices like Sufism, participants collectively engage in rituals like whirling and chanting. These shared spiritual practices engage the senses in the same way, and create a sense of unity and connection with something greater than oneself, yet nonetheless foster a religious community.": {
+    "ja": "**宗教的な経験：**スーフィズムのような神秘的な実践では、参加者は回転や詠唱のような儀式に共同で参加します。これらの共有された霊的な実践は、感覚を同じように刺激し、自己よりも大きな何かとの結びつきと統一感を生み出しますが、それにもかかわらず宗教的な共同体を育みます。",
+    "latest": true
+  },
+  "  **Yoga**: in a yoga class, practitioners move together through sequences of poses, guided by the rhythm of their breath. Despite the individual nature of the practice, there is a collective harmony in the movements and the shared goal of health and peace, as well as a heightening nervous system through stretches and poses. This shared physical and meditative experience fosters a sense of communal energy and focus. ": {
+    "ja": "**ヨガ**：ヨガのクラスでは、練習者はポーズのシーケンスを共に移動し、呼吸のリズムに導かれます。練習の個別性にもかかわらず、動きや健康と平和への共有の目標には集団的な調和があり、ストレッチやポーズを通じて神経系が高まります。この共有の身体的な瞑想的な経験は、共同体のエネルギーと集中力を育むものです。",
+    "latest": true
+  },
+  "Each of these contexts illustrates how shared experiences, beyond the scope of verbal communication, can create deep bonds and understanding between participants through intensive, shared sensorial inputs. Yet, communication can also happen within oneself, as a form of introspection, yielding some of the most profound and transformative experiences. ": {
+    "ja": "これらの文脈は、言葉によるコミュニケーションの範囲を超えた共有体験が、集中的で共有された感覚的な入力を通じて参加者間の深い絆と理解を生み出す方法を示しています。しかし、コミュニケーションはまた、内省の形として自己内部で起こることもあり、最も深遠で変革的な経験の一部をもたらすことがあります。",
+    "latest": true
+  },
+  "**Meditation**: a practice of inward focus and mindfulness, meditation has a diverse set of practices across a range of traditions. One common practice is to observe one's own thoughts and feelings without judgment, fostering a greater recognition and understanding of one’s own mental and emotional states, offering  an opportunity to bridge and reconcile internal differences and contradictions. ": {
+    "ja": "**瞑想**：内向的な焦点とマインドフルネスの実践であり、瞑想はさまざまな伝統にわたる実践の多様なセットを持っています。一つの一般的な実践は、自分自身の思考や感情を判断せずに観察することであり、自分自身の心理的および感情的な状態をより認識し理解する機会を提供し、内部の違いや矛盾を結びつけ、調和させる機会を提供します。",
+    "latest": true
+  },
+  "**Psychedelics**: The use of psychedelics can lead to profound internal experiences and altered states of consciousness that disrupt usual patterns of thought and perception, opening alternative narratives to sensemake. Users often report experiencing deep introspective insights, a sense of oneness with the universe, or confronting deep-seated emotions and memories. ": {
+    "ja": "**サイケデリック**: サイケデリックの使用は、深い内的経験や意識の変容をもたらし、通常の思考や知覚のパターンを破壊し、代替の物語を感じ取ることができます。ユーザーはしばしば、深い内省的な洞察、宇宙との一体感、または深層の感情や記憶に直面すると報告しています。",
+    "latest": true
+  },
+  "**Prayer**: Similarly, through prayer, contemplation, or participation in religious rituals, individuals open communication channels to something other than themselves. Whether through a feeling of divine presence or an internal sense of clarity and peace, these experiences can be deeply impactful and transformative, and foster a greater connection to themselves and their place in the universe. ": {
+    "ja": "**祈り**：同様に、祈り、瞑想、または宗教的な儀式への参加を通じて、個人は自分自身以外の何かとのコミュニケーションチャネルを開くことができます。神聖な存在を感じることや内なる明確さと平和感を通じて、これらの経験は深く影響力があり、変容をもたらし、自分自身と宇宙の中での自分の位置とのより大きなつながりを育むことができます。",
+    "latest": true
+  },
+  "Communication today is rich with examples that touch upon the edges of post-symbolic communication. From physiological signals to the conveyance of chemosignals we are just beginning to learn the non-verbal, information-dense modes that can synchronize human experience  and form the deepest human bonds between oneself and other humans, groups, and the universe broadly. ": {
+    "ja": "今日のコミュニケーションは、ポストシンボリックなコミュニケーションの端に触れる例で豊かです。生理学的な信号からケモシグナルの伝達まで、非言語の情報密度の高いモードを学び始め、人間の経験を同期させ、自己と他の人間、グループ、そして広く宇宙との最も深い絆を形成することができます。",
+    "latest": true
+  },
+  "**TOMORROW**": {
+    "ja": "**明日**",
+    "latest": true
+  },
+  "Today are on a cusp o f cambrian explosion of technologies that can advance post-symbolic communication to unlock immersive, shared experiences that enable participants to communicate physiological and even psychological phenomenological states of being. The Park of Aging is an example of an early experiment, but we can expect deeper, immersive wholly sensorial experiences with novel integrations of technology that combine in supermodular ways to generate even richer, shared experiences, enabling us to communicate ideas and emotions in a more direct and visceral manner. A number of technologies include: ": {
+    "ja": "今日は、多元主義を推進する技術のカンブリア爆発の真っ只中にいます。これにより、参加者が生理的な状態や心理的な現象の状態を伝えることができる没入型の共有体験が可能となります。エイジングパークは初期の実験の一例ですが、さらに深く没入型の全身感覚体験が期待されます。これには、技術の新しい統合が含まれ、超モジュラーな方法で組み合わされてより豊かな共有体験を生み出すことができます。これにより、アイデアや感情をより直接的で本能的な方法で伝えることができます。いくつかの技術が含まれています：",
+    "latest": true
+  },
+  "**Neural and Brain-Computer Interfaces (BCI):** devices that connect directly to the brain offer, capture neural activity and offer a direct pathway for communicating complex thoughts and emotions, allowing for an unprecedented level of interaction. BCIs enable direct communication between the brain and external devices. Future developments could allow for the sharing of thoughts, emotions, and experiences directly from one mind to another.": {
+    "ja": "**ニューラルと脳-コンピュータインターフェース（BCI）：** 脳に直接接続し、脳活動をキャプチャし、複雑な思考や感情を直接伝えるためのデバイスで、前例のないレベルの相互作用を可能にします。 BCIは脳と外部デバイスの直接的なコミュニケーションを実現します。将来の発展により、思考、感情、経験を直接他の人の心に共有することが可能になるかもしれません。",
+    "latest": true
+  },
+  "**Haptic Feedback Technologies and homuncular flexibility** [^4]: Haptic devices provide tactile sensations, simulating touch and physical interactions in virtual environments and allowing users to feel and respond to virtual stimuli as if they were real. Similarly, with homuncular flexibility, individuals can learn to control virtual bodies that differ significantly from their own physical form, transcending the limitations of their physical bodies.": {
+    "ja": "**触覚フィードバック技術とホムンクルスの柔軟性** [^4]: 触覚デバイスは触覚の感覚を提供し、仮想環境での触れる感覚や物理的な相互作用をシミュレートし、ユーザーがそれが現実であるかのように仮想刺激に感じて反応することを可能にします。同様に、ホムンクルスの柔軟性により、個人は自分自身の身体的形態とは大きく異なる仮想的な体を制御することを学び、自分の身体の制約を超えることができます。",
+    "latest": true
+  },
+  "**Neural interfaces**: 3D Audio and Immersive Soundscapes: Advanced sound technologies that create three-dimensional auditory experiences can deeply enhance the sense of immersion in a virtual space, conveying emotions and atmosphere in a way that traditional stereo sound cannot.": {
+    "ja": "**ニューラルインターフェース**：3Dオーディオと没入型サウンドスケープ：3次元の音響体験を作り出す高度な音響技術は、従来のステレオサウンドでは伝えることができない感情や雰囲気を伝えることで、仮想空間への没入感を深めることができます。",
+    "latest": true
+  },
+  "**Wearable Tech for Emotion and Physiological State Tracking:** Devices that monitor heart rate, skin conductance, and other physiological markers can provide insight into a user's emotional and physical state, enabling shared experiences that are responsive to these states.": {
+    "ja": "**感情と生理状態の追跡のためのウェアラブルテクノロジー：** 心拍数、皮膚伝導度、および他の生理的な指標を監視するデバイスは、ユーザーの感情と身体の状態に対応した共有体験を可能にし、これらの状態に応じて反応することができます。",
+    "latest": true
+  },
+  "**Advanced Projection Mapping and Spatial Computing:** These technologies allow for the transformation of physical spaces into interactive, digitally augmented environments. They can create shared, multi-sensory experiences that blend the physical and digital worlds.": {
+    "ja": "**高度なプロジェクションマッピングと空間コンピューティング：** これらの技術は、物理空間をインタラクティブでデジタルに拡張された環境に変換することを可能にします。物理的な世界とデジタルの世界を融合させた共有の多感覚体験を創造することができます。",
+    "latest": true
+  },
+  "**Neurofeedback and Mindfulness Apps:** These applications use real-time displays of brain activity to teach self-regulation of brain function. They can be used for meditation, mental health therapy, and enhancing self-awareness and empathy.": {
+    "ja": "**Neurofeedback and Mindfulness Apps:** これらのアプリケーションは、脳活動のリアルタイム表示を使用して脳機能の自己調整を教えるために使用されます。瞑想、メンタルヘルスセラピー、自己認識と共感の向上に使用することができます。",
+    "latest": true
+  },
+  "With the advent of generative AI, these technologies will furthermore enable us to generate visual representations of our thoughts at a pace that closely mirrors the speed of our imagination, unlocking  responsive, adaptive environments or characters in virtual spaces that can react in real-time to users' emotions, actions, or choices beyond simple  interpretation of natural language inputs  [^5]. Researchers have already shown how brain implants can connect the intentions of a paralyzed patient into physical movements [^6], demonstrating the remarkable potential of neural interfaces to bridge the gap between thought and action. Combined,  these capabilities enable transmission of ideas and emotions that can occur directly and seamlessly, and have profound implications for how we share and understand each other's internal experiences, creative visions, aspirations and even past traumas to facilitate reconciliation, healing and forgiveness. For example, imagine a child immersing themselves in the sensorial experiences of their parents at the same age. Or two cultural groups at war, experiencing the pain and loss of their adversary’s family members. With more inclusive and empathetic ways of interacting, these technologies can unlock communication that is not only post-symbolic but also deeply empathetic, as individuals share experiences and emotions in their most unfiltered, raw and uncompressed form beyond the boundaries of time, physical and even social distance.  Such technological advances, when paired with our growing understanding of human perception and cognition, are paving the way for a future where communication encompasses a much broader range of human experiences and states. ": {
+    "ja": "生成AIの登場により、これらの技術はさらに私たちの思考の視覚的表現を生成することを可能にし、それは私たちの想像力の速度に密接に追従するペースで行われます。これにより、反応性の高い適応型の環境や仮想空間のキャラクターが実時間でユーザーの感情、行動、または選択に対して反応することができます。これは単なる自然言語入力の解釈を超えたものです[^5]。研究者たちは既に、脳インプラントが麻痺患者の意図を物理的な動きにつなげることができることを示しており[^6]、思考と行動の間のギャップを埋める神経インターフェースの驚異的な可能性を実証しています。これらの能力を組み合わせることで、アイデアや感情の伝達が直接かつシームレスに行われ、私たちがお互いの内面的な経験、創造的なビジョン、願望、さらには過去のトラウマを共有し理解する方法に深い影響を与えることができます。例えば、子供が自分の両親の同じ年齢の感覚的な経験に没頭することを想像してみてください。また、戦争中の2つの文化的なグループが相手の家族の苦痛と喪失を経験しているということもあります。より包括的で共感的な相互作用の方法によって、これらの技術は、時間、物理的、さらには社会的な距離の制約を超えて、個人が経験や感情を最もフィルタリングされていない、生の、圧縮されていない形で共有することができるコミュニケーションを可能にします。このような技術の進歩は、人間の知覚と認知の理解が進むにつれて、コミュニケーションがより広範な人間の経験や状態を包括する未来への道を切り開いています。",
+    "latest": true
+  },
+  "**FRONTIERS** ": {
+    "ja": "**フロンティア**",
+    "latest": true
+  },
+  "In the far future, the evolution of non-symbolic communication promises to profoundly reshape our understanding of intimacy and the very essence of life's milestones, such as childhood and relationships. Imagine a world where the boundaries of personal experiences blur, redefining intimacy not as a physical or emotional proximity but as a deep, seamless sharing of consciousness. Telepathy, once a realm of science fiction, becomes an attainable reality, allowing for the direct transmission of thoughts, feelings, and sensory experiences from mind to mind. This profound leap in communication transcends the need for spoken words or physical gestures. The implications of such a capability are monumental. It could lead to an unprecedented level of understanding and empathy between individuals, as barriers erected by language and cultural differences dissolve. Human relationships evolve into deeper, more meaningful connections where misunderstandings are rare, and empathy is abundant. Children, in this new paradigm, grow not just by learning from others' words or observing actions but by immersing themselves in the lived experiences of others, including their ancestors,  spanning different cultures and epochs. This experiential osmosis accelerates empathy and wisdom, fostering a society where learning is as much about absorbing direct experiences as it is about traditional education.": {
+    "ja": "遠い未来では、非象徴的なコミュニケーションの進化が、親密さや人生の節目である子供時代や関係性の理解を根本的に変えることを約束しています。個人の経験の境界が曖昧になり、親密さが身体的または感情的な近さではなく、意識の深い、シームレスな共有として再定義される世界を想像してみてください。テレパシーはかつてのSFの領域でしたが、思考、感情、感覚体験を直接伝達することが可能な現実になります。このコミュニケーションの飛躍的な進歩は、話された言葉や身体的なジェスチャーの必要性を超越します。そのような能力の影響は重大です。言語や文化の違いによって築かれた障壁が解消されることで、個人間の理解と共感のレベルが前例のないものになる可能性があります。人間関係はより深く、意味のあるつながりに進化し、誤解が少なく、共感が豊富なものになります。この新しいパラダイムでは、子供たちは他の人々の言葉や行動を学ぶだけでなく、異なる文化や時代を横断する祖先を含む他者の生活体験に没頭することで成長します。この経験的な浸透は共感と知恵を加速させ、学びが伝統的な教育だけでなく、直接の経験を吸収することにも関わる社会を育みます。",
+    "latest": true
+  },
+  "Long-distance relationships, too, can expect to undergo a radical transformation. Physical distance becomes a triviality in the face of technologies that allow for the sharing of thoughts, emotions, and sensory experiences in real-time, irrespective of geographic separation. Lovers, friends, and family members can experience each other's joys, sorrows, and mundane moments as if they were in the same room, creating a form of intimacy that transcends physical presence. This paradigm shift brings profound changes in societal structures – the traditional nuclear family could give way to more fluid, globally interconnected familial networks. As we steer towards this horizon, the very fabric of human connection and communication is poised to undergo a metamorphosis, redefining what it means to be intimately connected and be “human.” ": {
+    "ja": "遠距離関係も、根本的な変革を経験することができます。地理的な分離に関係なく、思考、感情、感覚をリアルタイムで共有することができる技術の存在により、物理的な距離は些細なものとなります。恋人、友人、家族は、同じ部屋にいるかのように、お互いの喜び、悲しみ、日常の瞬間を体験することができ、物理的な存在を超えた親密さを創り出すことができます。このパラダイムシフトにより、社会的な構造には深刻な変化がもたらされます - 伝統的な核家族はより流動的で、グローバルにつながった家族のネットワークに取って代わられるかもしれません。この地平線に向かって進むにつれて、人間のつながりとコミュニケーションの本質は変革を遂げ、親密につながり、\"人間\"であるという意味が再定義されるでしょう。",
+    "latest": true
+  },
+  "**LIMITATIONS**": {
+    "ja": "**制約事項**",
+    "latest": true
+  },
+  "The journey into post-symbolic communication is not without its perils. The very tools that promise deeper connection could also lead to a loss of individuality. Worse, participants could be surveilled, leaving our  thoughts, emotions, and motivations open to manipulation; any window into our feelings, is also a window of influence. At the extreme, there is a risk that participants disconnect from the outer world. The “Matrix” is an illustration of such a dystopia. Individuals no longer have a private inner world. Unchecked visibility into our minds allows for unprecedented levels of manipulation and control, potentially by technology companies or governments that distract humanity with an alternate reality, or simulation. As humans  lose touch with the reality of the physical world, over-reliance on telepathic communication could lead to the atrophy of traditional communication skills and cultural practices, with people becoming dependent on direct mental connections. Furthermore,  in a world where the boundaries between self and other blur, the sanctity of individual thought and experience could be threatened. High-bandwidth communication could lead to a homogenization of thoughts and experiences, as individual perspectives merge into a collective consciousness—erasing our differences.": {
+    "ja": "ポストシンボリックコミュニケーションへの旅は危険を伴います。より深いつながりを約束するツール自体が、個性の喪失につながる可能性もあります。さらに悪いことに、参加者は監視される可能性があり、私たちの思考、感情、動機が操作される可能性があります。私たちの感情に窓を開けることは、同時に影響力の窓でもあります。極端な場合、参加者が外部の世界とのつながりを失うリスクがあります。『マトリックス』はそのようなディストピアの例です。個人にはもはや私的な内的世界がありません。私たちの心に対する無制限の可視性は、前例のないレベルの操作と制御を可能にし、テクノロジー企業や政府による人類の注意を別の現実やシミュレーションでそらす可能性があります。人間が物理的な世界の現実感との接触を失うにつれて、テレパシックなコミュニケーションへの過度の依存は、伝統的なコミュニケーションスキルや文化的な実践の衰退をもたらし、人々が直接的な精神的なつながりに依存するようになる可能性があります。さらに、自己と他者の境界が曖昧になる世界では、個々の思考と経験の尊厳が脅かされる可能性があります。高帯域幅のコミュニケーションは、個々の視点が集合意識に融合することで、思考と経験の均質化につながる可能性があり、私たちの違いが消えてしまうかもしれません。",
+    "latest": true
+  },
+  "Balancing telepathic communication with lower-bandwidth, structured forms of communication is essential to preserve privacy, autonomy, diversity, and human governance in the future. Communication, like speech and text, is less direct and immediate than telepathy but is structured and deliberate. It requires the sender to formulate thoughts into words or sentences, providing a level of control and reflection that instantaneous telepathic communication lacks. Markets and voting systems also serve as quintessential examples of lower-bandwidth, structured forms of communication, offering a counterbalance to the potential dystopia of an all-encompassing telepathic matrix. In markets, the myriad decisions made by consumers and producers are communicated through the price mechanism. This system, while less immediate and detailed than telepathic communication, provides a structured and aggregated way of expressing preferences and values. It allows for privacy in decision-making, as individuals do not have to reveal the full spectrum of their thoughts and motivations. Similarly, voting is a deliberate, structured form of communication where individuals express their political and social preferences at a fixed point in time. Unlike continuous and invasive telepathic streams, voting encapsulates the will of the populace in a manner that is both manageable and interpretable, preserving the autonomy of the individual voter. This structured approach is crucial in maintaining a balance between efficient communication and the safeguarding of personal autonomy, privacy, and democratic processes, acting as a vital check against the potential overreach of a telepathic matrix.": {
+    "ja": "将来のプライバシー、自治、多様性、および人間の統治を保護するために、テレパシーによるコミュニケーションと低帯域の構造化されたコミュニケーションをバランスさせることは重要です。スピーチやテキストなどのコミュニケーションは、テレパシーよりも直接的で即時的ではありませんが、構造化されて意図的です。送信者は思考を言葉や文にまとめる必要があり、瞬時のテレパシーに欠ける制御と反省のレベルを提供します。市場や投票システムも、低帯域の構造化されたコミュニケーションの典型的な例として機能し、包括的なテレパシックマトリックスの潜在的なディストピアに対するカウンターバランスを提供します。市場では、消費者や生産者が行う無数の意思決定が価格メカニズムを通じて伝えられます。このシステムは、テレパシーによるコミュニケーションよりも即時性や詳細性に欠けますが、好みや価値観を構造化された集約的な方法で表現する手段を提供します。個人は思考や動機の全体像を明らかにする必要がないため、意思決定のプライバシーを確保することができます。同様に、投票は意図的で構造化されたコミュニケーションの形態であり、個人が特定の時点で政治的および社会的な好みを表現するものです。連続的で侵略的なテレパシックストリームとは異なり、投票は個々の有権者の意思を管理可能で解釈可能な方法で包括します。この構造化されたアプローチは、効率的なコミュニケーションと個人の自治、プライバシー、および民主的なプロセスの保護のバランスを維持する上で重要であり、テレパシックマトリックスの潜在的な過剰な拡大に対する重要なチェックとなります。",
+    "latest": true
+  },
+  "[^2]: Van Leeuwen, P., Geue, D., Thiel, M., Cysarz, D., Lange, S., Romano , M. C., Wessel, N., Kurths, J., & Groenemeyer, D. H. (2009). Influence of paced maternal breathing on fetal–maternal heart rate coordination. PNAS, 106(33), 13661-13666. https://doi.org/10.1073/pnas.0901049106": {
+    "ja": "[^2]: Van Leeuwen, P., Geue, D., Thiel, M., Cysarz, D., Lange, S., Romano , M. C., Wessel, N., Kurths, J., & Groenemeyer, D. H. (2009). 母親のリズムに合わせた呼吸が胎児-母体の心拍数の調整に与える影響. PNAS, 106(33), 13661-13666. https://doi.org/10.1073/pnas.0901049106",
+    "latest": true
+  },
+  "[^3]: Fernandez, Judith Amores. Olfactory interfaces: toward implicit human-computer interaction across the consciousness continuum. Diss. Massachusetts Institute of Technology, School of Architecture and Planning, Program in Media Arts and Sciences, 2020.": {
+    "ja": "[^3]: フェルナンデス、ジュディス・アモレス。嗅覚インターフェース：意識の連続を超えた暗黙の人間とコンピュータの相互作用に向けて。マサチューセッツ工科大学、建築と計画学部、メディア芸術と科学プログラム、2020年の論文。",
+    "latest": true
+  },
+  "[^4]: Andrea Stevenson Won, Jeremy Bailenson, Jimmy Lee, Jaron Lanier, Homuncular Flexibility in Virtual Reality, Journal of Computer-Mediated Communication, Volume 20, Issue 3, 1 May 2015, Pages 241–259, https://doi.org/10.1111/jcc4.12107": {
+    "ja": "[^4]: アンドレア・スティーブンソン・ウォン、ジェレミー・ベイレンソン、ジミー・リー、ジャロン・レニア、仮想現実におけるホムンクルスの柔軟性、コンピューター媒介コミュニケーション学会誌、第20巻、第3号、2015年5月1日、241-259ページ、https://doi.org/10.1111/jcc4.12107",
+    "latest": true
+  },
+  "[^5]: Huang, Han, et al. \"Real-time Animation Generation and Control on Rigged Models via Large Language Models.\" NeurIPS Workshop on ML for Creativity and Design (2023)": {
+    "ja": "[^5]: 黄、韓、他。「大規模言語モデルを用いたリグモデルによるリアルタイムアニメーション生成と制御」。NeurIPS Workshop on ML for Creativity and Design（2023）",
+    "latest": true
+  },
+  "[^6]: Lorach, H., Galvez, A., Spagnolo, V. et al. Walking naturally after spinal cord injury using a brain–spine interface. Nature 618, 126–133 (2023). https://doi.org/10.1038/s41586-023-06094-5": {
+    "ja": "[^6]: Lorach, H., Galvez, A., Spagnolo, V. et al. 脊髄損傷後の自然な歩行：脳脊髄インターフェースを用いて. Nature 618, 126–133 (2023). https://doi.org/10.1038/s41586-023-06094-5",
     "latest": true
   }
 }
