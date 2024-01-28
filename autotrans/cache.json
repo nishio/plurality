@@ -341,35 +341,35 @@
   },
   "<center>": {
     "ja": "<center>",
-    "latest": true
+    "latest": false
   },
   "<i>": {
     "ja": "<i>",
-    "latest": true
+    "latest": false
   },
   "Industry and inventions in technology, for example, create means which alter the modes of associated behavior and which radically change the quantity, character and place of impact of their indirect consequences. These changes are extrinsic to political forms which, once established, persist of their own momentum. The new public which is generated remains long inchoate, unorganized, because it cannot use inherited political agencies. The latter, if elaborate and well institutionalized, obstruct the organization of the new public. They prevent that development of new forms of the state which might grow up rapidly were social life more fluid, less precipitated into set political and legal molds. To form itself, the public has to break existing political forms. This is hard to do because these forms are themselves the regular means of instituting change. The public which generated political forms is passing away, but the power and lust of possession remains in the hands of the officers and agencies which the dying public instituted. This is why the change of the form of states is so often effected only by revolution.</i>": {
     "ja": "産業と技術の発明は、関連する行動の方法を変え、間接的な結果の数量、性格、および影響の場所を根本的に変える手段を作り出します。これらの変化は、一度確立されると政治的な形態とは無関係です。生成される新しい公共は長い間未完成で組織化されていません。なぜなら、それは受け継がれた政治的機関を利用することができないからです。もしそれらが緻密でよく制度化されている場合、それらは新しい公共の組織化を妨げます。社会生活がより流動的で、政治的および法的な形態に急速に落ち着かない場合、新しい国家の形態の発展を阻害します。公共は自己形成するために、既存の政治的形態を破壊しなければなりません。これは困難です。なぜなら、これらの形態自体が変化を施行するための定期的な手段だからです。政治的形態を生成した公共は過ぎ去っていますが、権力と所有欲は、死にゆく公共が設立した役人や機関の手に残っています。これが国家の形態の変化が革命によってのみ頻繁に実現される理由です。",
-    "latest": true
+    "latest": false
   },
   "<br>": {
     "ja": "<br>",
-    "latest": true
+    "latest": false
   },
   "  <center> -- John Dewey, <i>The Public and Its Problems </i> , 1927  </center>": {
     "ja": "<center> -- ジョン・デューイ、<i>公共とその問題</i>、1927年 </center>",
-    "latest": true
+    "latest": false
   },
   "(D)ecisions about the development and exploitation of computer technology must be made not only \"in the public interest\" but in the interest of giving the public itself the means to enter into the decision-making processes that will shape their future. </i>": {
     "ja": "コンピュータ技術の開発と利用に関する意思決定は、「公共の利益」だけでなく、一般の人々自身が将来を形作る意思決定プロセスに参加する手段を持つことを考慮して行われる必要があります。",
-    "latest": true
+    "latest": false
   },
   "-- J. C. R. Licklider, \"Computers and Government\", 1979": {
     "ja": "-- J. C. R. リクライダー、「コンピュータと政府」、1979年",
-    "latest": true
+    "latest": false
   },
   "</center>": {
     "ja": "</center>",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp;  Can a plural understanding of society lay the foundation for social transformations as dramatic as those that fields like quantum mechanics and ecology have brought to natural sciences, physical technology and our relationship to nature?  Liberal democracies often celebrate themselves as pluralistic societies, which would seem to indicate they have already drawn the available lessons from plural social science.  Yet despite this formal commitment to pluralism and democracy, almost every country has been forced by the limits of available information systems to homogenize and simplify social institutions in a monist atomist mold that runs into direct conflict with its values.  The great hope of plural social science and plural technology (Plurality) built on top of it is to use the potential of information technology to begin to overcome these limitations.": {
     "ja": "社会の理解を多元的にすることは、量子力学や生態学のような分野が自然科学、物理技術、自然との関係にもたらしたような劇的な社会変革の基盤を築くことができるでしょうか？ 自由主義の民主主義国家はしばしば自らを多元主義の社会として称賛していますが、これは既に利用可能な多元社会科学の教訓を引き出していることを示しているように思われます。 しかし、この多元主義と民主主義への形式的なコミットメントにもかかわらず、ほとんどの国は利用可能な情報システムの制約により、その価値観と直接的に衝突する単一主義的な原子主義の社会制度を均質化し、単純化せざるを得ませんでした。 多元社会科学とそれに基づく多元技術（Plurality）の大いなる希望は、情報技術の潜在能力を利用して、これらの制約を克服し始めることです。",
@@ -1317,11 +1317,11 @@
   },
   "<i>Until lately the best thing that I was able to think in favor of civilization…was that it made possible the artist, the poet, the philosopher, and the man of science. But I think that is not the greatest thing. Now I believe that the greatest thing is a matter that comes directly home to us all. When it is said that we are too much occupied with the means of living to live, I answer that the chief worth of civilization is just that it makes the means of living more complex; that it calls for great and combined intellectual efforts, instead of simple, uncoordinated ones, in order that the crowd may be fed and clothed and houses and moved from place to place. Because more complex and intense intellectual efforts mean a fuller and richer life. They mean more life. Life is an end in itself, and the only question as to whether it is worth living is whether you have enough of it.</i> ": {
     "ja": "最近まで、文明について考えることができる最良のことは、芸術家、詩人、哲学者、科学者を可能にすることだと思っていました。しかし、それが最も偉大なことではないと思います。今では、最も偉大なことは、私たち全員に直接関わる問題です。生活の手段に過度に関心を持ちすぎて生きることができないと言われるとき、私は文明の最も価値があるところは、生活の手段をより複雑にすることであると答えます。それは、群衆が食べ物を食べ、服を着、家に住み、場所を移動するために、単純で非協調なものではなく、大きな統合的な知的努力を必要とするからです。より複雑で強烈な知的努力は、より充実した豊かな人生を意味します。それはより多くの人生を意味します。人生はそれ自体が目的であり、それが生きる価値があるかどうかの唯一の問題は、それが十分にあるかどうかです。",
-    "latest": true
+    "latest": false
   },
   "<br><br>": {
     "ja": "<br><br>",
-    "latest": true
+    "latest": false
   },
   "Oliver Wendell Holmes, 1900[^1]": {
     "ja": "オリバー・ウェンデル・ホームズ、1900年[^1]",
@@ -1625,15 +1625,15 @@
   },
   "(A)...belief that beauty, growth, progress -- all result from the union of the unlike. Concord, as much as discord, requires the presence of at least two different notes. The brotherhood of man is an ideal based on learning to delight in our essential differences, as well as learning to recognize our similarities. The circle and triangle combine to produce the gemstone in the center as the union of words and music creates song, or the union of marriage creates children.": {
     "ja": "(A)...美、成長、進歩は、すべて異なるものの結合から生じるという信念です。調和は、不調和と同様に、少なくとも2つの異なる音の存在を必要とします。人類の兄弟愛は、本質的な違いを楽しむことと、類似点を認識することに基づく理想です。円と三角形は、中央の宝石を生み出すために結合し、言葉と音楽の結合は歌を生み出し、結婚の結合は子供を生み出します。",
-    "latest": true
+    "latest": false
   },
   "</i>": {
     "ja": "</i>",
-    "latest": true
+    "latest": false
   },
   "  </center>": {
     "ja": "</center>",
-    "latest": true
+    "latest": false
   },
   "* Religion and religiosity: A diverse range of religious practices, including secularism, agnosticism and forms of atheism, are central to the metaphysical, epistemological and ethical perspective of most people around the world.": {
     "ja": "宗教と信仰心：世界中のほとんどの人々の形而上学的、認識論的、倫理的な視点には、世俗主義、不可知論、無神論の形態を含む多様な宗教的な実践が中心となっています。",
@@ -1785,19 +1785,19 @@
   },
   "“(T)he West's technology champion, the United States, has decided to self-flagellate -- both political parties and their elected representatives are busily savaging the US technology industry every way they possibly can.” </i>": {
     "ja": "「西洋のテクノロジーのチャンピオンであるアメリカ合衆国は、自己鞭打ちをすることを決めました - 両政党とその選出された代表者は、できる限りの方法でアメリカのテクノロジー産業を攻撃しています。」",
-    "latest": true
+    "latest": false
   },
   "<center> Marc Andreessen, Interview with Noah Smith, 2021 </center>": {
     "ja": "<center>マーク・アンドリーセン、ノア・スミスとのインタビュー、2021年</center>",
-    "latest": true
+    "latest": false
   },
   "\"Technology could be a force for democracy, but it has turned out to pose just as much threat to it.\" </i>": {
     "ja": "「技術は民主主義の力になるかもしれませんが、それはそれにとって同じくらいの脅威をもたらすことがわかりました。」</i>",
-    "latest": true
+    "latest": false
   },
   "Shoshana Zuboff, The Age of Surveillance Capitalism, 2018": {
     "ja": "ショシャナ・ズボフ、監視資本主義の時代、2018年",
-    "latest": true
+    "latest": false
   },
   "Anxiety over technology and geopolitics is pervasive today.  Yet there is a more fundamental conflict underway than that between great powers over technical supremacy.  More deeply, the path technology and democracy as systems have taken have put them at loggerheads and the ensuing battle has claimed victims on both sides.": {
     "ja": "技術と地政学に対する不安は、今日では広範囲に存在しています。しかし、技術の優位を巡る大国間の対立よりも、より基本的な対立が進行中です。さらに、技術と民主主義というシステムが進んできた道筋によって、両者は対立し、その結果として両側に犠牲者が出ています。",
@@ -2329,7 +2329,7 @@
   },
   "\", available at https://www.hrw.org/news/2022/10/26/russia-uses-facial-recognition-hunt-down-draft-evaders": {
     "ja": "「ロシアは顔認識技術を使って徴兵逃れ者を追い詰める」というニュースは、https://www.hrw.org/news/2022/10/26/russia-uses-facial-recognition-hunt-down-draft-evaders で入手できます。",
-    "latest": true
+    "latest": false
   },
   "Story (1/2-1 page)": {
     "ja": "ストーリー（1/2〜1ページ）",
@@ -5249,7 +5249,7 @@
   },
   "<i>(A)re…atoms independent elements of reality? No…as quantum theory shows: they are defined by their…interactions with the rest of the world…(Q)uantum physics may just be the realization that this ubiquitous relational structure of reality continues all the way down…Reality is not a collection of things, it’s a network of processes.</i>": {
     "ja": "<i>（A）原子は現実の独立した要素ですか？いいえ...量子理論が示すように、彼らは...世界の他の部分との相互作用によって定義されます...量子物理学は、現実のこの普遍的な関係構造が最後まで続くことを実現するかもしれません...現実は物事の集まりではなく、プロセスのネットワークです。</i>",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; The simplest and most naïve way to think about science is what might be called “objectivist”, “rationalist” or, as we will dub it, “monist atomism”[^3].   The physical world has an objective state and obeys an ultimately quite simple set of laws, waiting to be discovered.  These can be stated in mathematical terms and dictate the deterministic evolution of one state into another through the collision of atoms.  Because these laws and the mathematical truths they obey are unitary and universal, everything that ever will happen can be predicted from the current state of the world.  These laws are often expressed in “goal-seeking” or “teleological” terms: particles “take the path of least action”, chemical compounds “minimize free energy”, evolution maximizes fitness, economic agents “maximize utility”. Every phenomenon in the world, from human societies to the motion of the stars, can ultimately be reduced to these laws.  All one needs to do — in this frame — is have sufficient computational power/intelligence, sufficiently precise observations, and the courage to strip away one’s superstitions/social constructs/biases and one will be, essentially, gods, omniscient, and possibly omnipotent.": {
     "ja": "最も単純で素朴な科学の考え方は、「客観主義者」、「合理主義者」と呼ばれるかもしれないものであり、私たちはそれを「単一原子論」と名付けます[^3]。物理的な世界は客観的な状態を持ち、発見されるべき非常に単純な法則に従います。これらは数学的な形で述べることができ、原子の衝突を通じてある状態から別の状態への決定論的な進化を指示します。これらの法則とそれらが従う数学的な真理は単一で普遍的であるため、世界の現在の状態から予測できるすべてのことが起こるでしょう。これらの法則はしばしば「目標追求的」または「目的論的」な言葉で表現されます：粒子は「最小作用の経路」を取り、化学物質は「自由エネルギーを最小化」し、進化は適応度を最大化し、経済主体は「効用を最大化」します。人間社会から星の動きまで、世界のすべての現象は、最終的にはこれらの法則に還元することができます。この枠組みでは、十分な計算能力/知能、十分に正確な観測、そして迷信/社会的構築物/偏見を剥ぎ取る勇気があれば、本質的には神であり、全知であり、おそらく全能です。",
@@ -6177,7 +6177,7 @@
   },
   "> Swirling ocean, beautiful islands;<br>": {
     "ja": "美しい島々の渦巻く海；",
-    "latest": true
+    "latest": false
   },
   "> a transcultural republic of citizens.": {
     "ja": "市民の超文化的な共和国。",
@@ -10661,7 +10661,7 @@
   },
   "[^RussianDraftEvaders]: Human Rights Watch, \"Russia Uses Facial Recognition to Hunt Down Draft Evaders": {
     "ja": "[^RussianDraftEvaders]: ヒューマン・ライツ・ウォッチ、「ロシアは顔認識を使って徴兵逃れ者を追い詰める」",
-    "latest": true
+    "latest": false
   },
   "[Sun Yat-sen's association with Georgism, the Japanese colonial era (Taiwan Cultural Association, etc.) and the political environment of the Minguo era, the Nanking Decade and the subsequent relocation to Taiwan...]": {
     "ja": "[孫中山のジョージ主義との関連、日本の植民地時代（台湾文化協会など）と民国時代の政治環境、南京十年とその後の台湾への移住との関連...]",
@@ -10677,11 +10677,11 @@
   },
   "Oliver Wendell Holmes, 1900[^LifeAsJoy]": {
     "ja": "オリバー・ウェンデル・ホームズ、1900年[^人生は喜びとして]",
-    "latest": true
+    "latest": false
   },
   "Carlo Rovelli, 2022[^RelationalReality]": {
     "ja": "カルロ・ロヴェッリ、2022年[^関係性の現実]",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; The simplest and most naïve way to think about science is what might be called “objectivist”, “rationalist” or, as we will dub it, “monist atomism”[^MonistAtomism].   The physical world has an objective state and obeys an ultimately quite simple set of laws, waiting to be discovered.  These can be stated in mathematical terms and dictate the deterministic evolution of one state into another through the collision of atoms.  Because these laws and the mathematical truths they obey are unitary and universal, everything that ever will happen can be predicted from the current state of the world.  These laws are often expressed in “goal-seeking” or “teleological” terms: particles “take the path of least action”, chemical compounds “minimize free energy”, evolution maximizes fitness, economic agents “maximize utility”. Every phenomenon in the world, from human societies to the motion of the stars, can ultimately be reduced to these laws.  All one needs to do — in this frame — is have sufficient computational power/intelligence, sufficiently precise observations, and the courage to strip away one’s superstitions/social constructs/biases and one will be, essentially, gods, omniscient, and possibly omnipotent.": {
     "ja": "最も単純で素朴な科学の考え方は、「客観主義者」、「合理主義者」と呼ばれるかもしれないものであり、私たちはそれを「単一原子論」と名付けます[^MonistAtomism]。物理的な世界は客観的な状態を持ち、最終的には非常に単純な法則に従っています。これらの法則は数学的な形で述べることができ、原子の衝突を通じてある状態から別の状態への決定論的な進化を指示します。これらの法則とそれらが従う数学的な真理は単一で普遍的であるため、世界の現在の状態から予測できるすべてのことが起こるでしょう。これらの法則はしばしば「目標追求的」または「目的論的」な言葉で表現されます：粒子は「最小の作用の経路」を取り、化学物質は「自由エネルギーを最小化」し、進化は適応度を最大化し、経済主体は「効用を最大化」します。人間社会から星の動きまで、世界のすべての現象は、最終的にはこれらの法則に還元することができます。この枠組みでは、十分な計算能力/知能、十分に正確な観測、そして迷信/社会的構築物/偏見を剥ぎ取る勇気があれば、本質的には神であり、全知であり、おそらく全能です。",
@@ -10785,7 +10785,7 @@
   },
   "[^WEIRDest] Henrich, J (2020) The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World": {
     "ja": "[^WEIRDest] Henrich, J（2020）The WEIRDest People in the World：How the West Became Psychologically Peculiar and Particularly Prosperous https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World",
-    "latest": true
+    "latest": false
   },
   "[^Soziologie]: Simmel,“Soziologie” (1908)": {
     "ja": "[^Soziologie]: ジョージ・ジンメル、「社会学」（1908年）",
@@ -11021,7 +11021,7 @@
   },
   "# 工作場所": {
     "ja": "# 工作場所",
-    "latest": true
+    "latest": false
   },
   "原文：WORKPLACE": {
     "ja": "翻訳：職場",
@@ -11397,15 +11397,15 @@
   },
   "On a beautiful island of innovation overlooking Tokyo, nestled within the National Museum of Emerging Science and Innovation (the Miraikan) lies the Park of Aging, a realm where time bends into the distant future of both civilization and our lives, offering a rare portal to your body after years worn by aging. Video games blur vision, mimicking cataracts. Sounds are stripped of high pitches. In a photo booth that mirrors the complexities of aged perception, facial expressions fade and blur. The simple act of recalling a shopping list committed to memory  becomes an odyssey, ceaselessly interrupted in a bustling market. Walking in place on pedals with ankle weights, pedals, and leaning on cart simulates the wear of time on the body, and degradation of posture. The Park of Aging is not just an exhibit but an immersive conversation across time, a dialogue with your older self through senses—sight, sound, and the aches and pains of age. This journey of empathy extends beyond the future self, to also foster a deeper connection with a present overlooked cohort: the elderly.": {
     "ja": "東京を見下ろす革新の美しい島にある、新興科学技術館（Miraikan）内に位置する老化の公園には、文明と私たちの生活の遠い未来に時間が曲がる領域があります。老化によって摩耗した数年後のあなたの体への珍しいポータルを提供し、ビデオゲームは視力をぼやかし、白内障を模倣します。音は高音を剥奪されます。老化した知覚の複雑さを反映するフォトブースでは、表情が薄れてぼやけます。記憶に頼っている買い物リストを思い出すという単純な行為は、賑やかな市場で絶え間なく中断される冒険になります。足首の重り、ペダル、カートに寄りかかって歩くことで、体に時間の摩耗と姿勢の劣化をシミュレートします。老化の公園は単なる展示物ではなく、時間を超えた没入型の対話であり、感覚（視覚、音、年齢の痛み）を通じて自分自身の年上の自己との対話です。この共感の旅は、将来の自己だけでなく、見過ごされがちな現在の同世代である高齢者とのより深いつながりを育むためにも広がります。",
-    "latest": true
+    "latest": false
   },
   "The Park of Aging is a poignant example of proprioceptive, post-symbolic communication, where participants receive information through an intimate, sensorial experience beyond merely interpreting words and symbols, utilizing all sensemaking of the body; the Park not only immerse participants in the sensations of being old, but part of being old is also a degradation in the ability to see and hear words and symbols. While the Park of Aging was a novel, temporal conversation with aging, experiences of proprioceptive, non-symbolic communication include mediation, psychedelics, religious experience, romantic intimacy, dance, yoga, combat, and sports. Not coincidentally, these experiences—harnessing information gathered from many senses (“higher-bandwidth communication”)—also are correlated with long-lasting human bonding and connection when shared. Perhaps it is the diversity of information simultaneously presented to the senses (depth) that contribute to the significance of the experience and therefore strength of connection and “union.”": {
     "ja": "高齢者の公園は、プロプリオセプティブなポストシンボリックなコミュニケーションの感動的な例であり、参加者は単に言葉やシンボルを解釈するだけでなく、体の感覚的な経験を通じて情報を受け取ります。この公園は参加者を老いの感覚に没入させるだけでなく、老いることは言葉やシンボルを見たり聞いたりする能力の低下でもあります。高齢者の公園は、老いに関する新しい一時的な対話でしたが、プロプリオセプティブな非シンボリックなコミュニケーションの経験には、仲介、サイケデリック、宗教的な経験、ロマンチックな親密さ、ダンス、ヨガ、戦闘、スポーツなどが含まれます。偶然ではありませんが、これらの経験は多くの感覚から収集された情報（「高帯域幅のコミュニケーション」）とも相関しており、共有された場合には長続きする人間の絆とつながりと関連しています。おそらく、感覚に同時に提示される情報の多様性（深さ）が経験の重要性とそれによるつながりと「結合」の強さに寄与しているのでしょう。",
-    "latest": true
+    "latest": false
   },
   "Technological innovations such as neural-interfaces, mediated reality, and generative AI expands the possibility space of post-symbolic communication, where unions within oneself and among people can occur not simply in person, but across temporal, physical, and social distance facilitated by technology. In this chapter, we describe these technologies and explore the frontiers, examining how these technologies could revolutionize interpersonal connections, education, and collaboration, enabling the transmission of thoughts, feelings, and sensory experiences beyond the compression of spoken or written language. We consider the opportunities to rectify cultural misunderstandings and conflicts, by fostering profound empathy and shared experience. Yet, where ideas flow as seamlessly as emotions, we also explore  the risks of connectivity, including surveillance, homogenization,  disconnection and oblivion.": {
     "ja": "技術革新（例：神経インターフェース、仲介現実、生成AI）により、ポストシンボリックコミュニケーションの可能性空間が拡大しました。これにより、人々の間だけでなく、時間的、物理的、社会的な距離を超えて、自己内部や人々の間での結合が技術によって容易に行われるようになりました。この章では、これらの技術を説明し、そのフロンティアを探求します。これらの技術が人間関係、教育、協力を革新し、話された言語や書かれた言語の圧縮を超えた思考、感情、感覚体験の伝達を可能にする方法を検討します。文化的な誤解や紛争を修正する機会を考え、深い共感と共有体験を育むことによって。しかし、感情と同様にアイデアが自由に流れる場合、監視、均質化、切断、忘却といった接続性のリスクについても探求します。",
-    "latest": true
+    "latest": false
   },
   "**TODAY**": {
     "ja": "**今日**",
@@ -11417,11 +11417,11 @@
   },
   "  **Dance:** Stepping deeper into music, two participants synchronizing their movements both feel their body and anticipating their partner’s movements and create a deeper shared experience.": {
     "ja": "**ダンス：** 音楽に深く入り込み、2人の参加者が動きを同期させ、お互いの動きを予測しながら、より深い共有体験を創り出します。",
-    "latest": true
+    "latest": false
   },
   "  **Combat:** on the battlefield, soldiers experience heightened senses, adrenaline, and a battery of sounds, leading to an intense awareness of their surroundings and their comrades. Non-verbal cues become critical for survival and strategy. This shared high-stress environment creates a bond and deep understanding and trust develop among combatants.": {
     "ja": "**戦闘:** 戦場では、兵士たちは感覚が研ぎ澄まされ、アドレナリンが出て、さまざまな音が鳴り響き、周囲と仲間に対する強烈な意識が生まれます。非言語的な合図が生存と戦略において重要となります。この共有された高ストレスの環境は、戦闘員の間で絆を生み、深い理解と信頼が築かれます。",
-    "latest": true
+    "latest": false
   },
   "  **Sports**: in team sports, players develop a keen sense of each other's presence and movements.  Teammates often anticipate each other's actions and work as a cohesive unit, relying on signals communicated through sound, movement and hand gestures. This synchrony is somewhere between dance and combat, also fueled by the shared goal of winning.": {
     "ja": "**スポーツ**：チームスポーツでは、選手たちはお互いの存在と動きの鋭い感覚を養います。チームメイトはしばしばお互いの行動を予測し、音声、動き、手のジェスチャーを通じて伝えられる信号に頼って、一体となって働きます。この同期はダンスと戦闘の中間に位置し、勝利という共有の目標にも燃料を注ぎます。",
@@ -11449,19 +11449,19 @@
   },
   "**Meditation**: a practice of inward focus and mindfulness, meditation has a diverse set of practices across a range of traditions. One common practice is to observe one's own thoughts and feelings without judgment, fostering a greater recognition and understanding of one’s own mental and emotional states, offering  an opportunity to bridge and reconcile internal differences and contradictions. ": {
     "ja": "**瞑想**：内向的な焦点とマインドフルネスの実践であり、瞑想はさまざまな伝統にわたる実践の多様なセットを持っています。一つの一般的な実践は、自分自身の思考や感情を判断せずに観察することであり、自分自身の心理的および感情的な状態をより認識し理解する機会を提供し、内部の違いや矛盾を結びつけ、調和させる機会を提供します。",
-    "latest": true
+    "latest": false
   },
   "**Psychedelics**: The use of psychedelics can lead to profound internal experiences and altered states of consciousness that disrupt usual patterns of thought and perception, opening alternative narratives to sensemake. Users often report experiencing deep introspective insights, a sense of oneness with the universe, or confronting deep-seated emotions and memories. ": {
     "ja": "**サイケデリック**: サイケデリックの使用は、深い内的経験や意識の変容をもたらし、通常の思考や知覚のパターンを破壊し、代替の物語を感じ取ることができます。ユーザーはしばしば、深い内省的な洞察、宇宙との一体感、または深層の感情や記憶に直面すると報告しています。",
-    "latest": true
+    "latest": false
   },
   "**Prayer**: Similarly, through prayer, contemplation, or participation in religious rituals, individuals open communication channels to something other than themselves. Whether through a feeling of divine presence or an internal sense of clarity and peace, these experiences can be deeply impactful and transformative, and foster a greater connection to themselves and their place in the universe. ": {
     "ja": "**祈り**：同様に、祈り、瞑想、または宗教的な儀式への参加を通じて、個人は自分自身以外の何かとのコミュニケーションチャネルを開くことができます。神聖な存在を感じることや内なる明確さと平和感を通じて、これらの経験は深く影響力があり、変容をもたらし、自分自身と宇宙の中での自分の位置とのより大きなつながりを育むことができます。",
-    "latest": true
+    "latest": false
   },
   "Communication today is rich with examples that touch upon the edges of post-symbolic communication. From physiological signals to the conveyance of chemosignals we are just beginning to learn the non-verbal, information-dense modes that can synchronize human experience  and form the deepest human bonds between oneself and other humans, groups, and the universe broadly. ": {
     "ja": "今日のコミュニケーションは、ポストシンボリックなコミュニケーションの端に触れる例で豊かです。生理学的な信号からケモシグナルの伝達まで、非言語の情報密度の高いモードを学び始め、人間の経験を同期させ、自己と他の人間、グループ、そして広く宇宙との最も深い絆を形成することができます。",
-    "latest": true
+    "latest": false
   },
   "**TOMORROW**": {
     "ja": "**明日**",
@@ -11469,11 +11469,11 @@
   },
   "Today are on a cusp o f cambrian explosion of technologies that can advance post-symbolic communication to unlock immersive, shared experiences that enable participants to communicate physiological and even psychological phenomenological states of being. The Park of Aging is an example of an early experiment, but we can expect deeper, immersive wholly sensorial experiences with novel integrations of technology that combine in supermodular ways to generate even richer, shared experiences, enabling us to communicate ideas and emotions in a more direct and visceral manner. A number of technologies include: ": {
     "ja": "今日は、多元主義を推進する技術のカンブリア爆発の真っ只中にいます。これにより、参加者が生理的な状態や心理的な現象の状態を伝えることができる没入型の共有体験が可能となります。エイジングパークは初期の実験の一例ですが、さらに深く没入型の全身感覚体験が期待されます。これには、技術の新しい統合が含まれ、超モジュラーな方法で組み合わされてより豊かな共有体験を生み出すことができます。これにより、アイデアや感情をより直接的で本能的な方法で伝えることができます。いくつかの技術が含まれています：",
-    "latest": true
+    "latest": false
   },
   "**Neural and Brain-Computer Interfaces (BCI):** devices that connect directly to the brain offer, capture neural activity and offer a direct pathway for communicating complex thoughts and emotions, allowing for an unprecedented level of interaction. BCIs enable direct communication between the brain and external devices. Future developments could allow for the sharing of thoughts, emotions, and experiences directly from one mind to another.": {
     "ja": "**ニューラルと脳-コンピュータインターフェース（BCI）：** 脳に直接接続し、脳活動をキャプチャし、複雑な思考や感情を直接伝えるためのデバイスで、前例のないレベルの相互作用を可能にします。 BCIは脳と外部デバイスの直接的なコミュニケーションを実現します。将来の発展により、思考、感情、経験を直接他の人の心に共有することが可能になるかもしれません。",
-    "latest": true
+    "latest": false
   },
   "**Haptic Feedback Technologies and homuncular flexibility** [^4]: Haptic devices provide tactile sensations, simulating touch and physical interactions in virtual environments and allowing users to feel and respond to virtual stimuli as if they were real. Similarly, with homuncular flexibility, individuals can learn to control virtual bodies that differ significantly from their own physical form, transcending the limitations of their physical bodies.": {
     "ja": "**触覚フィードバック技術とホムンクルスの柔軟性** [^4]: 触覚デバイスは触覚の感覚を提供し、仮想環境での触れる感覚や物理的な相互作用をシミュレートし、ユーザーがそれが現実であるかのように仮想刺激に感じて反応することを可能にします。同様に、ホムンクルスの柔軟性により、個人は自分自身の身体的形態とは大きく異なる仮想的な体を制御することを学び、自分の身体の制約を超えることができます。",
@@ -11481,7 +11481,7 @@
   },
   "**Neural interfaces**: 3D Audio and Immersive Soundscapes: Advanced sound technologies that create three-dimensional auditory experiences can deeply enhance the sense of immersion in a virtual space, conveying emotions and atmosphere in a way that traditional stereo sound cannot.": {
     "ja": "**ニューラルインターフェース**：3Dオーディオと没入型サウンドスケープ：3次元の音響体験を作り出す高度な音響技術は、従来のステレオサウンドでは伝えることができない感情や雰囲気を伝えることで、仮想空間への没入感を深めることができます。",
-    "latest": true
+    "latest": false
   },
   "**Wearable Tech for Emotion and Physiological State Tracking:** Devices that monitor heart rate, skin conductance, and other physiological markers can provide insight into a user's emotional and physical state, enabling shared experiences that are responsive to these states.": {
     "ja": "**感情と生理状態の追跡のためのウェアラブルテクノロジー：** 心拍数、皮膚伝導度、および他の生理的な指標を監視するデバイスは、ユーザーの感情と身体の状態に対応した共有体験を可能にし、これらの状態に応じて反応することができます。",
@@ -11489,7 +11489,7 @@
   },
   "**Advanced Projection Mapping and Spatial Computing:** These technologies allow for the transformation of physical spaces into interactive, digitally augmented environments. They can create shared, multi-sensory experiences that blend the physical and digital worlds.": {
     "ja": "**高度なプロジェクションマッピングと空間コンピューティング：** これらの技術は、物理空間をインタラクティブでデジタルに拡張された環境に変換することを可能にします。物理的な世界とデジタルの世界を融合させた共有の多感覚体験を創造することができます。",
-    "latest": true
+    "latest": false
   },
   "**Neurofeedback and Mindfulness Apps:** These applications use real-time displays of brain activity to teach self-regulation of brain function. They can be used for meditation, mental health therapy, and enhancing self-awareness and empathy.": {
     "ja": "**Neurofeedback and Mindfulness Apps:** これらのアプリケーションは、脳活動のリアルタイム表示を使用して脳機能の自己調整を教えるために使用されます。瞑想、メンタルヘルスセラピー、自己認識と共感の向上に使用することができます。",
@@ -11497,7 +11497,7 @@
   },
   "With the advent of generative AI, these technologies will furthermore enable us to generate visual representations of our thoughts at a pace that closely mirrors the speed of our imagination, unlocking  responsive, adaptive environments or characters in virtual spaces that can react in real-time to users' emotions, actions, or choices beyond simple  interpretation of natural language inputs  [^5]. Researchers have already shown how brain implants can connect the intentions of a paralyzed patient into physical movements [^6], demonstrating the remarkable potential of neural interfaces to bridge the gap between thought and action. Combined,  these capabilities enable transmission of ideas and emotions that can occur directly and seamlessly, and have profound implications for how we share and understand each other's internal experiences, creative visions, aspirations and even past traumas to facilitate reconciliation, healing and forgiveness. For example, imagine a child immersing themselves in the sensorial experiences of their parents at the same age. Or two cultural groups at war, experiencing the pain and loss of their adversary’s family members. With more inclusive and empathetic ways of interacting, these technologies can unlock communication that is not only post-symbolic but also deeply empathetic, as individuals share experiences and emotions in their most unfiltered, raw and uncompressed form beyond the boundaries of time, physical and even social distance.  Such technological advances, when paired with our growing understanding of human perception and cognition, are paving the way for a future where communication encompasses a much broader range of human experiences and states. ": {
     "ja": "生成AIの登場により、これらの技術はさらに私たちの思考の視覚的表現を生成することを可能にし、それは私たちの想像力の速度に密接に追従するペースで行われます。これにより、反応性の高い適応型の環境や仮想空間のキャラクターが実時間でユーザーの感情、行動、または選択に対して反応することができます。これは単なる自然言語入力の解釈を超えたものです[^5]。研究者たちは既に、脳インプラントが麻痺患者の意図を物理的な動きにつなげることができることを示しており[^6]、思考と行動の間のギャップを埋める神経インターフェースの驚異的な可能性を実証しています。これらの能力を組み合わせることで、アイデアや感情の伝達が直接かつシームレスに行われ、私たちがお互いの内面的な経験、創造的なビジョン、願望、さらには過去のトラウマを共有し理解する方法に深い影響を与えることができます。例えば、子供が自分の両親の同じ年齢の感覚的な経験に没頭することを想像してみてください。また、戦争中の2つの文化的なグループが相手の家族の苦痛と喪失を経験しているということもあります。より包括的で共感的な相互作用の方法によって、これらの技術は、時間、物理的、さらには社会的な距離の制約を超えて、個人が経験や感情を最もフィルタリングされていない、生の、圧縮されていない形で共有することができるコミュニケーションを可能にします。このような技術の進歩は、人間の知覚と認知の理解が進むにつれて、コミュニケーションがより広範な人間の経験や状態を包括する未来への道を切り開いています。",
-    "latest": true
+    "latest": false
   },
   "**FRONTIERS** ": {
     "ja": "**フロンティア**",
@@ -11505,7 +11505,7 @@
   },
   "In the far future, the evolution of non-symbolic communication promises to profoundly reshape our understanding of intimacy and the very essence of life's milestones, such as childhood and relationships. Imagine a world where the boundaries of personal experiences blur, redefining intimacy not as a physical or emotional proximity but as a deep, seamless sharing of consciousness. Telepathy, once a realm of science fiction, becomes an attainable reality, allowing for the direct transmission of thoughts, feelings, and sensory experiences from mind to mind. This profound leap in communication transcends the need for spoken words or physical gestures. The implications of such a capability are monumental. It could lead to an unprecedented level of understanding and empathy between individuals, as barriers erected by language and cultural differences dissolve. Human relationships evolve into deeper, more meaningful connections where misunderstandings are rare, and empathy is abundant. Children, in this new paradigm, grow not just by learning from others' words or observing actions but by immersing themselves in the lived experiences of others, including their ancestors,  spanning different cultures and epochs. This experiential osmosis accelerates empathy and wisdom, fostering a society where learning is as much about absorbing direct experiences as it is about traditional education.": {
     "ja": "遠い未来では、非象徴的なコミュニケーションの進化が、親密さや人生の節目である子供時代や関係性の理解を根本的に変えることを約束しています。個人の経験の境界が曖昧になり、親密さが身体的または感情的な近さではなく、意識の深い、シームレスな共有として再定義される世界を想像してみてください。テレパシーはかつてのSFの領域でしたが、思考、感情、感覚体験を直接伝達することが可能な現実になります。このコミュニケーションの飛躍的な進歩は、話された言葉や身体的なジェスチャーの必要性を超越します。そのような能力の影響は重大です。言語や文化の違いによって築かれた障壁が解消されることで、個人間の理解と共感のレベルが前例のないものになる可能性があります。人間関係はより深く、意味のあるつながりに進化し、誤解が少なく、共感が豊富なものになります。この新しいパラダイムでは、子供たちは他の人々の言葉や行動を学ぶだけでなく、異なる文化や時代を横断する祖先を含む他者の生活体験に没頭することで成長します。この経験的な浸透は共感と知恵を加速させ、学びが伝統的な教育だけでなく、直接の経験を吸収することにも関わる社会を育みます。",
-    "latest": true
+    "latest": false
   },
   "Long-distance relationships, too, can expect to undergo a radical transformation. Physical distance becomes a triviality in the face of technologies that allow for the sharing of thoughts, emotions, and sensory experiences in real-time, irrespective of geographic separation. Lovers, friends, and family members can experience each other's joys, sorrows, and mundane moments as if they were in the same room, creating a form of intimacy that transcends physical presence. This paradigm shift brings profound changes in societal structures – the traditional nuclear family could give way to more fluid, globally interconnected familial networks. As we steer towards this horizon, the very fabric of human connection and communication is poised to undergo a metamorphosis, redefining what it means to be intimately connected and be “human.” ": {
     "ja": "遠距離関係も、根本的な変革を経験することができます。地理的な分離に関係なく、思考、感情、感覚をリアルタイムで共有することができる技術の存在により、物理的な距離は些細なものとなります。恋人、友人、家族は、同じ部屋にいるかのように、お互いの喜び、悲しみ、日常の瞬間を体験することができ、物理的な存在を超えた親密さを創り出すことができます。このパラダイムシフトにより、社会的な構造には深刻な変化がもたらされます - 伝統的な核家族はより流動的で、グローバルにつながった家族のネットワークに取って代わられるかもしれません。この地平線に向かって進むにつれて、人間のつながりとコミュニケーションの本質は変革を遂げ、親密につながり、\"人間\"であるという意味が再定義されるでしょう。",
@@ -11517,11 +11517,11 @@
   },
   "The journey into post-symbolic communication is not without its perils. The very tools that promise deeper connection could also lead to a loss of individuality. Worse, participants could be surveilled, leaving our  thoughts, emotions, and motivations open to manipulation; any window into our feelings, is also a window of influence. At the extreme, there is a risk that participants disconnect from the outer world. The “Matrix” is an illustration of such a dystopia. Individuals no longer have a private inner world. Unchecked visibility into our minds allows for unprecedented levels of manipulation and control, potentially by technology companies or governments that distract humanity with an alternate reality, or simulation. As humans  lose touch with the reality of the physical world, over-reliance on telepathic communication could lead to the atrophy of traditional communication skills and cultural practices, with people becoming dependent on direct mental connections. Furthermore,  in a world where the boundaries between self and other blur, the sanctity of individual thought and experience could be threatened. High-bandwidth communication could lead to a homogenization of thoughts and experiences, as individual perspectives merge into a collective consciousness—erasing our differences.": {
     "ja": "ポストシンボリックコミュニケーションへの旅は危険を伴います。より深いつながりを約束するツール自体が、個性の喪失につながる可能性もあります。さらに悪いことに、参加者は監視される可能性があり、私たちの思考、感情、動機が操作される可能性があります。私たちの感情に窓を開けることは、同時に影響力の窓でもあります。極端な場合、参加者が外部の世界とのつながりを失うリスクがあります。『マトリックス』はそのようなディストピアの例です。個人にはもはや私的な内的世界がありません。私たちの心に対する無制限の可視性は、前例のないレベルの操作と制御を可能にし、テクノロジー企業や政府による人類の注意を別の現実やシミュレーションでそらす可能性があります。人間が物理的な世界の現実感との接触を失うにつれて、テレパシックなコミュニケーションへの過度の依存は、伝統的なコミュニケーションスキルや文化的な実践の衰退をもたらし、人々が直接的な精神的なつながりに依存するようになる可能性があります。さらに、自己と他者の境界が曖昧になる世界では、個々の思考と経験の尊厳が脅かされる可能性があります。高帯域幅のコミュニケーションは、個々の視点が集合意識に融合することで、思考と経験の均質化につながる可能性があり、私たちの違いが消えてしまうかもしれません。",
-    "latest": true
+    "latest": false
   },
   "Balancing telepathic communication with lower-bandwidth, structured forms of communication is essential to preserve privacy, autonomy, diversity, and human governance in the future. Communication, like speech and text, is less direct and immediate than telepathy but is structured and deliberate. It requires the sender to formulate thoughts into words or sentences, providing a level of control and reflection that instantaneous telepathic communication lacks. Markets and voting systems also serve as quintessential examples of lower-bandwidth, structured forms of communication, offering a counterbalance to the potential dystopia of an all-encompassing telepathic matrix. In markets, the myriad decisions made by consumers and producers are communicated through the price mechanism. This system, while less immediate and detailed than telepathic communication, provides a structured and aggregated way of expressing preferences and values. It allows for privacy in decision-making, as individuals do not have to reveal the full spectrum of their thoughts and motivations. Similarly, voting is a deliberate, structured form of communication where individuals express their political and social preferences at a fixed point in time. Unlike continuous and invasive telepathic streams, voting encapsulates the will of the populace in a manner that is both manageable and interpretable, preserving the autonomy of the individual voter. This structured approach is crucial in maintaining a balance between efficient communication and the safeguarding of personal autonomy, privacy, and democratic processes, acting as a vital check against the potential overreach of a telepathic matrix.": {
     "ja": "将来のプライバシー、自治、多様性、および人間の統治を保護するために、テレパシーによるコミュニケーションと低帯域の構造化されたコミュニケーションをバランスさせることは重要です。スピーチやテキストなどのコミュニケーションは、テレパシーよりも直接的で即時的ではありませんが、構造化されて意図的です。送信者は思考を言葉や文にまとめる必要があり、瞬時のテレパシーに欠ける制御と反省のレベルを提供します。市場や投票システムも、低帯域の構造化されたコミュニケーションの典型的な例として機能し、包括的なテレパシックマトリックスの潜在的なディストピアに対するカウンターバランスを提供します。市場では、消費者や生産者が行う無数の意思決定が価格メカニズムを通じて伝えられます。このシステムは、テレパシーによるコミュニケーションよりも即時性や詳細性に欠けますが、好みや価値観を構造化された集約的な方法で表現する手段を提供します。個人は思考や動機の全体像を明らかにする必要がないため、意思決定のプライバシーを確保することができます。同様に、投票は意図的で構造化されたコミュニケーションの形態であり、個人が特定の時点で政治的および社会的な好みを表現するものです。連続的で侵略的なテレパシックストリームとは異なり、投票は個々の有権者の意思を管理可能で解釈可能な方法で包括します。この構造化されたアプローチは、効率的なコミュニケーションと個人の自治、プライバシー、および民主的なプロセスの保護のバランスを維持する上で重要であり、テレパシックマトリックスの潜在的な過剰な拡大に対する重要なチェックとなります。",
-    "latest": true
+    "latest": false
   },
   "[^2]: Van Leeuwen, P., Geue, D., Thiel, M., Cysarz, D., Lange, S., Romano , M. C., Wessel, N., Kurths, J., & Groenemeyer, D. H. (2009). Influence of paced maternal breathing on fetal–maternal heart rate coordination. PNAS, 106(33), 13661-13666. https://doi.org/10.1073/pnas.0901049106": {
     "ja": "[^2]: Van Leeuwen, P., Geue, D., Thiel, M., Cysarz, D., Lange, S., Romano , M. C., Wessel, N., Kurths, J., & Groenemeyer, D. H. (2009). 母親のリズムに合わせた呼吸が胎児-母体の心拍数の調整に与える影響. PNAS, 106(33), 13661-13666. https://doi.org/10.1073/pnas.0901049106",
@@ -11541,6 +11541,118 @@
   },
   "[^6]: Lorach, H., Galvez, A., Spagnolo, V. et al. Walking naturally after spinal cord injury using a brain–spine interface. Nature 618, 126–133 (2023). https://doi.org/10.1038/s41586-023-06094-5": {
     "ja": "[^6]: Lorach, H., Galvez, A., Spagnolo, V. et al. 脊髄損傷後の自然な歩行：脳脊髄インターフェースを用いて. Nature 618, 126–133 (2023). https://doi.org/10.1038/s41586-023-06094-5",
+    "latest": true
+  },
+  "> “(T)he West's technology champion, the United States, has decided to self-flagellate -- both political parties and their elected representatives are busily savaging the US technology industry every way they possibly can.” — Marc Andreessen, Interview with Noah Smith, 2021": {
+    "ja": "「西洋のテクノロジーのチャンピオンであるアメリカ合衆国は、自己鞭打ちをすることを決めました - 両政党とその選出された代表者は、できる限りの方法でアメリカのテクノロジー産業を徹底的に攻撃しています。」- マーク・アンドリーセン、ノア・スミスとのインタビュー、2021年",
+    "latest": true
+  },
+  "> \"Technology could be a force for democracy, but it has turned out to pose just as much threat to it.\" — Shoshana Zuboff, The Age of Surveillance Capitalism, 2018": {
+    "ja": "「テクノロジーは民主主義の力になるかもしれませんが、それは同じくらいの脅威をもたらすことがわかりました。」- ショシャナ・ズボフ、『監視資本主義の時代』、2018年",
+    "latest": true
+  },
+  "[^RussianDraftEvaders]: Human Rights Watch, \"Russia Uses Facial Recognition to Hunt Down Draft Evaders\", available at https://www.hrw.org/news/2022/10/26/russia-uses-facial-recognition-hunt-down-draft-evaders": {
+    "ja": "[^RussianDraftEvaders]: ヒューマン・ライツ・ウォッチ、「ロシアは顔認識技術を使って徴兵逃れ者を追い詰める」と報告、https://www.hrw.org/news/2022/10/26/russia-uses-facial-recognition-hunt-down-draft-evaders",
+    "latest": true
+  },
+  "> Swirling ocean, beautiful islands;<br />": {
+    "ja": "渦巻く海、美しい島々；",
+    "latest": true
+  },
+  "> Until lately the best thing that I was able to think in favor of civilization…was that it made possible the artist, the poet, the philosopher, and the man of science. But I think that is not the greatest thing. Now I believe that the greatest thing is a matter that comes directly home to us all. When it is said that we are too much occupied with the means of living to live, I answer that the chief worth of civilization is just that it makes the means of living more complex; that it calls for great and combined intellectual efforts, instead of simple, uncoordinated ones, in order that the crowd may be fed and clothed and houses and moved from place to place. Because more complex and intense intellectual efforts mean a fuller and richer life. They mean more life. Life is an end in itself, and the only question as to whether it is worth living is whether you have enough of it. — Oliver Wendell Holmes, 1900[^LifeAsJoy]": {
+    "ja": "最近まで、文明に賛成するために私が考えることができた最良のことは、芸術家、詩人、哲学者、科学者を可能にすることでした。しかし、それが最も偉大なことではないと思います。今では、最も偉大なことは私たち全員に直接関係する問題だと信じています。生活の手段に過度に忙しいと言われると、生活の手段をより複雑にすることが文明の最も価値があると答えます。それは、群衆が食べ物を食べ、服を着、家に住み、場所を移動するために、単純で非協調なものではなく、大きな統合された知的努力を必要とするからです。なぜなら、より複雑で強烈な知的努力は、より充実した豊かな人生を意味します。それはより多くの人生を意味します。人生はそれ自体が目的であり、それが生きる価値があるかどうかの唯一の問題は、それが十分にあるかどうかです。- オリバー・ウェンデル・ホームズ、1900年[^LifeAsJoy]",
+    "latest": true
+  },
+  "> (A)re…atoms independent elements of reality? No…as quantum theory shows: they are defined by their…interactions with the rest of the world…(Q)uantum physics may just be the realization that this ubiquitous relational structure of reality continues all the way down…Reality is not a collection of things, it’s a network of processes. — Carlo Rovelli, 2022[^RelationalReality]": {
+    "ja": "（A）原子は現実の独立した要素ですか？いいえ...量子理論が示すように：彼らは世界の他の部分との相互作用によって定義されます...量子物理学は、現実のこの至る所に存在する関係性の構造を実現するかもしれません...現実は物事の集まりではなく、プロセスのネットワークです。- カルロ・ロヴェッリ、2022年[^関係性のある現実]",
+    "latest": true
+  },
+  "> Industry and inventions in technology, for example, create means which alter the modes of associated behavior and which radically change the quantity, character and place of impact of their indirect consequences. These changes are extrinsic to political forms which, once established, persist of their own momentum. The new public which is generated remains long inchoate, unorganized, because it cannot use inherited political agencies. The latter, if elaborate and well institutionalized, obstruct the organization of the new public. They prevent that development of new forms of the state which might grow up rapidly were social life more fluid, less precipitated into set political and legal molds. To form itself, the public has to break existing political forms. This is hard to do because these forms are themselves the regular means of instituting change. The public which generated political forms is passing away, but the power and lust of possession remains in the hands of the officers and agencies which the dying public instituted. This is why the change of the form of states is so often effected only by revolution. — John Dewey, _The Public and Its Problems_, 1927": {
+    "ja": "技術の産業と発明は、例えば、関連する行動の方法を変え、その間接的な結果の数量、性格、および影響の場所を根本的に変える手段を作り出します。これらの変化は、一度確立されると、政治的な形態には外在的です。生成される新しい公衆は長い間未完成で組織化されていません。なぜなら、それは受け継がれた政治的機関を使用することができないからです。後者は、緻密でよく制度化されている場合、新しい公衆の組織化を妨げます。社会生活がより流動的で、政治的および法的な形態に急速に成長する可能性のある新しい国家の形態の発展を防ぎます。公衆が形成されるためには、既存の政治的形態を破壊する必要があります。これは困難です。なぜなら、これらの形態自体が変化を施行するための定期的な手段だからです。政治的形態を生成した公衆は消えつつありますが、死にゆく公衆が設立した役人や機関の手には、権力と所有欲が残っています。これが、国家の形態の変化が革命によってしか頻繁に実現されない理由です。- ジョン・デューイ、「公衆とその問題」、1927年",
+    "latest": true
+  },
+  "> (D)ecisions about the development and exploitation of computer technology must be made not only \"in the public interest\" but in the interest of giving the public itself the means to enter into the decision-making processes that will shape their future. — J. C. R. Licklider, \"Computers and Government\", 1979": {
+    "ja": "コンピュータ技術の開発と利用に関する意思決定は、「公共の利益」だけでなく、公衆自体が将来を形作る意思決定プロセスに参加する手段を持つことを考慮して行われる必要があります。- J. C. R. Licklider、「コンピュータと政府」、1979年",
+    "latest": true
+  },
+  "[^WEIRDest]: Henrich, J (2020) The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World": {
+    "ja": "[^WEIRDest]: Henrich, J (2020) The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World",
+    "latest": true
+  },
+  "> (A)...belief that beauty, growth, progress -- all result from the union of the unlike. Concord, as much as discord, requires the presence of at least two different notes. The brotherhood of man is an ideal based on learning to delight in our essential differences, as well as learning to recognize our similarities. The circle and triangle combine to produce the gemstone in the center as the union of words and music creates song, or the union of marriage creates children.": {
+    "ja": "(A)...美、成長、進歩はすべて異なるものの結合から生じるという信念です。調和は不和と同様に、少なくとも2つの異なる音符の存在を必要とします。人類の兄弟愛は、本質的な違いを楽しむことと、類似点を認識することに基づく理想です。円と三角形が結合して中央に宝石を生み出し、言葉と音楽の結合が歌を生み出し、結婚の結合が子供を生み出します。",
+    "latest": true
+  },
+  "Overlooking Tokyo, nestled within the National Museum of Emerging Science and Innovation (the Miraikan) lies the Park of Aging, a realm where time bends into the distant future, offering a rare portal to your mind and body after years worn by aging. Video games blur vision, mimicking cataracts. Sounds are stripped of high pitches. In a photo booth that mirrors the trials of aged perception, facial expressions fade and blur. The simple act of recalling a shopping list committed to memory becomes an odyssey, ceaselessly interrupted in a bustling market. Walking in place on pedals with ankle weights, and leaning on a cart simulates the wear of time on the body, and the weight of age on posture. The Park of Aging is not just an exhibit but an immersive conversation across time, a dialogue with your older self through senses—sight, sound, and the aches and pains of age. This journey of empathy extends beyond the future self, to also foster a deeper connection with a present overlooked cohort: the elderly.": {
+    "ja": "東京を見下ろし、新興科学技術館（Miraikan）の中にある老化の公園は、時間が遠い未来に曲がり、年をとって摩耗した心と体への珍しいポータルを提供します。ビデオゲームは視界をぼやかし、白内障を模倣します。音は高音を剥奪されます。年老いた知覚の試練を反映するフォトブースでは、表情が薄れてぼやけます。記憶に頼っている買い物リストを思い出すという単純な行為は、絶え間なく騒がしい市場で中断されるオデッセイとなります。足首の重りをつけたペダルで足踏みし、カートに寄りかかることで、体に時間の摩耗と年齢の重みをシミュレートします。老化の公園は単なる展示物ではなく、時間を超えた没入型の対話であり、感覚（視覚、音、年齢の痛み）を通じて自分自身の年上の自己との対話です。この共感の旅は将来の自己に限定されるものではなく、見落とされがちな現在の同世代である高齢者とのより深いつながりを育むためにも広がります。",
+    "latest": true
+  },
+  "The Park of Aging is a poignant example of proprioceptive, post-symbolic communication, where participants receive information through an intimate, sensorial experience beyond merely interpreting words and symbols, utilizing all sensemaking of the body; the Park immerses participants in the sensations of being old, unlocking the first-hand experience of the deteriorating senses, including seeing and hearing words and symbols. While the Park is a novel, temporal conversation with aging, experiences of proprioceptive, non-symbolic communication today are ubiqutious and include mediation, psychedelics, religious experience, romantic intimacy, dance, yoga, combat, and sports. Not coincidentally, these experiences which harness information gathered from many senses (“higher-bandwidth communication”) also are correlated with long-lasting human bonding and connection when shared. Perhaps it is the diversity of information simultaneously presented to the senses (depth) that contribute to the significance of the experience and therefore strength of connection and “union.”": {
+    "ja": "高齢者の公園は、プロプリオセプティブなポストシンボリックなコミュニケーションの感動的な例であり、参加者は単に言葉やシンボルを解釈するだけでなく、体の感覚的な経験を通じて情報を受け取ります。公園は参加者を老いの感覚に没入させ、視覚や聴覚の言葉やシンボルを含む、感覚の衰える経験を直接体験することができます。一方、プロプリオセプティブな非シンボリックなコミュニケーションの経験は、現在は普遍的であり、仲介、幻覚剤、宗教的経験、ロマンチックな親密さ、ダンス、ヨガ、戦闘、スポーツなどが含まれます。偶然ではありませんが、これらの経験は多くの感覚から収集された情報（「高帯域幅のコミュニケーション」）とも相関しており、共有された場合には長続きする人間の絆とつながりと関連しています。おそらく、感覚に同時に提示される情報の多様性（深さ）が経験の重要性とそれによる絆と「結合」の強さに貢献しているのかもしれません。",
+    "latest": true
+  },
+  "Technological innovations such as neural-interfaces, mediated reality, and generative AI expands the possibility space of post-symbolic communication, where unions within oneself and among people can occur not simply in person, but across temporal, physical, and social distance facilitated by technology. In this chapter, we describe these technologies and explore the frontiers, examining how these technologies could revolutionize interpersonal connections, education, and collaboration, enabling the transmission of thoughts, feelings, and sensory experiences beyond the compression of words and symbols. We consider the opportunities to rectify cultural misunderstandings and conflicts, by fostering profound empathy and shared experience. Yet, where ideas flow as seamlessly as emotions, we also explore the risks of connectivity, including surveillance, homogenization, disconnection and oblivion.": {
+    "ja": "技術革新（例：神経インターフェース、仲介現実、生成AI）は、ポストシンボリックコミュニケーションの可能性空間を拡大し、個人内および人々間の結合が単に対面ではなく、時間的、物理的、社会的距離を超えて技術によって容易に発生することができるようになりました。この章では、これらの技術を説明し、そのフロンティアを探求し、これらの技術が人間関係、教育、協力を革新し、言葉やシンボルの圧縮を超えた思考、感情、感覚体験の伝達を可能にするかどうかを検討します。文化的な誤解や紛争を是正する機会を考え、深い共感と共有体験を育むことによって。しかし、アイデアが感情と同様にシームレスに流れる場合、監視、均質化、切断、忘却などの接続のリスクも探求します。",
+    "latest": true
+  },
+  "  **Dance:** Stepping deeper into music, two participants synchronizing their movements both feel their body and anticipating their partner’s movements to create shared experience.": {
+    "ja": "**ダンス：** 音楽に深く入り込み、2人の参加者が動きを同期させ、お互いの動きを予測して共有の体験を作り出します。",
+    "latest": true
+  },
+  "  **Combat:** on the battlefield, soldiers experience heightened senses, adrenaline, and a battery of sounds, leading to intense awareness of their surroundings and their comrades. Non-verbal cues become critical for survival and strategy. This shared high-stress environment creates a bond and deep understanding and trust develop among combatants.": {
+    "ja": "**戦闘:** 戦場では、兵士たちは感覚が研ぎ澄まされ、アドレナリンが出て、さまざまな音が鳴り響き、周囲と仲間に対する強い意識が生まれます。非言語的な合図が生存と戦略において重要となります。この共有された高ストレスの環境は、戦闘員の間で絆を生み、深い理解と信頼が築かれます。",
+    "latest": true
+  },
+  "**Meditation**: a practice of inward focus and mindfulness, meditation has a diverse set of practices across a range of traditions. One common practice is to observe one's own thoughts and feelings without judgment, fostering a greater recognition and understanding of one’s own mental and emotional states, offering an opportunity to bridge and reconcile internal differences and contradictions. ": {
+    "ja": "**瞑想**：内向的な焦点とマインドフルネスの実践であり、瞑想はさまざまな伝統にわたる実践の多様なセットを持っています。一つの一般的な実践は、自分自身の思考や感情を判断せずに観察することであり、自分自身の心理的および感情的な状態をより認識し理解することを促し、内部の違いや矛盾を結びつけ、調和させる機会を提供します。",
+    "latest": true
+  },
+  "**Psychedelics**: The use of psychedelics can lead to profound internal experiences and altered states of consciousness that disrupt usual patterns of thought and perception, opening alternative narratives to sensemake. Users often report experiencing deep introspective insights, a sense of oneness with the universe, confronting deep-seated emotions and memories, or communication with seemingly non-embodied forms of consciousness. ": {
+    "ja": "**サイケデリック**: サイケデリックの使用は、深い内的体験や意識の変容をもたらすことがあります。これにより、通常の思考や知覚のパターンが乱れ、代替的な物語を感じ取ることができます。ユーザーはしばしば、深い内省的な洞察、宇宙との一体感、深層に潜む感情や記憶への直面、または肉体を持たないような意識の形態とのコミュニケーションを報告しています。",
+    "latest": true
+  },
+  "**Prayer**: Similarly, through prayer, contemplation, or participation in religious rituals, individuals open communication to something other than themselves. Whether through a feeling of divine presence or an internal sense of clarity and peace, these experiences can be deeply impactful and transformative, and foster a greater connection to themselves and their place in the universe. ": {
+    "ja": "**祈り**：同様に、祈り、瞑想、または宗教的な儀式への参加を通じて、個人は自分自身以外の何かとのコミュニケーションを開くことができます。神聖な存在を感じることや内なる明確さと平和感を通じて、これらの経験は非常に影響力があり、変容をもたらし、自分自身と宇宙の中での自分の位置とのより大きなつながりを育むことができます。",
+    "latest": true
+  },
+  "Communication today is rich with examples that touch upon the edges of post-symbolic communication. From physiological signals to chemosignals we are just beginning to learn the non-verbal, information-dense modes that can synchronize human experience and form the deepest human bonds between oneself and other humans, groups, and the universe broadly. ": {
+    "ja": "今日のコミュニケーションは、ポストシンボリックなコミュニケーションの端に触れる例で豊かです。生理学的な信号からケモシグナルまで、非言語的で情報密度の高いモードを学び始めており、人間の経験を同期させ、自己と他の人間、グループ、そして広く宇宙との最も深い絆を形成することができます。",
+    "latest": true
+  },
+  "Today, we stand on the cusp of a cambrian explosion in technologies that can advance post-symbolic communication to unlock immersive, shared experiences that enable participants to communicate physiological and even psychological phenomenological states of being. The Park of Aging is an example of an early experiment, but we can expect deeper, immersive wholly sensorial experiences with novel integrations of technology that combine in supermodular ways to enable us to communicate ideas and emotions in a more direct and visceral manner for richer, shared experiences. A number of technologies include: ": {
+    "ja": "今日、私たちはポストシンボリックコミュニケーションを進化させることができる技術のカンブリア爆発の中に立っています。これにより、参加者が生理的、さらには心理的な現象状態を伝えることができる没入型の共有体験が可能になります。エイジングパークは初期の実験の一例ですが、私たちはより深く没入型の完全な感覚体験を期待することができます。これには、技術の新しい統合が含まれ、より直接的で本能的な方法でアイデアや感情を伝えることができるようになります。いくつかの技術があります：",
+    "latest": true
+  },
+  "**Neural and Brain-Computer Interfaces (BCI):** devices that connect directly to the brain capture neural activity and offer a direct pathway for communicating complex thoughts and emotions. BCIs enable direct communication between the brain and external devices. Future developments could allow for the sharing of thoughts, emotions, and experiences directly from one mind to another, allowing for an unprecedented level of interaction. ": {
+    "ja": "**ニューラルと脳-コンピュータインターフェース（BCI）：** 脳に直接接続し、神経活動をキャプチャし、複雑な思考や感情を伝えるための直接的な経路を提供するデバイス。BCIは脳と外部デバイスの直接的なコミュニケーションを可能にします。将来の発展により、思考、感情、経験を直接他の人の心から共有することが可能になり、前例のないレベルの相互作用が可能になるかもしれません。",
+    "latest": true
+  },
+  "**3D Audio and Immersive Soundscapes**: Advanced sound technologies that create three-dimensional auditory experiences can deeply enhance the sense of immersion in a virtual space, conveying emotions and atmosphere in a way that traditional stereo sound cannot.": {
+    "ja": "**3Dオーディオと没入型サウンドスケープ**：3次元の音響体験を作り出す先進的な音響技術は、従来のステレオサウンドでは伝えることのできない感情や雰囲気を、仮想空間での没入感を深めることで効果的に伝えることができます。",
+    "latest": true
+  },
+  "**Advanced Projection Mapping and Spatial Computing:** Technologies allow for the transformation of physical spaces into interactive, digitally augmented environments. They can create shared, multi-sensory experiences that blend the physical and digital worlds.": {
+    "ja": "**高度なプロジェクションマッピングと空間コンピューティング：** テクノロジーは、物理空間をインタラクティブなデジタル拡張環境に変換することを可能にします。彼らは物理的な世界とデジタルの世界を融合させた共有の多感覚体験を創造することができます。",
+    "latest": true
+  },
+  "With the advent of generative AI, these technologies will furthermore enable us to generate visual representations of our thoughts at a pace that closely mirrors the speed of our imagination, unlocking  responsive, adaptive environments or characters in virtual spaces that can react in real-time to users' emotions, actions, or choices beyond simple interpretation of natural language inputs  [^5]. Researchers have already shown how brain implants can connect the intentions of a paralyzed patient into physical movements [^6], demonstrating the remarkable potential of neural interfaces to bridge the gap between thought and action. Combined, these capabilities enable transmission of ideas and emotions that can occur directly and seamlessly, and have profound implications for how we share and understand each other's internal experiences, creative visions, aspirations and even past traumas to facilitate reconciliation, healing and forgiveness. For example, imagine a child immersing themselves in the sensorial experiences of their parents at the same age. Or two cultural groups at war, experiencing the pain and loss of their adversary’s family members. With more inclusive and empathetic ways of interacting, these technologies can unlock communication that is not only post-symbolic but also deeply empathetic, as individuals share experiences and emotions in their most unfiltered, raw and uncompressed form beyond the boundaries of time, physical and even social distance.  Such technological advances, when paired with our growing understanding of human perception and cognition, are paving the way for a future where communication encompasses a much broader range of human experiences and states. ": {
+    "ja": "生成AIの登場により、これらの技術はさらに私たちの思考の視覚的表現を生成することを可能にし、それは私たちの想像力の速度に密接に追従するペースで行われます。これにより、反応性の高い適応型の環境や仮想空間のキャラクターが実時間でユーザーの感情、行動、または選択に対して反応することができます。これは単なる自然言語入力の解釈を超えたものです[^5]。研究者たちは既に、脳インプラントが麻痺患者の意図を物理的な動きにつなげることができることを示しており、思考と行動のギャップを埋める神経インターフェースの驚異的な可能性を実証しています[^6]。これらの能力を組み合わせることで、アイデアや感情の伝達が直接かつシームレスに行われ、私たちがお互いの内面的な経験、創造的なビジョン、願望、さらには過去のトラウマを共有し理解する方法に深い影響を与えることができます。例えば、子供が自分の両親の同じ年齢の感覚的な経験に没頭することを想像してみてください。また、戦争中の2つの文化的なグループが相手の家族の苦痛と喪失を経験しているということもあります。より包括的で共感的な相互作用の方法によって、これらの技術は、時間、物理的、さらには社会的な距離の制約を超えて、個人が経験や感情を最もフィルタリングされていない、生の、圧縮されていない形で共有することができるコミュニケーションを可能にします。このような技術の進歩は、人間の知覚と認知の理解が進むにつれて、コミュニケーションがより広範な人間の経験や状態を包括する未来への道を切り開いています。",
+    "latest": true
+  },
+  "In the far future, the evolution of non-symbolic communication promises to profoundly reshape our understanding of intimacy and the very essence of life's milestones, such as childhood and relationships. Imagine a world where the boundaries of personal experiences blur, redefining intimacy not as a physical or emotional proximity but as a deep, seamless sharing of consciousness. Telepathy, once a realm of science fiction, becomes an attainable reality, allowing for the direct transmission of thoughts, feelings, and sensory experiences from mind to mind. This profound leap in communication transcends the need for spoken words or physical gestures. The implications of such a capability are monumental. It could lead to an unprecedented level of understanding and empathy between individuals, as barriers erected by language and cultural differences dissolve. Human relationships evolve into deeper, more meaningful connections where misunderstandings are rare, and empathy is abundant. Children, in this new paradigm, grow not just by learning from others' words or observing actions but by immersing themselves in the lived experiences of others, including their ancestors, spanning different cultures and epochs. This experiential osmosis accelerates empathy and wisdom, fostering a society where learning is as much about absorbing direct experiences as it is about traditional education.": {
+    "ja": "遠い未来では、非象徴的なコミュニケーションの進化が、親密さや人生の節目である子供時代や関係性の理解を根本的に変えることを約束しています。個人の経験の境界が曖昧になり、親密さが身体的または感情的な近さではなく、意識の深い、シームレスな共有として再定義される世界を想像してみてください。テレパシーはかつての科学小説の領域でしたが、思考、感情、感覚体験を直接伝達することが可能な現実になります。このコミュニケーションの飛躍的な進歩は、話された言葉や身体的なジェスチャーの必要性を超越します。そのような能力の影響は重大です。言語や文化の違いによって築かれた障壁が解消されることで、個人間の理解と共感のレベルが前例のないものになる可能性があります。人間関係はより深く、意味のあるつながりに進化し、誤解が少なく、共感が豊富なものになります。この新しいパラダイムでは、子供たちは他の人々の言葉や行動を学ぶだけでなく、異なる文化や時代をまたいだ祖先を含む他者の生活体験に没頭することで成長します。この経験的な浸透は共感と知恵を加速させ、学びが伝統的な教育だけでなく、直接の経験を吸収することにも関わる社会を育みます。",
+    "latest": true
+  },
+  "The journey into post-symbolic communication is not without its perils. The very tools that promise deeper connection could also lead to a loss of individuality. Worse, participants could be surveilled, leaving our thoughts, emotions, and motivations open to manipulation; any window into our mind is also a window of influence. At the extreme, there is a risk that participants no longer have a private inner world while also disconnecting from the outer world into the “Matrix.” Unchecked visibility into our minds allows for unprecedented levels of manipulation and control, potentially by technology companies or governments that distract humanity with an alternate reality, or simulation. As humans lose touch with the reality of the physical world, over-reliance on telepathic communication could lead to the atrophy of traditional communication skills and cultural practices, with people becoming dependent on direct mental connections. Furthermore, in a world where the boundaries between self and other blur, the sanctity of individual thought and experience could be threatened. High-bandwidth communication could lead to a homogenization of thoughts and experiences as individual perspectives merge into a collective consciousness, erasing our differences.": {
+    "ja": "ポストシンボリックコミュニケーションへの旅は、危険を伴います。より深いつながりを約束するそのツール自体が、個性の喪失につながる可能性もあります。さらに悪いことに、参加者は監視される可能性があり、私たちの思考、感情、動機が操作される可能性があります。私たちの心の窓は同時に影響力の窓でもあります。極端な場合、参加者は私たちの内なる世界を持たず、外部の世界からも切り離されてしまう「マトリックス」になるリスクがあります。私たちの心に対する無制限の可視性は、前例のないレベルの操作と制御を可能にし、テクノロジー企業や政府による、代替現実やシミュレーションで人類を惑わす可能性があります。物理的な世界の現実感を失う中で、テレパシックなコミュニケーションへの過度の依存は、伝統的なコミュニケーションスキルや文化的な実践の衰退をもたらし、人々が直接的な精神的なつながりに依存するようになる可能性があります。さらに、自己と他者の境界が曖昧になる世界では、個々の思考と経験の尊厳が脅かされる可能性があります。高帯域幅のコミュニケーションは、個別の視点が集合意識に融合することで、思考と経験の均質化につながり、私たちの違いを消し去るかもしれません。",
+    "latest": true
+  },
+  "Balancing telepathic communication with lower-bandwidth, structured forms of communication is essential to preserve privacy, autonomy, diversity, and human governance in the future. Communication, like speech and text, is less direct and immediate than telepathy but is structured and deliberate. It requires the sender to formulate thoughts into words or sentences, providing a level of control and reflection that instantaneous telepathic communication lacks. Markets and voting systems also serve as quintessential examples of lower-bandwidth, structured forms of communication, offering a counterbalance. In markets, the myriad decisions made by consumers and producers are communicated through the price mechanism. This system, while less immediate and detailed than telepathic communication, provides a structured and aggregated way of expressing preferences and values. It allows for privacy in decision-making, as individuals do not have to reveal the full spectrum of their thoughts and motivations. Similarly, voting is a deliberate, structured form of communication where individuals express their political and social preferences at a fixed point in time. Unlike continuous and invasive telepathic streams, voting encapsulates the will of the populace in a manner that is both manageable and interpretable, preserving the autonomy of the individual voter. This structured approach is crucial in maintaining a balance between efficient communication and the safeguarding of personal autonomy, privacy, and democratic processes, acting as a vital check against the overreach of an all-encompassing telepathic matrix.": {
+    "ja": "将来のプライバシー、自治、多様性、および人間の統治を保護するために、テレパシーによるコミュニケーションと低帯域の構造化されたコミュニケーションをバランスさせることが重要です。スピーチやテキストなどのコミュニケーションは、テレパシーよりも直接的で即時的ではありませんが、構造化されて意図的です。送信者は思考を言葉や文にまとめる必要があり、瞬時のテレパシーに欠ける制御と反省のレベルを提供します。市場や投票システムも、低帯域の構造化されたコミュニケーションの典型的な例として機能し、バランスを提供します。市場では、消費者や生産者によって行われる無数の意思決定が価格メカニズムを通じて伝えられます。このシステムは、テレパシーによるコミュニケーションよりも即時性や詳細性に欠けますが、好みや価値観を構造化された集約的な方法で表現することができます。個人の思考や動機の全体像を明らかにする必要はないため、意思決定のプライバシーを可能にします。同様に、投票は意図的で構造化されたコミュニケーションの形式であり、個人が政治的および社会的な好みを一定の時点で表現するものです。連続的で侵略的なテレパシーのストリームとは異なり、投票は個々の有権者の意思を管理可能で解釈可能な方法で包括します。この構造化されたアプローチは、効率的なコミュニケーションと個人の自治、プライバシー、民主的なプロセスの保護のバランスを維持する上で重要であり、包括的なテレパシックマトリックスの過剰な拡大に対する重要なチェックとして機能します。",
+    "latest": true
+  },
+  "# 職場": {
+    "ja": "Workplace",
     "latest": true
   }
 }
