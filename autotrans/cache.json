@@ -11654,5 +11654,21 @@
   "# 職場": {
     "ja": "Workplace",
     "latest": true
+  },
+  "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/gitcoin_matching.png\" width=\"100%\" alt=\"Contributions on Gitcoin are matched by a matching pool, powered by Quadratic Funding.  Quadratic Funding is a plural funding formula because it elevates many small contributions across social distance.\">": {
+    "ja": "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/gitcoin_matching.png\" width=\"100%\" alt=\"Gitcoinの貢献は、Quadratic Fundingによって支えられるマッチングプールによってマッチングされます。Quadratic Fundingは、社会的距離を超えた多くの小さな貢献を高めるための多元主義的な資金調達の公式です。\">",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Contributions on Gitcoin are matched by a matching pool, powered by Quadratic Funding.  Quadratic Funding is a plural funding formula because it elevates many small contributions across social distance.": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;Gitcoinへの貢献は、Quadratic Fundingによって支えられたマッチングプールによってマッチングされます。Quadratic Fundingは、社会的距離を超えて多くの小さな貢献を高めるための多元的な資金調達の公式です。",
+    "latest": true
+  },
+  "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/gitcoin_projectpage.png\" width=\"100%\" alt=\"The project page for the plurality book on Gitcoin.  As of February 2 2024, the plurality book had received $332.84 in funding from 87 contributors.\">": {
+    "ja": "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/gitcoin_projectpage.png\" width=\"100%\" alt=\"Gitcoinでの多元主義のプロジェクトページ。2024年2月2日現在、多元主義の本は87人の貢献者から332.84ドルの資金を受け取っています。\">",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; The project page for the plurality book on Gitcoin.  As of February 2 2024, the plurality book had received $332.84 in funding from 87 contributors.": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;Gitcoinの多元主義の本のプロジェクトページです。2024年2月2日現在、多元主義の本は87人の貢献者から332.84ドルの資金を受け取っています。",
+    "latest": true
   }
 }
