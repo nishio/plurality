@@ -2,7 +2,7 @@
 
 🇹🇼マーケット
 
-🇹🇼| 作者：オードリー・タン、E. グレン・ワイル、および多元主義コミュニティ
+🇹🇼| 作者：E. Glen Weyl、Audrey Tang、および⿻ コミュニティ
 🇹🇼| 翻訳者：唐鳳 Audrey Tang、周宜蔓 Gisele Chou
 
 🇹🇼---
@@ -115,6 +115,6 @@
 
 🇹🇼[^Hirsch]: 引用ヒルシュマンの「情熱と興味」。
 🇹🇼[^Marketarg]: スロボディアンとクマピートを引用します。
-🇹🇼[^interact]: "Interaction domain" and "humanism".
+🇹🇼[^interact]: 引用 "互動領域 "和 "人本主義"。
 🇹🇼[^Arnott]: 引用 HGT 論文。
 🇹🇼[^Robinson]: 引用金-斯坦利-ロビンソンの書。
