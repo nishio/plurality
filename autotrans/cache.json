@@ -465,7 +465,7 @@
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Perhaps the clearest sign of the limits of the modern order is that one need not look to colonial discontent or the social margins to see them. In fact, some of the most prominent and celebrated founding figures were also searing critics and re-imaginers of these foundational institutions.  Henry George, author of the best-selling and most influential book on economics in American and perhaps world history, made his career as a searing critic of private property.  Georg Simmel, one of the founders of sociology, originated the idea of the \"web\" as a critique of the individualist concept of identity.  John Dewey, widely considered the greatest philosopher of American democracy, argued that the standard national and state institutions that instantiated hardly scratched the surface of what democracy required. Norbert Wiener coined the term \"cybernetics\" to the field of studying such rich interactive systems.  By perceiving the limits of the box they highlighted even as they helped construct it, we can learn to imagine a social world outside it.": {
     "ja": "現代秩序の限界の最も明確な兆候は、植民地の不満や社会の周縁を見る必要はないということです。実際、最も著名で称賛されている創設者の中には、これらの基礎的な制度の厳しい批評家や再構築者もいました。アメリカおよび世界史上最も売れた経済学の本であるヘンリー・ジョージの著書は、私有財産の厳しい批評家としての彼のキャリアを築きました。社会学の創設者の一人であるゲオルク・ジンメルは、個人主義的なアイデンティティの批判として「ウェブ」という概念を生み出しました。アメリカの民主主義の最も偉大な哲学者と広く考えられているジョン・デューイは、民主主義に必要なものは、標準的な国家および州の制度がほとんど表面しか触れていないと主張しました。ノーバート・ウィーナーは「サイバネティックス」という用語を豊かな相互作用システムの研究のために造語しました。彼らが構築する一方でそれを強調することで、私たちはそれの限界を認識し、それの外にある社会的な世界を想像することができます。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; We remember Karl Marx and Adam Smith more sharply, but the social thinker that may have had the greatest influence during and immediately following his lifetime was Henry George.  Author of the for-years best-selling book in English other than the Bible, *Progress and Poverty*, George inspired or arguably founded many of the most successful political movements and even cultural artifacts of the early twentieth century including:": {
     "ja": "私たちはカール・マルクスとアダム・スミスをより鮮明に覚えていますが、彼の生涯中および直後に最も大きな影響を与えた社会思想家はおそらくヘンリー・ジョージでした。聖書以外の英語で最も売れた本である「進歩と貧困」の著者であるジョージは、20世紀初頭の多くの成功した政治運動や文化的なアーティファクトのインスピレーションを与え、またはおそらく創設しました。",
@@ -1337,7 +1337,7 @@
   },
   "### Atoms and the universe": {
     "ja": "### 原子と宇宙",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; The pattern of such thinking runs through almost every scientific field at some point in its development.  Euclidean geometry, which aspires to deduce nearly all mathematical facts from a small set of axioms and concepts, and Newtonian mechanics, which describe the relationship between the motion of an object and the forces acting on it, are perhaps the most famous examples.  In biology, the simple version of Darwinism focuses on the survival of the fittest species, with individual animals (or in later versions “selfish genes”) constantly struggling against each other to survive [^4].   In (primitive) neuroscience (especially phrenology), atoms are regions of the brain, each undertaking an atomic function that together add up to thought. In psychology, behaviorism saw thought as reducible to stimuli and response. In economics, the atoms are the self-interested individuals (or sometimes firms) of economic theory, each seeking their own advantage in the market.  In computer science, the Church-Turing Thesis sees all possible operations as reducible to a series of operations on an idealized computer called a “Turing Machine”.": {
     "ja": "このような考え方のパターンは、その発展のある時点でほぼすべての科学分野に存在します。ユークリッド幾何学は、少数の公理と概念からほぼすべての数学的事実を導き出そうとするものであり、ニュートン力学は物体の運動とそれに作用する力の関係を記述しています。これらはおそらく最も有名な例です。生物学では、ダーウィニズムの単純なバージョンでは、最も適応力のある種の生存に焦点を当てており、個々の動物（または後のバージョンでは「利己的な遺伝子」）が常に互いに闘いながら生き残ることを目指しています[^4]。 （原始的な）神経科学（特に頭蓋骨学）では、原子は脳の領域であり、それぞれが思考に合計される原子的な機能を担っています。心理学では、行動主義は刺激と反応に還元される思考と見なしています。経済学では、原子は経済理論の自己利益を追求する個人（または時には企業）であり、市場で自分自身の利益を追求します。コンピュータ科学では、チャーチ・チューリングのテーゼは、すべての可能な操作を「チューリングマシン」と呼ばれる理想化されたコンピュータ上の一連の操作に還元できると見なしています。",
@@ -1345,19 +1345,19 @@
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Whatever their limits, these approaches have achieved great successes that cannot be ignored.  Newtonian mechanics explained a range of phenomena and helped inspire the technologies of the industrial revolution.  Darwinism is the foundation of modern biology.  Economics has been the most influential of the social sciences on public policy.  And the Church-Turing vision of “general computation” helped inspire the idea of general-purpose computers that are so broadly used today. ": {
     "ja": "",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; They are also the foundation of the Abundance Technocracy (AT) and Entrepreneurial Sovereignty (ES) worldviews we discussed in the last chapter, though each emphasizes a different aspect.  AT focuses on the unity of reason and science inherent in monism and seeks to similarly rationalize social life, harnessing technology.  ES focuses on the fragmentation intrinsic to atomism and seeks to model “natural laws” for the interaction of these atoms (like natural selection and market processes).  In this sense, while ES and AT seem opposite, they are opposites within an aligned scientific worldview.": {
     "ja": "彼らはまた、前章で議論した豊かな技術主義（AT）と起業主権（ES）の世界観の基盤でもありますが、それぞれが異なる側面を強調しています。ATは一元論に内在する理性と科学の統一に焦点を当て、同様に社会生活を合理化し、技術を利用しようとします。ESは原子論に固有の断片化に焦点を当て、これらの原子の相互作用のための「自然法則」（自然選択と市場プロセスなど）をモデル化しようとします。この意味では、ESとATは対照的なように見えますが、それらは一致した科学的世界観の中での対立です。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; For all that shared worldview has inspired, the science of the 20th century showed its limitations.  Relativity and even more quantum mechanics upended the Newtonian universe.  Gödel’s Theorem and a variety of following works undermined the unity and completeness of mathematics and a range of non-Euclidean geometries are now critical to science. Symbiosis, ecology, and extended evolutionary synthesis undermined “survival of the fittest” as the central biological paradigm.  Neuroscience has been reimagined around networks and emergent capabilities, which in turn have become conceptually central to modern computation.  Critical to all these developments are ideas such as “complexity”, “emergence”, “networks”, and “collective intelligence” that challenge the elegance of monist atomism.": {
     "ja": "共有の世界観がもたらしたすべてにもかかわらず、20世紀の科学はその限界を示しました。相対性理論やさらに量子力学は、ニュートンの宇宙を覆い隠しました。ゲーデルの定理やその後のさまざまな研究は、数学の統一性と完全性を揺るがし、非ユークリッド幾何学のさまざまな分野が科学にとって重要になりました。共生、生態学、そして拡張進化合成は、「最も適応したものが生き残る」という中心的な生物学のパラダイムを揺るがしました。神経科学はネットワークと新たな能力を中心に再構築され、それらはさらに現代の計算に概念的に中心的な役割を果たしています。これらの発展には、「複雑性」、「出現」、「ネットワーク」、「集合知」などのアイデアが重要であり、単一主義の原子論の優雅さに挑戦しています。",
-    "latest": true
+    "latest": false
   },
   "### Complexity and emergence": {
     "ja": "複雑性と出現",
-    "latest": true
+    "latest": false
   },
   "- Sensitivity, chaos, and irreducible uncertainty: To make matters worse, many even relatively simple systems have been shown to exhibit “chaotic” behavior.  A system is chaotic if a tiny change in the initial conditions translates into radical shifts in its eventual behavior after an extended time has elapsed.  The most famous example is weather systems, where it is often said that a butterfly flapping its wings can make the difference in causing a typhoon half-way across the world weeks later.  In the presence of such chaotic effects, attempts at prediction via reduction require extreme and thus unrealistic degrees of precision.  To make matters worse, there are often hard limits to how much precision is feasible, as precise instruments often interfere with the systems, they measure in ways that can lead to important changes due to the sensitivity mentioned previously.  The most absolute version of this is the Heisenberg Uncertainty Principle, which puts physical upper limits on measurement precision based on this logic.": {
     "ja": "感度、混沌性、および還元できない不確実性：さらに悪いことに、多くの比較的単純なシステムでも「混沌的」な振る舞いが示されています。システムが混沌的であるとは、初期条件の微小な変化が、時間の経過後にその振る舞いに根本的な変化をもたらすことを意味します。最も有名な例は、天候システムであり、しばしば蝶が羽ばたくことで、数週間後に世界の反対側で台風を引き起こす違いが生じると言われています。このような混沌的な効果の存在下では、還元による予測の試みには極端で現実的ではないほどの精度が必要です。さらに悪いことに、精密な計器はしばしばシステムに干渉し、先に述べた感度による重要な変化を引き起こす可能性があるため、どれだけの精度が実現可能かにはしばしば厳しい制限があります。これの最も絶対的なバージョンは、ハイゼンベルクの不確定性原理であり、この論理に基づいて測定精度に物理的な上限を設けています。",
@@ -1365,23 +1365,23 @@
   },
   "- Relationality: Multiscale organization implies many imperfectly commensurable ways of knowing.  But if these could each be sliced into distinct scientific spheres, could monist atomism still prevail within each of several scientific fields? Yet a critical element of complexity is that phenomena at different scales often determine the interactions between and even constitute the nature of items at other scales.  Units at smaller scales, for example, may have their identities and the rules they obey constituted by the larger units they in turn make up.  While approximations ignoring these interactions may be useful for some phenomena, it is frequently important to trace down these dependencies in other contexts and ensure one accounts for them.": {
     "ja": "相対性：多重スケールの組織は、多くの不完全に可換な知識の方法を意味します。しかし、これらをそれぞれ異なる科学的領域に分割できれば、各科学分野内で一元的な原子論が依然として支配的でしょうか？しかし、複雑さの重要な要素は、異なるスケールの現象がしばしば他のスケールのアイテムの相互作用を決定し、さらにはその性質を構成することです。例えば、小さなスケールの単位は、それらを構成する大きな単位によってそのアイデンティティと従うルールが構成される場合があります。これらの相互作用を無視する近似は、一部の現象には有用かもしれませんが、他の文脈ではこれらの依存関係を追跡し、それらを考慮に入れることが頻繁に重要です。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp;  In the plural view, the almost the exact opposite metaphor applies: the scientific pursuit resembles the building of structures outward from the surface of a planet.  While these structures might initially crowd and compete, if they grow far enough out the space they have to fill expands into the infinite void beyond.  As these structure branch out, they diversify and fragment, making the possibilities for them to interact and recombine ever richer and yet the potential of their converging to a single outcome ever more remote.  Furthermore, each of these recombinations can, roughly as in sexual reproduction, form new structures that themselves extend further off on their own trajectories.  Progress is complexity, diversification, and intersectional recombination.": {
     "ja": "複数形の視点では、ほぼ正反対のメタファーが適用されます：科学的な追求は、惑星の表面から外に向かって構造物を建設するようなものです。これらの構造物は最初は混雑し競合するかもしれませんが、十分に成長すると、埋めるスペースは無限の虚空に広がります。これらの構造物が枝分かれし多様化し、断片化することで、相互作用や再結合の可能性はますます豊かになり、一つの結果に収束する可能性はますます遠くなります。さらに、これらの再結合のそれぞれは、性的な生殖のように、それ自体が新しい構造物を形成し、独自の軌道上でさらに進化します。進歩は複雑さ、多様化、交差再結合です。",
-    "latest": true
+    "latest": false
   },
   "### The plurality of scientific revolutions": {
     "ja": "### 科学革命の多元性",
-    "latest": true
+    "latest": false
   },
   "**Mathematics**": {
     "ja": "**数学**",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Perhaps the most surprising reach of pluralism has been into the structure of truth and thought itself. The gauntlet for twentieth century mathematics was thrown down by David Hilbert, who saw a complete and unified mathematical structure within grasp around the same time that Lord Kelvin saw the passing of the closing of the frontier in physics.  Yet while the century began with Bertrand Russell and Alfred North Whitehead’s famous attempt to place all of mathematics on the grounds of a single axiomatic system, developments from that starting point have been quite opposite.  Rather than reaching a single truth from which all else followed, mathematics shattered into a thousand luminous fragments.": {
     "ja": "多元主義の最も驚くべき到達点は、真理と思考自体の構造にまで及んだことかもしれません。20世紀の数学にとっての試練は、デビッド・ヒルベルトによって投げかけられました。彼は物理学におけるフロンティアの終焉を見た時期と同じく、完全で統一された数学的構造が手の届くと考えていました。しかし、20世紀はベルトランド・ラッセルとアルフレッド・ノース・ホワイトヘッドによる有名な試みで始まりました。彼らは数学を単一の公理系の基礎に置こうとしましたが、その出発点からの展開はまったく逆の方向に進んできました。すべてのものが続く単一の真理に到達するのではなく、数学は千の輝かしい断片に砕け散りました。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Geometry and topology, once the province of Euclidean certainties, turned out to admit endless variations, just as the certainties of a flat earth vanished with circumnavigation. Axiomatic systems went from the hope for complete mathematical systems to being proven, by Kurt Gödel, Paul Cohen, and others to be inherently unable to resolve some mathematical problems and necessarily incomplete.  Alonzo Church showed that other mathematical questions were undecidable by any computational process.  Even the pure operations of logic and mathematics, it thus turned out, were nearly as plural as the fields of science we discussed above. To illustrate: ": {
     "ja": "幾何学と位相学は、かつてはユークリッドの確実性の領域でしたが、無限の変化を許すことがわかりました。まるで平らな地球の確実性が航海によって消え去ったように、公理的なシステムは完全な数学的システムを望むことから、クルト・ゲーデル、ポール・コーエンなどによって、数学的な問題を解決することができず、必然的に不完全であることが証明されました。アロンゾ・チャーチは、他の数学的な問題がどのような計算プロセスでも決定不能であることを示しました。したがって、論理と数学の純粋な操作さえも、上記で議論した科学の領域とほぼ同様に多元的であることがわかりました。例を挙げると、",
@@ -1397,43 +1397,43 @@
   },
   "- Church proved that some mathematical problems were “undecidable” by computational processes and subsequent work in complexity theory has shown that even when mathematical problems might be in principle decidable, the computational complexity of arriving at such an answer is often immense.  This dashed the dream of reducing all of mathematics to computations on basic axioms.": {
     "ja": "チャーチは、いくつかの数学の問題が「決定不能」であることを計算プロセスによって証明しました。その後の複雑性理論の研究により、数学の問題が原理的には決定可能であっても、その答えにたどり着く計算の複雑さはしばしば膨大であることが示されました。これにより、すべての数学を基本的な公理に基づく計算に還元するという夢は打ち砕かれました。",
-    "latest": true
+    "latest": false
   },
   "- While mathematics is not primarily concerned with phenomena well described by scales, the above phenomena have implied that rather than collapsing into a single field, twentieth century mathematics blossomed into an incredible diversity of subfields and sub-subfields, covering a range of phenomena.  Geometry alone has a dozen major subfields from topology to projective geometry, studying radically different and only loosely intersecting elements of what was once a single, highly axiomatic, and largely closed set of phenomena.": {
     "ja": "数学は主にスケールでよく説明される現象に関心を持っていませんが、上記の現象からは、単一の分野に収束するのではなく、20世紀の数学は信じられないほど多様なサブフィールドとサブサブフィールドに分岐し、さまざまな現象をカバーしていることが示唆されています。幾何学だけでも、位相から射影幾何学まで、かつては単一の、高度に公理的で主に閉じた現象の集合だったものの、根本的に異なる要素を研究しており、ほとんど交差しない要素が十数個あります。",
-    "latest": true
+    "latest": false
   },
   "- Relationality is a fundamental aspect of mathematics, as it concerns the study of the relationships between objects and the structures that emerge from those relationships. In mathematics, different branches are often interconnected, and insights from one area can be applied to another. For instance, algebraic structures are ubiquitous in many branches of mathematics, and they provide a language for expressing and exploring relationships between mathematical objects.  Moreover, the study of topology is based on understanding the relationships between shapes and their properties. The mix of diversity and interconnectedness is perhaps the defining feature of modern mathematics ": {
     "ja": "関係性は数学の基本的な側面であり、それは物体間の関係とそれらの関係から生じる構造の研究に関わります。数学では、異なる分野がしばしば相互に関連しており、ある分野からの洞察は別の分野に適用することができます。たとえば、代数的な構造は数学の多くの分野で普遍的であり、数学的な対象間の関係を表現し探求するための言語を提供します。さらに、位相学の研究は形状とその特性の関係を理解することに基づいています。多様性と相互関連性の組み合わせは、現代数学の特徴と言えるでしょう。",
-    "latest": true
+    "latest": false
   },
   "- Again, while “causation” is not quite the right way to understand pure mathematics, one of the most remarkable features of this modern field is its opposition to the reductionist approach, where seemingly simple questions are reduced to axioms and everything filters down through these.  Perhaps the most famous example is Fermat’s Last Theorem, the claim by a the 17th century mathematician to have proven that a simple equation admits no whole number solutions.  The eventual proof in the 1990s by Andrew Wiles building off centuries of intervening mathematics involved a range of techniques (especially related to so-called “elliptic curves”) developed for other purposes far more apparently advanced that the statement itself. The same is believed to be true of many other unsolved mathematical problems, such as the Riemann Hypothesis.": {
     "ja": "再び、「因果関係」という言葉は純粋な数学を理解するための正しい方法ではありませんが、この現代の分野の最も注目すべき特徴の一つは、見かけ上単純な問題が公理に還元され、すべてがそれを通じてフィルタリングされる還元主義的なアプローチに対する反対です。おそらく最も有名な例は、フェルマーの最終定理です。17世紀の数学者が、単純な方程式には整数解が存在しないことを証明したと主張しました。1990年代にアンドリュー・ワイルズによって証明された最終的な証明は、その主張自体よりもはるかに高度な他の目的のために開発されたさまざまな技術（特に「楕円曲線」と呼ばれるもの）を含んでいます。同様のことが、リーマン予想などの他の未解決の数学の問題にも当てはまると信じられています。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Many of these advances in pure mathematics have remained puzzles of curiosity and toys of the mind.  Yet many of these apparently abstruse ideas have helped transform modern technology.  The same elliptic curves that were central to Wiles’s proof are the foundation of one of the leading approaches to public key cryptography, given the intractability of certain solutions to problems involving them. Other advanced mathematics has proven core to the design of computer circuitry, medical image analysis, civil and aeronautical engineering, and more.  Each of these applications depends on wildly different and only occasionality tangential areas of mathematics, rather than on the monolithic and integrated theory that Hilbert, Russell, and Whitehead once dreamed of.": {
     "ja": "多くの純粋数学の進歩は、好奇心のパズルや心のおもちゃのままです。しかし、これらの見かけ上難解なアイデアの多くは、現代の技術の変革に役立っています。ワイルズの証明の中心となった楕円曲線は、特定の問題の解に関する解決の困難さを考慮して、公開鍵暗号の主要なアプローチの基礎となっています。他の高度な数学は、コンピュータ回路の設計、医療画像解析、土木および航空工学などにおいて、中核となる役割を果たしています。これらの応用は、ヒルベルト、ラッセル、ホワイトヘッドがかつて夢見た一体化された理論ではなく、異なる数学の分野に依存しています。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; In short, in sharp contrast to the monist atomist vision, the world-defining science and technology built on it in the twentieth century arose from their diversity: fields of knowledge proliferated and speciated, and each field internally, like a fractal, mirrored the same richness.  The closer we looked into each area, the greater intricacy revealed itself.  Surprising connections and relationships have emerged, but have only added to the complexity, rather than implying “unity”.  ": {
     "ja": "簡単に言えば、単一主義の原子主義のビジョンとは対照的に、20世紀に築かれた世界を定義する科学と技術は、その多様性から生まれました。知識の領域が増殖し、分化し、各領域が内部的にフラクタルのように同じ豊かさを反映していました。各分野をより詳しく調べるほど、より複雑さが明らかになりました。驚くべきつながりや関係が浮かび上がってきましたが、「統一」を意味するのではなく、むしろ複雑さを増すだけです。",
-    "latest": true
+    "latest": false
   },
   "**Physics**": {
     "ja": "**物理学**",
-    "latest": true
+    "latest": false
   },
   "At the end of the 19th century, Lord Kelvin infamously proclaimed that “There is nothing new to discover in physics now.”  The next century proved, on the contrary, to be the most fertile and revolutionary in the history of the field.  Relativity (special and especially general), quantum mechanics, and to a lesser extent thermodynamics/information theory and string theory upended the Newtonian universe, showing that the simple linear-time, Euclidean-space objective reality of colliding billiard balls was at best an approximation valid in familiar conditions.  The (post-)modern physics that emerged from these revolutions beautifully illustrates pluralism in science, illustrating how pluralism is, as suggested by the epigraph from prominent physicist Carlo Rovelli, baked into the very fabric of reality.": {
     "ja": "19世紀末、ケルビン卿は「物理学にはもう新しい発見はない」と言いました。しかし、次の世紀は、その反対に、この分野の歴史で最も豊かで革命的なものとなりました。相対性理論（特に一般相対性理論）、量子力学、そしてある程度の熱力学/情報理論と弦理論は、ニュートンの宇宙観を覆し、単純な線形時間、ユークリッド空間の客観的な現実が最良の近似であり、馴染みのある条件で有効であることを示しました。これらの革命から生まれた（ポスト）モダン物理学は、科学の多元主義を美しく示しており、著名な物理学者カルロ・ロヴェリの引用句が示唆するように、多元主義が現実の本質に組み込まれていることを示しています。",
-    "latest": true
+    "latest": false
   },
   "- Perhaps the most striking and consistent feature of the revolutions in twentieth century physics was the way they upset assumptions about a fixed and objective external world.  Relativity showed how time, space, acceleration, and even gravity were functions of the relationship among objects, rather than absolute features of an underlying reality.  Quantum physics went even further, showing that even these relative relationships are not fixed until observed and thus are fundamentally interactions rather than objects, as highlighted by Rovelli above.  His interpretations of more recent developments pull ideas of time and space further apart.": {
     "ja": "おそらく、20世紀の物理学の革命の最も印象的で一貫した特徴は、固定された客観的な外部世界に関する仮定を覆した方法です。相対性理論は、時間、空間、加速度、さらには重力さえも、対象物の関係によって決まるものであり、基礎となる現実の絶対的な特徴ではないことを示しました。量子物理学はさらに進んで、これらの相対的な関係さえも観測されるまで固定されていないことを示し、したがって本質的には対象ではなく相互作用であることを強調しています（Rovelliによって強調されています）。彼のより最近の展開の解釈は、時間と空間のアイデアをさらに引き離しています。",
-    "latest": true
+    "latest": false
   },
   "**Biology**": {
     "ja": "**生物学**",
-    "latest": true
+    "latest": false
   },
   "If the defining idea of 19th century macrobiology (concerning advanced organisms and their interactions) was the “natural selection”, the defining idea of the 20th century analog was “ecosystems”.  Where natural selection emphasized the “Darwinian” competition for survival in the face of scarce resources, the ecosystem view (closely related to the idea of “extended evolutionary synthesis”) emphasizes:": {
     "ja": "19世紀のマクロバイオロジー（高度な生物とその相互作用に関するもの）の定義的なアイデアが「自然選択」であったのであれば、20世紀のアナログの定義的なアイデアは「生態系」でした。自然選択は、限られた資源に直面して生存のための「ダーウィニアンな」競争を強調していましたが、生態系の視点（「拡張進化合成」のアイデアに密接に関連しています）は次のような点を強調しています：",
@@ -1441,31 +1441,31 @@
   },
   "•\tThe ways in which systems of many diverse organisms (“ecosystems”) can exhibit features similar to multicellular life (homeostasis, fragility to destruction or over propagation of internal components, etc.) illustrating sensitivity and chaos.": {
     "ja": "多様な生物のシステム（「生態系」）が多細胞生物のような特徴（恒常性、内部構成要素の破壊や過剰増殖に対する脆弱性など）を示す方法について、感度とカオスを示しています。",
-    "latest": true
+    "latest": false
   },
   "- The emergence of higher-level organisms through the cooperation of simpler ones (e.g., multicellular life as cooperation among single-celled organisms or “eusocial” organisms like ants from individual insects) and the potential for mutation and selection to occur at all these levels, illustrating multi-scale organization.": {
     "ja": "より高いレベルの生物が、より単細胞の生物や「社会性」のある昆虫の個体からの協力（例：単細胞生物間の協力やアリのような「社会性」のある生物）を通じて出現し、これらのレベルでの突然変異と選択の可能性が示されていることにより、多スケールの組織が示されています。",
-    "latest": true
+    "latest": false
   },
   "- The diversity of interactions between different species, including traditional competition or predator and prey relationships, but also a range of “mutualism”, where organisms depend on services provided by other organisms and help sustain them in turn, exemplifying entanglement, and relationality.": {
     "ja": "異なる種間の相互作用の多様性は、従来の競争や捕食者と被食者の関係だけでなく、他の生物が提供するサービスに依存し、それを維持するために役立つ「相互利益」の範囲も含まれており、絡み合いや関係性を具体化しています。",
-    "latest": true
+    "latest": false
   },
   "- The recognition of genetics as coding only a portion of these behaviors and of “epigenetics” or other environmental features to play important roles in evolution and adaptation, illustrating embedded causality.": {
     "ja": "遺伝学はこれらの行動の一部のみをコーディングし、進化と適応に重要な役割を果たす「エピジェネティクス」や他の環境要因が埋め込まれた因果関係を示すことを認識しています。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; While this point is easiest to illustrate with macrobiology, as it is more familiar to the public, the same lesson applies perhaps even more dramatically to microbiology (the study of the inner workings of life in complex organisms).  That field has moved from a focus on individual organs and the mechanical study of genetic expression to a “systems” approach, integrating action on a range of scales and according to many different systems of natural laws.  This may be best illustrated by focusing on perhaps the most complex and mysterious biological system of all, the human brain.": {
     "ja": "このポイントは、一般の人々にとってより馴染みのあるマクロ生物学で最も簡単に説明できるかもしれませんが、同じ教訓はおそらく微生物学（複雑な生物の内部機能の研究）にさらに劇的に適用されます。 この分野は、個々の臓器と遺伝子発現の機械的な研究に焦点を当てることから、「システム」アプローチに移行しました。これは、さまざまな自然法則のシステムに基づいて、さまざまなスケールでの行動を統合するものです。 これは、おそらく最も複雑で神秘的な生物学的システムである人間の脳に焦点を当てることで最もよく説明されるかもしれません。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp;Modern neuroscience emerged from two critical discoveries about the functioning of brains.  First, in the late 19th century, Camillo Golgi, Santiago Ramón y Cajal, and collaborators isolated neurons and their electrical activations as the fundamental functional unit of the brain.  This analysis was refined into clear physical models by the work of Hodgkin and Huxley, who built and tested in on animals their electrical theories of nervous communication.  Second, and more diffusely, a rich and nuanced picture emerged over the course of the twentieth century complicating the traditional view, often derided as “phrenology” that each brain function was physically localized to one region of the brain.  Instead, while researchers like Paul Broca found important evidence of physical localization of some functions by studying brain lesion patients, a variety of other evidence including mathematical modeling, brain imaging, and single-neuron activation experiments suggested that many if not most brain functions are distributed across regions of the brain, emerging from patterns of interactions rather than primarily physical localization.  ": {
     "ja": "現代の神経科学は、脳の機能に関する2つの重要な発見から生まれました。まず、19世紀末にカミッロ・ゴルジ、サンティアゴ・ラモン・イ・カハル、およびその共同研究者たちは、脳の基本的な機能単位としてニューロンとその電気活動を単離しました。この分析は、神経伝達の電気理論を動物で構築し、検証したホジキンとハクスリーの研究によって明確な物理モデルに洗練されました。第二に、より広範で微妙な画像が20世紀にわたって浮かび上がり、伝統的な見方である「頭蓋骨学」として嘲笑されることが多い、各脳機能が脳の一部に物理的に局在しているという見方を複雑化しました。代わりに、ポール・ブロカなどの研究者は、脳の損傷患者を研究することで一部の機能の物理的な局在化の重要な証拠を見つけましたが、数学モデリング、脳画像、単一ニューロンの活性化実験など、さまざまな証拠は、多くの場合、脳の領域全体に分散している多くの脳機能が、主に物理的な局在化ではなく相互作用のパターンから生じることを示唆しています。",
-    "latest": true
+    "latest": false
   },
   "- Of all fields, neuroscience showed most sharply the bounds imposed by computational complexity.  As early as the late 1950s, researchers beginning with Frank Rosenblatt built the first “artificial neural network” models of the brain and hoped to simulate a full human brain within a few years, only to discover that task was computationally many decades off if ever attainable, forcing a great diversification of ways (both model-based and experiment-based) for studying the brain.": {
     "ja": "すべての分野の中で、神経科学は計算複雑性によって最も厳しい制約が課されることを示しています。1950年代後半以降、フランク・ローゼンブラットをはじめとする研究者たちは、脳の最初の「人工ニューラルネットワーク」モデルを構築し、数年以内に完全な人間の脳をシミュレートすることを望んでいましたが、それは計算的には数十年先のことであり、もしそれが実現可能であるとしても、脳の研究のための多様な方法（モデルベースと実験ベースの両方）を迫られることとなりました。",
-    "latest": true
+    "latest": false
   },
   "- EXAMPLE OF SENSITIVITY AND CHAOS IN BRAIN HERE.  SOME FIRST THOUGHTS IN FOOTNOTE, BUT THESE NEED TO BE BROUGHT TOGETHER MORE COHERENTLY AND CONSISTENTLY WITH OTHER MATERIAL TO BELONG HERE[^5]": {
     "ja": "脳内の感受性と混沌の例。脚注に最初の考えがありますが、これらをより一貫して他の資料と統一してまとめる必要があります[^5]。",
@@ -1473,23 +1473,23 @@
   },
   "- The wide-ranging investigation of different forms of partial physical localization and interaction centers around multiscale organization, where some phenomena are localized to very small structures (a few physically proximate neurons), while others are distributed over large brain regions, but not the entirety of the brain and others still are physically distributed but appear to be localized, at different scales, to various consistent networks of brain activity.": {
     "ja": "さまざまな形態の部分的な物理的局在化と相互作用の広範な調査は、多スケールの組織に焦点を当てています。一部の現象は非常に小さな構造（いくつかの物理的に近接したニューロン）に局在していますが、他の現象は大脳領域全体ではなく、一部の脳領域に分布しています。また、他の現象は物理的に分散していますが、さまざまな一貫した脳活動ネットワークに異なるスケールで局在しているように見えます。",
-    "latest": true
+    "latest": false
   },
   "- The Hebbian model of connections, where they are strengthened by repeated co-firing, is perhaps one of the most elegant illustrations of the idea of “relationality” in science, closely paralleling the way we typically imagine human relationships developing.": {
     "ja": "ヘビアンモデルの接続は、反復的な共発火によって強化されることから、科学における「関係性」のアイデアを最も優雅に表現したものの一つであり、人間関係の発展を想像する方法と非常に近いです。",
-    "latest": true
+    "latest": false
   },
   "- Neuroscience also elegantly illustrates embedded causality.  Brain structure is famously plastic to learning and what is learned depends heavily on the social contexts that humans inhabit and construct as well as on the nutrients human economic and social system provide to brains.  Thus, the higher-level phenomena (societies, relationships, economies, educational systems), which one might hope to help explain with features of human neuropsychology, are some of the central factors that shape the nature and function of those brains.  Causation thus traces a classic circular pattern across levels.": {
     "ja": "神経科学は、埋め込まれた因果関係を優雅に示しています。脳の構造は学習に対して非常に柔軟であり、学習される内容は人間が生活し構築する社会的文脈や、人間の経済的・社会的システムが脳に提供する栄養素に大きく依存します。したがって、人間の神経心理学の特徴で説明しようとする高次の現象（社会、関係、経済、教育システムなど）は、それらの脳の性質と機能を形成する中心的な要因です。因果関係は、レベル間で古典的な循環パターンをたどります。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Modern neuroscience has transformed this understanding into a range of applications: treatments of patients with damaged brains, development of psychiatric medicine, some treatments and interventions based on transcranial stimulation and other brain activation approaches, and more.  Yet the most transformative technologies inspired by neuroscience have been at least partly digital, rather than purely biomedical.  Neuroscience is increasingly central to two of the more exotic and exciting areas of digital technology development: brain-computer interfaces and the use of brain organoids as a substrate for computation.": {
     "ja": "現代の神経科学は、損傷を受けた脳の患者の治療、精神医学の開発、経頭蓋磁気刺激や他の脳活性化手法に基づく一部の治療や介入など、さまざまな応用に変革をもたらしています。しかし、神経科学に触発された最も変革的な技術は、純粋に生物医学的ではなく、少なくとも部分的にデジタルなものでした。神経科学は、脳-コンピュータインターフェースと脳オルガノイドの使用という、よりエキゾチックで興奮する分野のデジタル技術開発の中心になっています。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Most pervasively, the “neural network” architecture inspired by early mathematical models of the brain has become the foundation of the recent advances in “artificial intelligence”.  Networks of trillions of nodes, each operating on fairly simple principles inspired by neurons of activation triggered by crossing a threshold determined by a linear combination of inputs, are the backbone of the “foundation models” such as BERT and the GPT models.  These have taken the world by storm in the past half-decade and increasingly dominated the headlines in the last two years.  All the critical features of neuroscience discussed above, and of pluralism more broadly (e.g., multiscale organization, relationality, embedded causation), manifest in the operation of these systems.": {
     "ja": "最も普及しているのは、脳の初期の数学モデルに触発された「ニューラルネットワーク」アーキテクチャであり、これが「人工知能」の最近の進歩の基礎となっています。数兆のノードからなるネットワークは、各ノードが入力の線形結合によって決まる閾値を越えることで活性化するニューロンに触発された比較的単純な原則に基づいて動作しており、BERTやGPTモデルなどの「基礎モデル」のバックボーンとなっています。これらは過去半世紀にわたって世界中で大流行し、最近2年間でますます見出しを支配しています。上記で議論された神経科学のすべての重要な特徴、およびより広範な多元主義の特徴（例：多スケールの組織、関係性、埋め込まれた因果関係）は、これらのシステムの動作に現れています。",
-    "latest": true
+    "latest": false
   },
   "### From science to society": {
     "ja": "### 科学と社会",
@@ -5109,7 +5109,7 @@
   },
   "### Plural social science": {
     "ja": "### 多元社会科学",
-    "latest": true
+    "latest": false
   },
   "#### Henry George and the networked value": {
     "ja": "#### ヘンリー・ジョージとネットワーク価値",
@@ -5257,7 +5257,7 @@
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; The central idea of complexity science is that reduction of many natural phenomena to their atomic components (what we can call “reductionism”), even when conceptually possible, is often counterproductive.  At the same time, studying complex systems as a single unit is often uninformative or impossible.  Instead, structures (e.g. molecules, organisms, ecosystems, weather systems, societies) emerge from “atoms” at a range of (intersecting) scales that can be understood most usefully at least in part according to their own principles and laws rather than those governing their underlying components.  Some of the common core arguments for “complexity”, or what we will call “pluralism”, in all the domains it is applied include: ": {
     "ja": "複雑性科学の中心的な考え方は、多くの自然現象をその原子成分（「還元主義」と呼ぶことができるもの）に還元することは、概念的に可能であっても、しばしば逆効果であるということです。同時に、複雑なシステムを単一の単位として研究することは、しばしば情報を提供しないか不可能です。代わりに、構造（分子、生物、生態系、気象システム、社会など）は、「原子」からさまざまな（交差する）スケールで現れ、それら自体の原則と法則に従って理解することが最も有用です。すべての適用領域での「複雑性」または「多元主義」と呼ぶことができるものに対する共通の核心的な議論のいくつかには、次のようなものがあります：",
-    "latest": true
+    "latest": false
   },
   "- Computational complexity: Even when reductionism is feasible in principle/theory, the computation required to predict higher-level phenomena based on their components is so large that performing it is unlikely to be practically relevant. In fact, in some cases, it can be proven that the required computation would consume far more resources than could possibly be recovered through the understanding gained by such a reduction.  This often makes the theoretical possibility of such reduction irrelevant and creates a strong practical barrier to reduction.": {
     "ja": "計算複雑性：原理/理論上は還元主義が可能であっても、高次元現象をその構成要素に基づいて予測するために必要な計算は非常に大きいため、実際には実用的に関連性がない可能性が高いです。実際、一部の場合では、その還元によって得られる理解によって回収できるリソースよりもはるかに多くの計算が必要であることが証明されることもあります。これは、このような還元の理論的な可能性を無関係にし、還元への強力な実用的な障壁を作り出します。",
@@ -5269,47 +5269,47 @@
   },
   "- Embedded causality: As a result of the preceding points, causation can rarely be understood completely or exhaustively in a reductive manner, where the explanation of higher-level phenomena is reduced to simpler or more atomic components.  Instead, while specific causal arrows may follow such a pattern, others in the same system will take an opposite form, where the behavior of “atoms” is explained by the way they are situated in larger systems.  Causal analysis will thus have quasi-“circular” elements that form equilibria and independent causation will usually emerge from forces within these equilibria, rather than by predictable reduction to a constant set of atomic “unmoved movers”.": {
     "ja": "- 嵌め込まれた因果関係：前述のポイントの結果として、因果関係は一般に、高次の現象の説明がより単純化されたまたはより原子的な要素に還元される形で完全かつ徹底的に理解されることはめったにありません。代わりに、特定の因果関係の矢印はこのようなパターンに従うかもしれませんが、同じシステム内の他の要素は逆の形を取ります。つまり、「原子」の振る舞いは、それらがより大きなシステム内に配置されている方法によって説明されます。因果関係の分析には、したがって、準「循環」的な要素があり、独立した因果関係は通常、これらの均衡から生じる力によって現れます。それは、一定の一連の原子的な「不動の動かさないもの」に予測可能に還元されることではなく。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp;  Together these elements constitute a basic reimagining of the scientific project compared to monist atomism.  In monist atomism, the search for scientific truth and explanation resembles something of a process of digging from different start points on a planet’s surface towards its core: people may start from many different points, but as they strip away falsehood, superstition, error, and misunderstanding, they will all find the same underlying core of truth, reducing everything they see to the same fundamental elements.  ": {
     "ja": "これらの要素を合わせると、単一の原子論と比較して、科学的なプロジェクトの基本的な再構築を構成します。単一の原子論では、科学的な真実と説明を探求することは、惑星の表面からその核に向かって異なる出発点から掘り進むプロセスに似ています。人々はさまざまなポイントから始めるかもしれませんが、誤り、迷信、エラー、誤解を取り除くにつれて、彼らはすべて同じ基本的な真実の核にたどり着き、見るすべてを同じ基本的な要素に還元します。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; While this plural vision doesn’t offer the hope of final or absolute truth that monist atomism does, it offers something perhaps as hopeful: an infinite vista of potential progress, expanding rather than contracting as it moves on.  As the scientific revolutions of the 20th century so dramatically illustrated, shifting to such a plural perspective spells not the end of scientific progress, but rather an explosion of its possibilities.": {
     "ja": "この多元主義者の考え方は、単一主義の原子論が提供する最終的または絶対的な真実の希望を提供しないが、おそらく同じくらい希望に満ちたものを提供しています：進歩の可能性の無限の展望、進むにつれて拡大して収縮しないものです。 20世紀の科学革命が劇的に示したように、このような多元的な視点への移行は科学の進歩の終わりではなく、むしろその可能性の爆発を意味します。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; The twentieth century, and in particularly the Golden Age highlighted in the previous chapter, was the most rapid period of scientific and technological advance in human history.  These advances happened in a range of disparate fields, but one common thread runs through most: the transcendence of monist atomism and the embrace of the plural.  We will illustrate this with examples from mathematics, physics, biology to neuroscience.": {
     "ja": "20世紀、特に前の章で強調された黄金時代は、人類史上最も急速な科学技術の進歩の時期でした。これらの進歩は、さまざまな異なる分野で起こりましたが、ほとんどの分野に共通するテーマがあります：単一主義の超越と複数の受け入れ。数学、物理学、生物学から神経科学まで、具体例を挙げて説明します。",
-    "latest": true
+    "latest": false
   },
   "- Chaos has proven inherent even to many very simple mathematical problems.  Perhaps the most famous example involves the behavior of the complex numbers of iterated application of quadratic polynomials.  The behavior of such iterations turns out to form such intricate and rich patterns that characterizing them has become the source of “fractal art” as shown in Figure 1.  These structures illustrate that even solutions to apparently “obvious” mathematical questions may depend on infinitely intricate details, that dazzle even our senses with their richness.": {
     "ja": "カオスは、非常に単純な数学の問題にも内在することが証明されています。おそらく最も有名な例は、二次多項式の反復適用の複素数の振る舞いに関するものです。このような反復の振る舞いは、非常に複雑で豊かなパターンを形成することがわかり、それらを特徴づけることは「フラクタルアート」の源となっています（図1参照）。これらの構造は、明らかに「当然のこと」と思われる数学の問題の解さえも、無限に複雑な詳細に依存する可能性があることを示しており、その豊かさに私たちの感覚さえも魅了しています。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Structures at every level of intersecting scale and described from the perspective of every way of knowing have proven important to progress: nuclear bombs reshape human societies, setting off environmental changes that reshape weather, twisting human psychology and feeding into the designs of computational systems that help cure disease and so on.": {
     "ja": "あらゆるレベルの交差するスケールでの構造は、あらゆる知識の視点から説明され、進歩に重要な役割を果たしてきました。核爆弾は人間社会を再構築し、環境の変化を引き起こし、天候を変え、人間の心理を歪め、病気の治療に役立つ計算システムの設計にも影響を与えます。",
-    "latest": true
+    "latest": false
   },
   "Pluralism is perhaps least surprising in biological systems; we can see the complexity of these all around us in everyday life.  More surprising, perhaps, is the way in which 20th century physics revealed that these principles go “all the way down”, to the heart of the physical sciences that Newtonian monist atomism pioneered. ": {
     "ja": "多元主義はおそらく生物学的なシステムで最も驚くべきものです。私たちは日常生活の中でこれらの複雑さを身の回りに見ることができます。もっと驚くべきことは、20世紀の物理学がこれらの原則が「すべての方法で」ニュートンの単一主義原子論が開拓した物理科学の核心にまで及ぶことを明らかにしたことです。",
-    "latest": true
+    "latest": false
   },
   "- Computational complexity is the core reason for the field of thermodynamics and its many offshoots.  In fact, the field of information theory so core to computer science is built almost entirely on top of concepts derived from thermodynamics.  The impossibility of simulating the action of billions of sub-units (e.g., molecules in a gas or compound, electrons in a wire, etc.) implies the need for thermodynamic techniques describing the average behavior of these sub-units.  ": {
     "ja": "計算複雑性は熱力学およびその多くの派生分野の核心的な理由です。実際、コンピュータ科学において非常に重要な情報理論の分野は、ほとんど完全に熱力学から派生した概念の上に構築されています。ガスや化合物中の分子、ワイヤ中の電子など、数十億のサブユニットの動作をシミュレートすることの不可能性は、これらのサブユニットの平均的な振る舞いを記述するための熱力学的な技術の必要性を示しています。",
-    "latest": true
+    "latest": false
   },
   "- The ideas of sensitivity, chaos, and irreducible uncertainty originate or at least achieved their first intellectual prominence in physics.  The simplest example of a chaotic system is three comparably sized bodies acting under gravitational forces.  The behavior of smoke, of ocean currents, of weather, and many more all exhibit chaos and sensitivity.  And, as noted above, the most canonical and best-established example of irreducible uncertainty is “Heisenberg’s Uncertainty Principle”, under which the quantum nature of reality puts a firm upper limit on the precision with which the velocity and position of a particle can be measured.": {
     "ja": "感度、カオス、および削減できない不確実性の考えは、物理学で生まれたか、少なくとも最初に知識的な重要性を持つようになりました。カオスなシステムの最も単純な例は、重力の力によって作用する3つのほぼ同じ大きさの物体です。煙、海流、天候などの振る舞いはすべてカオスと感度を示しています。そして、上記で述べたように、削減できない不確実性の最も典型的で確立された例は、「ハイゼンベルクの不確定性原理」です。この原理により、量子的な現実の性質によって、粒子の速度と位置を測定する際の精度には厳しい上限が設けられます。",
-    "latest": true
+    "latest": false
   },
   "- For both these reasons, modern physics is organized according to the study of a wide range of different scales, illustrated by the famous “scales of the universe” walk at New York’s Hayden planetarium that takes visitors from quarks through atoms, molecules, chemical compounds, objects, planets, stars, star systems, galaxies, etc.  While all systems in theory obey the same set of underlying physical laws, the physics at each scale is radically different, as different forces and phenomena are dominant and in fact, physics at the smallest scales (quantum) has yet to be reconciled with those at the largest (general relativity).": {
     "ja": "- これらの理由のために、現代物理学はさまざまなスケールの研究に基づいて組織されています。これは、ニューヨークのヘイデンプラネタリウムで有名な「宇宙のスケール」ウォークによって示されています。このウォークでは、クォークから原子、分子、化合物、物体、惑星、星、星系、銀河などを通過することができます。理論上、すべてのシステムは同じ基本的な物理法則に従いますが、各スケールでの物理学は根本的に異なります。異なる力や現象が優勢であり、実際には、最も小さなスケール（量子）の物理学は最も大きなスケール（一般相対性理論）の物理学とまだ調和していません。",
-    "latest": true
+    "latest": false
   },
   "- Given the diversity of levels of reality, causation in physics is profoundly embedded, shifting and cycling across scales at dizzying speeds.  Atomic interactions, carefully constructed by sentient beings harnessing nano-scale computing, can trigger explosions that destabilize a planet.  Collisions between stars can lead to a collapse of a microscopic blackhole that becomes the center of a galaxy.  ": {
     "ja": "- 現実の多様性があるため、物理学における因果関係は深く組み込まれており、目まぐるしい速さでスケールを移動し、循環しています。ナノスケールのコンピューティングを利用して慎重に構築された原子間の相互作用は、惑星を不安定化させる爆発を引き起こすことがあります。星同士の衝突は、微小なブラックホールの崩壊を引き起こし、それが銀河の中心となることがあります。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; The applications of this rich and plural understanding of physical reality are at the very core of the tragedies of the twentieth century.  Great powers harnessed the power of the atom to shape world affairs.  Global corporations powered unprecedented communications and intelligence by harnessing their understanding of quantum physics to pack ever-tinier electronics into the palms of their customers’ hands.  The burning of wood and coal by millions of families has become the cause of ecological devastation, political conflict, and world-spanning social movements based on information derived from microscopic sensors scattered around the world.": {
     "ja": "この豊かで多元的な物理的現実の理解の応用は、20世紀の悲劇の核心にあります。大国は原子の力を利用して世界情勢を形作りました。グローバル企業は、量子物理学の理解を利用して顧客の手のひらにますます小さな電子機器を詰め込むことで、前例のない通信と知能を実現しました。何百万もの家族が木材や石炭を燃やすことは、微小なセンサーから得られた情報に基づく生態系の破壊、政治的な紛争、世界を横断する社会運動の原因となっています。",
@@ -5317,7 +5317,7 @@
   },
   "- The persistent inability to form effective models of animal behavior on reductive concepts, such as behaviorism, neuroscience, and so forth, illustrating computational complexity.": {
     "ja": "- 行動主義、神経科学などの還元的な概念に基づいた動物の行動の効果的なモデルを形成することの持続的な不能性は、計算複雑性を示しています。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp;This shift wasn’t simply a matter of scientific theory.  It led to some of the most important shifts in human behavior and interaction with nature of the 20th century.  In particular, the environmental movement and the efforts it created to protect ecosystems, biodiversity, the ozone layer, and the climate all emerged from and have relied heavily on this science of “ecology”, to the point where this movement is often given that label.": {
     "ja": "このシフトは単なる科学理論の問題ではありませんでした。それは20世紀の人間の行動と自然との相互作用において最も重要な変化のいくつかをもたらしました。特に、環境運動とそれによって生まれた生態系、生物多様性、オゾン層、気候を保護するための取り組みは、この「生態学」という科学から生まれ、重要な役割を果たしてきました。そのため、この運動はしばしばそのラベルを与えられています。",
@@ -5325,11 +5325,11 @@
   },
   "**Neuroscience**": {
     "ja": "**神経科学**",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp;The understanding that emerged from these findings was that of a “network” of “neurons”, each obeying relatively simple rules for activation based on inputs, and updating the underlying connections based on co-occurrence.  Again, the themes of pluralism emerge elegantly (THIS COULD USE SOME HARD LOOK BY REAL NEURO FOLKS): ": {
     "ja": "これらの結果から浮かび上がった理解は、「ニューロン」の「ネットワーク」としてのものであり、それぞれが相対的に単純な活性化ルールに従い、共起に基づいて基礎となる接続を更新する。再び、多元主義のテーマが優雅に浮かび上がっています（これには本物の神経学者による厳しい検証が必要です）。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Plurality is, scientifically, the application of an analogous perspective to the understanding of human societies and, technologically, the attempt to build formal information and governance systems that account for and resemble these structures as physical technologies built on plural science do. Perhaps the crispest articulation of this vision appears in the work of the leading figure of network sociology, Mark Granovetter. There is no basic individual atom; personal identity fundamentally arises from social relationships and connections.  Nor is there any fixed collective or even set of collectives: social groups do and must constantly shift and reconfigure.  This bidirectional equilibrium between the diversity of people and the social groups they create is the essence of pluralist social science.  ": {
     "ja": "多元主義は、科学的には、人間社会の理解に類似した視点を適用することであり、技術的には、これらの構造を反映した形式的な情報とガバナンスシステムを構築しようとする試みであり、多元科学に基づいて構築された物理的な技術です。このビジョンの最も明確な表現は、ネットワーク社会学の主要な人物であるマーク・グラノヴェッターの著作に現れています。基本的な個人の原子は存在せず、個人のアイデンティティは社会的な関係とつながりから根本的に生じます。また、固定された集団や集団のセットも存在しません。社会的なグループは常に変化し再構成されなければなりません。人々の多様性と彼らが作り出す社会的なグループとの間の双方向の均衡が、多元主義社会科学の本質です。",
@@ -6633,11 +6633,11 @@
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Technology follows science.  Thus, if we are to offer a different vision of the future of technology from Abundance Technocracy (AT) and Entrepreneurial Sovereignty (ES), we need to understand what is at the root of their understanding of science, what this might miss, and how correcting this can open new horizons.  To do so, we now explore the philosophy of science behind these approaches and explore how in both the natural and social sciences the advances of the last century arose from moving beyond the limits of these perspectives to a plural, networked, relational, multiscale understanding of the reality we live in.": {
     "ja": "科学は技術に続きます。したがって、豊富な技術主義（AT）や起業家主権（ES）とは異なる未来の技術のビジョンを提供するためには、彼らの科学の理解の根本にあるもの、これが見逃される可能性があるもの、およびこれを修正することが新たな展望を開く方法を理解する必要があります。そのために、これらのアプローチの背後にある科学の哲学を探求し、自然科学と社会科学の両方で、過去の1世紀の進歩がこれらの視点の制約を超えて、私たちが生活している現実の多元的でネットワーク化された関係性のある多尺度の理解によって生まれたかを探求します。",
-    "latest": true
+    "latest": false
   },
   "- Computational complexity: Even when reductionism is feasible in principle/theory, the computation required to predict higher-level phenomena based on their components (its computational complexity) is so large that performing it is unlikely to be practically relevant. In fact, in some cases, it can be proven that the required computation would consume far more resources than could possibly be recovered through the understanding gained by such a reduction.  This often makes the theoretical possibility of such reduction irrelevant and creates a strong practical barrier to reduction.": {
     "ja": "計算複雑性：原理/理論上は還元主義が可能であっても、高次元現象をその構成要素に基づいて予測するために必要な計算（計算複雑性）は非常に大きいため、実際には実用的に関連することはないでしょう。実際、一部の場合では、その還元によって得られる理解によって回収できるリソースよりもはるかに多くの計算が必要であることが証明されることもあります。これは、このような還元の理論的な可能性を無関係にし、還元への強力な実用的な障壁を作り出します。",
-    "latest": true
+    "latest": false
   },
   "- Sensitivity, chaos, and irreducible uncertainty: To make matters worse, many even relatively simple systems have been shown to exhibit “chaotic” behavior.  A system is chaotic if a tiny change in the initial conditions translates into radical shifts in its eventual behavior after an extended time has elapsed.  The most famous example is weather systems, where it is often said that a butterfly flapping its wings can make the difference in causing a typhoon half-way across the world weeks later.  In the presence of such chaotic effects, attempts at prediction via reduction require unachievable degrees of precision.  To make matters worse, there are often hard limits to how much precision is feasible, as precise instruments often interfere with the systems, they measure in ways that can lead to important changes due to the sensitivity mentioned previously.  The most absolute version of this is the Heisenberg Uncertainty Principle, which puts physical upper limits on measurement precision based on this logic. In the computational view of the universe, the principle of computational irreducibility (whereby certain computations (processes in the world) can only be known by carrying out the computation[^5]) articulates this challenge or impossibility of reduction. ": {
     "ja": "感度、カオス、および還元できない不確実性：さらに悪いことに、多くの比較的単純なシステムでも「カオス」的な振る舞いが示されています。システムがカオス的であるとは、初期条件の微小な変化が、経過時間の経過後にその振る舞いに根本的な変化をもたらすことを意味します。最も有名な例は、天候システムであり、しばしば蝶が羽ばたくことで、数週間後に世界の半分先で台風を引き起こす違いが生じると言われています。このようなカオス的な効果の存在下では、還元による予測の試みは実現不可能な精度の度合いを要求します。さらに悪いことに、精密な計器はしばしばシステムに干渉し、先述の感度による重要な変化を引き起こす方法で測定を行います。これに関連して、物理的な上限を設けるハイゼンベルクの不確定性原理があります。宇宙の計算的な視点では、計算の還元不可能性の原理（特定の計算（世界のプロセス）は計算を実行することでのみ知ることができるというもの）がこの還元の課題または不可能性を表現しています。",
@@ -8909,7 +8909,7 @@
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; The dawn of immersive shared reality technologies marks a transformative chapter in human interaction, leveraging cutting-edge virtual reality (VR), augmented reality (AR) and mixed reality (MR) systems. These technologies enable people, irrespective of geographical constraints, to engage in deeply shared, value-driven, and multisensory experiences, fostering a sense of solidarity and community. This chapter delves into the landscape of immersive technologies, their applications, and potential, while situating them within a broader spectrum of digital and physical interaction modalities. It focuses on immersive technologies that facilitate collective experiences blending physical and virtual elements; not only examining how they complement and expand human experience by facilitating interactions that surpass traditional social and spatial limitations but also underscoring the critical role these technologies may play in environmental and climate engagement to create sustainable, climate-resilient shared realities.": {
     "ja": "没入型の共有現実技術の夜明けは、最先端の仮想現実（VR）、拡張現実（AR）、混合現実（MR）システムを活用して、人間の相互作用における変革的な章を示しています。これらの技術により、地理的な制約に関係なく、人々は深く共有された、価値に基づく、多感覚の体験に参加することができ、連帯感と共同体感を育むことができます。この章では、没入型技術の景観、その応用、および潜在能力について探求し、それらをより広範なデジタルおよび物理的な相互作用のモダリティのスペクトルの中に位置づけます。これは、物理的な要素と仮想的な要素を組み合わせた集団体験を促進する没入型技術に焦点を当てており、従来の社会的および空間的な制約を超えた相互作用を可能にすることで人間の経験を補完し拡大するだけでなく、環境と気候への関与においても重要な役割を果たす可能性を強調しています。これにより、持続可能で気候に強い共有現実を創造することができます。",
-    "latest": true
+    "latest": false
   },
   "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/mediatedreality.png\" width=\"100%\" alt=\"Venn diagram with four overlapping circles labeled \"Virtual Reality\", \"Augmented Reality\", \"Mixed Reality,\" and \"Modulated Reality.\" A larger circle encompasses these, labeled \"Mediated Reality\".>": {
     "ja": "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/mediatedreality.png\" width=\"100%\" alt=\"「仮想現実」、「拡張現実」、「複合現実」、「調整現実」という4つの重なり合った円があるベン図。これらを包括する大きな円には「仲介現実」と書かれています。\">",
@@ -8933,7 +8933,7 @@
   },
   "### Frontiers of Immersive Shared Reality": {
     "ja": "### イマーシブ共有現実の最前線",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp;  At the frontiers of Immersive Shared Reality, we are not merely spectators but active participants in a revolution of multisensory integration [[4]](#4). As Mediated Reality technologies advance, the precision with which sensory modalities are replicated and introduced into virtual experiences will improve, allowing for a more sophisticated and controlled use of non-traditional sensory inputs like the sense of smell and taste. This careful curation of olfactory and haptic stimuli, when combined with visual and auditory, can create a compelling illusion of reality that deeply resonates with the users’ emotions and memories. Such stimuli, when reactivated during sleep, not only can enhance these memories [[5]](#5), but simulate worlds through sensory stimulation in altered states of consciousness [[6]](#6), such in a shared lucid dream [[7]](#7). The importance of such integration speaks to the broader objectives of immersive shared realities – creating experiences that are not merely escapes from reality but are extensions of it, enhancing users’ understanding of and engagement with important global issues such as the critical arena of climate change, providing a platform for not just awareness but active participation in sustainability efforts. Virtual environments can simulate the stark realities of climate change, such as rising sea levels or the impact of extreme weather events, making the abstract and often distant concepts an immediate and personal experience. These immersive simulations are not scare tactics but educational tools that engage users emotionally and cognitively, fostering a deeper understanding of the environmental consequences of human actions. This can be particularly powerful when using affective computing within these realities, where the system will adapt the environment based on the user’s response, physiology as well as memories or preferences, creating a feedback loop that heightens awareness and empathy for climate issues. ": {
     "ja": "&nbsp;&nbsp;&nbsp;&nbsp;没入型共有現実の最前線では、私たちは単なる観客ではなく、多感覚統合の革命の積極的な参加者です[[4]](#4)。メディエイテッドリアリティ技術が進歩するにつれて、感覚モダリティがどれだけ正確に複製され、仮想体験に導入されるかが向上し、嗅覚や味覚などの非伝統的な感覚入力のより洗練された制御された使用が可能になります。視覚と聴覚と組み合わせることで、この慎重な嗅覚と触覚の刺激は、現実の錯覚を作り出し、ユーザーの感情と記憶に深く共鳴するものになります。このような刺激は、睡眠中に再活性化されると、これらの記憶を強化するだけでなく、意識の変化した状態で感覚刺激を通じて世界をシミュレートすることもできます[[5]](#5)。共有の明晰な夢[[7]](#7)のような。このような統合の重要性は、没入型共有現実のより広範な目標に関連しており、現実からの逃避ではなく、それの拡張である体験を作り出し、重要なグローバルな問題、例えば気候変動の重要な領域における理解を向上させ、関与させることです。仮想環境は、海面上昇や極端な天候の影響など、気候変動の厳しい現実をシミュレートすることができ、抽象的でしばしば遠い概念を即座に個人的な体験にすることができます。これらの没入型シミュレーションは、脅威の手法ではなく、ユーザーの感情と認知を引きつける教育ツールであり、人間の行動の環境への影響に対するより深い理解を促進します。これは、特にこれらの現実内で感情計算を使用する場合に特に強力です。システムは、ユーザーの反応、生理学的な特性、記憶、または好みに基づいて環境を適応させ、意識と気候問題への共感を高めるフィードバックループを作り出します。",
@@ -8941,7 +8941,7 @@
   },
   "Now, consider the potential of such immersive experiences to drive environmental advocacy and the act of communal creation. In a virtual design studio, community members, architects, and engineers come together to co-create the green spaces of tomorrow. The process transcends mere planning; participants can feel and empathize with such environment and virtually touch the bark of trees slated for planting and inhale the fragrant blossoms intended for the gardens, forging a visceral connection to the project long before the first seed is sown in the physical world. Imagine a scenario where, after such collaborative design process in immersive shared reality, the community’s vision is not only transformed into detailed 3D models but then brought to life using large-scale 3D printers, capable of printing with local biomaterials that are abundant, recyclable, and have a minimal carbon footprint. The process draws on the principles of circular economy, where the materials used can be sourced, utilized, and eventually returned to the earth without generating waste.": {
     "ja": "今、このような没入型の体験が環境の啓蒙や共同創造の行為を推進する潜在能力を考えてみましょう。仮想デザインスタジオでは、コミュニティメンバーや建築家、エンジニアが集まり、明日の緑地を共同で創り上げます。このプロセスは単なる計画を超えており、参加者はその環境を感じ、共感することができ、植樹予定の木の樹皮に触れ、庭園に咲く芳香の花を仮想的に感じることができます。これにより、物理的な世界に最初の種が蒔かれる前に、プロジェクトに対する直感的なつながりが形成されます。想像してみてください。没入型の共有現実の協力的なデザインプロセスの後、コミュニティのビジョンが詳細な3Dモデルに変換されるだけでなく、地元のバイオマテリアルを使用して大規模な3Dプリンターを使用して実現されるシナリオを。これらのバイオマテリアルは豊富で再利用可能であり、炭素フットプリントを最小限に抑えることができます。このプロセスは循環経済の原則に基づいており、使用される材料は廃棄物を生成せずに地球に戻すことができます。",
-    "latest": true
+    "latest": false
   },
   "The 3D printing of homes and community structures offers a radical departure from traditional construction methods. Automated printers, guided by precise digital schematics produced from the immersive shared reality sessions, layer the biomaterials to create walls and architectural features with a speed and efficiency that traditional methods cannot match. This process significantly reduces construction waste and allows for complex, organic designs that would be difficult or impossible to achieve with conventional building techniques. The concept of “printing” a community from the collective imagination of its future inhabitants is not as far-fetched as it once seemed. Immersive shared reality serves as a powerful design tool, allowing residents to co-create their living spaces in a virtual environment. ": {
     "ja": "家やコミュニティの構造物の3Dプリントは、従来の建築方法とは大きく異なります。自動化されたプリンターは、没入型共有現実セッションから生成された正確なデジタル設計図に従って、生体材料を層状に積み重ねて壁や建築的な特徴を作り出します。このプロセスは、従来の方法では到達できない速度と効率で、建設廃棄物を大幅に削減し、複雑で有機的なデザインを可能にします。将来の住民の共同想像力からコミュニティを「印刷する」という概念は、かつて思われていたほど遠いものではありません。没入型共有現実は、仮想環境で住民が自分たちの生活空間を共同創造するための強力なデザインツールとして機能します。",
@@ -8953,7 +8953,7 @@
   },
   "### Limits of Immersive Shared Reality": {
     "ja": "### 共有現実の制限",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Despite its promise, immersive shared reality faces a wide variety of ethical dilemmas and societal challenges that could undermine the principles of Plurality. We confront potential issues such as the risk of virtual escapism and the dilution of real-world activism, potential for addition or the neglect of physical world responsibilities and relationships. As virtual experiences verge on becoming indistinguishable from our tangible reality, the risks of addiction and the potential for neglecting the physical world's demands become palpable concerns. The seductive allure of these digital realms could precipitate a form of virtual escapism, where the lines between authentic activism and simulated advocacy blur, possibly diluting the vigor of real-world change efforts. Addressing these concerns requires a careful embedding of ethical and democratic principles within the very fabric of virtual communities. Drawing from insights presented in other chapters, the integration of participatory governance systems, like democratic voting mechanisms, into virtual environments offers a promising approach. Such systems can ensure that individuals remain grounded and accountable, preserving a balance between digital engagement and their real-world roles and responsibilities. By fostering a culture of active citizenship and responsible stewardship within these platforms, we can work towards safeguarding the plurality and diversity that form the cornerstone of vibrant societies.": {
     "ja": "約束にもかかわらず、没入型共有現実は多様な倫理的ジレンマと社会的課題に直面しており、Pluralityの原則を損なう可能性があります。仮想的な逃避行のリスクや現実世界での活動の希釈、中毒の可能性や物理的な世界の責任や関係の無視など、潜在的な問題に直面しています。仮想体験が私たちの現実と区別がつかなくなるにつれて、中毒のリスクや物理的な世界の要求を無視する可能性が現実的な懸念となってきます。これらのデジタル領域の魅力的な魅力は、現実の世界での変化の努力の活力を希釈する可能性がある、真の活動とシミュレートされた支援の間の境界線が曖昧になる、仮想的な逃避行の形を引き起こす可能性があります。これらの懸念に対処するには、倫理的な原則と民主的な原則を仮想コミュニティの中に慎重に組み込む必要があります。他の章で提示された洞察から引用し、民主的な投票メカニズムなどの参加型ガバナンスシステムを仮想環境に統合することは、有望なアプローチです。このようなシステムによって、個人が地に足をつけて責任を持ち、デジタルの関与と現実世界の役割と責任のバランスを保つことができます。これらのプラットフォーム内で積極的な市民意識と責任ある管理の文化を育むことにより、活気ある社会の基盤となる多様性と多様性を守ることができます。",
@@ -9141,11 +9141,11 @@
   },
   "### Shared reality today": {
     "ja": "### 今日の共有現実",
-    "latest": true
+    "latest": false
   },
   "### Remote shared reality tomorrow": {
     "ja": "### リモート共有現実明日",
-    "latest": true
+    "latest": false
   },
   "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/worldcongress.png\" width=\"100%\" alt=\"Civilization VI World Congress\">": {
     "ja": "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/worldcongress.png\" width=\"100%\" alt=\"Civilization VI World Congress\">",
@@ -9849,19 +9849,19 @@
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Immersive Shared Reality refers to the use of technology to create a shared virtual environment where users can interact with each other in real-time. This type of “reality” can be considered a subset application of Mediated Reality, a broader term coined by Steve Mann back in the 90’s. Mediated Reality encompasses various technologies that mediate our perception of reality, including Virtual, Augmented and Mixed Reality (a.k.a. VR, AR, MR). Some of the most common applications are related to gaming, entertainment, art, healthcare, and education, which are often also immersive, shared realities.": {
     "ja": "没入型共有現実は、技術を使用して、ユーザーがリアルタイムでお互いとやり取りできる共有仮想環境を作成することを指します。このタイプの「現実」は、90年代にスティーブ・マンによって作られた広い意味の仲介現実の一部のアプリケーションと考えることができます。仲介現実は、仮想現実、拡張現実、混合現実（VR、AR、MRとも呼ばれる）を含む、現実の知覚を仲介するさまざまな技術を包括しています。最も一般的なアプリケーションのいくつかは、ゲーム、エンターテイメント、アート、医療、教育に関連しており、しばしば没入型で共有された現実でもあります。",
-    "latest": true
+    "latest": false
   },
   "Today’s immersive shared reality is a vibrant mix of entertainment, art, and collaboration, from virtual concerts and online multiplayer gaming to remote team-building exercises and virtual tourism. Artists like Billie Eilish have already held virtual concerts that draw crowds into the pulsating heart of her music, or music festivals like Coachella have embraced the benefits of VR without the constraints of physical venues (e.g., selling out). Such shared experiences, like in online multiplayer gaming, create worlds where players not only compete but also form lasting friendships that break the boundaries of the virtual-physical divide. Remote team-building exercises, rendered through VR, turn colleagues separated by oceans into teammates in a shared digital space, fostering team spirit and camaraderie. Through virtual tourism, travelers can experience remote places, walking through historic cities or visiting foreign landscapes without leaving their homes.": {
     "ja": "今日の没入型共有現実は、仮想コンサートやオンラインマルチプレイヤーゲームからリモートチームビルディングの演習や仮想観光まで、エンターテイメント、アート、コラボレーションの活気に満ちたミックスです。Billie Eilishのようなアーティストは、彼女の音楽の鼓動する心臓に群衆を引き込む仮想コンサートを既に開催しており、Coachellaのような音楽フェスティバルも物理的な会場の制約なしでVRの利点を取り入れています（例：完売）。オンラインマルチプレイヤーゲームのような共有体験は、競争だけでなく、仮想と物理の境界を超えた持続的な友情を築く世界を作り出します。VRを通じてレンダリングされたリモートチームビルディングの演習は、海を隔てた同僚を共有のデジタル空間でチームメイトに変え、チームスピリットと仲間意識を育みます。仮想観光を通じて、旅行者は自宅を出ることなく、歴史的な都市を歩いたり、外国の風景を訪れたりすることができます。",
-    "latest": true
+    "latest": false
   },
   "But more than amusement, these platforms also create spaces for shared understanding and empathy across cultures and distances, promoting emotional connection and awareness among people who are far apart.  For example, language learning applications use these to immerse users in the linguistic and cultural background of others, while virtual reality therapy sessions offer healing and comfort to those with mental health challenges. Each of these examples encapsulates a unique facet of how Immersive Shared Realities can meld entertainment with deeper social connections. As these technologies mature, they are increasingly harnessed to not just simulate reality but to enhance it, creating a bridge between diverse cultures and fostering a global community of shared experiences and mutual understanding regardless of one’s origin or language.  ": {
     "ja": "しかし、これらのプラットフォームは、単なる娯楽以上に、異なる文化や距離を超えた共有理解と共感の場を創り出しています。これにより、遠く離れた人々の間で感情的なつながりと意識が促進されます。たとえば、言語学習アプリは、ユーザーを他の人々の言語と文化的背景に没入させるためにこれらを使用し、仮想現実療法セッションは精神的な健康上の課題を抱える人々に癒しと快適さを提供します。これらの例は、Immersive Shared Realitiesが娯楽とより深い社会的なつながりを融合させる独自の側面を具体化しています。これらの技術が成熟するにつれて、それらは現実を単にシミュレートするだけでなく、異なる文化をつなぎ、出身国や言語に関係なく、共有の経験と相互理解を促進するための橋を作り出すためにますます活用されています。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Emerging technologies on the horizon promise to deepen the immersive experience and reshape human interaction by enveloping users in a synthetic world that simulates multiple senses simultaneously. While sight and sound have been the traditional focus, the integration of touch, smell, and even taste is beginning to enhance the immersive experience.  The horizon of immersive shared reality gleams with potential, foreshadowing a tomorrow where multisensory integration is not an exception but a norm. New sensors and actuators promise to deepen the immersive experience by synthetic worlds that not only replicate but enhance all senses.": {
     "ja": "将来の新興技術は、ユーザーを複数の感覚を同時にシミュレートする合成世界に包み込むことで、没入型体験を深め、人間の相互作用を再構築することを約束しています。視覚と聴覚が伝統的な焦点であった一方、触覚、嗅覚、さらには味覚の統合が没入型体験を向上させることが始まっています。没入型共有現実の地平線は潜在能力で輝き、多感覚の統合が例外ではなく常識となる明日を予示しています。新しいセンサーとアクチュエーターは、すべての感覚を再現するだけでなく、向上させる合成世界によって没入型体験を深めることを約束しています。",
-    "latest": true
+    "latest": false
   },
   "Audio-visual interfaces have long been the vanguard senses in the digital realm; thus, the frontier is now expanding to include touch, facilitated by advanced haptic feedback systems that replicate the subtleties of physical contact. Smell, once considered elusive in the digital domain, is now being captured by olfactory technology, enabling fragrances and odors to be part of storytelling, education, and even retail experiences in VR. Taste, though still in nascent stages, is beginning to make its mark through taste retargeting [^1], hinting at a future where dining can be a shared virtual adventure by altering taste perception delivering chemical modulators to the mouth before eating. ": {
     "ja": "オーディオビジュアルインターフェースは、デジタル領域における先駆的な感覚であり、そのため、フロンティアは今や触覚を含むように拡大しています。これは、物理的な接触の微妙なニュアンスを再現する高度な触覚フィードバックシステムによって可能になっています。かつてデジタル領域では捉えにくいと考えられていたにおいは、現在では嗅覚技術によって捉えられるようになり、香りや臭いが物語や教育、さらにはVRの小売体験の一部となることができます。味覚はまだ初期の段階にありますが、味の再ターゲティングによってその存在感を示しており、食事の前に口に化学物質を送り込むことで、共有の仮想冒険となる未来を示唆しています。 [^1]",
@@ -9877,23 +9877,23 @@
   },
   "The importance of such integration speaks to the broader objectives of immersive shared realities – creating experiences that are not merely escapes from reality but are extensions of it, enhancing users’ understanding of and engagement with important global issues such as the critical arena of climate change, providing a platform for not just awareness but active participation in sustainability efforts. Virtual environments can simulate the stark realities of climate change, such as rising sea levels or the impact of extreme weather events, making the abstract and often distant concepts an immediate and personal experience. These immersive simulations are not scare tactics but educational tools that engage users emotionally and cognitively, fostering a deeper understanding of the environmental consequences of human actions. This can be particularly powerful when using affective computing within these realities, where the system will adapt the environment based on the user’s response, physiology as well as memories or preferences, creating a feedback loop that heightens awareness and empathy for climate issues. ": {
     "ja": "このような統合の重要性は、没入型共有現実のより広範な目標を示しています。それは現実からの逃避ではなく、それを拡張する体験を作り出し、重要な地球規模の問題（例えば気候変動の重要な領域）に対するユーザーの理解と関与を向上させるものです。仮想環境は、海面上昇や極端な気象イベントの影響など、気候変動の厳しい現実をシミュレートすることができ、抽象的でしばしば遠い概念を即座かつ個人的な体験に変えることができます。これらの没入型シミュレーションは、脅威ではなく教育ツールであり、ユーザーの感情的および認知的な関与を促進し、人間の行動の環境への影響のより深い理解を育むものです。これは、これらの現実の中で感情的なコンピューティングを使用する場合に特に効果的です。システムはユーザーの反応、生理学的な特徴、記憶、好みに基づいて環境を適応させ、気候問題への意識と共感を高めるフィードバックループを作り出します。",
-    "latest": true
+    "latest": false
   },
   "The 3D printing of homes and community structures offers a radical departure from traditional construction methods. Automated printers, guided by precise digital schematics produced from the immersive shared reality sessions, layer the biomaterials to create walls and architectural features with a speed and efficiency that traditional methods cannot match. This process significantly reduces construction waste and allows for complex, organic designs that would be difficult or impossible to achieve with conventional building techniques. The concept of “printing” a community from the collective imagination of its future inhabitants is not as far-fetched as it once seemed.": {
     "ja": "家やコミュニティの構造物の3Dプリントは、従来の建築方法とは大きく異なります。自動化されたプリンターは、没入型共有現実セッションから生成された正確なデジタル設計図に従って、生体材料を層状に積み重ねて壁や建築的特徴を作り出します。このプロセスは、従来の方法では到達できない速度と効率で、建設廃棄物を大幅に削減し、複雑で有機的なデザインを可能にします。将来の住民の集合的な想像力からコミュニティを「印刷する」という概念は、かつて思われていたほど非現実的ではありません。",
-    "latest": true
+    "latest": false
   },
   "Immersive shared reality serves as a powerful design tool, allowing residents to co-create their living spaces in a virtual environment. Such worlds will contribute to the formation of shared experiences and collective memory and will situate this evolving technology within the new era of post-symbolic communication described in the previous chapter.": {
     "ja": "没入型の共有現実は、住民が仮想環境で自分の生活空間を共同で創造するための強力なデザインツールとして機能します。このような世界は、共有の経験と集合的な記憶の形成に貢献し、前章で説明されたポストシンボリックコミュニケーションの新しい時代におけるこの進化する技術を位置づけます。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Despite its promise, immersive shared reality faces a wide variety of ethical dilemmas and societal challenges that could undermine the principles of Plurality. We confront potential issues such as the risk of virtual escapism and the dilution of real-world activism, potential for addition or the neglect of physical world responsibilities and relationships. As virtual experiences verge on becoming indistinguishable from our tangible reality, the risks of addiction and the potential for neglecting the physical world's demands become palpable concerns. The seductive allure of these digital realms could precipitate a form of virtual escapism, where the lines between authentic activism and simulated advocacy blur, possibly diluting the vigor of real-world change efforts.": {
     "ja": "その約束にもかかわらず、没入型共有現実は多元主義の原則を損なう可能性のあるさまざまな倫理的ジレンマと社会的課題に直面しています。仮想的な逃避と現実世界の活動の希釈、物理的な世界の責任と関係の怠慢などの潜在的な問題に直面しています。仮想的な体験が私たちの有形の現実と区別がつかなくなるにつれて、中毒のリスクや物理的な世界の要求を無視する可能性が現実的な懸念となります。これらのデジタル領域の魅力的な魅力は、現実の活動とシミュレートされた支援の間の境界線が曖昧になり、現実世界の変化の努力の活力を希釈する可能性があります。",
-    "latest": true
+    "latest": false
   },
   "Addressing these concerns requires a careful embedding of ethical and democratic principles within the very fabric of virtual communities. Drawing from insights presented in other chapters, the integration of participatory governance systems, like democratic voting mechanisms, into virtual environments offers a promising approach. Such systems can ensure that individuals remain grounded and accountable, preserving a balance between digital engagement and their real-world roles and responsibilities. By fostering a culture of active citizenship and responsible stewardship within these platforms, we can work towards safeguarding the plurality and diversity that form the cornerstone of vibrant societies.": {
     "ja": "これらの懸念に対処するには、倫理的で民主的な原則を仮想コミュニティの非常に基盤に注意深く組み込む必要があります。他の章で提示された洞察を活用して、民主的な投票メカニズムのような参加型ガバナンスシステムを仮想環境に統合することは、有望なアプローチです。このようなシステムによって、個人がデジタルな関与と現実世界の役割と責任のバランスを保ち、地に足のついた責任ある行動ができるようになります。これらのプラットフォーム内で積極的な市民意識と責任ある管理を育むことにより、活気ある社会の基盤となる多様性と多元性を守ることができます。",
-    "latest": true
+    "latest": false
   },
   "[^1]: Jas Brooks, Noor Amin, and Pedro Lopes. 2023. Taste Retargeting via Chemical Taste Modulators. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23). Association for Computing Machinery, New York, NY, USA, Article 106, 1–15. https://doi.org/10.1145/3586183.3606818": {
     "ja": "[^1]: Jas Brooks、Noor Amin、Pedro Lopes. 2023. 化学的味覚調整子を介した味の再ターゲティング. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23). Association for Computing Machinery, New York, NY, USA, Article 106, 1–15. https://doi.org/10.1145/3586183.3606818",
@@ -10685,23 +10685,23 @@
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; The simplest and most naïve way to think about science is what might be called “objectivist”, “rationalist” or, as we will dub it, “monist atomism”[^MonistAtomism].   The physical world has an objective state and obeys an ultimately quite simple set of laws, waiting to be discovered.  These can be stated in mathematical terms and dictate the deterministic evolution of one state into another through the collision of atoms.  Because these laws and the mathematical truths they obey are unitary and universal, everything that ever will happen can be predicted from the current state of the world.  These laws are often expressed in “goal-seeking” or “teleological” terms: particles “take the path of least action”, chemical compounds “minimize free energy”, evolution maximizes fitness, economic agents “maximize utility”. Every phenomenon in the world, from human societies to the motion of the stars, can ultimately be reduced to these laws.  All one needs to do — in this frame — is have sufficient computational power/intelligence, sufficiently precise observations, and the courage to strip away one’s superstitions/social constructs/biases and one will be, essentially, gods, omniscient, and possibly omnipotent.": {
     "ja": "最も単純で素朴な科学の考え方は、「客観主義者」、「合理主義者」と呼ばれるかもしれないものであり、私たちはそれを「単一原子論」と名付けます[^MonistAtomism]。物理的な世界は客観的な状態を持ち、最終的には非常に単純な法則に従っています。これらの法則は数学的な形で述べることができ、原子の衝突を通じてある状態から別の状態への決定論的な進化を指示します。これらの法則とそれらが従う数学的な真理は単一で普遍的であるため、世界の現在の状態から予測できるすべてのことが起こるでしょう。これらの法則はしばしば「目標追求的」または「目的論的」な言葉で表現されます：粒子は「最小の作用の経路」を取り、化学物質は「自由エネルギーを最小化」し、進化は適応度を最大化し、経済主体は「効用を最大化」します。人間社会から星の動きまで、世界のすべての現象は、最終的にはこれらの法則に還元することができます。この枠組みでは、十分な計算能力/知能、十分に正確な観測、そして迷信/社会的構築物/偏見を剥ぎ取る勇気があれば、本質的には神であり、全知であり、おそらく全能です。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; The pattern of such thinking runs through almost every scientific field at some point in its development.  Euclidean geometry, which aspires to deduce nearly all mathematical facts from a small set of axioms and concepts, and Newtonian mechanics, which describe the relationship between the motion of an object and the forces acting on it, are perhaps the most famous examples.  In biology, the simple version of Darwinism focuses on the survival of the fittest species, with individual animals (or in later versions “selfish genes”) constantly struggling against each other to survive [^NaturalSelection].   In (primitive) neuroscience (especially phrenology), atoms are regions of the brain, each undertaking an atomic function that together add up to thought. In psychology, behaviorism saw thought as reducible to stimuli and response. In economics, the atoms are the self-interested individuals (or sometimes firms) of economic theory, each seeking their own advantage in the market.  In computer science, the Church-Turing Thesis sees all possible operations as reducible to a series of operations on an idealized computer called a “Turing Machine”.": {
     "ja": "このような考え方のパターンは、その発展のある時点でほぼすべての科学分野に存在します。ユークリッド幾何学は、少数の公理と概念からほぼすべての数学的事実を導き出そうとするものであり、ニュートン力学は物体の運動とそれに作用する力の関係を記述しています。これらはおそらく最も有名な例です。生物学では、ダーウィニズムの単純なバージョンでは、最も適応力のある種の生存に焦点を当て、個々の動物（または後のバージョンでは「利己的な遺伝子」）が常に互いに闘いながら生き残ることを意味します[^NaturalSelection]。 （原始的な）神経科学（特に頭蓋骨学）では、原子は脳の領域であり、それぞれが思考に加算される原子的な機能を担当しています。心理学では、行動主義は刺激と反応に還元される思考と見なしています。経済学では、経済理論の利己的な個人（または時には企業）が市場で自己の利益を追求する原子です。コンピュータ科学では、チャーチ・チューリングのテーゼは、すべての可能な操作を「チューリングマシン」と呼ばれる理想化されたコンピュータ上の一連の操作に還元できると見なしています。",
-    "latest": true
+    "latest": false
   },
   "- Sensitivity, chaos, and irreducible uncertainty: To make matters worse, many even relatively simple systems have been shown to exhibit “chaotic” behavior.  A system is chaotic if a tiny change in the initial conditions translates into radical shifts in its eventual behavior after an extended time has elapsed.  The most famous example is weather systems, where it is often said that a butterfly flapping its wings can make the difference in causing a typhoon half-way across the world weeks later.  In the presence of such chaotic effects, attempts at prediction via reduction require unachievable degrees of precision.  To make matters worse, there are often hard limits to how much precision is feasible, as precise instruments often interfere with the systems, they measure in ways that can lead to important changes due to the sensitivity mentioned previously.  The most absolute version of this is the Heisenberg Uncertainty Principle, which puts physical upper limits on measurement precision based on this logic. In the computational view of the universe, the principle of computational irreducibility (whereby certain computations (processes in the world) can only be known by carrying out the computation[^ComputationalIrreducibility]) articulates this challenge or impossibility of reduction. ": {
     "ja": "感度、カオス、および還元できない不確実性：さらに悪いことに、多くの比較的単純なシステムでも「カオス」的な振る舞いが示されています。システムがカオス的であるとは、初期条件の微小な変化が、経過時間の後にその振る舞いに根本的な変化をもたらすことを意味します。最も有名な例は、天候システムであり、しばしば蝶が羽ばたくことで、数週間後に世界の反対側で台風を引き起こす違いが生じると言われています。このようなカオス的な効果の存在下では、還元による予測の試みは実現不可能な精度を必要とします。さらに悪いことに、精密な計器はしばしばシステムに干渉し、先述の感度による重要な変化を引き起こす方法で測定を行いますので、実現可能な精度にはしばしば厳しい制限があります。これの最も絶対的なバージョンはハイゼンベルクの不確定性原理であり、この論理に基づいて測定精度に物理的な上限を設けています。宇宙の計算的な視点では、計算的還元不可能性の原理（世界の特定の計算（プロセス）は、計算を実行することによってのみ知ることができるというもの）がこの還元の課題または不可能性を明示しています。",
-    "latest": true
+    "latest": false
   },
   "- Multiscale organization: While some might take the above observations as a council of scientific despair, an alternative is to view it as a reason to expect a diversity of analytic/scientific approaches to be fruitful under different conditions, at different scales of analysis and in ways that will intersect with each other. Indeed, in evolution natural selection is known to operate at multiple levels with major evolutionary transitions occurring from the individual to groups that become a new, higher-level organism[^MultilevelSelection]. In this view, it is natural to seek to characterize these different approaches, their “scope conditions” (viz. when they are likely to be most useful), how they can interact with each other and to consider this sort of approach as a core part of the scientific endeavor. ": {
     "ja": "マルチスケールの組織化：上記の観察を科学的な絶望の助言と見なす人もいるかもしれませんが、別の視点として、異なる条件下で異なる解析/科学的アプローチが有益であり、異なる分析のスケールで相互に交差することを期待する理由と見ることもできます。実際、進化においては、自然選択が個体から新たな高次レベルの生物体となるグループまでの複数のレベルで作用することが知られています[^MultilevelSelection]。この視点では、これらの異なるアプローチを特徴付け、それらの「範囲条件」（つまり、いつ最も有用であるか）を考え、それらが互いにどのように相互作用するかを考えることが自然であり、科学的な取り組みの中核的な部分として考えることができます。",
-    "latest": true
+    "latest": false
   },
   "- EXAMPLE OF SENSITIVITY AND CHAOS IN BRAIN HERE.  SOME FIRST THOUGHTS IN FOOTNOTE, BUT THESE NEED TO BE BROUGHT TOGETHER MORE COHERENTLY AND CONSISTENTLY WITH OTHER MATERIAL TO BELONG HERE[^NeuroscienceComplexity]": {
     "ja": "- 脳の感受性と混沌の例。脚注に最初の考えがありますが、これらをより一貫性のある他の資料と結びつけて、ここに属するようにまとめる必要があります。[^NeuroscienceComplexity]",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; While we do not have the space to review it in detail, a rich literature provides quantitative and social scientific evidence for the explanatory power of the pluralist perspective.  Studies of industrial dynamics, of social and behavioral psychology, of economic development, of organizational cohesion, and much else, have shown the central role of social relationships that create and harness diversity[^SocialDynamics].   Instead, we will pull out just one example that perhaps will be both the most surprising and most related to the scientific themes above: the evolution of scientific knowledge itself.": {
     "ja": "詳細にはレビューするスペースがありませんが、豊富な文献は多元主義の視点の説明力を提供しています。産業のダイナミクス、社会心理学、行動心理学、経済発展、組織の結束などの研究は、多様性を創造し活用する社会的関係の中心的な役割を示しています[^SocialDynamics]。代わりに、おそらく最も驚くべきかつ上記の科学的テーマに最も関連する1つの例を取り上げます：科学的知識自体の進化。",
@@ -10941,15 +10941,15 @@
   },
   "Audio-visual interfaces have long been the vanguard senses in the digital realm; thus, the frontier is now expanding to include touch, facilitated by advanced haptic feedback systems that replicate the subtleties of physical contact. Smell, once considered elusive in the digital domain, is now being captured by olfactory technology, enabling fragrances and odors to be part of storytelling, education, and even retail experiences in VR. Taste, though still in nascent stages, is beginning to make its mark through taste retargeting [^TasteRetargeting], hinting at a future where dining can be a shared virtual adventure by altering taste perception delivering chemical modulators to the mouth before eating. ": {
     "ja": "オーディオビジュアルインターフェースは、デジタル領域での先駆的な感覚で長い間存在してきました。そのため、フロンティアは今や触覚を含むように拡大しています。これは、物理的な接触の微妙なニュアンスを再現するための高度な触覚フィードバックシステムによって可能になっています。かつてデジタル領域で難解と考えられていた嗅覚は、現在では嗅覚技術によって捉えられるようになり、香りや臭いが物語や教育、さらにはVRの小売体験の一部となっています。味覚はまだ初期の段階ですが、味の再ターゲティングによってその存在感を示しており、食事の前に口に化学物質を送り込むことで、共有の仮想冒険となる未来を示唆しています。 [^TasteRetargeting]",
-    "latest": true
+    "latest": false
   },
   "This multisensory expansion is not merely for enhancement but serves a higher purpose of fostering inclusivity and equality within immersive spaces. For instance, hyper-realistic social VR platforms are being designed with accessibility in mind, allowing those with visual or auditory impairments to engage through other senses. Virtual chambers are being designed where people who are fare away from one another can converse as if in the same room. For instance, the Portals Policing Project [^MultisensoryIntegration] exemplifies how Immersive Shared Realities can serve the public good by sharing the lived experiences of people with law enforcement in a controlled, yet realistic virtual chamber, improving understanding and trust on both sides. On similar lines, the Tree Project [^PortalsPolicingProject] demonstrates how immersive VR can evoke empathy and compassion for the natural environment by transforming the user into a rainforest tree and exposing them to the threats of deforestation and climate change. ": {
     "ja": "この多感覚の拡張は、単に向上させるためだけでなく、没入型の空間内での包括性と平等を促進するというより高い目的を果たしています。たとえば、超リアルな社会的なVRプラットフォームは、視覚や聴覚の障害を持つ人々が他の感覚を通じて参加できるように設計されています。仮想のチャンバーでは、互いに遠く離れた人々が同じ部屋にいるかのように会話できるように設計されています。たとえば、ポータル警察プロジェクト[^MultisensoryIntegration]は、没入型の共有現実が制御されたが現実的な仮想チャンバーで法執行機関との生活体験を共有することで、双方の理解と信頼を向上させることで公共の利益に貢献する方法を示しています。同様に、ツリープロジェクト[^PortalsPolicingProject]は、没入型VRがユーザーを熱帯雨林の木に変え、森林伐採や気候変動の脅威にさらすことで、自然環境への共感と思いやりを喚起する方法を示しています。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp;  At the frontiers of Immersive Shared Reality, we are not merely spectators but active participants in a revolution of multisensory integration [^TreeProject]. As Mediated Reality technologies advance, the precision with which sensory modalities are replicated and introduced into virtual experiences will improve, allowing for a more sophisticated and controlled use of non-traditional sensory inputs like the sense of smell and taste. This careful curation of olfactory and haptic stimuli, when combined with visual and auditory, can create a compelling illusion of reality that deeply resonates with the users’ emotions and memories. Such stimuli, when reactivated during sleep, not only can enhance these memories [^OlfactoryWearables], but simulate worlds through sensory stimulation in altered states of consciousness [^DreamEngineering], such in a shared lucid dream [^RealtimeDreamDialogue].": {
     "ja": "没入型共有現実の最前線では、私たちは単なる観客ではなく、多感覚統合の革命の積極的な参加者です[^TreeProject]。仲介現実技術が進歩するにつれて、感覚モダリティがどれだけ正確に複製され、仮想体験に導入されるかが向上し、嗅覚や味覚のような非伝統的な感覚入力のより洗練された制御された使用が可能になります。視覚と聴覚と組み合わせることで、慎重にキュレーションされた嗅覚と触覚の刺激は、現実の錯覚を作り出し、ユーザーの感情と記憶に深く共鳴するものを作り出すことができます。このような刺激は、睡眠中に再活性化されると、これらの記憶を強化するだけでなく、意識の変化した状態で感覚刺激を通じて世界をシミュレートすることができます[^OlfactoryWearables]。共有された明晰な夢のような[^RealtimeDreamDialogue]。",
-    "latest": true
+    "latest": false
   },
   "[^TasteRetargeting]: Jas Brooks, Noor Amin, and Pedro Lopes. 2023. Taste Retargeting via Chemical Taste Modulators. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23). Association for Computing Machinery, New York, NY, USA, Article 106, 1–15. https://doi.org/10.1145/3586183.3606818": {
     "ja": "[^TasteRetargeting]: Jas Brooks、Noor Amin、Pedro Lopes. 2023. 化学的味覚調整子を用いた味の再ターゲティング. 第36回年次ACMユーザーインターフェースソフトウェアとテクノロジーシンポジウム(UIST '23)論文集. Association for Computing Machinery, New York, NY, USA, Article 106, 1–15. https://doi.org/10.1145/3586183.3606818",
@@ -11573,7 +11573,7 @@
   },
   "> (D)ecisions about the development and exploitation of computer technology must be made not only \"in the public interest\" but in the interest of giving the public itself the means to enter into the decision-making processes that will shape their future. — J. C. R. Licklider, \"Computers and Government\", 1979": {
     "ja": "コンピュータ技術の開発と利用に関する意思決定は、「公共の利益」だけでなく、公衆自体が将来を形作る意思決定プロセスに参加する手段を持つことを考慮して行われる必要があります。- J. C. R. Licklider、「コンピュータと政府」、1979年",
-    "latest": true
+    "latest": false
   },
   "[^WEIRDest]: Henrich, J (2020) The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World": {
     "ja": "[^WEIRDest]: Henrich, J (2020) The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World",
@@ -11945,6 +11945,406 @@
   },
   "如果你相信，繁榮、進步和正義的社會的核心條件是——社會多樣性，以及在這種豐富的多樣性中的協作，請加入我們。": {
     "ja": "如果あなたが、繁栄、進歩、正義の社会の核心条件は-社会的多様性であり、この豊かな多様性の中での協力であると信じるなら、私たちに参加してください。",
+    "latest": true
+  },
+  "# What is plurality?": {
+    "ja": "多元主義とは何ですか？",
+    "latest": true
+  },
+  "\"Democracy is a technology. Like any technology, it gets better when more people strive to improve it.\" - Audrey Tang[^Audrey]": {
+    "ja": "「民主主義は技術です。他のどんな技術と同様に、それを改善しようとする多くの人々がいるほど、より良くなります。」- Audrey Tang[^Audrey]",
+    "latest": true
+  },
+  "\"Action, the only activity that goes on directly between men without the intermediary of things or matter, corresponds to the human condition of plurality … this plurality is specifically the condition — not only the conditio sine qua non, but the conditio per quam — of all political life.\" - Hannah Arendt[^Arendt]": {
+    "ja": "「行動は、物事や物質を介さずに直接人々の間で行われる唯一の活動であり、多元主義者の人間の状態に対応しています...この多元性は、すべての政治的な生活の条件であるだけでなく、必要不可欠な条件であり、かつ条件です。」- ハンナ・アーレント[^Arendt]",
+    "latest": true
+  },
+  "In the previous chapter, we discussed the growing conflict between technology - or, more precisely, technology as implemented largely by profit-seeking corporations, and democracy - or, more precisely, democracy as implemented by top-down centralized nation states, and how these two forces seem to be pulling in opposite directions. To develop an approach that moves beyond this toxic binary, it helps to first acknowledge and understand the thing that the two sides have _in common_. This is a complex topic, but in our view a reasonable summary can be made as follows: the thing that the two perspectives we previously labeled \"Libertarianism\" and \"Technocracy\" have in common is a **monist view of the world that sees the social world as a two-level structure of \"individuals\" and a monolith called \"society\"**.": {
+    "ja": "前の章では、技術と民主主義の間の増大する対立について議論しました。より正確には、利益追求型の企業によって主に実施される技術と、トップダウン型の中央集権的な国家によって実施される民主主義との間の対立です。これらの2つの力が相反する方向に引っ張られているように見えるということを考えると、この有毒な二項対立を超えるアプローチを開発するためには、まず、2つの側面が「共通して」持つものを認識し理解することが役立ちます。これは複雑なトピックですが、私たちの見解では、次のように要約することができます。「リバタリアニズム」と「テクノクラシー」という以前にラベル付けされた2つの視点が共通して持つものは、社会世界を「個人」という2つのレベルの構造と「社会」という一つの巨大なものと見る「一元的な世界観」です。",
+    "latest": true
+  },
+  "If one accepts such a framework, the necessity of the two-century-old fight of Jeffersonianism vs Hamiltonianism, markets versus democracy, fear of big government vs fear of big business, and now in our telling technology versus democracy, follows as an almost immediate conclusion. If you believe that the most important categories that count are \"individuals\" and \"society\", then politics reduces to a single-dimensional slider that can be shifted left or right to reflect how much emphasis you want to give each one.": {
+    "ja": "もし、そのような枠組みを受け入れるならば、ジェファーソニアニズム対ハミルトニアニズム、市場対民主主義、ビッグガバメントへの恐怖対ビッグビジネスへの恐怖、そして今では私たちの話においてテクノロジー対民主主義という、200年以上続く戦いの必要性は、ほぼ直ちに結論として導かれます。もし「個人」と「社会」という最も重要なカテゴリーが存在すると信じるならば、政治は左右にシフトさせることで、それぞれにどれだけ重点を置くかを反映する単一次元のスライダーに還元されます。",
+    "latest": true
+  },
+  "Our approach, centered around the idea of **plurality**, rejects this divide and seeks to create a richer framework. Rather than seeing the most important structures as being individuals at one end, and \"society\" at the other end, we see a diverse and highly intersecting array of organizations of different scopes and different sizes.": {
+    "ja": "私たちのアプローチは、**多元主義**という考え方を中心に据えており、この分断を拒否し、より豊かな枠組みを作り出すことを目指しています。最も重要な構造物を一方に個人、もう一方に「社会」と見るのではなく、異なる範囲と異なるサイズの多様で高度に交差する組織の配列を見ることができます。",
+    "latest": true
+  },
+  "Note that this view differs from a historically common approach to adding nuance to the \"individuals vs society\" divide in a key way: if individuals are points, and groups are circles, **our circles are not concentric**.": {
+    "ja": "この見方は、「個人 vs 社会」という分断に微妙さを加える歴史的に一般的なアプローチとは異なります。個人が点であり、グループが円であるとすれば、**私たちの円は同心円ではありません**。",
+    "latest": true
+  },
+  "<table><tr><td style=\"width:50%\">": {
+    "ja": "<table><tr><td style=\"width:50%\">\n\n# Output\n<table><tr><td style=\"width:50%\">\n\n# Input\nPluralist thinking is the belief that there are multiple perspectives and approaches to understanding society.\n\n# Output\n多元主義者の考え方は、社会を理解するための複数の視点やアプローチが存在するという信念です。",
+    "latest": true
+  },
+  "<img src=\"../../figs/circles1.png\"/>": {
+    "ja": "<img src=\"../../figs/circles1.png\"/>",
+    "latest": true
+  },
+  "</td><td>": {
+    "ja": "</td><td>",
+    "latest": true
+  },
+  "<img src=\"../../figs/circles2.png\"/>": {
+    "ja": "<img src=\"../../figs/circles2.png\"/>",
+    "latest": true
+  },
+  "</td></tr><tr><td style=\"width:50%\">": {
+    "ja": "</td></tr><tr><td style=\"width:50%\">",
+    "latest": true
+  },
+  "Left: a concentric circle view of society, from [a sociology paper in 2004](https://www.semanticscholar.org/paper/A-Dynamic%2C-Multi%E2%80%90Level-Model-of-Culture%3A-From-the-a-Erez-Gati/50c014cf2c4e5095a49d5315a150cd4491f0cecd)": {
+    "ja": "左：2004年の[社会学の論文](https://www.semanticscholar.org/paper/A-Dynamic%2C-Multi%E2%80%90Level-Model-of-Culture%3A-From-the-a-Erez-Gati/50c014cf2c4e5095a49d5315a150cd4491f0cecd)における社会の同心円視点",
+    "latest": true
+  },
+  "Right: a plural view of society.": {
+    "ja": "正しい：社会の多元的な視点。",
+    "latest": true
+  },
+  "</td></tr></table>": {
+    "ja": "</td></tr></table>",
+    "latest": true
+  },
+  "Interactions between circles are complex, and much of what is beautiful about our world comes from various interactions - as well as many of our conflicts. Each individual has all kinds of loyalties to all kinds of groups, and efforts to try to strip away this plural loyalty in favor of either unbridled valorizing of self-interest or demanding supreme loyalty to some overarching structure representing \"all of society\" (or \"all of humanity\" etc), are the cause of many of the problems that we see today. Profit-making corporations, and the workflows and the technologies that they build, often cause the most damage by stripping away this complexity. Meanwhile, democracy, seeing itself as trying to create a counter-pressure, often ends up making a second punch against these diverse groups and communities by demanding that these workflows and technologies operate in ways determined and standardized at very large scales by a centralized state.": {
+    "ja": "円同士の相互作用は複雑であり、私たちの世界の美しい部分はさまざまな相互作用から生まれています - そして私たちの多くの紛争も同様です。個々の人はさまざまなグループに対してさまざまな忠誠心を持っており、自己利益を絶賛するか、あるいは「社会全体」（または「人類全体」など）を代表するあらゆる構造に対して至高の忠誠心を要求するために、この多元的な忠誠心を剥奪しようとする試みは、私たちが今日見ている多くの問題の原因です。利益を追求する企業や、それらが構築するワークフローと技術は、この複雑さを剥奪することで最も多くの損害を引き起こすことがよくあります。一方、民主主義は、反圧力を作り出そうとする自己を見て、しばしば中央集権的な国家によって非常に大規模なスケールで決定され、標準化された方法でこれらのワークフローと技術が運営されることを要求することで、これらの多様なグループやコミュニティに対して二度目のパンチを与えることになります。",
+    "latest": true
+  },
+  "### What is Plurality?": {
+    "ja": "### プララリティとは何ですか？",
+    "latest": true
+  },
+  "Our vision of Plurality can be described succinctly in three parts:": {
+    "ja": "Pluralityのビジョンは、簡潔に3つの部分で説明することができます。",
+    "latest": true
+  },
+  "* **Plurality is here.** The extreme diversity of the ways in which different people interact with the world and with each other, is a deep feature of the human world that cannot be taken away. This is not even something especially particular to humanity: there are deep analogues of similar ideas across the natural sciences.": {
+    "ja": "* **多元主義はここにあります。** 異なる人々が世界やお互いとどのように関わるかの極端な多様性は、取り除くことができない人間の世界の深い特徴です。これは特に人間に特有のものではありません。自然科学の中にも似たようなアイデアの深い類似があります。",
+    "latest": true
+  },
+  "* **Plurality can be harnessed, but it must be respected.**  The diversity both of us as individuals and of our combinations is like fire: it can warm us, or it can burn us. Difference often is a source of conflict. But much like making our atoms stop would freeze us to death, attempting to smooth out our differences would create a cold and likely brittle society. There is a multi-century long school of philosophy that has attempted to describe and perfect the art of harnessing our diversity as a strength; this school can be revived and pushed much further.": {
+    "ja": "* **多元主義は利用できますが、尊重される必要があります。** 私たち個人と私たちの組み合わせの多様性は、火のようなものです。私たちを温めることもできますし、焼き尽くすこともできます。違いはしばしば紛争の源です。しかし、私たちの原子を止めることが凍死につながるように、私たちの違いをなくそうとする試みは、冷たくて脆弱な社会を作り出すでしょう。私たちの多様性を強みとして利用するための哲学の学派が数世紀にわたって存在し、その学派は再興され、さらに推進されるべきです。",
+    "latest": true
+  },
+  "* **Technology must take center stage in Plurality, and plurality must take center stage in technology.** Digital technology is and will be at the center of how we interact with each other, but it will be far better placed to improve the world if works with our diversity, rather than working around it or fighting against it.": {
+    "ja": "* **テクノロジーは多元主義の中心に置かれなければならず、多元主義はテクノロジーの中心に置かれなければなりません。** デジタルテクノロジーは、私たちがお互いとのやり取りをする際の中心にあり、しかし、それは私たちの多様性と一緒に働くことで世界を改善するためにはるかに適した場所になるでしょう。それがそれを回避するか、それと戦うかわりに。",
+    "latest": true
+  },
+  "Each of the next three chapters will go through one of these ideas in much more detail.": {
+    "ja": "次の3つの章では、これらのアイデアのそれぞれについて詳しく説明します。",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Technology follows science. And so if we want to understand Plurality as a vision of _what our world could become_, we need to start off by understanding Plurality as a perspective on _how the world already is_. The Abundance Technocracy (AT) and Entrepreneurial Sovereignty (ES) perspectives, which we critiqued because of their over-emphasis on one particular way of solving social problems (a global expert class in the former case, and entrepreneurs and corporations in the latter case), also have a long history of being tied to what we consider overly simplistic analogies of science.": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;科学に続いて技術があります。そして、私たちが世界がどのようになるかというビジョンとしての多元主義を理解したいのであれば、多元主義を既に存在する世界に対する視点として理解することから始める必要があります。私たちは、社会問題を解決するための特定の方法に過度に重点を置いている（前者の場合はグローバルな専門家クラス、後者の場合は起業家や企業）という理由で批判した豊富な技術主義（AT）と起業家主権（ES）の視点も、科学の過度に単純化された類似性に結び付けられていると考えています。",
+    "latest": true
+  },
+  "Technocracy has a long history of being justified by science and rationality. The idea of “scientific management” (a.k.a. Taylorism) that became popular in the early 1900s was justified by making analogies between social systems and simple mathematical models, and logic and reason as ways of thinking about them. High modernism in architecture is similarly inspired by the beauty of geometry. Entrepreneurial sovereignty also borrows heavily from physics and other sciences: just like particles “take the path of least action”, and evolution maximizes fitness, economic agents “maximize utility”. Every phenomenon in the world, from human societies to the motion of the stars, can ultimately be reduced to these laws.": {
+    "ja": "テクノクラシーは、科学と合理性によって正当化されてきた長い歴史を持っています。1900年代初頭に人気を博した「科学的管理」（別名テイラリズム）のアイデアは、社会システムと単純な数学モデル、論理と理性を使ってそれらについて考える方法との類似性によって正当化されました。建築のハイモダニズムも同様に、幾何学の美しさに触発されています。起業家的主権も物理学や他の科学から大いに借用しています：粒子が「最小作用の経路」を取るように、進化が適応度を最大化するように、経済主体も「効用を最大化」します。人間社会から星の動きまで、世界のあらゆる現象は、最終的にこれらの法則に帰着することができます。",
+    "latest": true
+  },
+  "These approaches have achieved great successes that cannot be ignored.  Newtonian mechanics explained a range of phenomena and helped inspire the technologies of the industrial revolution.  Darwinism is the foundation of modern biology.  Economics has been the most influential of the social sciences on public policy.  And the Church-Turing vision of “general computation” helped inspire the idea of general-purpose computers that are so broadly used today. But there are also limits to the power of each of these sciences, as we have been increasingly discovering in the past century. Gödel’s Theorem undermined the unity and completeness of mathematics and a range of non-Euclidean geometries are now critical to science. Symbiosis, ecology, and extended evolutionary synthesis undermined “survival of the fittest” as the central biological paradigm.  Neuroscience has been reimagined around networks and emergent capabilities.": {
+    "ja": "これらのアプローチは無視できないほどの大成功を収めています。ニュートン力学はさまざまな現象を説明し、産業革命の技術のインスピレーションとなりました。ダーウィニズムは現代生物学の基礎です。経済学は公共政策において社会科学の中で最も影響力がありました。そして、チャーチ・チューリングの「一般計算」のビジョンは、今日広く使用されている汎用コンピュータのアイデアのインスピレーションとなりました。しかし、これらの科学の力には限界もあります。過去の1世紀で私たちがますます発見してきたように、ゲーデルの定理は数学の統一性と完全性を揺るがし、非ユークリッド幾何学のさまざまな形式が科学において重要となっています。共生、生態学、そして拡張進化合成は、「最も適応したものが生き残る」という中心的な生物学のパラダイムを揺るがしました。神経科学はネットワークと新興能力を中心に再構築されました。",
+    "latest": true
+  },
+  "Plurality similarly looks at social systems from multiple perspectives, and appreciates that any single perspective has limits to its power to explain the world. A corporation can be viewed as a player in a bigger game, but a corporation is simultaneously itself a game, where employees, shareholders, management and customers are all players, and whose outcomes often do not look anything like a coherent utility function. What's more, the abstraction often leaks: individual employees of a corporation are often influenced through their _other_ relationships with the outside world, and not through the corporation itself. Countries too are both games and players, and there too we cannot cleanly separate apart actions between countries and actions within a country: the writing of this very book is a complicated mix of both in multiple ways.": {
+    "ja": "多元主義は、社会システムを複数の視点から見ることを同様にし、単一の視点には世界を説明する力の限界があることを認識しています。企業はより大きなゲームの中のプレイヤーとして見ることができますが、同時に企業自体もゲームであり、従業員、株主、経営陣、顧客などがすべてプレイヤーであり、その結果はしばしば一貫した効用関数のようには見えません。さらに、抽象化はしばしば漏れ出します。企業の個々の従業員は、企業自体ではなく、外部の世界との「他の」関係を通じて影響を受けることがよくあります。国々もまたゲームであり、プレイヤーでもあります。国と国内の行動をきれいに分離することはできません。この本の執筆も、複数の方法で両方の複雑な組み合わせです。",
+    "latest": true
+  },
+  "Plurality is thus heavy with analogies to natural sciences: it uses many precisely because it understands the limits in relying too much on any single one. We can give a few examples.": {
+    "ja": "多元主義は自然科学に多くの類似点を持っているため、あまりにも一つに頼りすぎることの限界を理解しているため、多くのアナロジーを使用しています。いくつかの例を挙げることができます。",
+    "latest": true
+  },
+  "### Mathematics": {
+    "ja": "### 数学",
+    "latest": true
+  },
+  "19th century mathematics saw the rise of formality: being precise and rigorous about the definitions and properties of mathematical structures that we are using, so as to avoid inconsistencies and mistakes. At the beginning of the 20th century, there was a hope that mathematics could be “solved”, perhaps even giving a precise algorithm for determining the truth or falsity of any mathematical claim. 20th century mathematics, on the other hand, was characterized by much more uncertainty.": {
+    "ja": "19世紀の数学は形式主義の台頭を見ました：使用している数学的構造の定義と特性について正確かつ厳密であり、矛盾や間違いを避けるためです。20世紀初頭には、数学が「解かれる」可能性があり、おそらく任意の数学的主張の真偽を決定するための正確なアルゴリズムさえ与えることができるという希望がありました。一方、20世紀の数学ははるかに不確実性が特徴でした。",
+    "latest": true
+  },
+  "- **Gödel's theorem**: a number of mathematical results from the early 20th century, most notably Gödel's theorem, showed that there are fundamental and irreducible ways in which key parts of mathematics cannot be fully solved. Similarly, Church proved that some mathematical problems were “undecidable” by computational processes. This dashed the dream of reducing all of mathematics to computations on basic axioms.": {
+    "ja": "- **ゲーデルの定理**：20世紀初頭の数学的な結果の中で、特にゲーデルの定理は、数学の重要な部分を完全に解決することができない基本的で不可分な方法があることを示しました。同様に、チャーチはいくつかの数学の問題が計算プロセスによって「決定不能」であることを証明しました。これにより、すべての数学を基本的な公理上の計算に還元するという夢は打ち砕かれました。",
+    "latest": true
+  },
+  "- **Computational complexity**: Even when reductionism is feasible in principle/theory, the computation required to predict higher-level phenomena based on their components (its computational complexity) is so large that performing it is unlikely to be practically relevant. In fact, in some cases, it is believed that the required computation would consume far more resources than could possibly be recovered through the understanding gained by such a reduction. In many real-world use cases, the situation can often be described as a well-studied computational problem where the “optimal” algorithm takes an exponentially large amount of time, and so good-enough “heuristic” algorithms often get used in practice.": {
+    "ja": "- **計算複雑性**：原理/理論上は還元主義が可能であっても、その要素に基づいて上位レベルの現象を予測するために必要な計算（計算の複雑性）は非常に大きいため、実際には実用的に関連することはないでしょう。実際、一部の場合では、そのような還元によって得られる理解よりもはるかに多くのリソースを消費すると考えられています。多くの現実世界の使用例では、状況はしばしば「最適な」アルゴリズムが指数的に長い時間を要するよく研究された計算問題として記述でき、実際には十分に「ヒューリスティック」アルゴリズムが使用されることがよくあります。",
+    "latest": true
+  },
+  "- **Sensitivity, chaos, and irreducible uncertainty**: Many even relatively simple systems have been shown to exhibit “chaotic” behavior.  A system is chaotic if a tiny change in the initial conditions translates into radical shifts in its eventual behavior after an extended time has elapsed.  The most famous example is weather systems, where it is often said that a butterfly flapping its wings can make the difference in causing a typhoon half-way across the world weeks later.  In the presence of such chaotic effects, attempts at prediction via reduction require unachievable degrees of precision.  To make matters worse, there are often hard limits to how much precision is feasible, as precise instruments often interfere with the systems, they measure in ways that can lead to important changes due to the sensitivity mentioned previously.": {
+    "ja": "- **感度、カオス、および不可約な不確実性**：多くの場合、比較的単純なシステムでも「カオス」的な振る舞いを示すことが示されています。システムがカオス的であるとは、初期条件の微小な変化が、時間の経過後にその振る舞いに根本的な変化をもたらすことを意味します。最も有名な例は、天候システムであり、しばしば蝶が羽ばたくことで、数週間後に世界の反対側で台風を引き起こす違いが生じると言われています。このようなカオス的な効果の存在下では、削減による予測の試みは達成不可能な精度を必要とします。さらに悪いことに、実現可能な精度にはしばしば厳しい制限があります。なぜなら、精密な計器は、前述の感度による重要な変化を引き起こす可能性がある方法で測定されるシステムに干渉するからです。",
+    "latest": true
+  },
+  "* **Fractals**: many mathematical structures have been shown to have similar patterns at very different scales. A good example of this is the Mandelbrot set, generated by repeatedly squaring then adding the same offset to a complex number:": {
+    "ja": "* **フラクタル**：多くの数学的構造は、非常に異なるスケールで似たパターンを持つことが示されています。これの良い例は、複素数に繰り返し二乗して同じオフセットを加えることで生成されるマンデルブロ集合です。",
+    "latest": true
+  },
+  "- **Relationality in mathematics**: in mathematics, different branches are often interconnected, and insights from one area can be applied to another. For instance, algebraic structures are ubiquitous in many branches of mathematics, and they provide a language for expressing and exploring relationships between mathematical objects. The study of algebraic geometry connects these structures to geometry. Moreover, the study of topology is based on understanding the relationships between shapes and their properties. The mix of diversity and interconnectedness is perhaps the defining feature of modern mathematics ": {
+    "ja": "- **数学における関係性**: 数学では、異なる分野がしばしば相互に関連しており、ある分野からの洞察は別の分野に適用することができます。たとえば、代数的構造は数学の多くの分野で普遍的に存在し、数学的対象間の関係を表現し探求するための言語を提供します。代数幾何学の研究はこれらの構造を幾何学につなげます。さらに、位相学の研究は形状とその特性の関係を理解することに基づいています。多様性と相互関連性の組み合わせは、現代数学の特徴と言えるでしょう。",
+    "latest": true
+  },
+  "### Physics": {
+    "ja": "### 物理学",
+    "latest": true
+  },
+  "At the end of the 19th century, Lord Kelvin infamously proclaimed that “There is nothing new to discover in physics now.”  The next century proved, on the contrary, to be the most fertile and revolutionary in the history of the field.": {
+    "ja": "19世紀末、ケルビン卿は「物理学にはもう新しい発見はない」と悪名高く宣言しました。しかし、次の世紀はその反対に、この分野の歴史上最も豊かで革命的なものとなりました。",
+    "latest": true
+  },
+  "* **Einstein's theories of relativity** overturned the simplicity of Euclidean geometry and Newtonian dynamics of colliding billiard balls as a guide to understanding the physical world at a very large scale. When objects travel at large fractions of the speed of light, very different rules start describing their behavior.": {
+    "ja": "* **相対性理論**は、ユークリッド幾何学の単純さやニュートン力学の衝突するビリヤードボールを理解するためのガイドを覆しました。物体が光速の大きな割合で移動すると、非常に異なるルールが彼らの振る舞いを説明し始めます。",
+    "latest": true
+  },
+  "* **Quantum mechanics and string theory** similarly showed that classical physics is insufficient at very small scales. Bell's Theorem demonstrated clearly that quantum physics cannot even be fully described as a consequence of probability theory and hidden information: rather, a particle can be in a combination (or “superposition”) of two states at the same time, where those two states _cancel each other out_.": {
+    "ja": "* **量子力学と弦理論**も同様に、古典物理学は非常に小さなスケールでは不十分であることを示しています。ベルの定理は、量子物理学が確率論と隠れた情報の結果として完全に説明できないことを明確に示しました。むしろ、粒子は同時に2つの状態の組み合わせ（または「重ね合わせ」）に存在することができ、それらの2つの状態は互いを打ち消し合います。",
+    "latest": true
+  },
+  "* **“Heisenberg’s Uncertainty Principle”** puts a firm upper limit on the precision with which the velocity and position of a particle can even be measured.": {
+    "ja": "* **「ハイゼンベルクの不確定性原理」**は、粒子の速度と位置を測定する際の精度に厳しい上限を設けています。",
+    "latest": true
+  },
+  "* **The three body problem**, now famous after its central role in Liu Cixin's science-fiction series, shows that an interaction of even three bodies, even under simple Newtonian physics, is chaotic enough that its future behavior cannot be predicted with simple mathematical problems. However, we still regularly solve _trillion-body problems_ well enough for everyday use by using seventeenth-century abstractions such as “temperature” and “pressure”.": {
+    "ja": "* **三体問題**は、劉慈欣のSFシリーズで中心的な役割を果たしたことで有名になりました。この問題は、たった3つの物体の相互作用でさえ、単純なニュートン力学の下ではカオスであり、その将来の振る舞いを単純な数学的問題で予測することはできません。しかし、私たちはまだ「温度」や「圧力」といった17世紀の抽象化を用いて、日常的な使用に十分な程度に「兆個体問題」を解決しています。",
+    "latest": true
+  },
+  "Perhaps the most striking and consistent feature of the revolutions in twentieth century physics was the way they upset assumptions about a fixed and objective external world.  Relativity showed how time, space, acceleration, and even gravity were functions of the relationship among objects, rather than absolute features of an underlying reality.  Quantum physics went even further, showing that even these relative relationships are not fixed until observed and thus are fundamentally interactions rather than objects.  Thus, modern science often consists of mixing and matching different disciplines to understand different aspects of the physical world at different scales": {
+    "ja": "20世紀の物理学の革命の中で最も印象的で一貫した特徴は、固定された客観的な外部世界に関する仮定を覆した方法でした。相対性理論は、時間、空間、加速度、さらには重力さえも、絶対的な現実の下にあるものではなく、物体間の関係によって機能することを示しました。量子物理学はさらに進んで、これらの相対的な関係さえも観測されるまで固定されていないことを示し、したがって基本的には物体ではなく相互作用です。したがって、現代の科学はしばしば異なる学問を組み合わせて、異なるスケールの物理的世界の異なる側面を理解することから成り立っています。",
+    "latest": true
+  },
+  "### Biology": {
+    "ja": "### 生物学",
+    "latest": true
+  },
+  "- **Limits to predictability of models**: we have continued to discover limits in our ability to make effective models of animal behavior that are based on reductive concepts, such as behaviorism, neuroscience, and so forth, illustrating computational complexity.": {
+    "ja": "- **モデルの予測可能性の制約**: 我々は、行動主義、神経科学などの還元的な概念に基づく動物の行動の効果的なモデルを作成する能力に制約があることを、計算複雑性を示すことで発見し続けています。",
+    "latest": true
+  },
+  "- **Similarities between organisms and ecosystems**: we have discovered that many diverse organisms (“ecosystems”) can exhibit features similar to multicellular life (homeostasis, fragility to destruction or over propagation of internal components, etc.) illustrating sensitivity and chaos.": {
+    "ja": "- **生物と生態系の類似点**: 私たちは、多様な生物（「生態系」）が多細胞生物と似た特徴（恒常性、内部構成要素の破壊や過剰増殖に対する脆弱性など）を示すことを発見しました。これは感度とカオスを示しています。",
+    "latest": true
+  },
+  "- **Higher-level organisms** that operate through the cooperation of simpler ones (e.g., multicellular life as cooperation among single-celled organisms or “eusocial” organisms like ants from individual insects). A particular property of the evolution of these organisms is the potential for mutation and selection to occur at all these levels, illustrating multi-scale organization.": {
+    "ja": "- **高次の生物**は、より単純な生物の協力によって運営されます（例：単細胞生物や「共同社会」の昆虫からなるアリなど）。これらの生物の進化の特徴の1つは、これらのレベルでの突然変異と選択の可能性があることであり、多スケールの組織を示しています。",
+    "latest": true
+  },
+  "- **The diversity of cross-species interactions**, including traditional competition or predator and prey relationships, but also a range of “mutualism”, where organisms depend on services provided by other organisms and help sustain them in turn, exemplifying entanglement, and relationality.": {
+    "ja": "- **異種間の相互作用の多様性**は、従来の競争や捕食者と被食者の関係だけでなく、他の生物が提供するサービスに依存し、それによって生物を維持する範囲の「相互利益」も含まれており、絡み合いや関係性を具体化しています。",
+    "latest": true
+  },
+  "- **Epigenetics**: we have discovered that genetics codes only a portion of these behaviors, and “epigenetics” or other environmental features play important roles in evolution and adaptation, illustrating embedded causality.": {
+    "ja": "- **エピジェネティクス**：私たちは、遺伝子がこれらの行動の一部しかコード化していないことを発見しました。そして、「エピジェネティクス」や他の環境的な特徴が進化や適応に重要な役割を果たしていることが、埋め込まれた因果関係を示しています。",
+    "latest": true
+  },
+  "### Neuroscience": {
+    "ja": "### 神経科学",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp;Modern neuroscience started in the late 19th century, when Camillo Golgi, Santiago Ramón y Cajal, and collaborators isolated neurons and their electrical activations as the fundamental functional unit of the brain.  This analysis was refined into clear physical models by the work of Hodgkin and Huxley, who built and tested in on animals their electrical theories of nervous communication. More recently, however, we have seen a series of discoveries that put chaos and complexity theory at the core of how the brain functions:": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;現代の神経科学は19世紀末に始まりました。カミッロ・ゴルジ、サンティアゴ・ラモン・イ・カハル、およびその共同研究者は、ニューロンとその電気活動を脳の基本的な機能単位として分離しました。この分析は、神経伝達の電気理論を動物で構築し、テストしたホジキンとハクスリーの研究によって明確な物理モデルに洗練されました。しかし、最近では、脳の機能の中心に混沌と複雑性理論を置く一連の発見がありました。",
+    "latest": true
+  },
+  "* **Distribution of brain functions**: mathematical modeling, brain imaging, and single-neuron activation experiments suggested that many if not most brain functions are distributed across regions of the brain, emerging from patterns of interactions rather than primarily physical localization.": {
+    "ja": "* **脳機能の分布**: 数理モデリング、脳イメージング、および単一ニューロンの活性化実験は、脳の多くの機能が、主に物理的な局在化ではなく、相互作用のパターンから生じる脳の領域に分散していることを示唆しています。",
+    "latest": true
+  },
+  "* **The Hebbian model of connections**, where they are strengthened by repeated co-firing, is perhaps one of the most elegant illustrations of the idea of “relationality” in science, closely paralleling the way we typically imagine human relationships developing": {
+    "ja": "* **接続のヘビアンモデル**は、反復的な共発火によって強化されることで、科学における「関係性」のアイデアを非常に優雅に表現したものの一つであり、通常私たちが人間関係の発展を想像する方法と非常に近いものです。",
+    "latest": true
+  },
+  "* **Study of artificial neural networks**: As early as the late 1950s, researchers beginning with Frank Rosenblatt built the first “artificial neural network” models of the brain. Neural networks have become the foundation of the recent advances in “artificial intelligence”.  Networks of trillions of nodes, each operating on fairly simple principles inspired by neurons of activation triggered by crossing a threshold determined by a linear combination of inputs, are the backbone of the “foundation models” such as BERT and the GPT models.": {
+    "ja": "* **人工ニューラルネットワークの研究**: 1950年代の終わりから、Frank Rosenblattをはじめとする研究者たちは、最初の「人工ニューラルネットワーク」の脳モデルを構築しました。ニューラルネットワークは、「人工知能」の最近の進歩の基礎となっています。入力の線形結合によって決定される閾値を越えることで活性化するニューロンに触発された、数兆のノードからなるネットワークは、BERTやGPTモデルなどの「基礎モデル」のバックボーンとなっています。",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Just as we saw the natural sciences see a massive transformation in the 20th century, discovering the plural and multi-scale nature of the world, we can see similar advances in the social sciences. Henry George, author of the best-selling and most influential book on economics in American and perhaps world history, made his career as a searing critic of private property.  Georg Simmel, one of the founders of sociology, originated the idea of the \"web\" as a critique of the individualist concept of identity.  John Dewey, widely considered the greatest philosopher of American democracy, argued that the standard national and state institutions that instantiated hardly scratched the surface of what democracy required. Norbert Wiener coined the term \"cybernetics\" to the field of studying such rich interactive systems.  By perceiving the limits of the box they highlighted even as they helped construct it, we can learn to imagine a social world outside it.": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;20世紀に自然科学が大きな変革を遂げ、世界の多元的で多層的な性質を発見したように、社会科学でも同様の進歩が見られます。アメリカおよび世界史上最も売れた経済学の本であり、最も影響力のある本の著者であるヘンリー・ジョージは、私有財産の鋭い批評家としてのキャリアを築きました。社会学の創始者の一人であるゲオルク・ジンメルは、「ウェブ」という概念を個人主義的なアイデンティティの批判として提唱しました。アメリカ民主主義の最も偉大な哲学者と広く考えられているジョン・デューイは、標準的な国家および州の制度が民主主義に必要なものの表面しか触れていないと主張しました。ノーバート・ウィーナーは「サイバネティックス」という用語を豊かな相互作用システムの研究のための分野に提唱しました。彼らが構築する一方でそれを限定する箱の限界を認識することで、私たちはそれの外側にある社会世界を想像することができるようになります。",
+    "latest": true
+  },
+  "Across all of these authors, we see many common threads. We see appreciation of the intersectional and layered nature of society, which often shows even greater complexity than other phenomena in the natural sciences: while an electron typically orbits a single atom or molecule, a cell is part of one organism, and a planet orbits one star, in human society each person, and even each organization, is part of multiple intersecting larger entities, often with no single of them being fully inside any other. But how might these advancements in the social sciences translate into similarly more advanced social technologies? This is what we will explore in the next chapter.": {
+    "ja": "これらの著者全員を通じて、多くの共通のテーマが見られます。社会の交差的で層状の性質への理解があります。これは、自然科学の他の現象よりもさらに複雑であることがしばしば示されます。電子は通常、1つの原子または分子を周回しますが、細胞は1つの生物の一部であり、惑星は1つの星の周りを回ります。しかし、人間社会では、各個人や組織が複数の交差する大きな実体の一部であり、その中に完全に含まれているものはないことがよくあります。しかし、社会科学の進歩は、同様により高度な社会技術にどのように翻訳されるのでしょうか？次の章で探求していきます。",
+    "latest": true
+  },
+  "# Technology for collaborative diversity": {
+    "ja": "協調的多様性のための技術",
+    "latest": true
+  },
+  "> (D)ecisions about the development and exploitation of computer technology must be made not only \"in the public interest\" but in the interest of giving the public itself the means to enter into the decision-making processes that will shape their future. — J. C. R. Licklider, \"Computers and Government\", 1979 ": {
+    "ja": "コンピュータ技術の開発と利用に関する意思決定は、「公共の利益」だけでなく、公衆自体が将来を形作る意思決定プロセスに参加する手段を持つことを考慮して行われる必要があります。- J. C. R. Licklider、「コンピュータと政府」、1979年",
+    "latest": true
+  },
+  "Immersive shared reality technologies unlocks a new chapter in human interaction, leveraging cutting-edge virtual reality (VR), augmented reality (AR) and mixed reality (MR) systems. Unlike the deeply personal and sensorially rich exchanges of post-symbolic communication, shared immersive reality presents a broader canvas for human interaction, enabling people to engage in shared, multisensory experiences. This chapter delves into the landscape of immersive technologies, today’s applications, tomorrow’s potential, and the frontier. It shows how immersive technologies may facilitate shared experiences that blend physical and virtual reality, complementing and expanding human experience with interactions that surpass physical, spatial and social limitations. Shared immersive reality creates spaces where communities may converge for socialization, gaming, entertainment, and more, facilitating connections that, while less intense than symbolic communication, are meaningful and emotionally resonant. From virtual reality gatherings that unite people across the globe, to mass online gaming and virtual music festivals, these digital arenas extend the possibility space of shared human experience.": {
+    "ja": "没入型の共有現実技術は、最先端の仮想現実（VR）、拡張現実（AR）、混合現実（MR）システムを活用して、人間の相互作用における新たな章を開く。象徴的なコミュニケーションの深く個人的で感覚的に豊かな交流とは異なり、共有の没入型現実は、人間の相互作用のためのより広いキャンバスを提供し、人々が共有の多感覚体験に参加できるようにする。この章では、没入型技術の景観、今日の応用、明日の可能性、そして未来の領域について探求する。没入型技術が物理的な現実と仮想現実を融合させた共有体験を容易にし、物理的、空間的、社会的な制約を超えた相互作用によって人間の経験を補完し拡張する方法を示す。共有の没入型現実は、社交、ゲーム、エンターテイメントなどのためにコミュニティが集まる場所を作り出し、象徴的なコミュニケーションよりも強度は低いが意味があり感情的に共鳴するつながりを促進する。世界中の人々を結びつける仮想現実の集まりから、大規模なオンラインゲームや仮想音楽フェスティバルまで、これらのデジタルアリーナは共有人間体験の可能性空間を拡大する。",
+    "latest": true
+  },
+  "On the horizon, shared immersive reality is poised for rapid expansion. Technological advancements will deepen the sensory integration of these virtual experiences, extending beyond sight and sound to include touch, smell, and even taste. This future, teeming with hybrid reality environments and emotional connectivity heralds a new era of human interaction, where digital spaces not only simulate reality but enhance it, bridging divides and fostering broader understanding. However, immersive reality also has its perils. From the widening surveillance to virtual escapism, these challenges demand thoughtful consideration to ensure that our digital futures augment, rather than diminish, the richness of human experience. ": {
+    "ja": "地平線には、共有の没入型現実が急速に拡大する準備が整っています。技術の進歩により、これらの仮想体験の感覚統合が深まり、視覚や聴覚に加えて触覚、嗅覚、さらには味覚まで含まれるようになります。この未来は、ハイブリッドリアリティの環境と感情的なつながりで満ち溢れており、デジタル空間が現実をシミュレートするだけでなく、それを高め、分断を埋め、より広範な理解を促進する新たな人間の相互作用の時代を告げています。しかし、没入型現実には危険もあります。監視の拡大から仮想的な逃避まで、これらの課題には慎重な考慮が求められます。私たちのデジタルの未来が人間の経験の豊かさを増すために、減じることなく、確保されるようにするためです。",
+    "latest": true
+  },
+  "TODAY": {
+    "ja": "今日",
+    "latest": true
+  },
+  "Immersive Shared Reality refers to technology that creates a shared virtual environment where users can interact in real-time. This type of “reality” can be considered a subset application of Mediated Reality, a broader term that encompasses various technologies that mediate our perception of reality, including Virtual, Augmented and Mixed Reality (a.k.a. VR, AR, MR). ": {
+    "ja": "没入型共有現実は、ユーザーがリアルタイムで相互作用できる共有仮想環境を作成する技術を指します。このタイプの「現実」は、仮想現実、拡張現実、混合現実（別名VR、AR、MR）を含む、現実の知覚を仲介するさまざまな技術を包括する広い意味である仲介現実のサブセットアプリケーションと考えることができます。",
+    "latest": true
+  },
+  "Shared immersive reality can apply to many human interactions, creating digital spaces where people can connect in meaningful, albeit less intensive and sensory-rich ways than post-symbolic communication. Some of the most common applications are socialization, gaming, entertainment, sports and fitness:": {
+    "ja": "共有の没入型現実は、多くの人間の相互作用に適用することができ、ポストシンボリックなコミュニケーションよりも意味のあるデジタル空間を作り出すことができますが、それはより集中的で感覚豊かな方法ではありません。最も一般的な応用例は、社交、ゲーム、エンターテイメント、スポーツ、フィットネスです。",
+    "latest": true
+  },
+  "Virtual Reality Gatherings: These digital spaces enable people from around the world to interact in a shared virtual environment. Here, avatars represent participants, allowing for expressive movements and interactions that go beyond verbal communication. These virtual gatherings can range from collaborative work meetings to social events, where the sense of presence is amplified by the immersive, 3D environment. Participants experience a sense of togetherness and community, facilitating connections that, while not as intense as physical interactions, are still meaningful and emotionally resonant.": {
+    "ja": "バーチャルリアリティの集まり：これらのデジタル空間は、世界中の人々が共有の仮想環境で交流することを可能にします。ここでは、アバターが参加者を表し、言葉によるコミュニケーションを超えた表現的な動きや相互作用が可能です。これらの仮想的な集まりは、協働的な仕事のミーティングから社交イベントまでさまざまですが、没入感のある3D環境によって存在感が増幅されます。参加者は一体感とコミュニティの感覚を体験し、物理的な相互作用ほど強烈ではないものの、意味があり感情的に共鳴するつながりを促進します。",
+    "latest": true
+  },
+  "- **Mass Online Gaming**: Online multiplayer games create expansive worlds where players collaborate, compete, and strategize together. Communication  is a blend of in-game gestures, strategic planning, and quick decision-making, often under time pressure. This environment nurtures a form of camaraderie and collective intelligence, as players become attuned to each other's play styles and tactics.": {
+    "ja": "- **マスオンラインゲーム**：オンラインマルチプレイヤーゲームは、プレイヤーが協力し、競争し、共同戦略を立てる広大な世界を作り出します。コミュニケーションは、ゲーム内のジェスチャー、戦略的な計画、迅速な意思決定の組み合わせであり、しばしば時間の制約の下で行われます。この環境は、プレイヤーがお互いのプレースタイルや戦術に敏感になることで、連帯感と集合知を育みます。",
+    "latest": true
+  },
+  "- **Religious Online Services**: In the digital era, religious gatherings have expanded into online platforms, allowing congregations to participate in services and rituals remotely. This form of communal worship, while lacking the physical closeness of traditional services, still offers a sense of shared belief, uniting participants in a common religious experience.": {
+    "ja": "- **宗教オンラインサービス**：デジタル時代において、宗教的な集まりはオンラインプラットフォームに拡大し、信者たちは遠隔地からサービスや儀式に参加することができるようになりました。この形式の共同礼拝は、伝統的なサービスの身体的な近さを欠いているものの、共有の信念を提供し、参加者を共通の宗教的な経験で結びつけるものです。",
+    "latest": true
+  },
+  "- **Virtual Music Festivals and Parties**: With the advent of streaming technology, music festivals and parties have found a new home in the virtual world. Artists like Billie Eilish have already held virtual concerts. Music festivals like Coachella have embraced the benefits of VR without the constraints of physical venues (e.g., selling out). ": {
+    "ja": "- **バーチャル音楽フェスティバルとパーティー**：ストリーミング技術の登場により、音楽フェスティバルやパーティーは仮想世界で新たな場所を見つけました。Billie Eilishのようなアーティストは既にバーチャルコンサートを開催しています。Coachellaのような音楽フェスティバルは、物理的な会場の制約なしでVRの利点を受け入れています（例：完売）。",
+    "latest": true
+  },
+  "- **E-Sports Tournaments**: E-sports have gained immense popularity, with spectators and players engaging in highly competitive gaming at a professional level. These events, often streamed to vast audiences, create a shared sense of excitement and allegiance among fans.": {
+    "ja": "- **E-Sports Tournaments**: Eスポーツは非常に人気があり、観客やプレイヤーがプロのレベルで競争的なゲームに参加しています。これらのイベントはしばしば広大な観衆にストリーミングされ、ファンの間で共有の興奮と忠誠心を生み出します。",
+    "latest": true
+  },
+  "- **Remote Fitness Classes**: The rise of online fitness has brought people together in pursuit of health and wellness. Participants engage in synchronized workouts, yoga sessions, or dance classes from their own homes, sharing a common goal and a sense of group motivation.": {
+    "ja": "- **リモートフィットネスクラス**：オンラインフィットネスの台頭により、健康とウェルネスの追求に人々が一緒になっています。参加者は自宅から同期されたワークアウト、ヨガセッション、またはダンスクラスに参加し、共通の目標とグループのモチベーションを共有しています。",
+    "latest": true
+  },
+  "- **Virtual tourism**: travelers can experience remote places, walking through historic cities or visiting foreign landscapes from the comfort of the homes. This technology enables travelers to virtually walk through historic cities, marvel at natural wonders, and immerse themselves in foreign landscapes. ": {
+    "ja": "- **バーチャル観光**：旅行者は自宅の快適さから、遠隔地の場所を体験することができます。この技術により、旅行者は歴史的な都市を仮想的に歩き回り、自然の驚異に感嘆し、外国の風景に没頭することができます。",
+    "latest": true
+  },
+  "Each of these examples showcases the different ways in which technology is facilitating new forms of shared immersive reality. These experiences, while less intense than the sensory-rich interactions of post-symbolic communication, still expand the possibility space of expression, understanding, and impact, pushing the boundaries of how we communicate, foster connections, build communities, and creating shared experiences among groups of people.": {
+    "ja": "これらの例は、技術が新しい形の共有型没入型リアリティを可能にするさまざまな方法を示しています。これらの体験は、ポストシンボリックコミュニケーションの感覚豊かな相互作用よりも強度は低いですが、表現、理解、影響の可能性の領域を拡大し、コミュニケーション方法、つながりの育成、コミュニティの構築、そして人々の間での共有体験を創造する境界を押し広げています。",
+    "latest": true
+  },
+  "We envision a near future where advancements in technology not only enhance these experiences in immersive shared reality but also introduce novel ways for people to connect, learn, and empathize with one another on an unprecedented scale. The future of shared immersive reality promises to making distant or imagined experiences palpably real, enveloping users in a synthetic world that simulates multiple senses simultaneously. While sight and sound have been the traditional focus, new sensors and actuators promise to deepen integration of touch, smell, and even taste. Haptic feedback systems will replicate the subtleties of physical contact. Olfactory technology will enable fragrances and odors to be part of storytelling, education, and even retail experiences in VR. Taste retargeting [^1] will unlock virtual dining experiences by altering taste perception delivering chemical modulators to the mouth. Here are a few envisioned advancements and novel examples that extend the concept of shared immersive reality into new dimensions:": {
+    "ja": "技術の進歩により、私たちは近い将来、没入型の共有現実においてこれらの体験を向上させるだけでなく、人々が互いにつながり、学び、共感するための新しい方法を導入することを想像しています。共有された没入型現実の未来は、遠く離れた体験や想像上の体験を実感的に現実のものにすることを約束し、ユーザーを複数の感覚を同時にシミュレートする合成世界に包み込みます。視覚と聴覚が伝統的な焦点であった一方、新しいセンサーとアクチュエーターは触覚、嗅覚、さらには味覚の統合を深めることを約束しています。触覚フィードバックシステムは物理的な接触の微妙なニュアンスを再現します。嗅覚技術により、香りや臭いが物語や教育、さらにはVRの小売体験の一部となることが可能になります。味覚の再ターゲティング[^1]により、味覚知覚を変えることで仮想的な食事体験を解放し、口に化学物質の調整剤を届けることができます。以下に、共有没入型現実の概念を新たな次元に広げるいくつかの想像された進歩と新しい例を示します。",
+    "latest": true
+  },
+  "Hybrid Reality Environments: Leveraging augmented reality (AR) and virtual reality (VR) in tandem, these environments blend physical and digital elements seamlessly. Imagine attending a conference where remote participants appear as full-size holograms, capable of interacting with physical objects and participants in real-time. This blurs the line between who is present physically and who is digital. ": {
+    "ja": "ハイブリッドリアリティ環境：拡張現実（AR）と仮想現実（VR）を同時に活用し、これらの環境は物理的な要素とデジタル要素をシームレスに組み合わせます。リモート参加者がフルサイズのホログラムとして現れ、物理的なオブジェクトや参加者とリアルタイムで対話できる会議に参加していると想像してください。これにより、誰が物理的に存在しているのか、誰がデジタルなのかという境界線が曖昧になります。",
+    "latest": true
+  },
+  "- **Enhanced Emotional Connectivity in Social VR**: Emerging technologies aim to transmit nuanced human emotions and physical sensations through VR, using advanced haptic feedback, biometric sensors, and emotional AI. This could enable users to feel the warmth of a handshake, the pressure of a hug, or even the subtleties of emotional expression conveyed through a virtual avatar, deepening connections and empathy between participants and enabling those with visual or auditory impairments to engage through other senses. ": {
+    "ja": "- **ソーシャルVRにおける感情の強化された接続性**：新興技術は、高度な触覚フィードバック、生体センサー、感情AIを使用して、微妙な人間の感情や身体的な感覚をVRを通じて伝えることを目指しています。これにより、ユーザーは握手の温かさ、抱擁の圧力、または仮想アバターを通じて伝えられる感情表現の微妙さを感じることができ、参加者間のつながりと共感を深め、視覚や聴覚の障害を持つ人々が他の感覚を通じて参加することが可能になります。",
+    "latest": true
+  },
+  "- **Massive Multi-user Online Laboratories (MMOLs)**: Scientists can collaboratively conduct experiments in a shared virtual laboratory. MMOLs could facilitate real-time collaboration on scientific research and education across the globe, breaking down barriers to access and enabling a form of immersive, collective discovery.": {
+    "ja": "- **大規模な多人数オンライン実験室（MMOLs）**：科学者は共有の仮想実験室で共同で実験を行うことができます。MMOLsは、世界中の科学研究と教育におけるリアルタイムの共同作業を容易にし、アクセスの障壁を取り払い、没入型の集合的な発見の形態を可能にすることができます。",
+    "latest": true
+  },
+  "- **Virtual Reality Civic Spaces**: Digital replicas of civic centers, town halls, and community spaces where people can gather to discuss, debate, and make decisions about their communities. These spaces would allow for a more inclusive and accessible form of civic engagement, enabling participants to engage in local governance or community planning processes from anywhere in the world.": {
+    "ja": "- **バーチャルリアリティ市民空間**：市民センターや町役場、コミュニティスペースのデジタルレプリカで、人々が自分のコミュニティについて議論し、討論し、意思決定をするために集まることができる場所です。これらの空間は、より包括的でアクセスしやすい市民参加の形態を可能にし、参加者が世界中のどこからでも地方自治体やコミュニティ計画プロセスに参加できるようにします。",
+    "latest": true
+  },
+  "- ****Immersive Educational Experiences**: From virtual field trips to interactive historical reenactments, educational content will become more immersive, allowing students of all ages to explore and learn in ways that are engaging, memorable, and more impactful than traditional methods. Imagine history classes where students can witness historical events unfold or science classes where they can walk through a functioning human heart.": {
+    "ja": "- **没入型教育体験**: 仮想現地旅行からインタラクティブな歴史再現まで、教育コンテンツはより没入型になり、従来の方法よりも魅力的で記憶に残る学びを提供します。あらゆる年齢の学生が探索し、学ぶことができる歴史の授業や、機能する人間の心臓を歩いて体験できる科学の授業を想像してみてください。",
+    "latest": true
+  },
+  "- **Cross-Cultural Exchange Platforms**: Platforms specifically designed to foster understanding and empathy between diverse cultural groups by immersing users in the experiences of people from different backgrounds. Through narratives, rituals, and daily life activities, these platforms could use VR and AR to bridge cultural divides and build a global sense of community. For example, language learning applications use these to immerse users in the linguistic and cultural background of others. Another example is the the Portals Policing Project [^2], which shares the lived experiences of people with law enforcement in a controlled, yet realistic virtual chamber, improving understanding and trust on both sides. ": {
+    "ja": "- **クロスカルチャー交流プラットフォーム**：異なる文化的グループ間の理解と共感を促進するために特別に設計されたプラットフォーム。これらのプラットフォームは、物語、儀式、日常生活の活動を通じて、VRとARを使用して文化的な隔たりを埋め、グローバルな共同体意識を構築することができます。例えば、言語学習アプリは、ユーザーを他の人々の言語と文化的背景に没入させるためにこれらを使用します。もう一つの例は、ポータル警察プロジェクト[^2]であり、ここでは制御されたが現実的な仮想チャンバーで法執行機関との生活体験を共有し、双方の理解と信頼を向上させています。",
+    "latest": true
+  },
+  "- **Environmental and Climate Change Simulations**: Interactive simulations that allow users to experience the potential impacts of climate change firsthand. For example, the Tree Project [^3] demonstrates how immersive VR can evoke empathy and compassion for the natural environment by transforming the user into a rainforest tree and exposing them to the threats of deforestation and climate change. ": {
+    "ja": "- **環境と気候変動シミュレーション**：ユーザーが気候変動の潜在的な影響を直接体験できるインタラクティブなシミュレーション。例えば、Tree Project [^3] は、没入型のVRがユーザーを熱帯雨林の木に変身させ、森林伐採や気候変動の脅威にさらすことで、自然環境に対する共感と思いやりを喚起する方法を示しています。",
+    "latest": true
+  },
+  "- **Virtual Reality Therapy Sessions for Mental Health**: Leveraging the power of VR to create therapeutic environments, sessions could offer healing and comfort to individuals facing mental health challenges. Participants could be transported to calming natural settings or engage in guided meditations designed to alleviate stress, anxiety, and depression. Tailored experiences could simulate scenarios for those with PTSD to safely confront and work through their traumas under the guidance of a therapist. Similarly, social anxiety could be addressed through simulated social interactions, allowing for practice and exposure in a controlled, supportive environment. This application of VR not only broadens access to mental health services but also introduces a novel, highly personalized approach to therapy.": {
+    "ja": "- **メンタルヘルスのための仮想現実療法セッション**：VRの力を活用して、セッションはメンタルヘルスの課題に直面している個人に癒しと快適さを提供することができます。参加者は落ち着いた自然の環境に連れて行かれるか、ストレス、不安、うつ病を軽減するために設計されたガイド付き瞑想に参加することができます。PTSDのある人々には、セラピストの指導のもとでトラウマに安全に立ち向かい、それを乗り越えるためのシナリオをシミュレートすることができます。同様に、社交不安症は制御された支援的な環境での練習と暴露を可能にするシミュレートされた社会的相互作用を通じて対処することができます。このVRの応用は、メンタルヘルスサービスへのアクセスを広げるだけでなく、革新的で高度に個人化されたセラピーのアプローチを導入します。",
+    "latest": true
+  },
+  "As these technologies mature, they are increasingly harnessed to not just simulate reality but to enhance it, creating a bridge between diverse cultures and fostering a global community of shared experiences and mutual understanding regardless of one’s origin or language. These envisioned applications of shared immersive reality hold the potential to transform how we interact with the world and each other, fostering understanding, empathy, and collaboration across all facets of human endeavor.": {
+    "ja": "これらの技術が成熟するにつれて、それらは現実をシミュレートするだけでなく、それを向上させるためにますます活用されています。これにより、異なる文化の間に橋を築き、出身地や言語に関係なく、共有の経験と相互理解を促進するグローバルなコミュニティが形成されます。これらの共有の没入型現実の応用は、私たちが世界やお互いとどのように対話するかを変える可能性を秘めており、人間の努力のあらゆる側面で理解、共感、協力を促進します。",
+    "latest": true
+  },
+  "**Frontiers of Immersive Shared Reality**": {
+    "ja": "**没入型共有現実のフロンティア**",
+    "latest": true
+  },
+  "As we gaze to the horizon of immersive shared reality, the very nature communal experience and human connection undergoes a profound metamorphosis. Imagine stepping into a world where shared virtual spaces are not mere simulations, but extensions of our physical reality, offering experiences that are as rich and complex as those encountered in the tangible world. In this future, immersive shared reality technologies enable a fusion of senses, thoughts, and emotions. At the frontiers of Immersive Shared Reality, we are not merely spectators but active participants in a revolution of multisensory integration [^4]. ": {
+    "ja": "私たちが没入型の共有現実の地平線を見つめるとき、共同体の経験と人間のつながりの本質は深い変革を遂げます。単なるシミュレーションではなく、私たちの物理的な現実の延長となる共有仮想空間に足を踏み入れることを想像してみてください。この未来では、没入型の共有現実技術によって、感覚、思考、感情が融合します。没入型共有現実の最前線では、私たちは単なる観客ではなく、多感覚統合の革命の積極的な参加者です [^4]。",
+    "latest": true
+  },
+  "Imagined Worlds and Dream Sharing:  more sophisticated and controlled use of sensory inputs (e.g, smell, taste, visual and auditory), will enable participants to generate and share realities that deeply resonates with participants’  emotions and memories. Such stimuli, when reactivated during sleep, not only can enhance these memories [^5], but facilitate sharing altered states of consciousness [^6] and shared lucid dreams [^7]. Participants will be able to explore the subconscious playground of the human mind together. ": {
+    "ja": "想像された世界と夢の共有：より洗練された、制御された感覚入力（例：匂い、味、視覚、聴覚）の使用により、参加者は参加者の感情や記憶に深く共鳴する現実を生成し共有することができます。このような刺激は、睡眠中に再活性化されると、これらの記憶を強化するだけでなく、意識の変化した状態の共有や共有された明晰な夢を促進することができます。参加者は一緒に人間の心の潜在的な遊び場を探索することができます。",
+    "latest": true
+  },
+  "Simulated Worlds: Virtual environments can simulate realities—both the future and past—under different conditions. For example, participants will be able to experiment with scenarios of climate change, such as rising sea levels or the impact of extreme weather events, making distant concepts an immediate and personal experience. With affective computing, the system may adapt the environment based on the user’s response, physiology as well as memories or preferences, creating a feedback loop that heightens awareness and empathy. ": {
+    "ja": "シミュレートされた世界：仮想環境は、異なる条件下で未来や過去の現実をシミュレートすることができます。例えば、参加者は気候変動のシナリオを実験することができ、海面上昇や極端な天候の影響など、遠い概念を直接的かつ個人的な体験にすることができます。感情計算により、システムはユーザーの反応、生理的な状態、記憶や好みに基づいて環境を適応させることができ、意識と共感を高めるフィードバックループを作り出すことができます。",
+    "latest": true
+  },
+  "- **Virtual Design Studios**: community members, architects, and engineers may come together to co-create the green spaces of tomorrow to redefine “planning.” Participants virtually touch the bark of trees slated for planting and inhale the fragrant blossoms intended for the gardens. Participant feedback can modify the simulation in real-time, enabling sensorial immersion into different visions for a project.": {
+    "ja": "- **バーチャルデザインスタジオ**：コミュニティメンバー、建築家、エンジニアが一緒になって、明日の緑地を共同で創造し、「計画」を再定義することができます。参加者は、植樹予定の木の樹皮に触れ、庭園用に用意された芳香のある花を吸い込むことができます。参加者のフィードバックによってシミュレーションをリアルタイムで修正することができ、プロジェクトの異なるビジョンに感覚的に没入することができます。",
+    "latest": true
+  },
+  "- **Collective Memory Palaces**: Envision virtual environments where entire communities can deposit, share, and experience collective memories and knowledge. These memory palaces serve not only as repositories of communal wisdom but as spaces where individuals can relive historical events or explore the collective psyche of humanity, fostering a deeper understanding and connection across generations.": {
+    "ja": "- **集合的記憶の宮殿**：コミュニティ全体が集合的な記憶や知識を預け、共有し、体験することができる仮想環境を想像してください。これらの記憶の宮殿は、共同の知恵の貯蔵庫だけでなく、個人が歴史的な出来事を再体験したり、人類の集合的な心を探求したりする場所としても機能し、世代を超えたより深い理解とつながりを育む役割を果たします。",
+    "latest": true
+  },
+  "- **Empathy Amplifiers**: Advanced immersive technologies could allow us to experience the world through the eyes of another. This direct sharing of experiences would serve as an empathy amplifier, dissolving prejudices and fostering a profound sense of unity and understanding among diverse groups of people. Envision simulations that allow individuals to live through the collective experiences of entire communities, nations, or civilizations, feeling their struggles, joys, and challenges as their own. This could serve as a powerful tool for education and conflict resolution, promoting peace on a global scale.": {
+    "ja": "- **共感増幅装置**：先進的な没入型技術によって、私たちは他者の目を通して世界を体験することができるかもしれません。この直接的な経験の共有は、偏見を解消し、多様なグループの間での深い統一感と理解を促進する共感増幅装置として機能します。個々の人々が、コミュニティ、国家、または文明全体の集合的な経験を生きることができるシミュレーションを想像してみてください。彼らの苦労、喜び、挑戦を自分自身のものとして感じることができます。これは教育や紛争解決のための強力なツールとなり、世界規模での平和を促進することができます。",
+    "latest": true
+  },
+  "- **Global Consciousness Networks**: Imagine a future where people can connect their consciousness to a global network, sharing thoughts, emotions, and experiences in a dynamic, evolving stream of collective awareness. This network would enable a form of communication and connection that goes beyond language, allowing for an unparalleled synchronization of human intention and action towards global challenges.": {
+    "ja": "- **グローバル意識ネットワーク**：人々が意識をグローバルネットワークに接続し、思考、感情、経験を共有する未来を想像してみてください。このネットワークは言語を超えたコミュニケーションとつながりを可能にし、人間の意図と行動を世界的な課題に向けて類まれな同期させることができます。",
+    "latest": true
+  },
+  "- **Inter-species Communication Platforms**: Beyond human-to-human interaction, immersive shared reality could extend the boundaries of communication to include other species. By translating non-human languages and experiences into formats we can understand and vice versa, these platforms could foster an unprecedented level of empathy and cooperation between humans and other life forms on our planet.": {
+    "ja": "- **異種間コミュニケーションプラットフォーム**：人間との相互作用を超えて、没入型の共有現実は他の種とのコミュニケーションの範囲を広げることができます。非人間の言語や経験を私たちが理解できる形式に翻訳し、逆に私たちの経験を他の生命形態に伝えることで、これらのプラットフォームは人間と他の生命形態との間に前例のない共感と協力のレベルを育むことができます。",
+    "latest": true
+  },
+  "- **Digital Legacy Realms**: Future immersive technologies could allow individuals to create digital legacies—entire worlds crafted from their memories, thoughts, and experiences. These realms would not only serve as a form of immortality but also as a means for future generations to explore the lives and insights of their ancestors in a deeply personal and interactive way.": {
+    "ja": "- **デジタル遺産領域**：将来の没入型技術により、個人は自分の思い出、考え、経験から作り出されたデジタル遺産を作成することができるようになるかもしれません。これらの領域は、単なる不死性の形態だけでなく、将来の世代が祖先の生活と洞察を深く個人的かつインタラクティブな方法で探索する手段としても機能するでしょう。",
+    "latest": true
+  },
+  "-**Collective Creativity Spaces**: These digital platforms would enable artists, musicians, writers, and creators of all kinds to collaborate in real-time, across the globe, in shared virtual spaces. Here, ideas and inspirations merge in a communal creative flow, leading to art and innovation that truly represents the collective human spirit, transcending individual capabilities.": {
+    "ja": "- **集合的創造空間**：これらのデジタルプラットフォームは、アーティスト、ミュージシャン、作家、あらゆる種類のクリエイターが、共有の仮想空間で世界中とリアルタイムで協力し合うことを可能にします。ここでは、アイデアとインスピレーションが共同の創造的な流れで融合し、個々の能力を超えた、集合的な人間の精神を真に表現する芸術とイノベーションが生まれます。",
+    "latest": true
+  },
+  "As we embark on this journey towards a future of immersive shared reality, we stand on the brink of redefining human experience and collaboration. The technologies that lie ahead promise not just advancements in the way we interact with the world, but a revolution in the way we perceive, connect and innovate. In this new era, the barriers between individual consciousness and collective experience become more fluid, heralding a future where our shared realities foster a deeper unity and yet more creative collaborations. ": {
+    "ja": "私たちは没入型の共有現実の未来に向けて旅立つにあたり、人間の経験と協力の再定義の瀬戸際に立っています。前進する先にある技術は、私たちが世界との相互作用の方法だけでなく、知覚、つながり、革新の方法においても進歩を約束しています。この新しい時代において、個々の意識と集合的な経験の間の障壁はより流動的になり、私たちの共有の現実はより深い統一とより創造的な協力を育む未来を告げています。",
+    "latest": true
+  },
+  "**LIMITS**": {
+    "ja": "**制約**",
+    "latest": true
+  },
+  "Unlike the intimate, direct exchange of thoughts and emotions envisioned in post-symbolic communication, shared immersive realities unlocks new dimensions for  human interaction and coordination from simple social interaction to education, work, and entertainment— bringing with them a distinct set of limitations and ethical concerns. If the Matrix is a dystopia of post-symbolic communication, a similar and a fitting dystopian parallel can be drawn from “Ready Player One” by Ernest Cline, which was later adapted into a film directed by Steven Spielberg. In “Ready Player One,” the Earth's environmental decay and socioeconomic disparities have driven the majority of the population to seek refuge and fulfillment in the OASIS (Ontologically Anthropocentric Sensory Immersive Simulation), a vast virtual reality universe that offers an endless array of worlds and experiences, far surpassing the bleak prospects and the desolation of the physical world.  OASIS epitomizes several critical dystopian themes:": {
+    "ja": "ポストシンボリックコミュニケーションで想定されている思考と感情の直接的な交換とは異なり、共有の没入型現実は、単純な社会的相互作用から教育、仕事、エンターテイメントまで、人間の相互作用と調整の新たな次元を開放します。これには、特定の制約と倫理的な懸念が伴います。もしマトリックスがポストシンボリックコミュニケーションのディストピアであるなら、アーネスト・クラインの「レディ・プレイヤー1」からも同様でふさわしいディストピア的な並行が描かれます。この小説は後にスティーブン・スピルバーグ監督によって映画化されました。小説「レディ・プレイヤー1」では、地球の環境の衰退と社会経済的な格差が、大多数の人々をOASIS（Ontologically Anthropocentric Sensory Immersive Simulation）という広大な仮想現実の宇宙に避難させ、満たしています。OASISは、物理的な世界の暗い見通しと荒廃をはるかに超える、無限の世界と体験を提供します。OASISはいくつかの重要なディストピア的なテーマを象徴しています。",
+    "latest": true
+  },
+  "**- Virtual Escapism:** The allure of the OASIS leads to widespread neglect of the physical world, as individuals prefer the comfort and excitement of virtual experiences to addressing real-world problems. The dependency on the OASIS for fulfillment and the consequent disengagement from the physical world portray a dystopian outcome where society becomes addicted to virtual experiences, leading to widespread neglect of personal health, relationships, and civic responsibility.": {
+    "ja": "**- バーチャルエスケープ:** OASISの魅力により、現実世界の問題に取り組む代わりに、仮想体験の快適さと興奮を好む個人が増え、物理的な世界への無関心が広まります。満足感を得るためにOASISに依存し、それによる現実世界からの離脱は、社会が仮想体験に中毒になり、個人の健康、人間関係、市民的責任を広範に無視するというディストピア的な結果を描いています。",
+    "latest": true
+  },
+  "- **Diminished Physical health**: Immersing oneself in alternative realities for extended periods can lead to psychological effects, such as difficulty distinguishing between virtual and physical experiences or feeling disconnected from real-world social bonds. The ready availability of an idealized digital escape could impact mental health, leading to isolation or a diminished ability to cope with real-world challenges.": {
+    "ja": "- **身体的健康の低下**: 長時間にわたって代替現実に没頭することは、仮想的な体験と現実の体験の区別がつかなくなったり、現実世界の社会的な絆から切り離されたりするなど、心理的な影響をもたらす可能性があります。理想化されたデジタルの逃避手段が容易に利用できることは、精神的な健康に影響を与え、孤立感や現実世界の課題に対処する能力の低下を引き起こす可能性があります。",
+    "latest": true
+  },
+  "- **Digital Divide**: A new digital frontier risks widening the gap between those with access to the latest technologies and those without. As these immersive experiences become more integral to social and professional life, lack of access could marginalize individuals and communities, Within OASIS, wealth and access to digital resources greatly influence one's experiences and opportunities, mirroring and amplifying real-world socioeconomic disparities. ": {
+    "ja": "- **デジタル格差**：最新のテクノロジーにアクセスできる人々とできない人々の間の格差が広がるという新たなデジタルのフロンティアがリスクとなっています。これらの没入型体験が社会生活や職業生活にますます不可欠になるにつれて、アクセスの欠如は個人やコミュニティを周辺化する可能性があります。OASIS内では、富とデジタルリソースへのアクセスが体験や機会に大きな影響を与え、現実世界の社会経済的格差を反映し増幅させています。",
+    "latest": true
+  },
+  "- **Physical Health Implications**: Prolonged engagement in virtual environments raises concerns about physical health, including the effects of extended screen time on vision, and the sedentary lifestyle associated with immersive digital activities. Balancing the allure of virtual worlds with the need for physical activity and real-world interaction becomes a crucial health consideration.": {
+    "ja": "- **身体的健康への影響**: 仮想環境での長時間の関与は、視力に対する長時間の画面時間の影響や、没入型デジタル活動に関連する座りっぱなしの生活様式など、身体的健康に関する懸念を引き起こします。仮想世界の魅力と身体活動や現実世界での相互作用の必要性とのバランスを取ることは、重要な健康上の考慮事項となります。",
+    "latest": true
+  },
+  "- **Corporate Control, Surveillance, and Monopolization**: Shared immersive realities blur the lines between public and private, where digital spaces can be simultaneously intimate and open to wide audiences, or observed by corporate service providers. The battle for control of the OASIS highlights the dangers of a single entity owning and operating the digital realm, raising concerns about monopolization, surveillance, and the commodification of personal data and experiences in shared immersive realities.": {
+    "ja": "- **企業の支配、監視、独占**: 共有の没入型現実は、パブリックとプライベートの境界を曖昧にし、デジタル空間が同時に親密で広い観客に開かれることができる、または企業のサービスプロバイダーによって観察されることができる。OASISの制御権を巡る戦いは、単一のエンティティがデジタル領域を所有し運営する危険性を浮き彫りにし、共有の没入型現実における個人データと体験の商品化、監視、独占化への懸念を引き起こしています。",
+    "latest": true
+  },
+  "- **Identity and Authenticity**: The freedom to create and adopt any persona in the OASIS brings into question the concepts of identity and authenticity. It illustrates the potential for anonymity and fluid identity in shared immersive realities to complicate trust and relationships, as well as the possibility of losing one's sense of self.": {
+    "ja": "- **アイデンティティとオーセンティシティ**: OASISでの任意のペルソナの作成と採用の自由は、アイデンティティとオーセンティシティの概念を問いかけます。共有の没入型現実における匿名性と流動的なアイデンティティの可能性は、信頼と関係を複雑にし、自己の感覚を失う可能性も示しています。",
+    "latest": true
+  },
+  "\"Ready Player One\" serves as a cautionary tale for the development and adoption of shared immersive reality technologies, emphasizing the need for balance between digital and physical lives, and the preservation of individual privacy and autonomy. Addressing these concerns requires a careful integration of participatory governance systems, like democratic voting mechanisms, into virtual environments, as well as market interactions in “lesser bandwidth” channels that keep participants engaged in the physical realm.  Grounding participants and striking a balance between digital engagement and their real-world roles and responsibilities is key to harnessing the strength of immersive technologies, without succumbing to their weaknesses.  ": {
+    "ja": "「レディ・プレイヤー1」は、共有の没入型現実技術の開発と採用に対する警鐘として機能し、デジタルと物理的な生活のバランスの必要性、個人のプライバシーと自律性の保護を強調しています。これらの懸念に対処するには、民主的な投票メカニズムのような参加型ガバナンスシステムを仮想環境に慎重に統合する必要があります。また、参加者が物理的な領域で関与し続けるための「低帯域幅」チャンネルでの市場相互作用も重要です。参加者を地に足をつけ、デジタルな関与と現実世界の役割と責任のバランスを取ることは、没入型技術の強みを活かすために重要ですが、その弱点に屈することなく行うための鍵です。",
     "latest": true
   }
 }
