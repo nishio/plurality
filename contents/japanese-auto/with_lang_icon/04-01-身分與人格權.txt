@@ -194,9 +194,9 @@
 
 🇹🇼---
 
-🇹🇼[^SSNHistory]: 参考文献 1) [アメリカ/社会保障局](https://www.ssa.gov/policy/docs/ssb/v69n2/v69n2p55.html)による社会保障番号システムの歴史の紹介。2) [パンドラの箱を開ける：1937-2018年の社会保障番号](https://repositories.lib.utexas.edu/handle/2152/66022)、著者：Meiser、Kenneth Donaldson、UT 電子論文と学位論文。
+🇹🇼[^SSNHistory]: 参考文献 1) [アメリカ/社会保障局](https://www.ssa.gov/policy/docs/ssb/v69n2/v69n2p55.html)による社会保障番号システムの歴史の紹介。2) [パンドラの箱を開ける：1937年から2018年の社会保障番号](https://repositories.lib.utexas.edu/handle/2152/66022)、著者：Meiser、Kenneth Donaldson、UT 電子論文と学位論文。
 🇹🇼[^RightsOfCitizens]: 参照《Computers, and the Rights of Citizens(計算機と市民の権利)》(https://www.rand.org/content/dam/rand/pubs/papers/2008/P5077.pdf)、1973年、ランド社。
-🇹🇼[^SSNUsageRestrictions]: 見 1）Social Security Numbers： 美國政府問責署（GAO）向眾議院籌款委員會社會保險小組委員會主席提交的報告：《私營部門實體經常獲取和使用社會安全號碼，法律限制該資訊的披露》。 2）社會安全號碼：美國政府問責局在紐約州議會消費者事務與保護委員會和政府運作委員會的證詞 ︎
+🇹🇼[^SSNUsageRestrictions]: 見 1）Social Security Numbers： 美國政府問責署（GAO）向眾議院籌款委員會社會保險小組委員會主席提交的報告：《私營部門實體經常獲取和使用社會安全號碼，法律限制該資訊的披露》。 2）社會安全號碼：美國政府問責局在紐約州議會消費者事務與保護委員會和政府運作委員會的證詞
 🇹🇼[^SSNAlternatives]: 新聞稿：美国/国土安全部奖励19.3万美元，以合乎标准的方式替代社会安全号码。
-🇹🇼[^Altman]:  [https://www.reuters.com/technology/worldcoin-aims-set-up-global-id-network-akin-indias-aadhaar-2023-11-02/](https://www.reuters.com/technology/worldcoin-aims-set-up-global-id-network-akin-indias-aadhaar-2023-11-02/) ︎
-🇹🇼[^LawsOfIdentities]: キム・キャメロン、[アイデンティティの法則](https://www.identityblog.com/?p=1065)（部落格文章、2009年8月） ︎
+🇹🇼[^Altman]:  [https://www.reuters.com/technology/worldcoin-aims-set-up-global-id-network-akin-indias-aadhaar-2023-11-02/](https://www.reuters.com/technology/worldcoin-aims-set-up-global-id-network-akin-indias-aadhaar-2023-11-02/)
+🇹🇼[^LawsOfIdentities]: キム・キャメロン、[アイデンティティの法則](https://www.identityblog.com/?p=1065)（部落格文章、2009年8月）
