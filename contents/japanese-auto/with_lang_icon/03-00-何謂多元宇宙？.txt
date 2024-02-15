@@ -12,32 +12,9 @@
 
 🇹🇼（個人と社会を区別する一般的な方法とは異なり、私たちの視点には重要な違いがあります：個人が点であり、グループが円であるならば、私たちの円は同心円ではありません。）
 
-🇹🇼<table><tr><td style="width:50%">
+🇹🇼<img width="100%" src="https://raw.githubusercontent.com/audreyt/plurality/main/figs/circles.zh-Hant.png" />
 
-# Output
-<table><tr><td style="width:50%">
-
-# Input
-Pluralist thinking is the belief that there are multiple perspectives and approaches to understanding society.
-
-# Output
-多元主義者の考え方は、社会を理解するための複数の視点やアプローチが存在するという信念です。
-
-🇹🇼<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/circles1.png" />
-
-🇹🇼</td><td>
-
-🇹🇼<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/circles2.png" />
-
-🇹🇼</td></tr><tr><td style="width:50%">
-
-🇹🇼左図：[2004年の社会学の論文](https://www.semanticscholar.org/paper/A-Dynamic%2C-Multi%E2%80%90Level-Model-of-Culture%3A-From-the-a-Erez-Gati/50c014cf2c4e5095a49d5315a150cd4491f0cecd)における同心円の社会観
-
-🇹🇼</td><td>
-
-🇹🇼右図：多元宇宙の社会観
-
-🇹🇼</td></tr></table>
+🇹🇼左図：[2004年の社会学の論文](https://www.semanticscholar.org/paper/A-Dynamic%2C-Multi%E2%80%90Level-Model-of-Culture%3A-From-the-a-Erez-Gati/50c014cf2c4e5095a49d5315a150cd4491f0cecd)における多元主義者の考え方。右図：多元主義の社会観
 
 🇹🇼円の間の相互作用は複雑です。そして、この世界の多くの美しさは、多様な相互作用から生まれています-それには私たちの衝突も含まれています。個々の人々は異なるグループに対してさまざまな忠誠心を持っており、この多元主義を剥奪し、自己利益を優先し、または「全社会」（または「全人類」など）を代表する総体的な構造に対して絶対的な忠誠を要求することは、私たちが今日直面している多くの問題の根源です。利益を追求する企業とその確立されたワークフローと技術は、この複雑さを剥奪することによって最大の破壊を引き起こすことがよくあります。同時に、民主主義は逆圧力を作り出そうとしますが、最終的にはこれらのワークフローと技術を中央集権国家の決定と標準化の方法で大規模に運営することを要求し、多様なグループやコミュニティに再び打撃を与えます。
 
