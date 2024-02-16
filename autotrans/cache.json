@@ -6129,11 +6129,11 @@
   },
   "&nbsp;&nbsp;&nbsp;&nbsp;  Cheques, of course, have familiar disadvantages of being slow to both fill out and clear and being weighty.  Beginning in the late nineteenth century, some stores began to issue tokens representing  \"credit accounts\" for regular customers and writers like Edward Bellamy began to imagine a world where all payments could be conducted using one or a few lightweight cards.  This vision began to come to fruition in the 1950s and 1960s, when telecommunications systems had developed to the point where merchants, customers and their banks could communicate quickly enough to enable verification of a holder's credentials.  This led to the emergence of a range of cards which played differing but related roles and were dominant to different extents across countries, including credit, debit and charge cards.  DATA ON HOW DOMINANT THEY BECAME AND WHEN.": {
     "ja": "当然、小切手には書き込むのも、清算するのも時間がかかるという欠点があり、重いという欠点もあります。19世紀末から、一部の店舗では定期的な顧客のために「クレジット口座」を表すトークンを発行し始め、エドワード・ベラミーのような作家たちは、すべての支払いが1枚または数枚の軽量なカードを使用して行われる世界を想像し始めました。このビジョンは、1950年代と1960年代に実現し始めました。その時点で、通信システムが発展し、商人、顧客、および彼らの銀行が保持者の資格を確認するために十分に迅速に通信できるようになりました。これにより、クレジットカード、デビットカード、チャージカードなど、異なる役割を果たし、異なる程度で各国で優勢なカードの範囲が登場しました。それらがどれほど優勢になり、いつになったかのデータがあります。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Payment cards only provided a partial replacement for cheques, mostly instead substituting for cash payments.  Larger transactions traditionally handled by checks matched poorly with the small value for which payment cards were intended.  Seeking alternatives for larger and international transfers, several jursidictions developed \"automated clearing houses\" (ACHs) for electronic transfers and wires as an alternative to cheques.  The most prominent example is the Society for Worldwide Interbank Financial Telecommunications (SWIFT), which by 2018 carried half of all high-value cross-border payments.  ": {
     "ja": "支払いカードは、主に現金支払いの代替として、小切手の一部を提供しました。支払いカードは、主に現金支払いの代替として、小切手の一部を提供しました。小切手で処理される大口取引は、支払いカードが意図されていた小額の価値とは合わないため、不適切でした。大口および国際送金の代替手段を求めて、いくつかの管轄区域では、電子送金とワイヤーのための「自動清算所」（ACH）が開発されました。最も有名な例は、2018年までにすべての高額の国際送金の半分を処理していた「世界銀行間金融通信協会」（SWIFT）です。",
-    "latest": true
+    "latest": false
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Until roughly the last decade, this constellation covered most transactions.  In most of the world, a mix of cash and payments cards were used for small value transactions in physical proximity and wires were used to send money abroad, while larger value transactions flowed primarily over ACHs and to a lesser extent wires and cheques.  All of these systems predate the emergence of the internet and none of them match is reach, pace or flexibility: payment cards were traditionally cumbersome and insecure to use online, cash irrelevant and ACHs far too slow (typically 3 days).  Unsurprisingly, therefore, Lick, Tim Berners-Lee and others believed a native payment system was one of the core features missing from the early development of the internet.  The last decade and a half has seen a variety of attempts to address this lacuna. ": {
     "ja": "おおよそ最後の10年間まで、この星座はほとんどの取引をカバーしていました。世界のほとんどの地域では、現金と支払いカードの組み合わせが小額の取引に使用され、海外送金には電信が使用され、大口取引は主にACH（自動クリアリングハウス）を通じて、わずかに電信と小切手を通じて行われていました。これらのシステムはすべてインターネットの出現より前のものであり、いずれも到達性、ペース、柔軟性の点で一致していませんでした。支払いカードは従来、オンラインで使用するのが煩雑で安全ではなく、現金は関係なく、ACHは非常に遅い（通常3日間）ため、驚くことではありませんが、リック、ティム・バーナーズ＝リーなどは、初期のインターネットの開発において、ネイティブな支払いシステムが欠けていると考えていました。ここ15年半は、この欠点を解消するためのさまざまな試みが行われてきました。",
@@ -13973,6 +13973,50 @@
   },
   "### 付諸行動": {
     "ja": "### 付諸行動",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp;  Cheques, of course, have familiar disadvantages of being slow to both fill out and in order clear must be sent around.  Beginning in the late nineteenth century, some stores began to issue tokens representing  \"credit accounts\" for regular customers and utopian writers like Edward Bellamy began to imagine a world where all payments could be conducted using one or a few lightweight cards.  In 1928, Charga-Plate, an early predecessor of the credit card, was developed and operated from the 1930s to late 1950s.  It was a 2+1⁄2-by-1+1⁄4-inch (64 mm × 32 mm) rectangle of sheet metal related to Addressograph and military dog tag systems. It sped up back-office bookkeeping and reduced copying errors that were done manually in paper ledgers in each store. ": {
+    "ja": "当然、小切手には書き込むのが遅いというよく知られた欠点があり、クリアするためには送られなければなりません。19世紀後半になると、一部の店舗が定期顧客向けに「信用口座」を表すトークンを発行し始め、エドワード・ベラミーのようなユートピア作家たちは、すべての支払いが1枚または数枚の軽量カードを使用して行われる世界を想像し始めました。1928年には、クレジットカードの初期の前身であるCharga-Plateが開発され、1930年代から1950年代後半まで運用されました。これは、アドレソグラフや軍用犬のタグシステムに関連する、2+1⁄2インチ×1+1⁄4インチ（64mm×32mm）の金属板で、各店舗の紙帳簿で手作業で行われていたバックオフィスの簿記作業を加速し、コピーのエラーを減らしました。",
+    "latest": true
+  },
+  "In 1934 American Airlines offered an Air Travel Card, passengers could \"buy now, and pay later\" for a ticket against their credit and receive a fifteen percent discount at any of the accepting airlines. By the 1940s, all of the major U.S. airlines offered Air Travel Cards that could be used on 17 different airlines.  The concept of customers paying different merchants using the same card was expanded in 1950 by Ralph Schneider and Frank McNamara, founders of Diners Club, to consolidate multiple cards. ": {
+    "ja": "1934年、アメリカン航空は航空旅行カードを提供し、乗客はクレジットに対してチケットを「今買って後で支払う」ことができ、受け入れている航空会社のいずれかで15％の割引を受けることができました。 1940年代には、主要なアメリカの航空会社すべてが17の異なる航空会社で使用できる航空旅行カードを提供していました。 同じカードを使用して異なる商人に支払いをするという概念は、1950年にダイナーズクラブの創設者であるラルフ・シュナイダーとフランク・マクナマラによって拡大され、複数のカードを統合するために使用されました。",
+    "latest": true
+  },
+  "In 1958, Bank of America launched the BankAmericard in Fresno, California, which would become the first successful recognizably modern credit card. Bank of America chose Fresno because 45% of its residents used the bank, and by sending a card to 60,000 Fresno residents at once, the bank was able to convince merchants to accept the card. The BankAmericard system was eventually licensed to other banks around the United States and then around the world. This system was computerized in 1973 under the leadership of Dee Hock, the first CEO of Visa, allowing reduced transaction time. In 1976, all BankAmericard licensees united themselves under the common brand Visa.  ": {
+    "ja": "1958年、Bank of Americaはカリフォルニア州フレズノでBankAmericardを発売しました。これは最初の成功した現代的なクレジットカードとなりました。Bank of Americaはフレズノを選んだ理由は、その住民の45%がこの銀行を利用していたためであり、一度に6万人のフレズノの住民にカードを送ることで、銀行は商人たちをカードの受け入れに説得することができました。BankAmericardシステムは最終的に他の銀行にもライセンスされ、アメリカ全土、そして世界中に広まりました。このシステムは1973年にVisaの初代CEOであるディー・ホックの指導のもとでコンピュータ化され、取引時間が短縮されました。1976年には、すべてのBankAmericardのライセンシーが共通のブランドVisaの下に統合されました。",
+    "latest": true
+  },
+  "Part of what credit card associations (Discover, Visa, MasterCard, AmEx) do is manage complex networks of parties and the agreements (sometimes called trust frameowrks) that hold it all together. These goal is to have  transactions clear quickly between the cardholder, and merchant via the  Card-issuing bank and Acquiring [Merchant's] bank respectively. ": {
+    "ja": "クレジットカード協会（Discover、Visa、MasterCard、AmEx）が行うことの一部は、複雑なパーティーのネットワークとそれを結びつける契約（信頼フレームワークとも呼ばれることがある）を管理することです。これらの目標は、カード会員と商人の間で迅速に取引がクリアされるようにすることです。それぞれ、カード発行銀行と取得（商人の）銀行を介して。",
+    "latest": true
+  },
+  "The magnetic stripe was first deployed on cards in 1970. In 1973, the first electronic transaction authorisation system was created in the United States, linking merchants to the Visa data centre in California. It wasn't until the 1980s that these were widely used in everyday transactions with the difusion of electronic merchant terminals. The next generation of technology on credit cards came in 2004 when in the UK chip and PIN cards were introduced. ": {
+    "ja": "最初の磁気ストライプは1970年にカードに導入されました。 1973年には、アメリカ合衆国で最初の電子トランザクション認証システムが作成され、カリフォルニアのビザデータセンターに商人が接続されました。 電子商取引端末の普及により、1980年代までこれらが日常の取引で広く使用されるようになりました。 クレジットカードの次世代技術は、2004年にイギリスで導入されたチップとPINカードです。",
+    "latest": true
+  },
+  "* TODO DATA ON HOW DOMINANT THEY BECAME AND WHEN. *": {
+    "ja": "* TODO データは、彼らがどれほど支配的になり、いつになったかについてのものです。 *",
+    "latest": true
+  },
+  "Cheques clearing systems began to leverage database and telecommunications networks in the 1970s with the develompent of Automated Clearing Houses (ACHs). These process large volumes of credit and debit transactions between accounts at banks in batches on a net settlement basis. This system supports government payments to people (employees, pensioners) Employer payments to employees, Business to business payments, consumer to bank payments (mortgages) and other such transactions made from one bank account to another. The first ACH, BACS began operation in the UK in 1968, in the US the first one, operated by the Federal Reserve Bank of San Francisco began processing transctions in 1972.  Jurisdictions around the world developed \"automated clearing houses\" (ACHs) for electronic transfers and wires as an alternative to cheques in their own markets by 2012 there ware 98 such systems[^WB]. ": {
+    "ja": "1970年代に、小切手の清算システムはデータベースと通信ネットワークを活用し始め、自動清算所（ACH）の開発が行われました。これらは銀行間での大量のクレジットおよびデビット取引をバッチ処理で行い、ネット決済に基づいています。このシステムは、政府の支払い（従業員、年金受給者）、雇用主から従業員への支払い、企業間の支払い、消費者から銀行への支払い（住宅ローン）など、銀行口座間で行われるさまざまな取引をサポートしています。最初のACHであるBACSは、1968年にイギリスで運用を開始し、米国ではサンフランシスコ連邦準備銀行が運営する最初のACHが1972年に取引処理を開始しました。世界中の管轄区域では、2012年までに自国の市場で小切手の代わりとなる電子送金やワイヤーのための「自動清算所」（ACH）が98のシステム[^WB]に開発されました。",
+    "latest": true
+  },
+  "Banks themselves needed to consider how to transfer money internationally and in 1973 they came together to form, Society for Worldwide Interbank Financial Telecommunication (SWIFT) a co-operative they all own and manage. Swift doesn't actually move money it acts as a carrier of the \"messages containing the payment instructions between financial institutions involved in a transaction\". [^Swift].  By 2018 messages about half of all high-value cross-border payments went through its network. [^Swift2] ": {
+    "ja": "銀行自体も国際的な送金方法を考慮する必要があり、1973年には、彼ら自身が所有および管理する協同組合であるSociety for Worldwide Interbank Financial Telecommunication（SWIFT）を形成するために集まりました。 Swiftは実際にはお金を移動させるのではなく、「取引に関与する金融機関間の支払い指示を含むメッセージ」のキャリアとして機能します。 [^Swift]。 2018年までに、高額の国際送金の約半分のメッセージがそのネットワークを介して行われました。 [^Swift2]",
+    "latest": true
+  },
+  "[^WB]  The International Bank for Reconstruction and Development / The World Bank (5 May 2013). \"Global Payment Systems Survey (GPSS)\". (from wikipdeia = https://en.wikipedia.org/wiki/Automated_clearing_house#cite_note-IBRDGPSS2012-10) ": {
+    "ja": "[^WB] 国際復興開発銀行/世界銀行（2013年5月5日）。 「グローバルペイメントシステム調査（GPSS）」。 （ウィキペディアから= https://en.wikipedia.org/wiki/Automated_clearing_house#cite_note-IBRDGPSS2012-10）",
+    "latest": true
+  },
+  "[^Swift] Scott, Susan V.; Zachariadis, Markos (2014). The Society for Worldwide Interbank Financial Telecommunication (Swift) : cooperative governance for network innovation, standards, and community. New York, NY: Routledge. pp. 1, 35. doi:10.4324/9781315849324. ISBN 978-1-317-90952-1. OCLC 862930816.": {
+    "ja": "[^Swift] Scott, Susan V.; Zachariadis, Markos (2014). 世界的な銀行間金融通信協会（Swift）：ネットワークイノベーション、標準、コミュニティのための協力的なガバナンス。ニューヨーク、NY：Routledge。pp. 1, 35. doi:10.4324/9781315849324. ISBN 978-1-317-90952-1. OCLC 862930816.",
+    "latest": true
+  },
+  "[^Swift2]  Arnold, Martin (6 June 2018). \"Ripple and Swift slug it out over cross-border payments\". Financial Times. Archived from the original on 27 September 2019. Retrieved 28 October 2019.": {
+    "ja": "[^Swift2]  Arnold, Martin (2018年6月6日)。「リップルとスウィフトが国境を越えた支払いで争う」。フィナンシャル・タイムズ。2019年9月27日時点のオリジナルよりアーカイブ。2019年10月28日に参照。",
     "latest": true
   }
 }
