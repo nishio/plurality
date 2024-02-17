@@ -325,7 +325,7 @@
   },
   "| Jacky      |           |                                   | taipeicity.eth@gmail.com       |                    |                  |      |": {
     "ja": "| Jacky      |           |                                   | taipeicity.eth@gmail.com       |                    |                  |      |",
-    "latest": true
+    "latest": false
   },
   "| Audrey     | Tang      | Co-author                         | audreyt@audreyt.org            |                    |                  |      |": {
     "ja": "| Audrey     | Tang      | 共同作者                         | audreyt@audreyt.org            |                    |                  |      |",
@@ -14017,6 +14017,10 @@
   },
   "[^Swift2]  Arnold, Martin (6 June 2018). \"Ripple and Swift slug it out over cross-border payments\". Financial Times. Archived from the original on 27 September 2019. Retrieved 28 October 2019.": {
     "ja": "[^Swift2]  Arnold, Martin (2018年6月6日)。「リップルとスウィフトが国境を越えた支払いで争う」。フィナンシャル・タイムズ。2019年9月27日時点のオリジナルよりアーカイブ。2019年10月28日に参照。",
+    "latest": true
+  },
+  "| Jacky      | Wang      | Contributor Onboarding            | taipeicity.eth@gmail.com       |                    |                  |      |": {
+    "ja": "| Jacky      | Wang      | 貢献者オンボーディング            | taipeicity.eth@gmail.com       |                    |                  |      |",
     "latest": true
   }
 }
