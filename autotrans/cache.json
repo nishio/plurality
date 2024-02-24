@@ -14025,51 +14025,51 @@
   },
   "Throughout this book, we have tried to make the case for a society that honors pluralism, and for technology that promotes and sustains it. If you share that vision, join us in the movement for Plurality. ": {
     "ja": "この本全体を通じて、私たちは多元主義を尊重する社会と、それを促進し維持する技術の重要性を訴えてきました。もしあなたがそのビジョンを共有しているなら、デジタル多元主義の始まりに参加してください。",
-    "latest": true
+    "latest": false
   },
   "We have bold aspirations. By 2030, people around the world should see Taiwan as a guiding light for pluralism, and its flourishing as critical to the West as that of Israel or Ukraine. People will expect their democracy to progress as quickly as their smartphones. “Plurality” will be as recognizable to polities around the globe as the green movement, or AI. ": {
     "ja": "私たちには大きな野望があります。2030年までに、世界中の人々が台湾を多元主義の指針と見なし、その繁栄がイスラエルやウクライナと同じくらい西側にとって重要であると考えるべきです。人々は、自分たちの民主主義がスマートフォンと同じくらい速く進展することを期待するでしょう。世界中の政体にとって、「Plurality（多元性）」は緑の運動やAIと同じくらい認識されるようになるでしょう。",
-    "latest": true
+    "latest": false
   },
   "Technology is the most powerful force in our world today. Whether or not we understand its inner workings, deploy it tentatively or voraciously, or agree with the companies and policymakers that have shaped its development to date, it remains our single greatest lever to shape society going forward. ": {
     "ja": "テクノロジーは今日の世界で最も強力な力です。私たちがその内部機能を理解しているかどうか、それを慎重にまたは熱心に展開しているか、またはこれまでにその発展を形作ってきた企業や政策立案者たちと同意しているかどうかに関わらず、これから先社会を形作るための最も大きなレバーです。",
-    "latest": true
+    "latest": false
   },
   "By “society,” as we have argued throughout this book, we mean not just each of us individually but also the webs of relationships that connect us. Whether you look at it from a scientific, historical, sociological, religious or political point of view, it is increasingly clear that reality is defined not just by who we are, but how we connect. ": {
     "ja": "私たちがこの本全体で主張してきたように、「社会」とは、個々の私たちだけでなく、私たちをつなぐ関係の網も含まれます。科学的、歴史的、社会学的、宗教的、政治的な観点から見ても、私たちがどんな人間であるかだけでなく、どのようにつながっているかによって現実が定義されていることがますます明らかになっています。",
-    "latest": true
+    "latest": false
   },
   "Technology has had a dramatic effect on those connections. From the railroad to the telegraph to the telephone, to Facebook connecting us to old kindergarten friends and new like-minded allies, to Zoom holding businesses and families together during Covid, we have benefited enormously from technology’s capacity to forge and strengthen human connection. ": {
     "ja": "テクノロジーは、これらのつながりに劇的な影響を与えてきました。鉄道から電信、電話、Facebookによる古い幼稚園の友達や新しい志を同じくする同盟者とのつながり、そしてZoomによるCovid中のビジネスや家族の結びつきを保つことまで、テクノロジーが人間のつながりを築き強化する能力からは莫大な恩恵を受けています。",
-    "latest": true
+    "latest": false
   },
   "At the same time, technology has also clearly driven us apart. Business models based on a fight for attention have prioritized outrage over curiosity, echo chambers over shared understanding, and practically unfettered mis- and disinformation. As AI proliferates through our economy and our lives, it promises to radically increase technology’s effects, good and bad.": {
     "ja": "同時に、技術は私たちを明らかに引き離してもいます。注意を引くためのビジネスモデルは、好奇心よりも憤りを優先し、共通の理解よりもエコーシャンバーを重視し、実質的に制約のない誤情報とディスインフォメーションを優先しています。 AIが私たちの経済や生活を通じて普及する中、それは技術の影響を劇的に増加させることを約束しています、良い面も悪い面も。",
-    "latest": true
+    "latest": false
   },
   "We now stand at a crossroads. Whether technology will steer us closer together or further apart will define the next phase of human experience. For the moment—but not for much longer—the choice of which way we go is up to us. ": {
     "ja": "我々は今、分かれ道に立っています。技術が私たちをより近づけるか、それとも遠ざけるかは、人類の次の段階を定義するでしょう。この瞬間には、しかし、どちらの道を選ぶかは私たち次第です。",
-    "latest": true
+    "latest": false
   },
   "Some have cast the question of technology’s future as a fight between accelerationism and decelerationism. The governance implosion at OpenAI in late 2023 popularized this frame, putting CEO Sam Altman in the first camp and his erstwhile nonprofit board in the second. In our view, however, this distinction is moot: decelerationism can’t win. ": {
     "ja": "技術の未来に関する問題を加速主義と減速主義の間の闘いとして捉える人もいる。2023年末のOpenAIでのガバナンスの崩壊がこの枠組みを一般化し、CEOのSam Altmanを最初の陣営に、かつての非営利団体の理事会を後者に位置づけた。しかし、私たちの見解では、この区別は無意味である：減速主義は勝てない。",
-    "latest": true
+    "latest": false
   },
   "Instead, as we argued earlier in this book, there are two looming accelerationist scenarios, each with its own advocates: entrepreneurial sovereignty and abundance technocracy. The first camp, including executives and investors like Peter Thiel and Balaji Srinavasan, wants to “liberate” individuals to be wholly atomistic agents – free of constraint, conscience, or responsibility. The second, including Reid Hoffman and Sam Altman, believes that unfettered technological advance can solve humanity’s problems, and that they have the wisdom to decide how it will do so. ": {
     "ja": "代わりに、この本で先に述べたように、2つの加速主義シナリオが迫っています。それぞれに支持者がいます：起業家主権と豊かさ技術主義。ピーター・ティールやバラジ・スリナバサンなどの経営者や投資家を含む最初の陣営は、個人を完全に原子的なエージェントとして「解放」したいと考えています - 制約、良心、責任から自由な状態にしたいと考えています。2番目の陣営には、リード・ホフマンやサム・アルトマンなどが含まれ、技術の進歩が人類の問題を解決できると信じており、それがどのようにして解決されるかを決定する知恵を持っていると考えています。",
-    "latest": true
+    "latest": false
   },
   "Given a choice between these alternatives, the urgent, passionate answer of this book is: neither. We pluralists believe that most human beings are neither atomized individuals without shared responsibilities nor subjects without a claim to agency. On the whole, human beings are both individuals and social beings, desirous of full lives and capable of sustained peace. But to achieve those goals we need our surrounding systems—the political _and_ the technological ones—to give us both agency and responsibility. And we certainly need the most powerful tools at our disposal to help us find ways to get along, even if not to agree. That is the aspiration and the imperative of Plurality. ": {
     "ja": "これらの選択肢の中で、この本の緊急で情熱的な答えは、どちらでもありません。私たち多元主義者は、ほとんどの人間が共有された責任を持たない原子化された個人でもなく、権利を主張する主体でもないと信じています。全体として、人間は個人であり社会的存在であり、充実した生活を望み、持続可能な平和を実現する能力を持っています。しかし、これらの目標を達成するためには、政治的なシステムと技術的なシステムの両方が私たちに権限と責任を与えてくれる必要があります。そして、合意に達することができなくても、うまくやっていく方法を見つけるために、私たちの手元にある最も強力なツールが必要です。それが多元主義の志向であり、必然性です。",
-    "latest": true
+    "latest": false
   },
   "Plurality is the third way beyond libertarianism and technocracy. It is a movement we have perhaps three to five years to set in motion. Within that time frame, a critical mass of the technology that people and companies use every day will have become deeply dependent on AI models. At that point, we won’t be able to reverse the “reality” that entrepreneurial sovereignty and abundance technocracy have generated for us. But between now and then, we can mobilize to re-chart the course: toward a human-centered, relationship-embracing, digital democracy in which diverse groups of people, despite not agreeing, are able to cooperate and collaborate in sustained and thriving societies.  ": {
     "ja": "プララリティは、リバタリアニズムとテクノクラシーを超えた第三の方法です。おそらく3〜5年以内に始動させる必要がある運動です。その時間枠内で、人々や企業が日常的に使用する技術の多くがAIモデルに深く依存するようになります。その時点で、起業家の主権と豊かさのテクノクラシーが私たちのために生み出した「現実」を逆転することはできません。しかし、今とその時点の間に、私たちはコースを再設定するために動員することができます：多様なグループの人々が、意見が一致しなくても、持続的で繁栄する社会で協力し、共同作業することができる、人間中心で関係を重視するデジタル民主主義に向かって。",
-    "latest": true
+    "latest": false
   },
   "Such a pivot will take a whole-of-society mobilization. Businesses, governments, universities, and civil society organizations must demand that our technology deepen our connections across our many forms of social diversity. That is the key, and the only path, to strengthening human stability, prosperity, and flourishing into the future. ": {
     "ja": "こうした転換は、全社会的な動員を必要とします。企業、政府、大学、市民社会組織は、私たちの技術が社会の多様性のさまざまな形態を横断するつながりを深めることを要求しなければなりません。それが、人間の安定、繁栄、そして将来に向けて繁栄を強化するための鍵であり、唯一の道です。",
-    "latest": true
+    "latest": false
   },
   "As we described in “The Lost Dao,” this vision could have been the dominant ethos of the Internet. Founders and pioneers like JCR Licklider at ARPA and Robert W. Taylor at Xerox imagined replacing the world’s centralized, linear, and atomized structures with more federated, networked relationships and governance. Instead, the tech giants we know today, along with players like Cisco, AOL, PayPal, and others, defined the emerging building blocks of the Internet completely. From networking to storage and computation to identity to user interface to payments and more, the form of the Internet reflects private incentives rather public values.": {
     "ja": "私たちが「失われた道」で説明したように、このビジョンはインターネットの支配的な倫理観になるかもしれませんでした。ARPAのJCRリックライダーやゼロックスのロバート・W・テイラーなどの創設者や先駆者は、世界の中央集権的で直線的で原子化された構造をより連邦化された、ネットワーク化された関係とガバナンスに置き換えることを想像していました。しかし、今日知られているテックジャイアントやシスコ、AOL、PayPalなどのプレイヤーたちが、インターネットの新興の構築要素を完全に定義しました。ネットワーキングからストレージ、計算、アイデンティティ、ユーザーインターフェース、支払いなど、インターネットの形態は公共の価値ではなく、私的なインセンティブを反映しています。",
@@ -14353,7 +14353,7 @@
   },
   "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/farmer.png\" width=\"100%\" alt=\"Indian farmers looking at a mobile phone\">": {
     "ja": "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/farmer.png\" width=\"100%\" alt=\"インドの農民が携帯電話を見ています\">",
-    "latest": true
+    "latest": false
   },
   "Courtesy of Microsoft": {
     "ja": "マイクロソフトのご厚意",
@@ -14521,6 +14521,58 @@
   },
   "&nbsp;&nbsp;&nbsp;&nbsp; Luckily, some of the technologies we highlight in other chapters of this section have the potential to at least partially address some of these harms.  While GFMs logic is hopelessly opaque when we try to reduce it to the simplistic representations of mathematics, richer formats like immersive shared reality or post-symbolic communication may give access to deeper modes of connection and understanding that aid in the establishment of the trust in human communities that enables the use of richer discretion.  Many of the methods of collective deliberation and decision-making we highlighted in the previous chapter and further explore in the next have natural applications to defining legitimate distributions of power that can directly shape the governance of GFMs, the distriubtion of the economic value they create and the ways they are collectively steered to behave in line with public wills.  Grounded in the legitimacy such practices can provided and explored through richer interaction modes, these and other digital systems hold significant promise of overcoming the simultaneously cold and arbitrary nature of the world of systems that has been the price of modernity.": {
     "ja": "幸いなことに、このセクションの他の章で強調されているいくつかの技術は、これらの害を少なくとも部分的に解決する可能性があります。 GFMsの論理は、数学の単純化された表現に還元しようとすると希望がなく、より豊かな形式の没入型共有現実やポストシンボリックコミュニケーションのようなものは、より深い接続と理解のモードへのアクセスを提供し、人間の信頼を確立するのに役立ちます。これにより、豊かな裁量の使用を可能にする人間コミュニティにおける信頼の構築を支援します。前の章で強調した集団的審議と意思決定の多くの方法は、権力の合法的な配分を定義するために自然な応用があり、これによりGFMsの統治、彼らが創造する経済価値の分配、および公共の意志に沿って行動するように集団的に誘導される方法を直接的に形作ることができます。これらの実践が提供する正当性に基づき、より豊かなインタラクションモードを通じて探求されたこれらおよび他のデジタルシステムは、現代性の代償となってきたシステムの世界の同時に冷たく恣意的な性質を克服するという重要な約束を持っています。",
+    "latest": true
+  },
+  "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/farmer.jpg\" width=\"100%\" alt=\"Indian farmers looking at a mobile phone\">": {
+    "ja": "<img src=\"https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/farmer.jpg\" width=\"100%\" alt=\"インドの農民が携帯電話を見ています\">",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; This book describes a vision for the future of technology and society that we hope is ambitious and serious enough to be real competitor to, but will be more attractive to most readers than, that developed by libertarians and technocrats.  If we are right and you share that vision, join us in the movement for ⿻.": {
+    "ja": "この本は、私たちが自由主義者や技術主義者によって開発されたものよりも魅力的でありながら、野心的で真剣な技術と社会の未来に向けたビジョンを描いています。 もしこのビジョンを共有しているのであれば、⿻のための運動に参加してください。",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Our concrete aspirations match our ambitious vision. By 2030, ⿻ will be as recognizable to people around the globe as a direction for technology as AI or blockchain are and as recognizable as a political movement as the Green movement.  People will expect their democracy to progress as rapidly as their devices. They will see Taiwan as a guiding light and symbol for ⿻ and thus as important to the thriving of ⿻ as Israel is for the Jewish people or as Ukraine is for freedom in Europe.  People around the world will find surprising allies and heroes through ⿻, like those concerned about authoritarian expansionism coming to  admire a transgender Taiwanese leader on the front lines of that conflict and those seeking more ⿻ technology finding allies among the devout.": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;私たちの具体的な志向は、野心的なビジョンと一致しています。2030年までに、多元技術（Plurality）がAIやブロックチェーンのような技術の方向性として、そして緑の運動のような政治運動と同様に、世界中の人々に認識されるようになるでしょう。人々は、自分たちのデバイスが進化する速さと同じくらい、民主主義も進化することを期待するようになるでしょう。彼らは台湾を⿻の指針と象徴と見なし、イスラエルがユダヤ人にとって、ウクライナがヨーロッパの自由にとって重要であるように、⿻の繁栄にとって重要な存在として見なすでしょう。世界中の人々は、⿻を通じて驚くべき同盟者や英雄を見つけるでしょう。たとえば、独裁的な拡大主義に懸念を抱く人々が、その紛争の最前線で活躍するトランスジェンダーの台湾のリーダーを尊敬するようになったり、より多元技術を求める人々が信仰深い者たちの中で同盟者を見つけるようになったりするでしょう。",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Technology is the most powerful force transforming our world. Whether or not we understand its inner workings, deploy it tentatively or voraciously, or agree with the companies and policymakers that have shaped its development to date, it remains our single greatest lever to shape our collective future. ": {
+    "ja": "テクノロジーは、私たちの世界を変革する最も強力な力です。その内部機能を理解しているかどうか、それを慎重にまたは熱心に展開しているか、またはこれまでにその発展を形作ってきた企業や政策立案者と同意しているかどうかに関係なく、それは私たちの集団的な未来を形作るための最も大きなレバーです。",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; That collective is not simply a group of individuals but a fabric of relationships. Whether you look at it from a scientific, historical, sociological, religious or political point of view, it is increasingly clear that reality is defined not just by who we are, but how we connect. ": {
+    "ja": "&nbsp;&nbsp;&nbsp;&nbsp;その集団は単なる個人の集まりではなく、関係の織物です。科学的、歴史的、社会学的、宗教的、政治的な観点から見ても、私たちが誰であるかだけでなく、どのようにつながっているかによって現実が定義されていることがますます明らかになっています。",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Technology drives and defines those connections. From the railroad to the telegraph to the telephone, to social media connecting us to old kindergarten friends and new like-minded allies, to teleconferencing holding businesses and families together during Covid, we have benefited enormously from technology’s capacity to forge and strengthen human connection while honoring our differences. ": {
+    "ja": "テクノロジーはそれらのつながりを駆動し定義します。鉄道から電信、電話、ソーシャルメディアによる古い幼稚園の友達や新しい志を同じくする同盟者とのつながり、そして新型コロナウイルスの間にビジネスや家族をつなぎとめるテレビ会議など、私たちはテクノロジーが人間のつながりを築き強化する能力から大きな恩恵を受けています。その際に私たちの違いを尊重しながら。",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Yet, technology has also clearly driven us apart and suppress our differences. Business models based on a fight for attention have prioritized outrage over curiosity, echo chambers over shared understanding, and practically unfettered mis- and disinformation. The rapid spread of information online, out of context and against our privacy expectations, has too often eroded our communities, driven out our cultural heritage and created a global monoculture As a new generation of technologies including GFMs and augmented reality  spreads through our lives, it promises to radically increase technology’s effects, good and bad.": {
+    "ja": "しかし、技術は私たちを分断し、違いを抑圧することも明らかにしています。注意を引くための戦いに基づくビジネスモデルは、好奇心よりも憤りを優先し、共有理解よりもエコーシャンバーを重視し、実質的に規制されていない誤情報やディスインフォメーションを優先しています。オンラインで情報が急速に拡散され、文脈から外れ、プライバシーの期待に反していることが多すぎるため、私たちのコミュニティがしばしば浸食され、文化遺産が追い出され、グローバルな単一文化が生まれています。GFMsや拡張現実などの新世代の技術が私たちの生活に広がる中、それは技術の効果、良い面と悪い面を根本的に増大させることを約束しています。",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Thus we stand at a crossroads. Technology could drive us apart, sowing chaos and conflict that bring down social order.  It could suppress the human diversity that is its lifeblood, homogenizing us in a singular technical vision.  Or it could dramatically enrich our diversity while strengthening the ties across it, harnessing and sustaining the potential energy of ⿻.": {
+    "ja": "したがって、私たちは分かれ道に立っています。技術は私たちを引き裂く可能性があり、社会秩序を崩壊させる混乱と対立を引き起こすかもしれません。技術は、その生命線である人間の多様性を抑圧し、単一の技術ビジョンで私たちを均質化する可能性があります。あるいは、私たちの多様性を劇的に豊かにし、その間の結びつきを強化しながら、潜在的なエネルギーを利用し続けることができるかもしれません。",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Some would seek to avoid this choice by slamming on the breaks, decelerating technological progress. Yet, while of course some directions are unwise and there are limits to how rapidly we should proceed into the unknown, the dynamics of competition and geopolitics makes simply slowing progress unlikely to be sustainable.  Instead, we face a choice of directions more than velocity.": {
+    "ja": "一部の人々は、この選択肢を避けるためにブレーキをかけて技術の進歩を減速させようとするかもしれません。もちろん、ある方向性は賢明でなく、未知の領域に急速に進むべき限界もありますが、競争と地政学のダイナミクスは単に進歩を遅らせることが持続可能であるとは考えにくい状況を作り出しています。代わりに、私たちは速度よりも方向性の選択を直面しています。",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Should we, as libertarians like Peter Thiel, Marc Andreesen and Balaji Srinavasan would have us do, liberate individuals to be atomistic agents, free of constraints or responsibilities?  Should we, as technocrats like Sam Altman and Reid Hoffman would have us do, allow technologists to solve our problems, plan our future and distribute to us the material comfort it creates?  ": {
+    "ja": "リバタリアンのようなピーター・ティール、マーク・アンドリーセン、バラジ・スリナバサンのように、制約や責任から解放された原子的なエージェントとして個人を解放すべきでしょうか？ サム・アルトマンやリード・ホフマンのような技術主義者のように、技術者に問題を解決し、将来を計画し、それが創造する物質的な快適さを私たちに分配させるべきでしょうか？",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; We say, loudly and clearly, neither!  Both chaos and top-down order are the antitheses not just of democracy and freedom, but of all life, complexity and beauty in human society and nature.  Life and ⿻ thrive in the narrow corridor on the \"edge of chaos\".  For life on this planet to survive and thrive, it must be the central mission of technology and politics to widen this corridor, to steer us constantly back towards that edge of chaos where growth and ⿻ are possible. That is the aspiration and the imperative of ⿻. ": {
+    "ja": "私たちは、はっきりと、どちらもではありません！カオスとトップダウンの秩序は、民主主義や自由だけでなく、人間社会や自然のすべての生命、複雑さ、美しさの反対です。生命と繁栄は、「カオスの縁」の狭い回廊で育ちます。この惑星上の生命が生き残り、繁栄するためには、技術と政治の中心的使命は、この回廊を広げ、成長と繁栄が可能な「カオスの縁」に常に戻るように導くことであるべきです。それが多元主義者の考え方の志向であり、必然です。",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp;  ⿻ is thus the third way beyond libertarianism and technocracy, just as the life is the third way beyond rigid order and chaos. It is a movement we have perhaps three to five years to set in motion. Within that time frame, a critical mass of the technology that people and companies use every day will have become deeply dependent on \"AI\" and \"the metaverse\". At that point, we won’t be able to reverse the *fait accompli* that technocracy and libertarianism have generated for us. But between now and then, we can mobilize to re-chart the course: toward a human-centered, relationship-embracing, digital democracy in which diverse groups of people, precisely because they do not agree, are able to cooperate and collaborate to constantly push our imaginations and aspirations forward.": {
+    "ja": "⿻は、リバタリアニズムとテクノクラシーを超えた第三の方法であり、生活は厳格な秩序と混沌を超えた第三の方法です。これは、おそらく3〜5年以内に始動させる必要がある運動です。その時間枠内で、人々や企業が日常的に使用する技術の臨界量が、「AI」と「メタバース」に深く依存するようになります。その時点で、テクノクラシーとリバタリアニズムが私たちにもたらした既成事実を逆転することはできなくなります。しかし、今とその時の間に、私たちはコースを再設定するために動員し、多様なグループの人々が協力し、協力して、想像力と志向を常に前進させることができる、人間中心の、関係を重視する、デジタル民主主義に向かって進むことができます。",
+    "latest": true
+  },
+  "&nbsp;&nbsp;&nbsp;&nbsp; Such a pivot will take a whole-of-society mobilization. Businesses, governments, universities, and civil society organizations must demand that our technology deepen our connections across our many forms of social diversity. That is the key, and the only path, to strengthening human stability, prosperity, and flourishing into the future. ": {
+    "ja": "こうした転換は、全社会的な総力戦を必要とします。企業、政府、大学、市民社会組織は、私たちの技術が私たちの多様な社会的側面を横断してつながりを深めることを要求しなければなりません。それが、人間の安定、繁栄、そして将来に向けての唯一の鍵です。",
     "latest": true
   }
 }

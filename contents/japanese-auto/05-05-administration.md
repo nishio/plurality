@@ -4,7 +4,7 @@
 
 このデモンストレーションは、AI4Bharat、Karya、IVRジャンクションを含む数年にわたる作業とマルチステークホルダーとの協力に基づいて構築されました。これらの取り組みでは、インド人を雇用して地方言語のデータを収集し、これらのデータを活用してLLM（低リテラシーの人々）がこれらの言語間で翻訳することができるようにし、都市から遠く離れた場所に住む識字能力のないインド人が「音声ベースのインターネット」に接続できるようにしました。これらは、インドの文化的多様性を維持し強化するという約束を持っており、より目立たない言語を話し、都市から遠く離れた場所に住む人々が、彼らの生活様式を維持するために必要な公共サービスにアクセスできるようにしています。
 
-<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/farmer.png" width="100%" alt="インドの農民が携帯電話を見ています">
+<img src="https://raw.githubusercontent.com/pluralitybook/plurality/main/figs/farmer.jpg" width="100%" alt="インドの農民が携帯電話を見ています">
 マイクロソフトのご厚意
 
 
