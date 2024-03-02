@@ -1,3 +1,5 @@
+window.prefix = { input1: "", input2: "", input3: "" }; // dirty hack
+
 function pickLines(id) {
   const input = document.getElementById(id);
   const output = document.getElementById("output");
@@ -15,7 +17,7 @@ function pickLines(id) {
 
     // Update the input and output textareas
     input.value = lines.join("\n");
-    output.value += firstLine + "\n";
+    output.value += prefix[id] + firstLine + "\n";
     scrollBottom();
   }
 }
