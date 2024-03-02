@@ -1,22 +1,8 @@
 情報技術と民主主義：広がる溝
 
-<center>
-<i>
-「西洋のテクノロジーのチャンピオンであるアメリカ合衆国は、自己鞭打ちをすることを決めました - 両政党とその選出された代表者は、できる限りの方法でアメリカのテクノロジー産業を攻撃しています。」
+「西洋のテクノロジーのチャンピオンであるアメリカ合衆国は、自己鞭打ちをすることを決めました - 両政党とその選出された代表者は、できる限りの方法でアメリカのテクノロジー産業を徹底的に攻撃しています。」- マーク・アンドリーセン、ノア・スミスとのインタビュー、2021年
 
-<br>
-
-<center>マーク・アンドリーセン、ノア・スミスとのインタビュー、2021年</center>
-
-<br>
-<center>
-<i>
-「技術は民主主義の力になるかもしれませんが、それはそれにとって同じくらいの脅威をもたらすことがわかりました。」</i>
-
-ショシャナ・ズボフ、監視資本主義の時代、2018年
-</center>
-</center>
-
+「テクノロジーは民主主義の力になるかもしれませんが、それは同じくらいの脅威をもたらすことがわかりました。」- ショシャナ・ズボフ、『監視資本主義の時代』、2018年
 
 技術と地政学に対する不安は、今日では広範囲に存在しています。しかし、技術の優位を巡る大国間の対立よりも、より基本的な対立が進行中です。さらに、技術と民主主義というシステムが進んできた道筋によって、両者は対立し、その結果として両側に犠牲者が出ています。
 
@@ -254,30 +240,4 @@ https://ec.europa.eu/eurostat/statistics-explained/index.php?title=R%26D_expendi
 [^GallupInstitutionConfidence]: [ギャラップ機関信頼度](https://news.gallup.com/poll/1597/confidence-institutions.aspx)
 [^TrustInPublicInstitutions]: https://www.un.org/development/desa/dspd/2021/07/trust-public-institutions/ および Kolczynska、Bürkner、Kennedy、Vehtari
 [^RussianDigitalControl]: ロイター、「フェイスコントロール：ロシアの警察がデジタル技術を使って抗議者に対抗」、https://www.reuters.com/article/us-russia-politics-navalny-tech-idUSKBN2AB1U2 参照。また、https://www.rferl.org/a/russia-dissent-cctv-detentions-days-later-strategy/31227889.html を参照してください。
-[^RussianDraftEvaders]: ヒューマン・ライツ・ウォッチ、「ロシアは顔認識を使って徴兵逃れ者を追い詰める」
-「ロシアは顔認識技術を使って徴兵逃れ者を追い詰める」というニュースは、https://www.hrw.org/news/2022/10/26/russia-uses-facial-recognition-hunt-down-draft-evaders で入手できます。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[^RussianDraftEvaders]: ヒューマン・ライツ・ウォッチ、「ロシアは顔認識技術を使って徴兵逃れ者を追い詰める」と報告、https://www.hrw.org/news/2022/10/26/russia-uses-facial-recognition-hunt-down-draft-evaders
