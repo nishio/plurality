@@ -1,9 +1,9 @@
-name: Daily Repository Update
+name: Translation Update
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 22 * * *'  # JST 7:00
+  #schedule:
+  #  - cron: '0 22 * * *'  # JST 7:00
 
 env:
   OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
