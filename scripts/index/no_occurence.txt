@@ -1,10 +1,10 @@
 Keywords	Sections
+Acemoglu, Daron	2-0
 AlphaGo Zero	5-3
 Blockchain-centric Identity Systems	4-1
 Co-edited Project	5-3
 Collective Response Model	5-4
-Common Carriers of Public Discussion	6-3
-Community Notes (CN)　	5-4
+Community Notes　	5-4
 Computer-simulated Neuron	5-5
 Cross-Cultural Exchanges	5-2
 Cross-cutting Benefit	6-1
@@ -14,9 +14,6 @@ De Tocqueville, Alexis	4-2
 Decentralized Social Networking Protocol (DSNP)	4-2
 Digital-native currencies	4-0
 Distributed Ledger Technology (DLT)	4-2
-Economies Esteem	5-7
-Edward Deming	2-1
-Edward Snowden	4-2
 Einstein's Theories Of Relativity	3-1
 For-profit Industry	7-0
 Georgist land value tax	2-1
@@ -25,6 +22,8 @@ Gödel's Theorem	3-1
 Hu Shih	2-1
 Indigeneous Community	6-2
 Intersectional Identity	3-2
+Jefferson, Thomas	2-0
+Jobs, Steve	6-1
 Kao Chia-liang	2-2
 Know Your Customer	4-1
 LLM-based Representative	5-4
@@ -32,10 +31,11 @@ Left-right Divide	5-4
 Licenses For Use	4-1
 Life-support System	6-4
 Moore's Law	4-4
-Nation state	3-3
+Nation State	3-3
 National Socialist German Workers party	4-0
 Nixon's visit to PRC	2-1
 Non-colonialist Model	6-2
+Non-fungible Tokens (NFTs)	4-4
 Non-profit ⿻ Infrastructure	7-0
 On the Internet, Nobody Knows You're A Dog	4-1
 Online collaboration platform	5-3
@@ -51,21 +51,19 @@ Post-gender	2-0
 Private Community-based Sponsorship	5-7
 Public Good	6-2
 Real-time Auction	4-4
-Remote Shared Reality Technologie	6-1
 Robert Atkinson	2-0
 Robinson, James	2-0
-Saudia Arabia	2-0
 Self-ownership	5-7
-Social Dynamics	3-2
+Simon, Herbert	4-2
+Snowden, Edward	4-2
 Taiwan's Digital Civic Infrastructure	2-2
 The Emperor's New Clothes	4-2
 UNDP	6-2
 Uniform Resource Locator (URL)	4-4
+Union of Japanese Scientists and Engineers (JUSE)	2-1
 United States	5-5
 WEIRD societies	3-3
 Weighted-voting	5-6
 White Collar	6-1
-co-creation relationship	6-4
 modernity	3-3
-non-fungible tokens (NFTs)	4-4
 web of group-affiliation	3-2

@@ -1,5 +1,26 @@
-# Making Indexes
+# Index Creation Project
 
+## Reflection on the Index Creation Project (2024-04-20)
+
+The index creation project for the first English edition of the book was conducted from February to April 2024. Thanks to the participation of many community members, we were able to complete the index through a collaborative process. Here, we look back on the process and record it.
+
+#### Process Overview
+- Community members created a list of candidate keywords for the index from the Markdown manuscript (those data are collected using [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1gmyjFbErt_CW8-qLKChSpciLlCDGUhLriYFov0HO3qA/edit#gid=0))
+- Developed a Python script to confirm the occurrences of the keywords in the manuscript
+- Developed a Python script to extract the locations (page numbers) of keyword occurrences from the English edition PDF
+- Verification and refinement of the index data (discussion on Discord and real-time sharing on Spreadsheet)
+- Utilization of LLM (Claude) for index review and improvement
+
+#### Main Milestones
+- 2024-02-28: Started soliciting index keywords
+- 2024-03-21: Discussion on index creation
+- 2024-03-24: Developed keyword occurrence confirmation script, index improvement work
+- 2024-04-06: Developed keyword extraction script from the English edition PDF
+- 2024-04-11: Index review by the community
+
+#### Related Resources
+- Keyword occurrence confirmation script: https://github.com/pluralitybook/plurality/tree/main/scripts/index
+- Issue for discussion: https://github.com/pluralitybook/plurality/issues/418
 
 
 ## third phase (4/12~)
@@ -21,7 +42,7 @@ As insights from Phase 2 design, initially, I thought that there might be differ
 
 
 ## second phase (4/9~)
-- `in.pdf`: input PDF, currently I used the latest PDF from Sharepoint 4/10 11:30 JST (in previous version it was `release/latest` on 4/9 14:42 JST)
+- `in.pdf`: Input PDF, not in repository. currently I used the latest PDF from Sharepoint 4/10 11:30 JST (in previous version it was `release/latest` on 4/9 14:42 JST)
 - `from_pdf.py`: read PDF `in.pdf` and output JSON `book.json`
 - `main.py`: output keywords to page numbers into `keyword_occurrence.tsv`
 - `index_with_claude.tsv`: merge Claude 3 Opus output and `keyword_occurrence.tsv`

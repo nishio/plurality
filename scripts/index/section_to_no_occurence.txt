@@ -1,15 +1,16 @@
 ### 2-0
+- Acemoglu, Daron
+- Jefferson, Thomas
 - Post-gender
 - Robert Atkinson
 - Robinson, James
-- Saudia Arabia
 
 ### 2-1
-- Edward Deming
 - Georgist land value tax
 - Global Anti-colonial Movement
 - Hu Shih
 - Nixon's visit to PRC
+- Union of Japanese Scientists and Engineers (JUSE)
 
 ### 2-2
 - Kao Chia-liang
@@ -21,11 +22,10 @@
 
 ### 3-2
 - Intersectional Identity
-- Social Dynamics
 - web of group-affiliation
 
 ### 3-3
-- Nation state
+- Nation State
 - WEIRD societies
 - modernity
 
@@ -43,15 +43,16 @@
 - De Tocqueville, Alexis
 - Decentralized Social Networking Protocol (DSNP)
 - Distributed Ledger Technology (DLT)
-- Edward Snowden
 - Over-shared information
+- Simon, Herbert
+- Snowden, Edward
 - The Emperor's New Clothes
 
 ### 4-4
 - Moore's Law
+- Non-fungible Tokens (NFTs)
 - Real-time Auction
 - Uniform Resource Locator (URL)
-- non-fungible tokens (NFTs)
 
 ### 4-5
 - Dao
@@ -66,7 +67,7 @@
 
 ### 5-4
 - Collective Response Model
-- Community Notes (CN)　
+- Community Notes　
 - LLM-based Representative
 - Left-right Divide
 
@@ -78,14 +79,13 @@
 - Weighted-voting
 
 ### 5-7
-- Economies Esteem
 - Private Community-based Sponsorship
 - Self-ownership
 
 ### 6-1
 - Cross-cutting Benefit
 - Cross-pollination Service
-- Remote Shared Reality Technologie
+- Jobs, Steve
 - White Collar
 
 ### 6-2
@@ -95,13 +95,11 @@
 - UNDP
 
 ### 6-3
-- Common Carriers of Public Discussion
 - Open Source Intelligence
 
 ### 6-4
 - Life-support System
 - Paul Jozef Crutzen
-- co-creation relationship
 
 ### 7-0
 - For-profit Industry
