@@ -75,6 +75,28 @@ def remove_quotation(s):
     return s
 
 
+def filter_repeated_pages(pages):
+    occ = []
+    prev = -999
+    for p in sorted(pages):
+        if p != prev + 1 and p != prev + 2:  # ignore continuous pages (see README)
+            occ.append(p)
+        prev = p
+    return occ
+
+
+def filter_pages(pages):
+    """
+    Filter pages which are not in the section which human specified.
+    """
+    mask = [0] * (LAST_PAGE + 1)
+    for section in keyword_recorded_by_human[k]:
+        for p in range(SECTION_START[section], SECTION_END[section]):
+            mask[p] = 1
+
+    return list(filter(lambda x: mask[x], pages))
+
+
 CSV_FILE = "Plurality Book Indexing Exercise - Candidates.csv"
 # This will get the absolute path of the current script file.
 script_directory = os.path.dirname(os.path.abspath(__file__))
@@ -122,18 +144,6 @@ for k, vs in index_text_mapping.items():
 keywords.union(reverse_index_text_mapping)
 
 
-def filter_pages(pages):
-    """
-    Filter pages which are not in the section which human specified.
-    """
-    mask = [0] * (LAST_PAGE + 1)
-    for section in keyword_recorded_by_human[k]:
-        for p in range(SECTION_START[section], SECTION_END[section]):
-            mask[p] = 1
-
-    return list(filter(lambda x: mask[x], pages))
-
-
 # find keyword occurence in other sections
 keyword_occurence = defaultdict(list)
 section_occurence = defaultdict(int)
@@ -164,8 +174,12 @@ for k in keywords:
                     section_occurence[p] += 1
                     continue
 
+    # print(k, keyword_occurence[k])
+    # keyword_occurence[k] = filter_repeated_pages(keyword_occurence[k])
+    # print("filtered repeated pages:", keyword_occurence[k])
     if len(keyword_occurence[k]) > 5:
         keyword_occurence[k] = filter_pages(keyword_occurence[k])
+    # print("filtered pages with human specified sections:", keyword_occurence[k])
 
 section_to_no_occurence = defaultdict(list)
 with open(os.path.join(script_directory, "no_occurence.txt"), "w") as warn_no_occurence:
@@ -220,14 +234,10 @@ for k in keyword_occurence:
         k = "  " + k
     index_items[k].update(occ)
 
+
 with open(os.path.join(script_directory, "index.txt"), "w") as f:
     for k in sorted(index_items, key=lambda x: (x.lower(), x)):
-        occ = []
-        prev = -999
-        for p in sorted(index_items[k]):
-            if p != prev + 1 and p != prev + 2:  # ignore continuous pages (see README)
-                occ.append(p)
-            prev = p
+        occ = filter_repeated_pages(index_items[k])
         occ_str = ", ".join(str(p) for p in occ)
         k = k.strip()
         print(f"{k}\t{occ_str}", file=f)
